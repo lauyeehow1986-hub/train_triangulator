@@ -18,7 +18,7 @@
         "street": "YISHUN STREET 44",
         "lat": 1.428969,
         "lng": 103.85132,
-        "units_est": 83,
+        "units_est": 167,
         "floors": 14,
         "nearest_tri_id": "SL-04",
         "nearest_tri_station": "Simpang South / Yishun Ave 1",
@@ -33,40 +33,6 @@
         "subzone": "SIMPANG SOUTH",
         "official_address": "478A YISHUN STREET 44 VALLEY SPRING @ YISHUN SINGAPORE 761478",
         "building_name": "VALLEY SPRING @ YISHUN"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.853085,
-          1.428179
-        ]
-      },
-      "properties": {
-        "category": "HDB",
-        "postal_code": "760476",
-        "name": "Blk 476",
-        "blk_no": "476",
-        "street": "YISHUN STREET 44",
-        "lat": 1.428179,
-        "lng": 103.853085,
-        "units_est": 63,
-        "floors": 15,
-        "nearest_tri_id": "SL-04",
-        "nearest_tri_station": "Simpang South / Yishun Ave 1",
-        "corridor": "Seletar Line (Study Corridor)",
-        "dist_tri_m": 174,
-        "dist_existing_mrt_m": 2009,
-        "rail_gap_saved_m": 1836,
-        "station_posterior_pct": 96.0,
-        "est_mrt_alpha_pct": 16.79,
-        "benefit_score": 98.2,
-        "planning_area": "SIMPANG",
-        "subzone": "SIMPANG SOUTH",
-        "official_address": "476 YISHUN STREET 44 MELODY SPRING@ YISHUN SINGAPORE 760476",
-        "building_name": "MELODY SPRING@ YISHUN"
       }
     },
     {
@@ -108,40 +74,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.852264,
-          1.428388
-        ]
-      },
-      "properties": {
-        "category": "HDB",
-        "postal_code": "760477",
-        "name": "Blk 477",
-        "blk_no": "477",
-        "street": "YISHUN STREET 44",
-        "lat": 1.428388,
-        "lng": 103.852264,
-        "units_est": 61,
-        "floors": 15,
-        "nearest_tri_id": "SL-04",
-        "nearest_tri_station": "Simpang South / Yishun Ave 1",
-        "corridor": "Seletar Line (Study Corridor)",
-        "dist_tri_m": 124,
-        "dist_existing_mrt_m": 1917,
-        "rail_gap_saved_m": 1793,
-        "station_posterior_pct": 96.0,
-        "est_mrt_alpha_pct": 16.79,
-        "benefit_score": 98.2,
-        "planning_area": "SIMPANG",
-        "subzone": "SIMPANG SOUTH",
-        "official_address": "477 YISHUN STREET 44 MELODY SPRING@ YISHUN SINGAPORE 760477",
-        "building_name": "MELODY SPRING@ YISHUN"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           103.85056,
           1.42863
         ]
@@ -154,8 +86,8 @@
         "street": "YISHUN AVENUE 6",
         "lat": 1.42863,
         "lng": 103.85056,
-        "units_est": 137,
-        "floors": 15,
+        "units_est": 195,
+        "floors": 14,
         "nearest_tri_id": "SL-04",
         "nearest_tri_station": "Simpang South / Yishun Ave 1",
         "corridor": "Seletar Line (Study Corridor)",
@@ -188,8 +120,8 @@
         "street": "YISHUN STREET 44",
         "lat": 1.427807,
         "lng": 103.853724,
-        "units_est": 118,
-        "floors": 19,
+        "units_est": 96,
+        "floors": 13,
         "nearest_tri_id": "SL-04",
         "nearest_tri_station": "Simpang South / Yishun Ave 1",
         "corridor": "Seletar Line (Study Corridor)",
@@ -222,7 +154,7 @@
         "street": "FERNVALE ROAD",
         "lat": 1.388761,
         "lng": 103.876215,
-        "units_est": 148,
+        "units_est": 131,
         "floors": 25,
         "nearest_tri_id": "SL-07",
         "nearest_tri_station": "Seletar Hills / Trafalgar (Jalan Kayu)",
@@ -256,8 +188,8 @@
         "street": "YISHUN AVENUE 6",
         "lat": 1.420882,
         "lng": 103.847309,
-        "units_est": 69,
-        "floors": 13,
+        "units_est": 110,
+        "floors": 12,
         "nearest_tri_id": "SL-05",
         "nearest_tri_station": "Yishun East / Chencharu Fringe",
         "corridor": "Seletar Line (Study Corridor)",
@@ -292,8 +224,8 @@
         "street": "YISHUN AVENUE 11",
         "lat": 1.420694,
         "lng": 103.846195,
-        "units_est": 96,
-        "floors": 25,
+        "units_est": 144,
+        "floors": 13,
         "nearest_tri_id": "SL-05",
         "nearest_tri_station": "Yishun East / Chencharu Fringe",
         "corridor": "Seletar Line (Study Corridor)",
@@ -317,40 +249,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.845952,
-          1.420863
-        ]
-      },
-      "properties": {
-        "category": "HDB",
-        "postal_code": "761458",
-        "name": "Blk 458A",
-        "blk_no": "458A",
-        "street": "YISHUN AVENUE 11",
-        "lat": 1.420863,
-        "lng": 103.845952,
-        "units_est": 30,
-        "floors": 14,
-        "nearest_tri_id": "SL-05",
-        "nearest_tri_station": "Yishun East / Chencharu Fringe",
-        "corridor": "Seletar Line (Study Corridor)",
-        "dist_tri_m": 64,
-        "dist_existing_mrt_m": 1497,
-        "rail_gap_saved_m": 1433,
-        "station_posterior_pct": 96.5,
-        "est_mrt_alpha_pct": 16.88,
-        "benefit_score": 95.9,
-        "planning_area": "YISHUN",
-        "subzone": "YISHUN EAST",
-        "official_address": "458A YISHUN AVENUE 11 DEW SPRING @ YISHUN SINGAPORE 761458",
-        "building_name": "DEW SPRING @ YISHUN"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           103.846335,
           1.421065
         ]
@@ -363,8 +261,8 @@
         "street": "YISHUN AVENUE 11",
         "lat": 1.421065,
         "lng": 103.846335,
-        "units_est": 96,
-        "floors": 25,
+        "units_est": 192,
+        "floors": 13,
         "nearest_tri_id": "SL-05",
         "nearest_tri_station": "Yishun East / Chencharu Fringe",
         "corridor": "Seletar Line (Study Corridor)",
@@ -400,8 +298,8 @@
         "street": "YISHUN AVENUE 1",
         "lat": 1.420439,
         "lng": 103.84714,
-        "units_est": 120,
-        "floors": 22,
+        "units_est": 84,
+        "floors": 13,
         "nearest_tri_id": "SL-05",
         "nearest_tri_station": "Yishun East / Chencharu Fringe",
         "corridor": "Seletar Line (Study Corridor)",
@@ -437,8 +335,8 @@
         "street": "YISHUN STREET 41",
         "lat": 1.420401,
         "lng": 103.845551,
-        "units_est": 87,
-        "floors": 25,
+        "units_est": 72,
+        "floors": 13,
         "nearest_tri_id": "SL-05",
         "nearest_tri_station": "Yishun East / Chencharu Fringe",
         "corridor": "Seletar Line (Study Corridor)",
@@ -474,8 +372,8 @@
         "street": "LORONG 8 TOA PAYOH",
         "lat": 1.337528,
         "lng": 103.858831,
-        "units_est": 99,
-        "floors": 25,
+        "units_est": 174,
+        "floors": 12,
         "nearest_tri_id": "SL-08",
         "nearest_tri_station": "Toa Payoh East / Pei Chun",
         "corridor": "Seletar Line (Study Corridor)",
@@ -511,8 +409,8 @@
         "street": "LORONG 8 TOA PAYOH",
         "lat": 1.337127,
         "lng": 103.858958,
-        "units_est": 131,
-        "floors": 30,
+        "units_est": 124,
+        "floors": 16,
         "nearest_tri_id": "SL-08",
         "nearest_tri_station": "Toa Payoh East / Pei Chun",
         "corridor": "Seletar Line (Study Corridor)",
@@ -548,8 +446,8 @@
         "street": "LORONG 7 TOA PAYOH",
         "lat": 1.337162,
         "lng": 103.858352,
-        "units_est": 124,
-        "floors": 40,
+        "units_est": 96,
+        "floors": 25,
         "nearest_tri_id": "SL-08",
         "nearest_tri_station": "Toa Payoh East / Pei Chun",
         "corridor": "Seletar Line (Study Corridor)",
@@ -585,7 +483,7 @@
         "street": "LORONG 7 TOA PAYOH",
         "lat": 1.336668,
         "lng": 103.85835,
-        "units_est": 78,
+        "units_est": 96,
         "floors": 25,
         "nearest_tri_id": "SL-08",
         "nearest_tri_station": "Toa Payoh East / Pei Chun",
@@ -610,40 +508,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.858892,
-          1.338439
-        ]
-      },
-      "properties": {
-        "category": "HDB",
-        "postal_code": "311233",
-        "name": "Blk 233A",
-        "blk_no": "233A",
-        "street": "LORONG 8 TOA PAYOH",
-        "lat": 1.338439,
-        "lng": 103.858892,
-        "units_est": 63,
-        "floors": 17,
-        "nearest_tri_id": "SL-08",
-        "nearest_tri_station": "Toa Payoh East / Pei Chun",
-        "corridor": "Seletar Line (Study Corridor)",
-        "dist_tri_m": 133,
-        "dist_existing_mrt_m": 1329,
-        "rail_gap_saved_m": 1196,
-        "station_posterior_pct": 99.1,
-        "est_mrt_alpha_pct": 16.6,
-        "benefit_score": 88.5,
-        "planning_area": "TOA PAYOH",
-        "subzone": "PEI CHUN",
-        "official_address": "233A LORONG 8 TOA PAYOH TOA PAYOH EIGHT SINGAPORE 311233",
-        "building_name": "TOA PAYOH EIGHT"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           103.858411,
           1.338263
         ]
@@ -656,8 +520,8 @@
         "street": "LORONG 8 TOA PAYOH",
         "lat": 1.338263,
         "lng": 103.858411,
-        "units_est": 81,
-        "floors": 25,
+        "units_est": 121,
+        "floors": 12,
         "nearest_tri_id": "SL-08",
         "nearest_tri_station": "Toa Payoh East / Pei Chun",
         "corridor": "Seletar Line (Study Corridor)",
@@ -693,8 +557,8 @@
         "street": "SENGKANG WEST WAY",
         "lat": 1.394673,
         "lng": 103.871483,
-        "units_est": 137,
-        "floors": 15,
+        "units_est": 104,
+        "floors": 14,
         "nearest_tri_id": "SL-06",
         "nearest_tri_station": "Sengkang West / Fernvale West",
         "corridor": "Seletar Line (Study Corridor)",
@@ -715,74 +579,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.871778,
-          1.39487
-        ]
-      },
-      "properties": {
-        "category": "HDB",
-        "postal_code": "790461",
-        "name": "Blk 461",
-        "blk_no": "461",
-        "street": "SENGKANG WEST WAY",
-        "lat": 1.39487,
-        "lng": 103.871778,
-        "units_est": 80,
-        "floors": 25,
-        "nearest_tri_id": "SL-06",
-        "nearest_tri_station": "Sengkang West / Fernvale West",
-        "corridor": "Seletar Line (Study Corridor)",
-        "dist_tri_m": 357,
-        "dist_existing_mrt_m": 2659,
-        "rail_gap_saved_m": 2302,
-        "station_posterior_pct": 99.0,
-        "est_mrt_alpha_pct": 15.25,
-        "benefit_score": 87.6,
-        "planning_area": "SENGKANG",
-        "subzone": "FERNVALE",
-        "official_address": "461 SENGKANG WEST WAY FERNVALE GLADES SINGAPORE 790461",
-        "building_name": "FERNVALE GLADES"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.875993,
-          1.397607
-        ]
-      },
-      "properties": {
-        "category": "HDB",
-        "postal_code": "790464",
-        "name": "Blk 464",
-        "blk_no": "464",
-        "street": "FERNVALE ROAD",
-        "lat": 1.397607,
-        "lng": 103.875993,
-        "units_est": 38,
-        "floors": 16,
-        "nearest_tri_id": "SL-06",
-        "nearest_tri_station": "Sengkang West / Fernvale West",
-        "corridor": "Seletar Line (Study Corridor)",
-        "dist_tri_m": 391,
-        "dist_existing_mrt_m": 2264,
-        "rail_gap_saved_m": 1873,
-        "station_posterior_pct": 99.0,
-        "est_mrt_alpha_pct": 15.25,
-        "benefit_score": 87.6,
-        "planning_area": "SENGKANG",
-        "subzone": "FERNVALE",
-        "official_address": "464 FERNVALE ROAD FERNVALE VINES SINGAPORE 790464",
-        "building_name": "FERNVALE VINES"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           103.906766,
           1.386683
         ]
@@ -795,8 +591,8 @@
         "street": "SENGKANG EAST WAY",
         "lat": 1.386683,
         "lng": 103.906766,
-        "units_est": 97,
-        "floors": 25,
+        "units_est": 115,
+        "floors": 17,
         "nearest_tri_id": "IND-04",
         "nearest_tri_station": "Rivervale / Sengkang East",
         "corridor": "Independent Rail-Gap Discovery",
@@ -832,7 +628,7 @@
         "street": "SENGKANG EAST WAY",
         "lat": 1.386728,
         "lng": 103.906054,
-        "units_est": 111,
+        "units_est": 128,
         "floors": 17,
         "nearest_tri_id": "IND-04",
         "nearest_tri_station": "Rivervale / Sengkang East",
@@ -857,40 +653,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.930606,
-          1.354886
-        ]
-      },
-      "properties": {
-        "category": "HDB",
-        "postal_code": "521873",
-        "name": "Blk 873A",
-        "blk_no": "873A",
-        "street": "TAMPINES STREET 85",
-        "lat": 1.354886,
-        "lng": 103.930606,
-        "units_est": 20,
-        "floors": 6,
-        "nearest_tri_id": "IND-01",
-        "nearest_tri_station": "Paya Lebar Air Base East / Tampines West",
-        "corridor": "Independent Rail-Gap Discovery",
-        "dist_tri_m": 210,
-        "dist_existing_mrt_m": 1385,
-        "rail_gap_saved_m": 1174,
-        "station_posterior_pct": 95.4,
-        "est_mrt_alpha_pct": 15.69,
-        "benefit_score": 86.0,
-        "planning_area": "PAYA LEBAR",
-        "subzone": "PAYA LEBAR EAST",
-        "official_address": "873A TAMPINES STREET 85 TAMPINES GREENFLORA SINGAPORE 521873",
-        "building_name": "TAMPINES GREENFLORA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           103.906539,
           1.387164
         ]
@@ -903,7 +665,7 @@
         "street": "SENGKANG EAST WAY",
         "lat": 1.387164,
         "lng": 103.906539,
-        "units_est": 126,
+        "units_est": 96,
         "floors": 17,
         "nearest_tri_id": "IND-04",
         "nearest_tri_station": "Rivervale / Sengkang East",
@@ -961,40 +723,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.906052,
-          1.386196
-        ]
-      },
-      "properties": {
-        "category": "HDB",
-        "postal_code": "545121",
-        "name": "Blk 121E",
-        "blk_no": "121E",
-        "street": "SENGKANG EAST WAY",
-        "lat": 1.386196,
-        "lng": 103.906052,
-        "units_est": 20,
-        "floors": 5,
-        "nearest_tri_id": "IND-04",
-        "nearest_tri_station": "Rivervale / Sengkang East",
-        "corridor": "Independent Rail-Gap Discovery",
-        "dist_tri_m": 65,
-        "dist_existing_mrt_m": 1325,
-        "rail_gap_saved_m": 1260,
-        "station_posterior_pct": 87.1,
-        "est_mrt_alpha_pct": 15.24,
-        "benefit_score": 85.4,
-        "planning_area": "SENGKANG",
-        "subzone": "RIVERVALE",
-        "official_address": "121E SENGKANG EAST WAY MULTI STOREY CAR PARK SINGAPORE 545121",
-        "building_name": "MULTI STOREY CAR PARK"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           103.775164,
           1.443059
         ]
@@ -1007,8 +735,8 @@
         "street": "MARSILING DRIVE",
         "lat": 1.443059,
         "lng": 103.775164,
-        "units_est": 97,
-        "floors": 25,
+        "units_est": 181,
+        "floors": 14,
         "nearest_tri_id": "SL-01",
         "nearest_tri_station": "Woodlands North Coast West",
         "corridor": "Seletar Line (Study Corridor)",
@@ -1044,8 +772,8 @@
         "street": "FERNVALE ROAD",
         "lat": 1.388026,
         "lng": 103.874297,
-        "units_est": 45,
-        "floors": 24,
+        "units_est": 91,
+        "floors": 16,
         "nearest_tri_id": "SL-07",
         "nearest_tri_station": "Seletar Hills / Trafalgar (Jalan Kayu)",
         "corridor": "Seletar Line (Study Corridor)",
@@ -1078,8 +806,8 @@
         "street": "FERNVALE ROAD",
         "lat": 1.388626,
         "lng": 103.874725,
-        "units_est": 142,
-        "floors": 25,
+        "units_est": 156,
+        "floors": 24,
         "nearest_tri_id": "SL-07",
         "nearest_tri_station": "Seletar Hills / Trafalgar (Jalan Kayu)",
         "corridor": "Seletar Line (Study Corridor)",
@@ -1112,8 +840,8 @@
         "street": "FERNVALE ROAD",
         "lat": 1.38851,
         "lng": 103.87432,
-        "units_est": 106,
-        "floors": 24,
+        "units_est": 122,
+        "floors": 21,
         "nearest_tri_id": "SL-07",
         "nearest_tri_station": "Seletar Hills / Trafalgar (Jalan Kayu)",
         "corridor": "Seletar Line (Study Corridor)",
@@ -1134,43 +862,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.874807,
-          1.388148
-        ]
-      },
-      "properties": {
-        "category": "HDB",
-        "postal_code": "790406",
-        "name": "Blk 406",
-        "blk_no": "406",
-        "street": "FERNVALE ROAD",
-        "lat": 1.388148,
-        "lng": 103.874807,
-        "units_est": 102,
-        "floors": 25,
-        "nearest_tri_id": "SL-07",
-        "nearest_tri_station": "Seletar Hills / Trafalgar (Jalan Kayu)",
-        "corridor": "Seletar Line (Study Corridor)",
-        "dist_tri_m": 289,
-        "dist_existing_mrt_m": 1960,
-        "rail_gap_saved_m": 1671,
-        "station_posterior_pct": 91.6,
-        "est_mrt_alpha_pct": 14.11,
-        "benefit_score": 84.7,
-        "planning_area": "HOUGANG",
-        "subzone": "TRAFALGAR",
-        "official_address": "406 FERNVALE ROAD FERN VIEW SINGAPORE 790406",
-        "building_name": "FERN VIEW",
-        "recent_resale_median_sgd": 590000,
-        "recent_tx_count": 4,
-        "remaining_lease": "58 years 03 months"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           103.876441,
           1.389275
         ]
@@ -1183,7 +874,7 @@
         "street": "FERNVALE ROAD",
         "lat": 1.389275,
         "lng": 103.876441,
-        "units_est": 135,
+        "units_est": 130,
         "floors": 25,
         "nearest_tri_id": "SL-07",
         "nearest_tri_station": "Seletar Hills / Trafalgar (Jalan Kayu)",
@@ -1251,8 +942,8 @@
         "street": "MARSILING DRIVE",
         "lat": 1.442712,
         "lng": 103.775433,
-        "units_est": 72,
-        "floors": 25,
+        "units_est": 104,
+        "floors": 14,
         "nearest_tri_id": "SL-01",
         "nearest_tri_station": "Woodlands North Coast West",
         "corridor": "Seletar Line (Study Corridor)",
@@ -1276,40 +967,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.76726,
-          1.389977
-        ]
-      },
-      "properties": {
-        "category": "HDB",
-        "postal_code": "670550",
-        "name": "Blk 550",
-        "blk_no": "550",
-        "street": "SEGAR ROAD",
-        "lat": 1.389977,
-        "lng": 103.76726,
-        "units_est": 103,
-        "floors": 16,
-        "nearest_tri_id": "IND-03",
-        "nearest_tri_station": "Gali Batu / Pang Sua (Sungei Kadut South)",
-        "corridor": "Independent Rail-Gap Discovery",
-        "dist_tri_m": 152,
-        "dist_existing_mrt_m": 1365,
-        "rail_gap_saved_m": 1212,
-        "station_posterior_pct": 87.8,
-        "est_mrt_alpha_pct": 14.89,
-        "benefit_score": 83.9,
-        "planning_area": "SUNGEI KADUT",
-        "subzone": "GALI BATU",
-        "official_address": "550 SEGAR ROAD SEGAR PALMVIEW SINGAPORE 670550",
-        "building_name": "SEGAR PALMVIEW"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           103.774423,
           1.443794
         ]
@@ -1322,8 +979,8 @@
         "street": "MARSILING DRIVE",
         "lat": 1.443794,
         "lng": 103.774423,
-        "units_est": 75,
-        "floors": 25,
+        "units_est": 108,
+        "floors": 12,
         "nearest_tri_id": "SL-01",
         "nearest_tri_station": "Woodlands North Coast West",
         "corridor": "Seletar Line (Study Corridor)",
@@ -1347,74 +1004,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.930834,
-          1.354632
-        ]
-      },
-      "properties": {
-        "category": "HDB",
-        "postal_code": "522873",
-        "name": "Blk 873B",
-        "blk_no": "873B",
-        "street": "TAMPINES STREET 85",
-        "lat": 1.354632,
-        "lng": 103.930834,
-        "units_est": 20,
-        "floors": 1,
-        "nearest_tri_id": "IND-01",
-        "nearest_tri_station": "Paya Lebar Air Base East / Tampines West",
-        "corridor": "Independent Rail-Gap Discovery",
-        "dist_tri_m": 242,
-        "dist_existing_mrt_m": 1347,
-        "rail_gap_saved_m": 1105,
-        "station_posterior_pct": 95.4,
-        "est_mrt_alpha_pct": 14.76,
-        "benefit_score": 83.5,
-        "planning_area": "PAYA LEBAR",
-        "subzone": "PAYA LEBAR EAST",
-        "official_address": "873B TAMPINES STREET 85 TAMPINES GREENFLORA SINGAPORE 522873",
-        "building_name": "TAMPINES GREENFLORA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.929876,
-          1.353527
-        ]
-      },
-      "properties": {
-        "category": "HDB",
-        "postal_code": "521875",
-        "name": "Blk 875A",
-        "blk_no": "875A",
-        "street": "TAMPINES STREET 86",
-        "lat": 1.353527,
-        "lng": 103.929876,
-        "units_est": 20,
-        "floors": 5,
-        "nearest_tri_id": "IND-01",
-        "nearest_tri_station": "Paya Lebar Air Base East / Tampines West",
-        "corridor": "Independent Rail-Gap Discovery",
-        "dist_tri_m": 229,
-        "dist_existing_mrt_m": 1330,
-        "rail_gap_saved_m": 1101,
-        "station_posterior_pct": 95.4,
-        "est_mrt_alpha_pct": 14.71,
-        "benefit_score": 83.3,
-        "planning_area": "PAYA LEBAR",
-        "subzone": "PAYA LEBAR EAST",
-        "official_address": "875A TAMPINES STREET 86 TAMPINES GREENBLOOM SINGAPORE 521875",
-        "building_name": "TAMPINES GREENBLOOM"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           103.906272,
           1.387536
         ]
@@ -1427,7 +1016,7 @@
         "street": "SENGKANG EAST WAY",
         "lat": 1.387536,
         "lng": 103.906272,
-        "units_est": 84,
+        "units_est": 96,
         "floors": 17,
         "nearest_tri_id": "IND-04",
         "nearest_tri_station": "Rivervale / Sengkang East",
@@ -1486,40 +1075,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.905639,
-          1.386744
-        ]
-      },
-      "properties": {
-        "category": "HDB",
-        "postal_code": "546121",
-        "name": "Blk 121F",
-        "blk_no": "121F",
-        "street": "SENGKANG EAST WAY",
-        "lat": 1.386744,
-        "lng": 103.905639,
-        "units_est": 20,
-        "floors": 1,
-        "nearest_tri_id": "IND-04",
-        "nearest_tri_station": "Rivervale / Sengkang East",
-        "corridor": "Independent Rail-Gap Discovery",
-        "dist_tri_m": 68,
-        "dist_existing_mrt_m": 1257,
-        "rail_gap_saved_m": 1189,
-        "station_posterior_pct": 87.1,
-        "est_mrt_alpha_pct": 14.49,
-        "benefit_score": 82.8,
-        "planning_area": "SENGKANG",
-        "subzone": "RIVERVALE",
-        "official_address": "121F SENGKANG EAST WAY RIVERVALE BANK SINGAPORE 546121",
-        "building_name": "RIVERVALE BANK"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           103.774077,
           1.379941
         ]
@@ -1532,8 +1087,8 @@
         "street": "BANGKIT ROAD",
         "lat": 1.379941,
         "lng": 103.774077,
-        "units_est": 77,
-        "floors": 21,
+        "units_est": 110,
+        "floors": 12,
         "nearest_tri_id": "IND-06",
         "nearest_tri_station": "Bangkit / Bukit Panjang Central",
         "corridor": "Independent Rail-Gap Discovery",
@@ -1568,8 +1123,8 @@
         "street": "BANGKIT ROAD",
         "lat": 1.379883,
         "lng": 103.774763,
-        "units_est": 79,
-        "floors": 16,
+        "units_est": 116,
+        "floors": 13,
         "nearest_tri_id": "IND-06",
         "nearest_tri_station": "Bangkit / Bukit Panjang Central",
         "corridor": "Independent Rail-Gap Discovery",
@@ -1604,8 +1159,8 @@
         "street": "MARSILING DRIVE",
         "lat": 1.444093,
         "lng": 103.774001,
-        "units_est": 91,
-        "floors": 20,
+        "units_est": 252,
+        "floors": 14,
         "nearest_tri_id": "SL-01",
         "nearest_tri_station": "Woodlands North Coast West",
         "corridor": "Seletar Line (Study Corridor)",
@@ -1641,7 +1196,7 @@
         "street": "SEGAR ROAD",
         "lat": 1.389806,
         "lng": 103.768363,
-        "units_est": 56,
+        "units_est": 113,
         "floors": 18,
         "nearest_tri_id": "IND-03",
         "nearest_tri_station": "Gali Batu / Pang Sua (Sungei Kadut South)",
@@ -1675,8 +1230,8 @@
         "street": "BANGKIT ROAD",
         "lat": 1.380307,
         "lng": 103.773973,
-        "units_est": 83,
-        "floors": 16,
+        "units_est": 132,
+        "floors": 12,
         "nearest_tri_id": "IND-06",
         "nearest_tri_station": "Bangkit / Bukit Panjang Central",
         "corridor": "Independent Rail-Gap Discovery",
@@ -1711,8 +1266,8 @@
         "street": "BANGKIT ROAD",
         "lat": 1.379572,
         "lng": 103.773882,
-        "units_est": 75,
-        "floors": 23,
+        "units_est": 60,
+        "floors": 13,
         "nearest_tri_id": "IND-06",
         "nearest_tri_station": "Bangkit / Bukit Panjang Central",
         "corridor": "Independent Rail-Gap Discovery",
@@ -1782,8 +1337,8 @@
         "street": "YISHUN AVENUE 6",
         "lat": 1.439425,
         "lng": 103.839054,
-        "units_est": 116,
-        "floors": 16,
+        "units_est": 132,
+        "floors": 12,
         "nearest_tri_id": "SL-03",
         "nearest_tri_station": "Northland / Simpang North",
         "corridor": "Seletar Line (Study Corridor)",
@@ -1819,8 +1374,8 @@
         "street": "BANGKIT ROAD",
         "lat": 1.380648,
         "lng": 103.773898,
-        "units_est": 94,
-        "floors": 15,
+        "units_est": 132,
+        "floors": 12,
         "nearest_tri_id": "IND-06",
         "nearest_tri_station": "Bangkit / Bukit Panjang Central",
         "corridor": "Independent Rail-Gap Discovery",
@@ -1855,8 +1410,8 @@
         "street": "TELOK BLANGAH CRESCENT",
         "lat": 1.276929,
         "lng": 103.821822,
-        "units_est": 113,
-        "floors": 40,
+        "units_est": 175,
+        "floors": 16,
         "nearest_tri_id": "SL-10",
         "nearest_tri_station": "Telok Blangah Way / GSW Convergence",
         "corridor": "Seletar Line (Study Corridor)",
@@ -1892,8 +1447,8 @@
         "street": "BANGKIT ROAD",
         "lat": 1.381097,
         "lng": 103.774482,
-        "units_est": 96,
-        "floors": 25,
+        "units_est": 128,
+        "floors": 13,
         "nearest_tri_id": "IND-06",
         "nearest_tri_station": "Bangkit / Bukit Panjang Central",
         "corridor": "Independent Rail-Gap Discovery",
@@ -1916,40 +1471,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.821355,
-          1.276766
-        ]
-      },
-      "properties": {
-        "category": "HDB",
-        "postal_code": "091021",
-        "name": "Blk 21A",
-        "blk_no": "21A",
-        "street": "TELOK BLANGAH CRESCENT",
-        "lat": 1.276766,
-        "lng": 103.821355,
-        "units_est": 20,
-        "floors": 5,
-        "nearest_tri_id": "SL-10",
-        "nearest_tri_station": "Telok Blangah Way / GSW Convergence",
-        "corridor": "Seletar Line (Study Corridor)",
-        "dist_tri_m": 185,
-        "dist_existing_mrt_m": 1204,
-        "rail_gap_saved_m": 1019,
-        "station_posterior_pct": 96.1,
-        "est_mrt_alpha_pct": 13.71,
-        "benefit_score": 80.6,
-        "planning_area": "BUKIT MERAH",
-        "subzone": "TELOK BLANGAH WAY",
-        "official_address": "21A TELOK BLANGAH CRESCENT MOUNT FABER VIEW SINGAPORE 091021",
-        "building_name": "MOUNT FABER VIEW"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           103.839658,
           1.438044
         ]
@@ -1962,8 +1483,8 @@
         "street": "YISHUN STREET 22",
         "lat": 1.438044,
         "lng": 103.839658,
-        "units_est": 81,
-        "floors": 25,
+        "units_est": 114,
+        "floors": 12,
         "nearest_tri_id": "SL-03",
         "nearest_tri_station": "Northland / Simpang North",
         "corridor": "Seletar Line (Study Corridor)",
@@ -1998,8 +1519,8 @@
         "street": "TELOK BLANGAH CRESCENT",
         "lat": 1.276617,
         "lng": 103.820904,
-        "units_est": 114,
-        "floors": 40,
+        "units_est": 152,
+        "floors": 14,
         "nearest_tri_id": "SL-10",
         "nearest_tri_station": "Telok Blangah Way / GSW Convergence",
         "corridor": "Seletar Line (Study Corridor)",
@@ -2035,8 +1556,8 @@
         "street": "TECK WHYE LANE",
         "lat": 1.378026,
         "lng": 103.750966,
-        "units_est": 91,
-        "floors": 25,
+        "units_est": 117,
+        "floors": 10,
         "nearest_tri_id": "ANC-03",
         "nearest_tri_station": "Teck Whye (ITE College West)",
         "corridor": "Multi-Anchor Discovery (Emp / Health / Edu)",
@@ -2056,73 +1577,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.776883,
-          1.442276
-        ]
-      },
-      "properties": {
-        "category": "HDB",
-        "postal_code": "732006",
-        "name": "Blk 6A",
-        "blk_no": "6A",
-        "street": "ADMIRALTY ROAD",
-        "lat": 1.442276,
-        "lng": 103.776883,
-        "units_est": 24,
-        "floors": 21,
-        "nearest_tri_id": "SL-01",
-        "nearest_tri_station": "Woodlands North Coast West",
-        "corridor": "Seletar Line (Study Corridor)",
-        "dist_tri_m": 149,
-        "dist_existing_mrt_m": 1109,
-        "rail_gap_saved_m": 960,
-        "station_posterior_pct": 99.2,
-        "est_mrt_alpha_pct": 13.33,
-        "benefit_score": 79.8,
-        "planning_area": "WOODLANDS",
-        "subzone": "NORTH COAST",
-        "official_address": "6A ADMIRALTY ROAD SINGAPORE 732006"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.821926,
-          1.277273
-        ]
-      },
-      "properties": {
-        "category": "HDB",
-        "postal_code": "092017",
-        "name": "Blk 17B",
-        "blk_no": "17B",
-        "street": "TELOK BLANGAH CRESCENT",
-        "lat": 1.277273,
-        "lng": 103.821926,
-        "units_est": 54,
-        "floors": 19,
-        "nearest_tri_id": "SL-10",
-        "nearest_tri_station": "Telok Blangah Way / GSW Convergence",
-        "corridor": "Seletar Line (Study Corridor)",
-        "dist_tri_m": 147,
-        "dist_existing_mrt_m": 1142,
-        "rail_gap_saved_m": 995,
-        "station_posterior_pct": 96.1,
-        "est_mrt_alpha_pct": 13.38,
-        "benefit_score": 79.7,
-        "planning_area": "BUKIT MERAH",
-        "subzone": "TELOK BLANGAH WAY",
-        "official_address": "17B TELOK BLANGAH CRESCENT MOUNT FABER VIEW SINGAPORE 092017",
-        "building_name": "MOUNT FABER VIEW"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           103.83884,
           1.439666
         ]
@@ -2135,8 +1589,8 @@
         "street": "YISHUN AVENUE 6",
         "lat": 1.439666,
         "lng": 103.83884,
-        "units_est": 76,
-        "floors": 21,
+        "units_est": 110,
+        "floors": 12,
         "nearest_tri_id": "SL-03",
         "nearest_tri_station": "Northland / Simpang North",
         "corridor": "Seletar Line (Study Corridor)",
@@ -2172,8 +1626,8 @@
         "street": "YISHUN STREET 22",
         "lat": 1.438207,
         "lng": 103.83804,
-        "units_est": 66,
-        "floors": 21,
+        "units_est": 136,
+        "floors": 12,
         "nearest_tri_id": "SL-03",
         "nearest_tri_station": "Northland / Simpang North",
         "corridor": "Seletar Line (Study Corridor)",
@@ -2209,8 +1663,8 @@
         "street": "YISHUN AVENUE 6",
         "lat": 1.439433,
         "lng": 103.838459,
-        "units_est": 51,
-        "floors": 16,
+        "units_est": 24,
+        "floors": 4,
         "nearest_tri_id": "SL-03",
         "nearest_tri_station": "Northland / Simpang North",
         "corridor": "Seletar Line (Study Corridor)",
@@ -2246,8 +1700,8 @@
         "street": "MARSILING DRIVE",
         "lat": 1.442044,
         "lng": 103.776386,
-        "units_est": 109,
-        "floors": 25,
+        "units_est": 207,
+        "floors": 14,
         "nearest_tri_id": "SL-01",
         "nearest_tri_station": "Woodlands North Coast West",
         "corridor": "Seletar Line (Study Corridor)",
@@ -2283,7 +1737,7 @@
         "street": "TELOK BLANGAH CRESCENT",
         "lat": 1.277267,
         "lng": 103.821455,
-        "units_est": 61,
+        "units_est": 174,
         "floors": 30,
         "nearest_tri_id": "SL-10",
         "nearest_tri_station": "Telok Blangah Way / GSW Convergence",
@@ -2320,8 +1774,8 @@
         "street": "YISHUN AVENUE 6",
         "lat": 1.440076,
         "lng": 103.839306,
-        "units_est": 95,
-        "floors": 21,
+        "units_est": 19,
+        "floors": 4,
         "nearest_tri_id": "SL-03",
         "nearest_tri_station": "Northland / Simpang North",
         "corridor": "Seletar Line (Study Corridor)",
@@ -2354,8 +1808,8 @@
         "street": "TELOK BLANGAH CRESCENT",
         "lat": 1.277458,
         "lng": 103.822634,
-        "units_est": 119,
-        "floors": 30,
+        "units_est": 364,
+        "floors": 14,
         "nearest_tri_id": "SL-10",
         "nearest_tri_station": "Telok Blangah Way / GSW Convergence",
         "corridor": "Seletar Line (Study Corridor)",
@@ -2391,7 +1845,7 @@
         "street": "LORONG LIMAU",
         "lat": 1.325226,
         "lng": 103.854378,
-        "units_est": 114,
+        "units_est": 208,
         "floors": 16,
         "nearest_tri_id": "SL-09",
         "nearest_tri_station": "Whampoa / Balestier",
@@ -2425,8 +1879,8 @@
         "street": "PUNGGOL FIELD",
         "lat": 1.403734,
         "lng": 103.891718,
-        "units_est": 114,
-        "floors": 27,
+        "units_est": 123,
+        "floors": 17,
         "nearest_tri_id": "IND-05",
         "nearest_tri_station": "Matilda / Punggol West",
         "corridor": "Independent Rail-Gap Discovery",
@@ -2462,7 +1916,7 @@
         "street": "SEGAR ROAD",
         "lat": 1.38921,
         "lng": 103.767312,
-        "units_est": 59,
+        "units_est": 119,
         "floors": 18,
         "nearest_tri_id": "IND-03",
         "nearest_tri_station": "Gali Batu / Pang Sua (Sungei Kadut South)",
@@ -2496,8 +1950,8 @@
         "street": "WHAMPOA ROAD",
         "lat": 1.327014,
         "lng": 103.85558,
-        "units_est": 89,
-        "floors": 25,
+        "units_est": 79,
+        "floors": 14,
         "nearest_tri_id": "SL-09",
         "nearest_tri_station": "Whampoa / Balestier",
         "corridor": "Seletar Line (Study Corridor)",
@@ -2518,40 +1972,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.892044,
-          1.403414
-        ]
-      },
-      "properties": {
-        "category": "HDB",
-        "postal_code": "820228",
-        "name": "Blk 228",
-        "blk_no": "228",
-        "street": "PUNGGOL FIELD",
-        "lat": 1.403414,
-        "lng": 103.892044,
-        "units_est": 78,
-        "floors": 16,
-        "nearest_tri_id": "IND-05",
-        "nearest_tri_station": "Matilda / Punggol West",
-        "corridor": "Independent Rail-Gap Discovery",
-        "dist_tri_m": 168,
-        "dist_existing_mrt_m": 1175,
-        "rail_gap_saved_m": 1007,
-        "station_posterior_pct": 89.7,
-        "est_mrt_alpha_pct": 12.64,
-        "benefit_score": 77.3,
-        "planning_area": "PUNGGOL",
-        "subzone": "MATILDA",
-        "official_address": "228 PUNGGOL FIELD MATILDA SUNDECK SINGAPORE 820228",
-        "building_name": "MATILDA SUNDECK"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           103.827503,
           1.433772
         ]
@@ -2564,8 +1984,8 @@
         "street": "YISHUN RING RD",
         "lat": 1.433772,
         "lng": 103.827503,
-        "units_est": 93,
-        "floors": 17,
+        "units_est": 84,
+        "floors": 16,
         "nearest_tri_id": "IND-07",
         "nearest_tri_station": "Yishun West (Yishun Ring Road)",
         "corridor": "Independent Rail-Gap Discovery (PV/Bus)",
@@ -2601,7 +2021,7 @@
         "street": "ANG MO KIO AVENUE 10",
         "lat": 1.361029,
         "lng": 103.855382,
-        "units_est": 74,
+        "units_est": 96,
         "floors": 25,
         "nearest_tri_id": "ANC-01",
         "nearest_tri_station": "Chong Boon / Ang Mo Kio Avenue 10",
@@ -2634,8 +2054,8 @@
         "street": "PUNGGOL FIELD",
         "lat": 1.403648,
         "lng": 103.892454,
-        "units_est": 102,
-        "floors": 27,
+        "units_est": 108,
+        "floors": 17,
         "nearest_tri_id": "IND-05",
         "nearest_tri_station": "Matilda / Punggol West",
         "corridor": "Independent Rail-Gap Discovery",
@@ -2708,8 +2128,8 @@
         "street": "LORONG LIMAU",
         "lat": 1.325182,
         "lng": 103.854804,
-        "units_est": 104,
-        "floors": 25,
+        "units_est": 206,
+        "floors": 16,
         "nearest_tri_id": "SL-09",
         "nearest_tri_station": "Whampoa / Balestier",
         "corridor": "Seletar Line (Study Corridor)",
@@ -2742,8 +2162,8 @@
         "street": "TECK WHYE LANE",
         "lat": 1.378505,
         "lng": 103.750933,
-        "units_est": 97,
-        "floors": 25,
+        "units_est": 132,
+        "floors": 12,
         "nearest_tri_id": "ANC-03",
         "nearest_tri_station": "Teck Whye (ITE College West)",
         "corridor": "Multi-Anchor Discovery (Emp / Health / Edu)",
@@ -2766,40 +2186,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.742466,
-          1.360488
-        ]
-      },
-      "properties": {
-        "category": "HDB",
-        "postal_code": "650432",
-        "name": "Blk 432",
-        "blk_no": "432",
-        "street": "BUKIT BATOK WEST AVENUE 8",
-        "lat": 1.360488,
-        "lng": 103.742466,
-        "units_est": 63,
-        "floors": 13,
-        "nearest_tri_id": "IND-08",
-        "nearest_tri_station": "Brickworks (Bukit Batok West Avenue 8)",
-        "corridor": "Independent Rail-Gap Discovery (PV/Bus)",
-        "dist_tri_m": 97,
-        "dist_existing_mrt_m": 1062,
-        "rail_gap_saved_m": 965,
-        "station_posterior_pct": 92.0,
-        "est_mrt_alpha_pct": 12.43,
-        "benefit_score": 76.8,
-        "planning_area": "BUKIT BATOK",
-        "subzone": "BRICKWORKS",
-        "official_address": "432 BUKIT BATOK WEST AVENUE 8 WEST SCAPE @ BUKIT BATOK SINGAPORE 650432",
-        "building_name": "WEST SCAPE @ BUKIT BATOK"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           103.89164,
           1.402966
         ]
@@ -2812,7 +2198,7 @@
         "street": "SUMANG LANE",
         "lat": 1.402966,
         "lng": 103.89164,
-        "units_est": 124,
+        "units_est": 137,
         "floors": 17,
         "nearest_tri_id": "IND-05",
         "nearest_tri_station": "Matilda / Punggol West",
@@ -2837,40 +2223,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.75774,
-          1.34357
-        ]
-      },
-      "properties": {
-        "category": "HDB",
-        "postal_code": "657290",
-        "name": "Blk 290H",
-        "blk_no": "290H",
-        "street": "BUKIT BATOK STREET 24",
-        "lat": 1.34357,
-        "lng": 103.75774,
-        "units_est": 20,
-        "floors": 4,
-        "nearest_tri_id": "TL-01",
-        "nearest_tri_station": "Bukit Batok South / Toh Tuck North",
-        "corridor": "Tengah Line (Study Corridor)",
-        "dist_tri_m": 202,
-        "dist_existing_mrt_m": 1093,
-        "rail_gap_saved_m": 890,
-        "station_posterior_pct": 98.1,
-        "est_mrt_alpha_pct": 12.22,
-        "benefit_score": 76.8,
-        "planning_area": "BUKIT BATOK",
-        "subzone": "BUKIT BATOK SOUTH",
-        "official_address": "290H BUKIT BATOK STREET 24 MULTI STOREY CAR PARK SINGAPORE 657290",
-        "building_name": "MULTI STOREY CAR PARK"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           103.827016,
           1.433515
         ]
@@ -2883,8 +2235,8 @@
         "street": "YISHUN RING RD",
         "lat": 1.433515,
         "lng": 103.827016,
-        "units_est": 97,
-        "floors": 26,
+        "units_est": 120,
+        "floors": 16,
         "nearest_tri_id": "IND-07",
         "nearest_tri_station": "Yishun West (Yishun Ring Road)",
         "corridor": "Independent Rail-Gap Discovery (PV/Bus)",
@@ -2920,8 +2272,8 @@
         "street": "YISHUN RING RD",
         "lat": 1.434611,
         "lng": 103.826984,
-        "units_est": 97,
-        "floors": 25,
+        "units_est": 263,
+        "floors": 9,
         "nearest_tri_id": "IND-07",
         "nearest_tri_station": "Yishun West (Yishun Ring Road)",
         "corridor": "Independent Rail-Gap Discovery (PV/Bus)",
@@ -2957,8 +2309,8 @@
         "street": "WHAMPOA ROAD",
         "lat": 1.32679,
         "lng": 103.85587,
-        "units_est": 96,
-        "floors": 25,
+        "units_est": 77,
+        "floors": 14,
         "nearest_tri_id": "SL-09",
         "nearest_tri_station": "Whampoa / Balestier",
         "corridor": "Seletar Line (Study Corridor)",
@@ -2972,39 +2324,6 @@
         "subzone": "BALESTIER",
         "official_address": "110 WHAMPOA ROAD WHAMPOA GARDENS SINGAPORE 321110",
         "building_name": "WHAMPOA GARDENS"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.855679,
-          1.326122
-        ]
-      },
-      "properties": {
-        "category": "HDB",
-        "postal_code": "322111",
-        "name": "Blk 111A",
-        "blk_no": "111A",
-        "street": "WHAMPOA ROAD",
-        "lat": 1.326122,
-        "lng": 103.855679,
-        "units_est": 60,
-        "floors": 25,
-        "nearest_tri_id": "SL-09",
-        "nearest_tri_station": "Whampoa / Balestier",
-        "corridor": "Seletar Line (Study Corridor)",
-        "dist_tri_m": 132,
-        "dist_existing_mrt_m": 1006,
-        "rail_gap_saved_m": 874,
-        "station_posterior_pct": 97.7,
-        "est_mrt_alpha_pct": 11.96,
-        "benefit_score": 76.0,
-        "planning_area": "NOVENA",
-        "subzone": "BALESTIER",
-        "official_address": "111A WHAMPOA ROAD SINGAPORE 322111"
       }
     },
     {
@@ -3061,8 +2380,8 @@
         "street": "JALAN BAHAGIA",
         "lat": 1.327718,
         "lng": 103.855887,
-        "units_est": 174,
-        "floors": 40,
+        "units_est": 6,
+        "floors": 2,
         "nearest_tri_id": "SL-09",
         "nearest_tri_station": "Whampoa / Balestier",
         "corridor": "Seletar Line (Study Corridor)",
@@ -3095,8 +2414,8 @@
         "street": "TECK WHYE LANE",
         "lat": 1.377572,
         "lng": 103.751972,
-        "units_est": 89,
-        "floors": 18,
+        "units_est": 104,
+        "floors": 9,
         "nearest_tri_id": "ANC-03",
         "nearest_tri_station": "Teck Whye (ITE College West)",
         "corridor": "Multi-Anchor Discovery (Emp / Health / Edu)",
@@ -3131,8 +2450,8 @@
         "street": "BUKIT BATOK WEST AVENUE 8",
         "lat": 1.360996,
         "lng": 103.74236,
-        "units_est": 135,
-        "floors": 27,
+        "units_est": 176,
+        "floors": 16,
         "nearest_tri_id": "IND-08",
         "nearest_tri_station": "Brickworks (Bukit Batok West Avenue 8)",
         "corridor": "Independent Rail-Gap Discovery (PV/Bus)",
@@ -3165,8 +2484,8 @@
         "street": "YISHUN RING RD",
         "lat": 1.434454,
         "lng": 103.827995,
-        "units_est": 96,
-        "floors": 25,
+        "units_est": 143,
+        "floors": 9,
         "nearest_tri_id": "IND-07",
         "nearest_tri_station": "Yishun West (Yishun Ring Road)",
         "corridor": "Independent Rail-Gap Discovery (PV/Bus)",
@@ -3202,8 +2521,8 @@
         "street": "JURONG WEST ST 91",
         "lat": 1.341432,
         "lng": 103.687975,
-        "units_est": 113,
-        "floors": 16,
+        "units_est": 132,
+        "floors": 12,
         "nearest_tri_id": "IND-09",
         "nearest_tri_station": "Yunnan (Jurong West Street 91)",
         "corridor": "Independent Rail-Gap Discovery (PV/Bus)",
@@ -3239,7 +2558,7 @@
         "street": "SUMANG LANE",
         "lat": 1.402858,
         "lng": 103.892291,
-        "units_est": 125,
+        "units_est": 122,
         "floors": 17,
         "nearest_tri_id": "IND-05",
         "nearest_tri_station": "Matilda / Punggol West",
@@ -3276,8 +2595,8 @@
         "street": "TECK WHYE LANE",
         "lat": 1.378236,
         "lng": 103.751958,
-        "units_est": 96,
-        "floors": 25,
+        "units_est": 132,
+        "floors": 12,
         "nearest_tri_id": "ANC-03",
         "nearest_tri_station": "Teck Whye (ITE College West)",
         "corridor": "Multi-Anchor Discovery (Emp / Health / Edu)",
@@ -3338,40 +2657,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.931086,
-          1.356373
-        ]
-      },
-      "properties": {
-        "category": "HDB",
-        "postal_code": "522870",
-        "name": "Blk 870B",
-        "blk_no": "870B",
-        "street": "TAMPINES STREET 86",
-        "lat": 1.356373,
-        "lng": 103.931086,
-        "units_est": 20,
-        "floors": 5,
-        "nearest_tri_id": "IND-01",
-        "nearest_tri_station": "Paya Lebar Air Base East / Tampines West",
-        "corridor": "Independent Rail-Gap Discovery",
-        "dist_tri_m": 288,
-        "dist_existing_mrt_m": 1430,
-        "rail_gap_saved_m": 1142,
-        "station_posterior_pct": 95.4,
-        "est_mrt_alpha_pct": 13.42,
-        "benefit_score": 74.6,
-        "planning_area": "PAYA LEBAR",
-        "subzone": "PAYA LEBAR EAST",
-        "official_address": "870B TAMPINES STREET 86 TAMPINES GREENLACE SINGAPORE 522870",
-        "building_name": "TAMPINES GREENLACE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           103.742884,
           1.360362
         ]
@@ -3384,8 +2669,8 @@
         "street": "BUKIT BATOK WEST AVENUE 8",
         "lat": 1.360362,
         "lng": 103.742884,
-        "units_est": 129,
-        "floors": 27,
+        "units_est": 126,
+        "floors": 17,
         "nearest_tri_id": "IND-08",
         "nearest_tri_station": "Brickworks (Bukit Batok West Avenue 8)",
         "corridor": "Independent Rail-Gap Discovery (PV/Bus)",
@@ -3418,8 +2703,8 @@
         "street": "YISHUN RING RD",
         "lat": 1.433328,
         "lng": 103.827528,
-        "units_est": 72,
-        "floors": 28,
+        "units_est": 84,
+        "floors": 16,
         "nearest_tri_id": "IND-07",
         "nearest_tri_station": "Yishun West (Yishun Ring Road)",
         "corridor": "Independent Rail-Gap Discovery (PV/Bus)",
@@ -3455,8 +2740,8 @@
         "street": "TECK WHYE LANE",
         "lat": 1.378962,
         "lng": 103.751182,
-        "units_est": 96,
-        "floors": 25,
+        "units_est": 110,
+        "floors": 12,
         "nearest_tri_id": "ANC-03",
         "nearest_tri_station": "Teck Whye (ITE College West)",
         "corridor": "Multi-Anchor Discovery (Emp / Health / Edu)",
@@ -3491,8 +2776,8 @@
         "street": "TECK WHYE LANE",
         "lat": 1.377852,
         "lng": 103.752105,
-        "units_est": 86,
-        "floors": 25,
+        "units_est": 110,
+        "floors": 12,
         "nearest_tri_id": "ANC-03",
         "nearest_tri_station": "Teck Whye (ITE College West)",
         "corridor": "Multi-Anchor Discovery (Emp / Health / Edu)",
@@ -3527,8 +2812,8 @@
         "street": "SUMANG LANE",
         "lat": 1.403557,
         "lng": 103.893078,
-        "units_est": 91,
-        "floors": 27,
+        "units_est": 95,
+        "floors": 17,
         "nearest_tri_id": "IND-05",
         "nearest_tri_station": "Matilda / Punggol West",
         "corridor": "Independent Rail-Gap Discovery",
@@ -3564,7 +2849,7 @@
         "street": "ANG MO KIO AVE 10",
         "lat": 1.361453,
         "lng": 103.855293,
-        "units_est": 78,
+        "units_est": 96,
         "floors": 25,
         "nearest_tri_id": "ANC-01",
         "nearest_tri_station": "Chong Boon / Ang Mo Kio Avenue 10",
@@ -3600,7 +2885,7 @@
         "street": "WEST COAST CRESCENT",
         "lat": 1.300468,
         "lng": 103.764112,
-        "units_est": 147,
+        "units_est": 198,
         "floors": 32,
         "nearest_tri_id": "WCE-02",
         "nearest_tri_station": "Clementi Woods / West Coast Plaza",
@@ -3634,8 +2919,8 @@
         "street": "JURONG WEST ST 91",
         "lat": 1.341095,
         "lng": 103.687855,
-        "units_est": 103,
-        "floors": 16,
+        "units_est": 110,
+        "floors": 12,
         "nearest_tri_id": "IND-09",
         "nearest_tri_station": "Yunnan (Jurong West Street 91)",
         "corridor": "Independent Rail-Gap Discovery (PV/Bus)",
@@ -3671,7 +2956,7 @@
         "street": "JURONG WEST ST 92",
         "lat": 1.341678,
         "lng": 103.688618,
-        "units_est": 73,
+        "units_est": 144,
         "floors": 13,
         "nearest_tri_id": "IND-09",
         "nearest_tri_station": "Yunnan (Jurong West Street 91)",
@@ -3707,8 +2992,8 @@
         "street": "BUKIT BATOK WEST AVENUE 8",
         "lat": 1.361157,
         "lng": 103.742773,
-        "units_est": 120,
-        "floors": 22,
+        "units_est": 133,
+        "floors": 16,
         "nearest_tri_id": "IND-08",
         "nearest_tri_station": "Brickworks (Bukit Batok West Avenue 8)",
         "corridor": "Independent Rail-Gap Discovery (PV/Bus)",
@@ -3741,7 +3026,7 @@
         "street": "BUKIT BATOK STREET 24",
         "lat": 1.343248,
         "lng": 103.756535,
-        "units_est": 84,
+        "units_est": 108,
         "floors": 19,
         "nearest_tri_id": "TL-01",
         "nearest_tri_station": "Bukit Batok South / Toh Tuck North",
@@ -3778,8 +3063,8 @@
         "street": "JALAN BUKIT MERAH",
         "lat": 1.286542,
         "lng": 103.808258,
-        "units_est": 117,
-        "floors": 25,
+        "units_est": 244,
+        "floors": 14,
         "nearest_tri_id": "TL-05",
         "nearest_tri_station": "Alexandra Hill / Bukit Merah Central",
         "corridor": "Tengah Line (Study Corridor)",
@@ -3815,8 +3100,8 @@
         "street": "BUKIT BATOK WEST AVENUE 8",
         "lat": 1.361614,
         "lng": 103.742027,
-        "units_est": 156,
-        "floors": 27,
+        "units_est": 182,
+        "floors": 15,
         "nearest_tri_id": "IND-08",
         "nearest_tri_station": "Brickworks (Bukit Batok West Avenue 8)",
         "corridor": "Independent Rail-Gap Discovery (PV/Bus)",
@@ -3883,8 +3168,8 @@
         "street": "JURONG WEST ST 91",
         "lat": 1.341815,
         "lng": 103.687549,
-        "units_est": 73,
-        "floors": 15,
+        "units_est": 96,
+        "floors": 13,
         "nearest_tri_id": "IND-09",
         "nearest_tri_station": "Yunnan (Jurong West Street 91)",
         "corridor": "Independent Rail-Gap Discovery (PV/Bus)",
@@ -3919,8 +3204,8 @@
         "street": "JURONG WEST ST 91",
         "lat": 1.34069,
         "lng": 103.687837,
-        "units_est": 124,
-        "floors": 17,
+        "units_est": 110,
+        "floors": 12,
         "nearest_tri_id": "IND-09",
         "nearest_tri_station": "Yunnan (Jurong West Street 91)",
         "corridor": "Independent Rail-Gap Discovery (PV/Bus)",
@@ -3956,8 +3241,8 @@
         "street": "JALAN BUKIT MERAH",
         "lat": 1.286725,
         "lng": 103.806891,
-        "units_est": 134,
-        "floors": 25,
+        "units_est": 240,
+        "floors": 14,
         "nearest_tri_id": "TL-05",
         "nearest_tri_station": "Alexandra Hill / Bukit Merah Central",
         "corridor": "Tengah Line (Study Corridor)",
@@ -3981,40 +3266,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.763598,
-          1.300048
-        ]
-      },
-      "properties": {
-        "category": "HDB",
-        "postal_code": "120801",
-        "name": "Blk 801",
-        "blk_no": "801",
-        "street": "WEST COAST CRESCENT",
-        "lat": 1.300048,
-        "lng": 103.763598,
-        "units_est": 42,
-        "floors": 12,
-        "nearest_tri_id": "WCE-02",
-        "nearest_tri_station": "Clementi Woods / West Coast Plaza",
-        "corridor": "JRL West Coast Ext (Unfixed Intermediate)",
-        "dist_tri_m": 375,
-        "dist_existing_mrt_m": 1386,
-        "rail_gap_saved_m": 1011,
-        "station_posterior_pct": 98.9,
-        "est_mrt_alpha_pct": 12.32,
-        "benefit_score": 71.8,
-        "planning_area": "CLEMENTI",
-        "subzone": "CLEMENTI WOODS",
-        "official_address": "801 WEST COAST CRESCENT WEST COAST PARKVIEW SINGAPORE 120801",
-        "building_name": "WEST COAST PARKVIEW"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           103.767744,
           1.303514
         ]
@@ -4027,8 +3278,8 @@
         "street": "CLEMENTI WEST STREET 1",
         "lat": 1.303514,
         "lng": 103.767744,
-        "units_est": 86,
-        "floors": 21,
+        "units_est": 128,
+        "floors": 12,
         "nearest_tri_id": "WCE-02",
         "nearest_tri_station": "Clementi Woods / West Coast Plaza",
         "corridor": "JRL West Coast Ext (Unfixed Intermediate)",
@@ -4063,8 +3314,8 @@
         "street": "JURONG WEST ST 91",
         "lat": 1.34034,
         "lng": 103.687834,
-        "units_est": 119,
-        "floors": 17,
+        "units_est": 132,
+        "floors": 12,
         "nearest_tri_id": "IND-09",
         "nearest_tri_station": "Yunnan (Jurong West Street 91)",
         "corridor": "Independent Rail-Gap Discovery (PV/Bus)",
@@ -4100,8 +3351,8 @@
         "street": "CLEMENTI WEST STREET 1",
         "lat": 1.303488,
         "lng": 103.768337,
-        "units_est": 106,
-        "floors": 21,
+        "units_est": 214,
+        "floors": 12,
         "nearest_tri_id": "WCE-02",
         "nearest_tri_station": "Clementi Woods / West Coast Plaza",
         "corridor": "JRL West Coast Ext (Unfixed Intermediate)",
@@ -4117,43 +3368,6 @@
         "recent_resale_median_sgd": 550000,
         "recent_tx_count": 8,
         "remaining_lease": "56 years 02 months"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.807037,
-          1.286865
-        ]
-      },
-      "properties": {
-        "category": "HDB",
-        "postal_code": "152002",
-        "name": "Blk 2A",
-        "blk_no": "2A",
-        "street": "JALAN BUKIT MERAH",
-        "lat": 1.286865,
-        "lng": 103.807037,
-        "units_est": 39,
-        "floors": 30,
-        "nearest_tri_id": "TL-05",
-        "nearest_tri_station": "Alexandra Hill / Bukit Merah Central",
-        "corridor": "Tengah Line (Study Corridor)",
-        "dist_tri_m": 154,
-        "dist_existing_mrt_m": 897,
-        "rail_gap_saved_m": 744,
-        "station_posterior_pct": 97.5,
-        "est_mrt_alpha_pct": 10.15,
-        "benefit_score": 71.1,
-        "planning_area": "BUKIT MERAH",
-        "subzone": "ALEXANDRA HILL",
-        "official_address": "2A JALAN BUKIT MERAH BRICKWORKS ESTATE SINGAPORE 152002",
-        "building_name": "BRICKWORKS ESTATE",
-        "recent_resale_median_sgd": 1150000,
-        "recent_tx_count": 4,
-        "remaining_lease": "73 years 05 months"
       }
     },
     {
@@ -4207,8 +3421,8 @@
         "street": "YISHUN RING RD",
         "lat": 1.43511,
         "lng": 103.828163,
-        "units_est": 104,
-        "floors": 25,
+        "units_est": 152,
+        "floors": 9,
         "nearest_tri_id": "IND-07",
         "nearest_tri_station": "Yishun West (Yishun Ring Road)",
         "corridor": "Independent Rail-Gap Discovery (PV/Bus)",
@@ -4232,43 +3446,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.808117,
-          1.286888
-        ]
-      },
-      "properties": {
-        "category": "HDB",
-        "postal_code": "150006",
-        "name": "Blk 6",
-        "blk_no": "6",
-        "street": "JALAN BUKIT MERAH",
-        "lat": 1.286888,
-        "lng": 103.808117,
-        "units_est": 109,
-        "floors": 25,
-        "nearest_tri_id": "TL-05",
-        "nearest_tri_station": "Alexandra Hill / Bukit Merah Central",
-        "corridor": "Tengah Line (Study Corridor)",
-        "dist_tri_m": 182,
-        "dist_existing_mrt_m": 919,
-        "rail_gap_saved_m": 737,
-        "station_posterior_pct": 97.5,
-        "est_mrt_alpha_pct": 10.06,
-        "benefit_score": 70.9,
-        "planning_area": "BUKIT MERAH",
-        "subzone": "ALEXANDRA HILL",
-        "official_address": "6 JALAN BUKIT MERAH ABC BRICKWORKS MARKET & FOOD CENTRE SINGAPORE 150006",
-        "building_name": "ABC BRICKWORKS MARKET & FOOD CENTRE",
-        "recent_resale_median_sgd": 955000,
-        "recent_tx_count": 19,
-        "remaining_lease": "47 years 06 months"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           103.763621,
           1.300567
         ]
@@ -4281,7 +3458,7 @@
         "street": "WEST COAST CRESCENT",
         "lat": 1.300567,
         "lng": 103.763621,
-        "units_est": 146,
+        "units_est": 197,
         "floors": 32,
         "nearest_tri_id": "WCE-02",
         "nearest_tri_station": "Clementi Woods / West Coast Plaza",
@@ -4303,40 +3480,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.890705,
-          1.353419
-        ]
-      },
-      "properties": {
-        "category": "HDB",
-        "postal_code": "530107",
-        "name": "Blk 107",
-        "blk_no": "107",
-        "street": "HOUGANG AVENUE 1",
-        "lat": 1.353419,
-        "lng": 103.890705,
-        "units_est": 96,
-        "floors": 25,
-        "nearest_tri_id": "IND-02",
-        "nearest_tri_station": "Defu South / PLAB West",
-        "corridor": "Independent Rail-Gap Discovery",
-        "dist_tri_m": 232,
-        "dist_existing_mrt_m": 979,
-        "rail_gap_saved_m": 747,
-        "station_posterior_pct": 96.0,
-        "est_mrt_alpha_pct": 10.05,
-        "benefit_score": 70.6,
-        "planning_area": "HOUGANG",
-        "subzone": "DEFU INDUSTRIAL PARK",
-        "official_address": "107 HOUGANG AVENUE 1 FOOD CENTRE SINGAPORE 530107",
-        "building_name": "FOOD CENTRE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           103.808966,
           1.28671
         ]
@@ -4349,8 +3492,8 @@
         "street": "JALAN BUKIT MERAH",
         "lat": 1.28671,
         "lng": 103.808966,
-        "units_est": 131,
-        "floors": 30,
+        "units_est": 21,
+        "floors": 4,
         "nearest_tri_id": "TL-05",
         "nearest_tri_station": "Alexandra Hill / Bukit Merah Central",
         "corridor": "Tengah Line (Study Corridor)",
@@ -4385,7 +3528,7 @@
         "street": "BUKIT BATOK STREET 25",
         "lat": 1.343543,
         "lng": 103.75919,
-        "units_est": 116,
+        "units_est": 112,
         "floors": 17,
         "nearest_tri_id": "TL-01",
         "nearest_tri_station": "Bukit Batok South / Toh Tuck North",
@@ -4410,40 +3553,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.806328,
-          1.28695
-        ]
-      },
-      "properties": {
-        "category": "HDB",
-        "postal_code": "153002",
-        "name": "Blk 2B",
-        "blk_no": "2B",
-        "street": "JALAN BUKIT MERAH",
-        "lat": 1.28695,
-        "lng": 103.806328,
-        "units_est": 87,
-        "floors": 36,
-        "nearest_tri_id": "TL-05",
-        "nearest_tri_station": "Alexandra Hill / Bukit Merah Central",
-        "corridor": "Tengah Line (Study Corridor)",
-        "dist_tri_m": 191,
-        "dist_existing_mrt_m": 880,
-        "rail_gap_saved_m": 689,
-        "station_posterior_pct": 97.5,
-        "est_mrt_alpha_pct": 9.4,
-        "benefit_score": 69.1,
-        "planning_area": "BUKIT MERAH",
-        "subzone": "ALEXANDRA HILL",
-        "official_address": "2B JALAN BUKIT MERAH BRICKWORKS ESTATE SINGAPORE 153002",
-        "building_name": "BRICKWORKS ESTATE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           103.763344,
           1.30114
         ]
@@ -4456,7 +3565,7 @@
         "street": "WEST COAST CRESCENT",
         "lat": 1.30114,
         "lng": 103.763344,
-        "units_est": 199,
+        "units_est": 302,
         "floors": 32,
         "nearest_tri_id": "WCE-02",
         "nearest_tri_station": "Clementi Woods / West Coast Plaza",
@@ -4471,142 +3580,6 @@
         "subzone": "CLEMENTI WOODS",
         "official_address": "801C WEST COAST CRESCENT WEST COAST PARKVIEW SINGAPORE 123801",
         "building_name": "WEST COAST PARKVIEW"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.80498,
-          1.447058
-        ]
-      },
-      "properties": {
-        "category": "HDB",
-        "postal_code": "730785",
-        "name": "Blk 785",
-        "blk_no": "785",
-        "street": "WOODLANDS RISE",
-        "lat": 1.447058,
-        "lng": 103.80498,
-        "units_est": 66,
-        "floors": 16,
-        "nearest_tri_id": "ANC-02",
-        "nearest_tri_station": "Woodlands East / Woodlands Rise",
-        "corridor": "Multi-Anchor Discovery (Emp / Health / Edu)",
-        "dist_tri_m": 49,
-        "dist_existing_mrt_m": 870,
-        "rail_gap_saved_m": 821,
-        "station_posterior_pct": 83.8,
-        "est_mrt_alpha_pct": 9.63,
-        "benefit_score": 67.8,
-        "planning_area": "WOODLANDS",
-        "subzone": "WOODLANDS EAST",
-        "official_address": "785 WOODLANDS RISE WOODLANDS PASTURE II SINGAPORE 730785",
-        "building_name": "WOODLANDS PASTURE II"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.804221,
-          1.447763
-        ]
-      },
-      "properties": {
-        "category": "HDB",
-        "postal_code": "730783",
-        "name": "Blk 783",
-        "blk_no": "783",
-        "street": "WOODLANDS RISE",
-        "lat": 1.447763,
-        "lng": 103.804221,
-        "units_est": 66,
-        "floors": 12,
-        "nearest_tri_id": "ANC-02",
-        "nearest_tri_station": "Woodlands East / Woodlands Rise",
-        "corridor": "Multi-Anchor Discovery (Emp / Health / Edu)",
-        "dist_tri_m": 91,
-        "dist_existing_mrt_m": 899,
-        "rail_gap_saved_m": 808,
-        "station_posterior_pct": 83.8,
-        "est_mrt_alpha_pct": 9.48,
-        "benefit_score": 67.3,
-        "planning_area": "WOODLANDS",
-        "subzone": "WOODLANDS EAST",
-        "official_address": "783 WOODLANDS RISE WOODLANDS PASTURE I SINGAPORE 730783",
-        "building_name": "WOODLANDS PASTURE I"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.805601,
-          1.446612
-        ]
-      },
-      "properties": {
-        "category": "HDB",
-        "postal_code": "735785",
-        "name": "Blk 785E",
-        "blk_no": "785E",
-        "street": "WOODLANDS RISE",
-        "lat": 1.446612,
-        "lng": 103.805601,
-        "units_est": 20,
-        "floors": 2,
-        "nearest_tri_id": "ANC-02",
-        "nearest_tri_station": "Woodlands East / Woodlands Rise",
-        "corridor": "Multi-Anchor Discovery (Emp / Health / Edu)",
-        "dist_tri_m": 119,
-        "dist_existing_mrt_m": 868,
-        "rail_gap_saved_m": 749,
-        "station_posterior_pct": 83.8,
-        "est_mrt_alpha_pct": 8.79,
-        "benefit_score": 65.2,
-        "planning_area": "WOODLANDS",
-        "subzone": "WOODLANDS EAST",
-        "official_address": "785E WOODLANDS RISE WOODLANDS PASTURE II SINGAPORE 735785",
-        "building_name": "WOODLANDS PASTURE II"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.803594,
-          1.448164
-        ]
-      },
-      "properties": {
-        "category": "HDB",
-        "postal_code": "730782",
-        "name": "Blk 782",
-        "blk_no": "782",
-        "street": "WOODLANDS CRESCENT",
-        "lat": 1.448164,
-        "lng": 103.803594,
-        "units_est": 33,
-        "floors": 16,
-        "nearest_tri_id": "ANC-02",
-        "nearest_tri_station": "Woodlands East / Woodlands Rise",
-        "corridor": "Multi-Anchor Discovery (Emp / Health / Edu)",
-        "dist_tri_m": 173,
-        "dist_existing_mrt_m": 915,
-        "rail_gap_saved_m": 742,
-        "station_posterior_pct": 83.8,
-        "est_mrt_alpha_pct": 8.7,
-        "benefit_score": 64.9,
-        "planning_area": "WOODLANDS",
-        "subzone": "WOODLANDS EAST",
-        "official_address": "782 WOODLANDS CRESCENT WOODLANDS MEADOW SINGAPORE 730782",
-        "building_name": "WOODLANDS MEADOW"
       }
     },
     {
@@ -4660,7 +3633,7 @@
         "street": "SENGKANG WEST WAY",
         "lat": 1.393338,
         "lng": 103.869928,
-        "units_est": 56,
+        "units_est": 169,
         "floors": 14,
         "nearest_tri_id": "SL-06",
         "nearest_tri_station": "Sengkang West / Fernvale West",
@@ -4694,8 +3667,8 @@
         "street": "SENGKANG WEST WAY",
         "lat": 1.394826,
         "lng": 103.869661,
-        "units_est": 123,
-        "floors": 17,
+        "units_est": 104,
+        "floors": 14,
         "nearest_tri_id": "SL-06",
         "nearest_tri_station": "Sengkang West / Fernvale West",
         "corridor": "Seletar Line (Study Corridor)",
@@ -4728,7 +3701,7 @@
         "street": "WOODLANDS RISE",
         "lat": 1.447452,
         "lng": 103.803904,
-        "units_est": 60,
+        "units_est": 120,
         "floors": 16,
         "nearest_tri_id": "ANC-02",
         "nearest_tri_station": "Woodlands East / Woodlands Rise",
@@ -4753,40 +3726,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.803308,
-          1.448554
-        ]
-      },
-      "properties": {
-        "category": "HDB",
-        "postal_code": "736782",
-        "name": "Blk 782F",
-        "blk_no": "782F",
-        "street": "WOODLANDS CRESCENT",
-        "lat": 1.448554,
-        "lng": 103.803308,
-        "units_est": 20,
-        "floors": 1,
-        "nearest_tri_id": "ANC-02",
-        "nearest_tri_station": "Woodlands East / Woodlands Rise",
-        "corridor": "Multi-Anchor Discovery (Emp / Health / Edu)",
-        "dist_tri_m": 222,
-        "dist_existing_mrt_m": 946,
-        "rail_gap_saved_m": 724,
-        "station_posterior_pct": 83.8,
-        "est_mrt_alpha_pct": 8.5,
-        "benefit_score": 64.3,
-        "planning_area": "WOODLANDS",
-        "subzone": "WOODLANDS EAST",
-        "official_address": "782F WOODLANDS CRESCENT WOODLANDS MEADOW SINGAPORE 736782",
-        "building_name": "WOODLANDS MEADOW"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           103.854624,
           1.361283
         ]
@@ -4799,8 +3738,8 @@
         "street": "ANG MO KIO AVE 10",
         "lat": 1.361283,
         "lng": 103.854624,
-        "units_est": 81,
-        "floors": 15,
+        "units_est": 131,
+        "floors": 12,
         "nearest_tri_id": "ANC-01",
         "nearest_tri_station": "Chong Boon / Ang Mo Kio Avenue 10",
         "corridor": "Multi-Anchor Discovery (Emp / Health / Edu)",
@@ -4835,8 +3774,8 @@
         "street": "ANG MO KIO AVENUE 10",
         "lat": 1.362032,
         "lng": 103.855316,
-        "units_est": 85,
-        "floors": 25,
+        "units_est": 3,
+        "floors": 2,
         "nearest_tri_id": "ANC-01",
         "nearest_tri_station": "Chong Boon / Ang Mo Kio Avenue 10",
         "corridor": "Multi-Anchor Discovery (Emp / Health / Edu)",
@@ -4869,8 +3808,8 @@
         "street": "ANG MO KIO AVE 10",
         "lat": 1.362694,
         "lng": 103.856489,
-        "units_est": 66,
-        "floors": 16,
+        "units_est": 166,
+        "floors": 13,
         "nearest_tri_id": "ANC-01",
         "nearest_tri_station": "Chong Boon / Ang Mo Kio Avenue 10",
         "corridor": "Multi-Anchor Discovery (Emp / Health / Edu)",
@@ -4906,8 +3845,8 @@
         "street": "HOUGANG AVENUE 1",
         "lat": 1.35185,
         "lng": 103.889952,
-        "units_est": 82,
-        "floors": 16,
+        "units_est": 123,
+        "floors": 14,
         "nearest_tri_id": "IND-02",
         "nearest_tri_station": "Defu South / PLAB West",
         "corridor": "Independent Rail-Gap Discovery",
@@ -4942,8 +3881,8 @@
         "street": "GHIM MOH ROAD",
         "lat": 1.312934,
         "lng": 103.786849,
-        "units_est": 117,
-        "floors": 25,
+        "units_est": 220,
+        "floors": 15,
         "nearest_tri_id": "TL-03",
         "nearest_tri_station": "Ghim Moh / Ulu Pandan North",
         "corridor": "Tengah Line (Study Corridor)",
@@ -4979,8 +3918,8 @@
         "street": "ANG MO KIO AVE 10",
         "lat": 1.361682,
         "lng": 103.854695,
-        "units_est": 78,
-        "floors": 15,
+        "units_est": 130,
+        "floors": 12,
         "nearest_tri_id": "ANC-01",
         "nearest_tri_station": "Chong Boon / Ang Mo Kio Avenue 10",
         "corridor": "Multi-Anchor Discovery (Emp / Health / Edu)",
@@ -5003,40 +3942,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.787571,
-          1.313061
-        ]
-      },
-      "properties": {
-        "category": "HDB",
-        "postal_code": "272004",
-        "name": "Blk 4A",
-        "blk_no": "4A",
-        "street": "GHIM MOH ROAD",
-        "lat": 1.313061,
-        "lng": 103.787571,
-        "units_est": 20,
-        "floors": 30,
-        "nearest_tri_id": "TL-03",
-        "nearest_tri_station": "Ghim Moh / Ulu Pandan North",
-        "corridor": "Tengah Line (Study Corridor)",
-        "dist_tri_m": 198,
-        "dist_existing_mrt_m": 763,
-        "rail_gap_saved_m": 565,
-        "station_posterior_pct": 88.9,
-        "est_mrt_alpha_pct": 7.03,
-        "benefit_score": 60.7,
-        "planning_area": "QUEENSTOWN",
-        "subzone": "GHIM MOH",
-        "official_address": "4A GHIM MOH ROAD GHIM MOH GREEN SINGAPORE 272004",
-        "building_name": "GHIM MOH GREEN"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           103.890701,
           1.353932
         ]
@@ -5049,8 +3954,8 @@
         "street": "HOUGANG AVENUE 1",
         "lat": 1.353932,
         "lng": 103.890701,
-        "units_est": 92,
-        "floors": 25,
+        "units_est": 51,
+        "floors": 4,
         "nearest_tri_id": "IND-02",
         "nearest_tri_station": "Defu South / PLAB West",
         "corridor": "Independent Rail-Gap Discovery",
@@ -5085,8 +3990,8 @@
         "street": "HOUGANG AVENUE 1",
         "lat": 1.353055,
         "lng": 103.890144,
-        "units_est": 92,
-        "floors": 17,
+        "units_est": 70,
+        "floors": 4,
         "nearest_tri_id": "IND-02",
         "nearest_tri_station": "Defu South / PLAB West",
         "corridor": "Independent Rail-Gap Discovery",
@@ -5121,8 +4026,8 @@
         "street": "GHIM MOH ROAD",
         "lat": 1.313249,
         "lng": 103.788186,
-        "units_est": 163,
-        "floors": 22,
+        "units_est": 218,
+        "floors": 15,
         "nearest_tri_id": "TL-03",
         "nearest_tri_station": "Ghim Moh / Ulu Pandan North",
         "corridor": "Tengah Line (Study Corridor)",
@@ -5146,40 +4051,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.787085,
-          1.31265
-        ]
-      },
-      "properties": {
-        "category": "HDB",
-        "postal_code": "272002",
-        "name": "Blk 2A",
-        "blk_no": "2A",
-        "street": "GHIM MOH ROAD",
-        "lat": 1.31265,
-        "lng": 103.787085,
-        "units_est": 39,
-        "floors": 30,
-        "nearest_tri_id": "TL-03",
-        "nearest_tri_station": "Ghim Moh / Ulu Pandan North",
-        "corridor": "Tengah Line (Study Corridor)",
-        "dist_tri_m": 234,
-        "dist_existing_mrt_m": 750,
-        "rail_gap_saved_m": 516,
-        "station_posterior_pct": 88.9,
-        "est_mrt_alpha_pct": 6.43,
-        "benefit_score": 58.9,
-        "planning_area": "QUEENSTOWN",
-        "subzone": "GHIM MOH",
-        "official_address": "2A GHIM MOH ROAD GHIM MOH GREEN SINGAPORE 272002",
-        "building_name": "GHIM MOH GREEN"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           103.889483,
           1.352041
         ]
@@ -5192,8 +4063,8 @@
         "street": "HOUGANG AVENUE 1",
         "lat": 1.352041,
         "lng": 103.889483,
-        "units_est": 69,
-        "floors": 27,
+        "units_est": 98,
+        "floors": 15,
         "nearest_tri_id": "IND-02",
         "nearest_tri_station": "Defu South / PLAB West",
         "corridor": "Independent Rail-Gap Discovery",
@@ -5228,8 +4099,8 @@
         "street": "HOUGANG AVENUE 1",
         "lat": 1.354888,
         "lng": 103.89119,
-        "units_est": 98,
-        "floors": 25,
+        "units_est": 108,
+        "floors": 9,
         "nearest_tri_id": "IND-02",
         "nearest_tri_station": "Defu South / PLAB West",
         "corridor": "Independent Rail-Gap Discovery",
@@ -5252,40 +4123,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.788047,
-          1.312934
-        ]
-      },
-      "properties": {
-        "category": "HDB",
-        "postal_code": "273005",
-        "name": "Blk 5A",
-        "blk_no": "5A",
-        "street": "GHIM MOH ROAD",
-        "lat": 1.312934,
-        "lng": 103.788047,
-        "units_est": 66,
-        "floors": 25,
-        "nearest_tri_id": "TL-03",
-        "nearest_tri_station": "Ghim Moh / Ulu Pandan North",
-        "corridor": "Tengah Line (Study Corridor)",
-        "dist_tri_m": 233,
-        "dist_existing_mrt_m": 728,
-        "rail_gap_saved_m": 495,
-        "station_posterior_pct": 88.9,
-        "est_mrt_alpha_pct": 6.16,
-        "benefit_score": 58.2,
-        "planning_area": "QUEENSTOWN",
-        "subzone": "GHIM MOH",
-        "official_address": "5A GHIM MOH ROAD GHIM MOH GREEN SINGAPORE 273005",
-        "building_name": "GHIM MOH GREEN"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           103.736947,
           1.320763
         ]
@@ -5298,8 +4135,8 @@
         "street": "TEBAN GARDENS ROAD",
         "lat": 1.320763,
         "lng": 103.736947,
-        "units_est": 135,
-        "floors": 30,
+        "units_est": 72,
+        "floors": 13,
         "nearest_tri_id": "WCE-01",
         "nearest_tri_station": "Teban Gardens / Jurong River",
         "corridor": "JRL West Coast Ext (Unfixed Intermediate)",
@@ -5334,8 +4171,8 @@
         "street": "GHIM MOH ROAD",
         "lat": 1.312335,
         "lng": 103.786973,
-        "units_est": 134,
-        "floors": 25,
+        "units_est": 219,
+        "floors": 15,
         "nearest_tri_id": "TL-03",
         "nearest_tri_station": "Ghim Moh / Ulu Pandan North",
         "corridor": "Tengah Line (Study Corridor)",
@@ -5371,8 +4208,8 @@
         "street": "TEBAN GARDENS ROAD",
         "lat": 1.320558,
         "lng": 103.737863,
-        "units_est": 107,
-        "floors": 40,
+        "units_est": 72,
+        "floors": 13,
         "nearest_tri_id": "WCE-01",
         "nearest_tri_station": "Teban Gardens / Jurong River",
         "corridor": "JRL West Coast Ext (Unfixed Intermediate)",
@@ -5407,8 +4244,8 @@
         "street": "TEBAN GARDENS ROAD",
         "lat": 1.320988,
         "lng": 103.737435,
-        "units_est": 174,
-        "floors": 40,
+        "units_est": 124,
+        "floors": 13,
         "nearest_tri_id": "WCE-01",
         "nearest_tri_station": "Teban Gardens / Jurong River",
         "corridor": "JRL West Coast Ext (Unfixed Intermediate)",
@@ -5443,8 +4280,8 @@
         "street": "TEBAN GARDENS ROAD",
         "lat": 1.321666,
         "lng": 103.736943,
-        "units_est": 109,
-        "floors": 36,
+        "units_est": 31,
+        "floors": 4,
         "nearest_tri_id": "WCE-01",
         "nearest_tri_station": "Teban Gardens / Jurong River",
         "corridor": "JRL West Coast Ext (Unfixed Intermediate)",
@@ -5479,8 +4316,8 @@
         "street": "TEBAN GARDENS ROAD",
         "lat": 1.321401,
         "lng": 103.737601,
-        "units_est": 131,
-        "floors": 43,
+        "units_est": 120,
+        "floors": 13,
         "nearest_tri_id": "WCE-01",
         "nearest_tri_station": "Teban Gardens / Jurong River",
         "corridor": "JRL West Coast Ext (Unfixed Intermediate)",
@@ -5515,8 +4352,8 @@
         "street": "TEBAN GARDENS ROAD",
         "lat": 1.321022,
         "lng": 103.738176,
-        "units_est": 76,
-        "floors": 30,
+        "units_est": 15,
+        "floors": 4,
         "nearest_tri_id": "WCE-01",
         "nearest_tri_station": "Teban Gardens / Jurong River",
         "corridor": "JRL West Coast Ext (Unfixed Intermediate)",
@@ -5548,8 +4385,8 @@
         "street": "CLEMENTI AVENUE 5",
         "lat": 1.317897,
         "lng": 103.770909,
-        "units_est": 100,
-        "floors": 14,
+        "units_est": 152,
+        "floors": 12,
         "nearest_tri_id": "TL-02",
         "nearest_tri_station": "Ulu Pandan / Holland Plain West",
         "corridor": "Tengah Line (Study Corridor)",
@@ -5581,8 +4418,8 @@
         "street": "CLEMENTI AVENUE 5",
         "lat": 1.318728,
         "lng": 103.770077,
-        "units_est": 62,
-        "floors": 14,
+        "units_est": 110,
+        "floors": 12,
         "nearest_tri_id": "TL-02",
         "nearest_tri_station": "Ulu Pandan / Holland Plain West",
         "corridor": "Tengah Line (Study Corridor)",
@@ -5614,8 +4451,8 @@
         "street": "CLEMENTI AVENUE 5",
         "lat": 1.317157,
         "lng": 103.770783,
-        "units_est": 55,
-        "floors": 13,
+        "units_est": 110,
+        "floors": 12,
         "nearest_tri_id": "TL-02",
         "nearest_tri_station": "Ulu Pandan / Holland Plain West",
         "corridor": "Tengah Line (Study Corridor)",
