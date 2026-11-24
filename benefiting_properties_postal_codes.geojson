@@ -32,7 +32,15 @@
         "planning_area": "SIMPANG",
         "subzone": "SIMPANG SOUTH",
         "official_address": "478A YISHUN STREET 44 VALLEY SPRING @ YISHUN SINGAPORE 761478",
-        "building_name": "VALLEY SPRING @ YISHUN"
+        "building_name": "VALLEY SPRING @ YISHUN",
+        "ecda_400m": 7,
+        "infantcare_400m": 6,
+        "childcare_400m": 6,
+        "aop_pop_400m": 6,
+        "scc_500m": 1,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 82,
+        "nearest_infant_m": 82
       }
     },
     {
@@ -66,7 +74,15 @@
         "planning_area": "SIMPANG",
         "subzone": "SIMPANG SOUTH",
         "official_address": "479A YISHUN STREET 42 VALLEY SPRING @ YISHUN SINGAPORE 761479",
-        "building_name": "VALLEY SPRING @ YISHUN"
+        "building_name": "VALLEY SPRING @ YISHUN",
+        "ecda_400m": 9,
+        "infantcare_400m": 6,
+        "childcare_400m": 7,
+        "aop_pop_400m": 8,
+        "scc_500m": 1,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 51,
+        "nearest_infant_m": 51
       }
     },
     {
@@ -100,7 +116,15 @@
         "planning_area": "SIMPANG",
         "subzone": "SIMPANG SOUTH",
         "official_address": "461B YISHUN AVENUE 6 BLOSSOM SPRING @ YISHUN SINGAPORE 762461",
-        "building_name": "BLOSSOM SPRING @ YISHUN"
+        "building_name": "BLOSSOM SPRING @ YISHUN",
+        "ecda_400m": 9,
+        "infantcare_400m": 7,
+        "childcare_400m": 8,
+        "aop_pop_400m": 8,
+        "scc_500m": 1,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 70,
+        "nearest_infant_m": 70
       }
     },
     {
@@ -134,7 +158,15 @@
         "planning_area": "SIMPANG",
         "subzone": "SIMPANG SOUTH",
         "official_address": "476B YISHUN STREET 44 MELODY SPRING@ YISHUN SINGAPORE 762476",
-        "building_name": "MELODY SPRING@ YISHUN"
+        "building_name": "MELODY SPRING@ YISHUN",
+        "ecda_400m": 4,
+        "infantcare_400m": 4,
+        "childcare_400m": 4,
+        "aop_pop_400m": 4,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 80,
+        "nearest_infant_m": 80
       }
     },
     {
@@ -168,7 +200,15 @@
         "planning_area": "HOUGANG",
         "subzone": "TRAFALGAR",
         "official_address": "408A FERNVALE ROAD CORAL VALE SINGAPORE 791408",
-        "building_name": "CORAL VALE"
+        "building_name": "CORAL VALE",
+        "ecda_400m": 6,
+        "infantcare_400m": 3,
+        "childcare_400m": 4,
+        "aop_pop_400m": 3,
+        "scc_500m": 3,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 109,
+        "nearest_infant_m": 109
       }
     },
     {
@@ -204,7 +244,15 @@
         "official_address": "433 YISHUN AVENUE 6 SINGAPORE 760433",
         "building_name": "",
         "recent_resale_median_sgd": 478000,
-        "remaining_lease": "61 years 05 months"
+        "remaining_lease": "61 years 05 months",
+        "ecda_400m": 4,
+        "infantcare_400m": 3,
+        "childcare_400m": 3,
+        "aop_pop_400m": 4,
+        "scc_500m": 1,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 151,
+        "nearest_infant_m": 151
       }
     },
     {
@@ -240,7 +288,15 @@
         "official_address": "458 YISHUN AVENUE 11 DEW SPRING @ YISHUN SINGAPORE 760458",
         "building_name": "DEW SPRING @ YISHUN",
         "recent_resale_median_sgd": 575000,
-        "remaining_lease": "86 years 02 months"
+        "remaining_lease": "86 years 02 months",
+        "ecda_400m": 6,
+        "infantcare_400m": 5,
+        "childcare_400m": 5,
+        "aop_pop_400m": 6,
+        "scc_500m": 1,
+        "pri_sch_1km": 4,
+        "nearest_ecda_m": 275,
+        "nearest_infant_m": 275
       }
     },
     {
@@ -276,7 +332,15 @@
         "official_address": "459 YISHUN AVENUE 11 DEW SPRING @ YISHUN SINGAPORE 760459",
         "building_name": "DEW SPRING @ YISHUN",
         "recent_resale_median_sgd": 350000,
-        "remaining_lease": "85 years 11 months"
+        "remaining_lease": "85 years 11 months",
+        "ecda_400m": 7,
+        "infantcare_400m": 6,
+        "childcare_400m": 6,
+        "aop_pop_400m": 7,
+        "scc_500m": 1,
+        "pri_sch_1km": 4,
+        "nearest_ecda_m": 250,
+        "nearest_infant_m": 250
       }
     },
     {
@@ -312,7 +376,15 @@
         "official_address": "431B YISHUN AVENUE 1 VISTA SPRING @ YISHUN SINGAPORE 762431",
         "building_name": "VISTA SPRING @ YISHUN",
         "recent_resale_median_sgd": 580000,
-        "remaining_lease": "88 years 07 months"
+        "remaining_lease": "88 years 07 months",
+        "ecda_400m": 5,
+        "infantcare_400m": 4,
+        "childcare_400m": 4,
+        "aop_pop_400m": 5,
+        "scc_500m": 1,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 191,
+        "nearest_infant_m": 191
       }
     },
     {
@@ -348,7 +420,15 @@
         "official_address": "457 YISHUN STREET 41 DEW SPRING @ YISHUN SINGAPORE 760457",
         "building_name": "DEW SPRING @ YISHUN",
         "recent_resale_median_sgd": 575000,
-        "remaining_lease": "86 years 03 months"
+        "remaining_lease": "86 years 03 months",
+        "ecda_400m": 6,
+        "infantcare_400m": 5,
+        "childcare_400m": 5,
+        "aop_pop_400m": 6,
+        "scc_500m": 1,
+        "pri_sch_1km": 4,
+        "nearest_ecda_m": 225,
+        "nearest_infant_m": 225
       }
     },
     {
@@ -384,7 +464,15 @@
         "official_address": "232 LORONG 8 TOA PAYOH PCF SPARKLETOTS PRESCHOOL @ TOA PAYOH EAST-NOVENA 232 (CC) SINGAPORE 310232",
         "building_name": "PCF SPARKLETOTS PRESCHOOL @ TOA PAYOH EAST-NOVENA 232 (CC)",
         "recent_resale_median_sgd": 363000,
-        "remaining_lease": "49 years 03 months"
+        "remaining_lease": "49 years 03 months",
+        "ecda_400m": 3,
+        "infantcare_400m": 2,
+        "childcare_400m": 3,
+        "aop_pop_400m": 3,
+        "scc_500m": 2,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 5,
+        "nearest_infant_m": 5
       }
     },
     {
@@ -420,7 +508,15 @@
         "official_address": "11 LORONG 8 TOA PAYOH TOA PAYOH COURT SINGAPORE 310011",
         "building_name": "TOA PAYOH COURT",
         "recent_resale_median_sgd": 715000,
-        "remaining_lease": "70 years 10 months"
+        "remaining_lease": "70 years 10 months",
+        "ecda_400m": 4,
+        "infantcare_400m": 2,
+        "childcare_400m": 4,
+        "aop_pop_400m": 4,
+        "scc_500m": 1,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 51,
+        "nearest_infant_m": 51
       }
     },
     {
@@ -456,7 +552,15 @@
         "official_address": "10B LORONG 7 TOA PAYOH TOA PAYOH COURT SINGAPORE 312010",
         "building_name": "TOA PAYOH COURT",
         "recent_resale_median_sgd": 765000,
-        "remaining_lease": "72 years 06 months"
+        "remaining_lease": "72 years 06 months",
+        "ecda_400m": 4,
+        "infantcare_400m": 2,
+        "childcare_400m": 4,
+        "aop_pop_400m": 4,
+        "scc_500m": 3,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 71,
+        "nearest_infant_m": 71
       }
     },
     {
@@ -492,7 +596,15 @@
         "official_address": "14 LORONG 7 TOA PAYOH TOA PAYOH COURT SINGAPORE 310014",
         "building_name": "TOA PAYOH COURT",
         "recent_resale_median_sgd": 788888,
-        "remaining_lease": "71 years 02 months"
+        "remaining_lease": "71 years 02 months",
+        "ecda_400m": 4,
+        "infantcare_400m": 2,
+        "childcare_400m": 4,
+        "aop_pop_400m": 4,
+        "scc_500m": 2,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 44,
+        "nearest_infant_m": 44
       }
     },
     {
@@ -528,7 +640,15 @@
         "official_address": "233 LORONG 8 TOA PAYOH TOA PAYOH EIGHT SINGAPORE 310233",
         "building_name": "TOA PAYOH EIGHT",
         "recent_resale_median_sgd": 360000,
-        "remaining_lease": "54 years 02 months"
+        "remaining_lease": "54 years 02 months",
+        "ecda_400m": 5,
+        "infantcare_400m": 2,
+        "childcare_400m": 4,
+        "aop_pop_400m": 3,
+        "scc_500m": 2,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 91,
+        "nearest_infant_m": 91
       }
     },
     {
@@ -562,7 +682,15 @@
         "planning_area": "SENGKANG",
         "subzone": "FERNVALE",
         "official_address": "461B SENGKANG WEST WAY FERNVALE GLADES SINGAPORE 792461",
-        "building_name": "FERNVALE GLADES"
+        "building_name": "FERNVALE GLADES",
+        "ecda_400m": 3,
+        "infantcare_400m": 3,
+        "childcare_400m": 3,
+        "aop_pop_400m": 3,
+        "scc_500m": 1,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 212,
+        "nearest_infant_m": 212
       }
     },
     {
@@ -598,7 +726,15 @@
         "official_address": "122 SENGKANG EAST WAY RIVERVALE BANK SINGAPORE 540122",
         "building_name": "RIVERVALE BANK",
         "recent_resale_median_sgd": 605000,
-        "remaining_lease": "73 years 06 months"
+        "remaining_lease": "73 years 06 months",
+        "ecda_400m": 6,
+        "infantcare_400m": 4,
+        "childcare_400m": 5,
+        "aop_pop_400m": 6,
+        "scc_500m": 1,
+        "pri_sch_1km": 4,
+        "nearest_ecda_m": 83,
+        "nearest_infant_m": 125
       }
     },
     {
@@ -634,7 +770,15 @@
         "official_address": "122A SENGKANG EAST WAY RIVERVALE BANK SINGAPORE 541122",
         "building_name": "RIVERVALE BANK",
         "recent_resale_median_sgd": 608888,
-        "remaining_lease": "73 years"
+        "remaining_lease": "73 years",
+        "ecda_400m": 6,
+        "infantcare_400m": 4,
+        "childcare_400m": 5,
+        "aop_pop_400m": 6,
+        "scc_500m": 1,
+        "pri_sch_1km": 4,
+        "nearest_ecda_m": 13,
+        "nearest_infant_m": 56
       }
     },
     {
@@ -670,7 +814,15 @@
         "official_address": "122B SENGKANG EAST WAY RIVERVALE BANK SINGAPORE 542122",
         "building_name": "RIVERVALE BANK",
         "recent_resale_median_sgd": 770000,
-        "remaining_lease": "74 years 02 months"
+        "remaining_lease": "74 years 02 months",
+        "ecda_400m": 7,
+        "infantcare_400m": 5,
+        "childcare_400m": 6,
+        "aop_pop_400m": 7,
+        "scc_500m": 1,
+        "pri_sch_1km": 4,
+        "nearest_ecda_m": 84,
+        "nearest_infant_m": 91
       }
     },
     {
@@ -704,7 +856,15 @@
         "planning_area": "PAYA LEBAR",
         "subzone": "PAYA LEBAR EAST",
         "official_address": "872A TAMPINES STREET 86 SINGAPORE 521872",
-        "building_name": ""
+        "building_name": "",
+        "ecda_400m": 10,
+        "infantcare_400m": 7,
+        "childcare_400m": 8,
+        "aop_pop_400m": 7,
+        "scc_500m": 0,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 112,
+        "nearest_infant_m": 112
       }
     },
     {
@@ -740,7 +900,15 @@
         "official_address": "202 MARSILING DRIVE MARSILING ADMIRALTY PARK SINGAPORE 730202",
         "building_name": "MARSILING ADMIRALTY PARK",
         "recent_resale_median_sgd": 458000,
-        "remaining_lease": "53 years 10 months"
+        "remaining_lease": "53 years 10 months",
+        "ecda_400m": 4,
+        "infantcare_400m": 3,
+        "childcare_400m": 4,
+        "aop_pop_400m": 3,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 252,
+        "nearest_infant_m": 252
       }
     },
     {
@@ -774,7 +942,15 @@
         "planning_area": "HOUGANG",
         "subzone": "TRAFALGAR",
         "official_address": "406A FERNVALE ROAD FERN VIEW SINGAPORE 791406",
-        "building_name": "FERN VIEW"
+        "building_name": "FERN VIEW",
+        "ecda_400m": 6,
+        "infantcare_400m": 4,
+        "childcare_400m": 4,
+        "aop_pop_400m": 4,
+        "scc_500m": 2,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 253,
+        "nearest_infant_m": 321
       }
     },
     {
@@ -808,7 +984,15 @@
         "planning_area": "HOUGANG",
         "subzone": "TRAFALGAR",
         "official_address": "406C FERNVALE ROAD FERN VIEW SINGAPORE 793406",
-        "building_name": "FERN VIEW"
+        "building_name": "FERN VIEW",
+        "ecda_400m": 6,
+        "infantcare_400m": 4,
+        "childcare_400m": 4,
+        "aop_pop_400m": 4,
+        "scc_500m": 3,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 189,
+        "nearest_infant_m": 274
       }
     },
     {
@@ -842,7 +1026,15 @@
         "planning_area": "HOUGANG",
         "subzone": "TRAFALGAR",
         "official_address": "406B FERNVALE ROAD FERN VIEW SINGAPORE 792406",
-        "building_name": "FERN VIEW"
+        "building_name": "FERN VIEW",
+        "ecda_400m": 6,
+        "infantcare_400m": 4,
+        "childcare_400m": 4,
+        "aop_pop_400m": 4,
+        "scc_500m": 3,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 200,
+        "nearest_infant_m": 276
       }
     },
     {
@@ -876,7 +1068,15 @@
         "planning_area": "HOUGANG",
         "subzone": "TRAFALGAR",
         "official_address": "408C FERNVALE ROAD CORAL VALE SINGAPORE 793408",
-        "building_name": "CORAL VALE"
+        "building_name": "CORAL VALE",
+        "ecda_400m": 8,
+        "infantcare_400m": 4,
+        "childcare_400m": 5,
+        "aop_pop_400m": 4,
+        "scc_500m": 3,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 82,
+        "nearest_infant_m": 82
       }
     },
     {
@@ -910,7 +1110,15 @@
         "planning_area": "PAYA LEBAR",
         "subzone": "PAYA LEBAR EAST",
         "official_address": "874B TAMPINES STREET 85 TAMPINES GREENFLORA SINGAPORE 522874",
-        "building_name": "TAMPINES GREENFLORA"
+        "building_name": "TAMPINES GREENFLORA",
+        "ecda_400m": 8,
+        "infantcare_400m": 5,
+        "childcare_400m": 6,
+        "aop_pop_400m": 5,
+        "scc_500m": 0,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 185,
+        "nearest_infant_m": 185
       }
     },
     {
@@ -946,7 +1154,15 @@
         "official_address": "201 MARSILING DRIVE MARSILING ADMIRALTY PARK SINGAPORE 730201",
         "building_name": "MARSILING ADMIRALTY PARK",
         "recent_resale_median_sgd": 446500,
-        "remaining_lease": "52 years 11 months"
+        "remaining_lease": "52 years 11 months",
+        "ecda_400m": 4,
+        "infantcare_400m": 3,
+        "childcare_400m": 4,
+        "aop_pop_400m": 3,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 271,
+        "nearest_infant_m": 271
       }
     },
     {
@@ -982,7 +1198,15 @@
         "official_address": "203 MARSILING DRIVE MARSILING ADMIRALTY PARK SINGAPORE 730203",
         "building_name": "MARSILING ADMIRALTY PARK",
         "recent_resale_median_sgd": 370000,
-        "remaining_lease": "54 years 02 months"
+        "remaining_lease": "54 years 02 months",
+        "ecda_400m": 4,
+        "infantcare_400m": 3,
+        "childcare_400m": 4,
+        "aop_pop_400m": 3,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 173,
+        "nearest_infant_m": 173
       }
     },
     {
@@ -1018,7 +1242,15 @@
         "official_address": "122C SENGKANG EAST WAY RIVERVALE BANK SINGAPORE 543122",
         "building_name": "RIVERVALE BANK",
         "recent_resale_median_sgd": 818000,
-        "remaining_lease": "72 years 10 months"
+        "remaining_lease": "72 years 10 months",
+        "ecda_400m": 7,
+        "infantcare_400m": 4,
+        "childcare_400m": 6,
+        "aop_pop_400m": 6,
+        "scc_500m": 1,
+        "pri_sch_1km": 4,
+        "nearest_ecda_m": 78,
+        "nearest_infant_m": 78
       }
     },
     {
@@ -1052,7 +1284,15 @@
         "planning_area": "SUNGEI KADUT",
         "subzone": "GALI BATU",
         "official_address": "549B SEGAR ROAD SEGAR PALMVIEW SINGAPORE 672549",
-        "building_name": "SEGAR PALMVIEW"
+        "building_name": "SEGAR PALMVIEW",
+        "ecda_400m": 6,
+        "infantcare_400m": 3,
+        "childcare_400m": 4,
+        "aop_pop_400m": 5,
+        "scc_500m": 3,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 53,
+        "nearest_infant_m": 53
       }
     },
     {
@@ -1088,7 +1328,15 @@
         "official_address": "252 BANGKIT ROAD SINGAPORE 670252",
         "building_name": "",
         "recent_resale_median_sgd": 562000,
-        "remaining_lease": "61 years 11 months"
+        "remaining_lease": "61 years 11 months",
+        "ecda_400m": 4,
+        "infantcare_400m": 3,
+        "childcare_400m": 3,
+        "aop_pop_400m": 3,
+        "scc_500m": 1,
+        "pri_sch_1km": 4,
+        "nearest_ecda_m": 46,
+        "nearest_infant_m": 46
       }
     },
     {
@@ -1124,7 +1372,15 @@
         "official_address": "253 BANGKIT ROAD SINGAPORE 670253",
         "building_name": "",
         "recent_resale_median_sgd": 598888,
-        "remaining_lease": "61 years 05 months"
+        "remaining_lease": "61 years 05 months",
+        "ecda_400m": 3,
+        "infantcare_400m": 2,
+        "childcare_400m": 2,
+        "aop_pop_400m": 2,
+        "scc_500m": 1,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 107,
+        "nearest_infant_m": 107
       }
     },
     {
@@ -1160,7 +1416,15 @@
         "official_address": "204 MARSILING DRIVE NKF DIALYSIS CENTRE SINGAPORE 730204",
         "building_name": "NKF DIALYSIS CENTRE",
         "recent_resale_median_sgd": 381988,
-        "remaining_lease": "53 years 06 months"
+        "remaining_lease": "53 years 06 months",
+        "ecda_400m": 4,
+        "infantcare_400m": 3,
+        "childcare_400m": 4,
+        "aop_pop_400m": 3,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 144,
+        "nearest_infant_m": 144
       }
     },
     {
@@ -1194,7 +1458,15 @@
         "planning_area": "SUNGEI KADUT",
         "subzone": "GALI BATU",
         "official_address": "549A SEGAR ROAD SEGAR PALMVIEW SINGAPORE 671549",
-        "building_name": "SEGAR PALMVIEW"
+        "building_name": "SEGAR PALMVIEW",
+        "ecda_400m": 6,
+        "infantcare_400m": 3,
+        "childcare_400m": 4,
+        "aop_pop_400m": 5,
+        "scc_500m": 3,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 104,
+        "nearest_infant_m": 104
       }
     },
     {
@@ -1230,7 +1502,15 @@
         "official_address": "251 BANGKIT ROAD SINGAPORE 670251",
         "building_name": "",
         "recent_resale_median_sgd": 510888,
-        "remaining_lease": "61 years 09 months"
+        "remaining_lease": "61 years 09 months",
+        "ecda_400m": 4,
+        "infantcare_400m": 3,
+        "childcare_400m": 3,
+        "aop_pop_400m": 3,
+        "scc_500m": 3,
+        "pri_sch_1km": 4,
+        "nearest_ecda_m": 81,
+        "nearest_infant_m": 81
       }
     },
     {
@@ -1266,7 +1546,15 @@
         "official_address": "254 BANGKIT ROAD PCF SPARKLETOTS PRESCHOOL @ BUKIT PANJANG 254 (CC) SINGAPORE 670254",
         "building_name": "PCF SPARKLETOTS PRESCHOOL @ BUKIT PANJANG 254 (CC)",
         "recent_resale_median_sgd": 945000,
-        "remaining_lease": "60 years 06 months"
+        "remaining_lease": "60 years 06 months",
+        "ecda_400m": 4,
+        "infantcare_400m": 3,
+        "childcare_400m": 3,
+        "aop_pop_400m": 3,
+        "scc_500m": 1,
+        "pri_sch_1km": 4,
+        "nearest_ecda_m": 4,
+        "nearest_infant_m": 4
       }
     },
     {
@@ -1300,7 +1588,15 @@
         "planning_area": "SUNGEI KADUT",
         "subzone": "GALI BATU",
         "official_address": "550B SEGAR ROAD SEGAR PALMVIEW SINGAPORE 672550",
-        "building_name": "SEGAR PALMVIEW"
+        "building_name": "SEGAR PALMVIEW",
+        "ecda_400m": 6,
+        "infantcare_400m": 2,
+        "childcare_400m": 4,
+        "aop_pop_400m": 5,
+        "scc_500m": 3,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 10,
+        "nearest_infant_m": 10
       }
     },
     {
@@ -1336,7 +1632,15 @@
         "official_address": "283 YISHUN AVENUE 6 FICUS VALE SINGAPORE 760283",
         "building_name": "FICUS VALE",
         "recent_resale_median_sgd": 510000,
-        "remaining_lease": "58 years 05 months"
+        "remaining_lease": "58 years 05 months",
+        "ecda_400m": 3,
+        "infantcare_400m": 1,
+        "childcare_400m": 3,
+        "aop_pop_400m": 2,
+        "scc_500m": 2,
+        "pri_sch_1km": 4,
+        "nearest_ecda_m": 197,
+        "nearest_infant_m": 284
       }
     },
     {
@@ -1372,7 +1676,15 @@
         "official_address": "250 BANGKIT ROAD SINGAPORE 670250",
         "building_name": "",
         "recent_resale_median_sgd": 523000,
-        "remaining_lease": "61 years 10 months"
+        "remaining_lease": "61 years 10 months",
+        "ecda_400m": 3,
+        "infantcare_400m": 2,
+        "childcare_400m": 2,
+        "aop_pop_400m": 2,
+        "scc_500m": 4,
+        "pri_sch_1km": 4,
+        "nearest_ecda_m": 118,
+        "nearest_infant_m": 118
       }
     },
     {
@@ -1408,7 +1720,15 @@
         "official_address": "20 TELOK BLANGAH CRESCENT MOUNT FABER VIEW SINGAPORE 090020",
         "building_name": "MOUNT FABER VIEW",
         "recent_resale_median_sgd": 990000,
-        "remaining_lease": "76 years 04 months"
+        "remaining_lease": "76 years 04 months",
+        "ecda_400m": 4,
+        "infantcare_400m": 2,
+        "childcare_400m": 3,
+        "aop_pop_400m": 3,
+        "scc_500m": 1,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 135,
+        "nearest_infant_m": 135
       }
     },
     {
@@ -1444,7 +1764,15 @@
         "official_address": "248 BANGKIT ROAD SINGAPORE 670248",
         "building_name": "",
         "recent_resale_median_sgd": 540000,
-        "remaining_lease": "60 years 11 months"
+        "remaining_lease": "60 years 11 months",
+        "ecda_400m": 3,
+        "infantcare_400m": 2,
+        "childcare_400m": 2,
+        "aop_pop_400m": 2,
+        "scc_500m": 2,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 182,
+        "nearest_infant_m": 182
       }
     },
     {
@@ -1480,7 +1808,15 @@
         "official_address": "272 YISHUN STREET 22 SINGAPORE 760272",
         "building_name": "",
         "recent_resale_median_sgd": 490000,
-        "remaining_lease": "60 years 04 months"
+        "remaining_lease": "60 years 04 months",
+        "ecda_400m": 3,
+        "infantcare_400m": 1,
+        "childcare_400m": 3,
+        "aop_pop_400m": 2,
+        "scc_500m": 2,
+        "pri_sch_1km": 4,
+        "nearest_ecda_m": 78,
+        "nearest_infant_m": 297
       }
     },
     {
@@ -1516,7 +1852,15 @@
         "official_address": "21 TELOK BLANGAH CRESCENT MOUNT FABER VIEW SINGAPORE 090021",
         "building_name": "MOUNT FABER VIEW",
         "recent_resale_median_sgd": 945000,
-        "remaining_lease": "76 years"
+        "remaining_lease": "76 years",
+        "ecda_400m": 4,
+        "infantcare_400m": 2,
+        "childcare_400m": 3,
+        "aop_pop_400m": 3,
+        "scc_500m": 1,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 148,
+        "nearest_infant_m": 148
       }
     },
     {
@@ -1550,7 +1894,15 @@
         "planning_area": "CHOA CHU KANG",
         "subzone": "TECK WHYE",
         "official_address": "113 TECK WHYE LANE SINGAPORE 680113",
-        "building_name": ""
+        "building_name": "",
+        "ecda_400m": 8,
+        "infantcare_400m": 4,
+        "childcare_400m": 7,
+        "aop_pop_400m": 7,
+        "scc_500m": 3,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 114,
+        "nearest_infant_m": 212
       }
     },
     {
@@ -1586,7 +1938,15 @@
         "official_address": "284 YISHUN AVENUE 6 FICUS VALE SINGAPORE 760284",
         "building_name": "FICUS VALE",
         "recent_resale_median_sgd": 400000,
-        "remaining_lease": "59 years 10 months"
+        "remaining_lease": "59 years 10 months",
+        "ecda_400m": 3,
+        "infantcare_400m": 1,
+        "childcare_400m": 3,
+        "aop_pop_400m": 2,
+        "scc_500m": 2,
+        "pri_sch_1km": 4,
+        "nearest_ecda_m": 207,
+        "nearest_infant_m": 283
       }
     },
     {
@@ -1622,7 +1982,15 @@
         "official_address": "278 YISHUN STREET 22 FICUS VALE SINGAPORE 760278",
         "building_name": "FICUS VALE",
         "recent_resale_median_sgd": 505888,
-        "remaining_lease": "58 years 01 month"
+        "remaining_lease": "58 years 01 month",
+        "ecda_400m": 4,
+        "infantcare_400m": 1,
+        "childcare_400m": 4,
+        "aop_pop_400m": 3,
+        "scc_500m": 2,
+        "pri_sch_1km": 4,
+        "nearest_ecda_m": 121,
+        "nearest_infant_m": 121
       }
     },
     {
@@ -1658,7 +2026,15 @@
         "official_address": "282 YISHUN AVENUE 6 FICUS VALE SINGAPORE 760282",
         "building_name": "FICUS VALE",
         "recent_resale_median_sgd": 420000,
-        "remaining_lease": "60 years 06 months"
+        "remaining_lease": "60 years 06 months",
+        "ecda_400m": 3,
+        "infantcare_400m": 1,
+        "childcare_400m": 3,
+        "aop_pop_400m": 2,
+        "scc_500m": 2,
+        "pri_sch_1km": 4,
+        "nearest_ecda_m": 234,
+        "nearest_infant_m": 234
       }
     },
     {
@@ -1694,7 +2070,15 @@
         "official_address": "6 MARSILING DRIVE MARSILING GARDENS SINGAPORE 730006",
         "building_name": "MARSILING GARDENS",
         "recent_resale_median_sgd": 365000,
-        "remaining_lease": "48 years 05 months"
+        "remaining_lease": "48 years 05 months",
+        "ecda_400m": 3,
+        "infantcare_400m": 2,
+        "childcare_400m": 3,
+        "aop_pop_400m": 2,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 301,
+        "nearest_infant_m": 301
       }
     },
     {
@@ -1730,7 +2114,15 @@
         "official_address": "17A TELOK BLANGAH CRESCENT MOUNT FABER VIEW SINGAPORE 091017",
         "building_name": "MOUNT FABER VIEW",
         "recent_resale_median_sgd": 780000,
-        "remaining_lease": "74 years 03 months"
+        "remaining_lease": "74 years 03 months",
+        "ecda_400m": 3,
+        "infantcare_400m": 2,
+        "childcare_400m": 2,
+        "aop_pop_400m": 2,
+        "scc_500m": 1,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 140,
+        "nearest_infant_m": 140
       }
     },
     {
@@ -1764,7 +2156,15 @@
         "planning_area": "YISHUN",
         "subzone": "NORTHLAND",
         "official_address": "285 YISHUN AVENUE 6 FICUS VALE SINGAPORE 760285",
-        "building_name": "FICUS VALE"
+        "building_name": "FICUS VALE",
+        "ecda_400m": 3,
+        "infantcare_400m": 1,
+        "childcare_400m": 3,
+        "aop_pop_400m": 2,
+        "scc_500m": 2,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 144,
+        "nearest_infant_m": 352
       }
     },
     {
@@ -1800,7 +2200,15 @@
         "official_address": "19 TELOK BLANGAH CRESCENT MOUNT FABER VIEW SINGAPORE 090019",
         "building_name": "MOUNT FABER VIEW",
         "recent_resale_median_sgd": 1080000,
-        "remaining_lease": "76 years 08 months"
+        "remaining_lease": "76 years 08 months",
+        "ecda_400m": 3,
+        "infantcare_400m": 2,
+        "childcare_400m": 2,
+        "aop_pop_400m": 2,
+        "scc_500m": 1,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 51,
+        "nearest_infant_m": 51
       }
     },
     {
@@ -1834,7 +2242,15 @@
         "planning_area": "NOVENA",
         "subzone": "BALESTIER",
         "official_address": "76 LORONG LIMAU WHAMPOA SPRING SINGAPORE 320076",
-        "building_name": "WHAMPOA SPRING"
+        "building_name": "WHAMPOA SPRING",
+        "ecda_400m": 5,
+        "infantcare_400m": 2,
+        "childcare_400m": 4,
+        "aop_pop_400m": 4,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 214,
+        "nearest_infant_m": 214
       }
     },
     {
@@ -1870,7 +2286,15 @@
         "official_address": "228B PUNGGOL FIELD MATILDA SUNDECK SINGAPORE 822228",
         "building_name": "MATILDA SUNDECK",
         "recent_resale_median_sgd": 679000,
-        "remaining_lease": "94 years 01 month"
+        "remaining_lease": "94 years 01 month",
+        "ecda_400m": 3,
+        "infantcare_400m": 3,
+        "childcare_400m": 3,
+        "aop_pop_400m": 3,
+        "scc_500m": 0,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 58,
+        "nearest_infant_m": 58
       }
     },
     {
@@ -1904,7 +2328,15 @@
         "planning_area": "SUNGEI KADUT",
         "subzone": "GALI BATU",
         "official_address": "550A SEGAR ROAD SEGAR PALMVIEW SINGAPORE 671550",
-        "building_name": "SEGAR PALMVIEW"
+        "building_name": "SEGAR PALMVIEW",
+        "ecda_400m": 7,
+        "infantcare_400m": 3,
+        "childcare_400m": 5,
+        "aop_pop_400m": 6,
+        "scc_500m": 3,
+        "pri_sch_1km": 4,
+        "nearest_ecda_m": 45,
+        "nearest_infant_m": 45
       }
     },
     {
@@ -1938,7 +2370,15 @@
         "planning_area": "NOVENA",
         "subzone": "BALESTIER",
         "official_address": "109 WHAMPOA ROAD WHAMPOA GARDENS SINGAPORE 321109",
-        "building_name": "WHAMPOA GARDENS"
+        "building_name": "WHAMPOA GARDENS",
+        "ecda_400m": 3,
+        "infantcare_400m": 3,
+        "childcare_400m": 3,
+        "aop_pop_400m": 3,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 258,
+        "nearest_infant_m": 258
       }
     },
     {
@@ -1974,7 +2414,15 @@
         "official_address": "115C YISHUN RING ROAD CHONG PANG GARDEN SINGAPORE 763115",
         "building_name": "CHONG PANG GARDEN",
         "recent_resale_median_sgd": 507000,
-        "remaining_lease": "75 years"
+        "remaining_lease": "75 years",
+        "ecda_400m": 4,
+        "infantcare_400m": 2,
+        "childcare_400m": 2,
+        "aop_pop_400m": 2,
+        "scc_500m": 1,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 62,
+        "nearest_infant_m": 62
       }
     },
     {
@@ -2008,7 +2456,15 @@
         "planning_area": "ANG MO KIO",
         "subzone": "CHONG BOON",
         "official_address": "401 ANG MO KIO AVENUE 10 SINGAPORE 560401",
-        "building_name": ""
+        "building_name": "",
+        "ecda_400m": 0,
+        "infantcare_400m": 0,
+        "childcare_400m": 0,
+        "aop_pop_400m": 0,
+        "scc_500m": 2,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 426,
+        "nearest_infant_m": 426
       }
     },
     {
@@ -2044,7 +2500,15 @@
         "official_address": "228A PUNGGOL FIELD MATILDA SUNDECK SINGAPORE 821228",
         "building_name": "MATILDA SUNDECK",
         "recent_resale_median_sgd": 665000,
-        "remaining_lease": "94 years"
+        "remaining_lease": "94 years",
+        "ecda_400m": 5,
+        "infantcare_400m": 5,
+        "childcare_400m": 5,
+        "aop_pop_400m": 5,
+        "scc_500m": 0,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 59,
+        "nearest_infant_m": 59
       }
     },
     {
@@ -2080,7 +2544,15 @@
         "official_address": "290F BUKIT BATOK STREET 24 SPRING VIEW SINGAPORE 655290",
         "building_name": "SPRING VIEW",
         "recent_resale_median_sgd": 630000,
-        "remaining_lease": "70 years 06 months"
+        "remaining_lease": "70 years 06 months",
+        "ecda_400m": 3,
+        "infantcare_400m": 2,
+        "childcare_400m": 3,
+        "aop_pop_400m": 3,
+        "scc_500m": 4,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 171,
+        "nearest_infant_m": 171
       }
     },
     {
@@ -2114,7 +2586,15 @@
         "planning_area": "NOVENA",
         "subzone": "BALESTIER",
         "official_address": "77 LORONG LIMAU WHAMPOA SPRING SINGAPORE 320077",
-        "building_name": "WHAMPOA SPRING"
+        "building_name": "WHAMPOA SPRING",
+        "ecda_400m": 5,
+        "infantcare_400m": 2,
+        "childcare_400m": 4,
+        "aop_pop_400m": 4,
+        "scc_500m": 1,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 181,
+        "nearest_infant_m": 181
       }
     },
     {
@@ -2150,7 +2630,15 @@
         "official_address": "114 TECK WHYE LANE SINGAPORE 680114",
         "building_name": "",
         "recent_resale_median_sgd": 515000,
-        "remaining_lease": "62 years"
+        "remaining_lease": "62 years",
+        "ecda_400m": 10,
+        "infantcare_400m": 5,
+        "childcare_400m": 8,
+        "aop_pop_400m": 9,
+        "scc_500m": 4,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 76,
+        "nearest_infant_m": 181
       }
     },
     {
@@ -2186,7 +2674,15 @@
         "official_address": "229B SUMANG LANE MATILDA SUNDECK SINGAPORE 822229",
         "building_name": "MATILDA SUNDECK",
         "recent_resale_median_sgd": 656000,
-        "remaining_lease": "94 years"
+        "remaining_lease": "94 years",
+        "ecda_400m": 4,
+        "infantcare_400m": 4,
+        "childcare_400m": 4,
+        "aop_pop_400m": 4,
+        "scc_500m": 0,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 59,
+        "nearest_infant_m": 59
       }
     },
     {
@@ -2222,7 +2718,15 @@
         "official_address": "115B YISHUN RING ROAD PCF SPARKLETOTS PRESCHOOL @ CHONG PANG 115B (CC) SINGAPORE 762115",
         "building_name": "PCF SPARKLETOTS PRESCHOOL @ CHONG PANG 115B (CC)",
         "recent_resale_median_sgd": 645000,
-        "remaining_lease": "74 years"
+        "remaining_lease": "74 years",
+        "ecda_400m": 2,
+        "infantcare_400m": 1,
+        "childcare_400m": 1,
+        "aop_pop_400m": 2,
+        "scc_500m": 0,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 10,
+        "nearest_infant_m": 10
       }
     },
     {
@@ -2258,7 +2762,15 @@
         "official_address": "114 YISHUN RING ROAD CHONG PANG VALE SINGAPORE 760114",
         "building_name": "CHONG PANG VALE",
         "recent_resale_median_sgd": 550000,
-        "remaining_lease": "56 years 02 months"
+        "remaining_lease": "56 years 02 months",
+        "ecda_400m": 5,
+        "infantcare_400m": 2,
+        "childcare_400m": 3,
+        "aop_pop_400m": 3,
+        "scc_500m": 0,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 130,
+        "nearest_infant_m": 130
       }
     },
     {
@@ -2292,7 +2804,15 @@
         "planning_area": "NOVENA",
         "subzone": "BALESTIER",
         "official_address": "110 WHAMPOA ROAD WHAMPOA GARDENS SINGAPORE 321110",
-        "building_name": "WHAMPOA GARDENS"
+        "building_name": "WHAMPOA GARDENS",
+        "ecda_400m": 3,
+        "infantcare_400m": 3,
+        "childcare_400m": 3,
+        "aop_pop_400m": 3,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 298,
+        "nearest_infant_m": 298
       }
     },
     {
@@ -2328,7 +2848,15 @@
         "official_address": "290G BUKIT BATOK STREET 24 SPRING VIEW SINGAPORE 656290",
         "building_name": "SPRING VIEW",
         "recent_resale_median_sgd": 625000,
-        "remaining_lease": "70 years 04 months"
+        "remaining_lease": "70 years 04 months",
+        "ecda_400m": 3,
+        "infantcare_400m": 2,
+        "childcare_400m": 3,
+        "aop_pop_400m": 3,
+        "scc_500m": 4,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 118,
+        "nearest_infant_m": 118
       }
     },
     {
@@ -2362,7 +2890,15 @@
         "planning_area": "NOVENA",
         "subzone": "BALESTIER",
         "official_address": "52 JALAN BAHAGIA WHAMPOA GARDENS SINGAPORE 320052",
-        "building_name": "WHAMPOA GARDENS"
+        "building_name": "WHAMPOA GARDENS",
+        "ecda_400m": 3,
+        "infantcare_400m": 3,
+        "childcare_400m": 3,
+        "aop_pop_400m": 3,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 244,
+        "nearest_infant_m": 244
       }
     },
     {
@@ -2398,7 +2934,15 @@
         "official_address": "112 TECK WHYE LANE SINGAPORE 680112",
         "building_name": "",
         "recent_resale_median_sgd": 530000,
-        "remaining_lease": "62 years 03 months"
+        "remaining_lease": "62 years 03 months",
+        "ecda_400m": 8,
+        "infantcare_400m": 4,
+        "childcare_400m": 7,
+        "aop_pop_400m": 7,
+        "scc_500m": 4,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 71,
+        "nearest_infant_m": 331
       }
     },
     {
@@ -2432,7 +2976,15 @@
         "planning_area": "BUKIT BATOK",
         "subzone": "BRICKWORKS",
         "official_address": "432B BUKIT BATOK WEST AVENUE 8 WEST SCAPE @ BUKIT BATOK SINGAPORE 652432",
-        "building_name": "WEST SCAPE @ BUKIT BATOK"
+        "building_name": "WEST SCAPE @ BUKIT BATOK",
+        "ecda_400m": 2,
+        "infantcare_400m": 1,
+        "childcare_400m": 1,
+        "aop_pop_400m": 2,
+        "scc_500m": 0,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 52,
+        "nearest_infant_m": 52
       }
     },
     {
@@ -2468,7 +3020,15 @@
         "official_address": "115 YISHUN RING ROAD CHONG PANG VALE SINGAPORE 760115",
         "building_name": "CHONG PANG VALE",
         "recent_resale_median_sgd": 540000,
-        "remaining_lease": "57 years"
+        "remaining_lease": "57 years",
+        "ecda_400m": 6,
+        "infantcare_400m": 3,
+        "childcare_400m": 4,
+        "aop_pop_400m": 4,
+        "scc_500m": 1,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 153,
+        "nearest_infant_m": 153
       }
     },
     {
@@ -2504,7 +3064,15 @@
         "official_address": "914 JURONG WEST STREET 91 NANYANG EMERALD SINGAPORE 640914",
         "building_name": "NANYANG EMERALD",
         "recent_resale_median_sgd": 490000,
-        "remaining_lease": "61 years 05 months"
+        "remaining_lease": "61 years 05 months",
+        "ecda_400m": 3,
+        "infantcare_400m": 2,
+        "childcare_400m": 2,
+        "aop_pop_400m": 3,
+        "scc_500m": 1,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 124,
+        "nearest_infant_m": 124
       }
     },
     {
@@ -2540,7 +3108,15 @@
         "official_address": "229A SUMANG LANE MATILDA SUNDECK SINGAPORE 821229",
         "building_name": "MATILDA SUNDECK",
         "recent_resale_median_sgd": 682000,
-        "remaining_lease": "94 years"
+        "remaining_lease": "94 years",
+        "ecda_400m": 5,
+        "infantcare_400m": 5,
+        "childcare_400m": 5,
+        "aop_pop_400m": 5,
+        "scc_500m": 0,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 58,
+        "nearest_infant_m": 58
       }
     },
     {
@@ -2576,7 +3152,15 @@
         "official_address": "110 TECK WHYE LANE CARPE DIEM STARLETS 1 PTE. LTD. SINGAPORE 680110",
         "building_name": "CARPE DIEM STARLETS 1 PTE. LTD.",
         "recent_resale_median_sgd": 500000,
-        "remaining_lease": "62 years 06 months"
+        "remaining_lease": "62 years 06 months",
+        "ecda_400m": 7,
+        "infantcare_400m": 3,
+        "childcare_400m": 6,
+        "aop_pop_400m": 6,
+        "scc_500m": 4,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 4,
+        "nearest_infant_m": 298
       }
     },
     {
@@ -2612,7 +3196,15 @@
         "official_address": "290E BUKIT BATOK STREET 24 SPRING VIEW SINGAPORE 654290",
         "building_name": "SPRING VIEW",
         "recent_resale_median_sgd": 656000,
-        "remaining_lease": "70 years 03 months"
+        "remaining_lease": "70 years 03 months",
+        "ecda_400m": 3,
+        "infantcare_400m": 2,
+        "childcare_400m": 3,
+        "aop_pop_400m": 3,
+        "scc_500m": 4,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 193,
+        "nearest_infant_m": 193
       }
     },
     {
@@ -2646,7 +3238,15 @@
         "planning_area": "BUKIT BATOK",
         "subzone": "BRICKWORKS",
         "official_address": "432A BUKIT BATOK WEST AVENUE 8 WEST SCAPE @ BUKIT BATOK SINGAPORE 651432",
-        "building_name": "WEST SCAPE @ BUKIT BATOK"
+        "building_name": "WEST SCAPE @ BUKIT BATOK",
+        "ecda_400m": 2,
+        "infantcare_400m": 1,
+        "childcare_400m": 2,
+        "aop_pop_400m": 2,
+        "scc_500m": 0,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 61,
+        "nearest_infant_m": 61
       }
     },
     {
@@ -2682,7 +3282,15 @@
         "official_address": "115A YISHUN RING ROAD CHONG PANG GARDEN SINGAPORE 761115",
         "building_name": "CHONG PANG GARDEN",
         "recent_resale_median_sgd": 538000,
-        "remaining_lease": "74 years 03 months"
+        "remaining_lease": "74 years 03 months",
+        "ecda_400m": 4,
+        "infantcare_400m": 2,
+        "childcare_400m": 3,
+        "aop_pop_400m": 4,
+        "scc_500m": 1,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 53,
+        "nearest_infant_m": 53
       }
     },
     {
@@ -2718,7 +3326,15 @@
         "official_address": "115 TECK WHYE LANE SINGAPORE 680115",
         "building_name": "",
         "recent_resale_median_sgd": 500000,
-        "remaining_lease": "61 years 07 months"
+        "remaining_lease": "61 years 07 months",
+        "ecda_400m": 8,
+        "infantcare_400m": 4,
+        "childcare_400m": 6,
+        "aop_pop_400m": 7,
+        "scc_500m": 4,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 95,
+        "nearest_infant_m": 193
       }
     },
     {
@@ -2754,7 +3370,15 @@
         "official_address": "111 TECK WHYE LANE SINGAPORE 680111",
         "building_name": "",
         "recent_resale_median_sgd": 500000,
-        "remaining_lease": "62 years"
+        "remaining_lease": "62 years",
+        "ecda_400m": 8,
+        "infantcare_400m": 4,
+        "childcare_400m": 7,
+        "aop_pop_400m": 7,
+        "scc_500m": 4,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 42,
+        "nearest_infant_m": 330
       }
     },
     {
@@ -2790,7 +3414,15 @@
         "official_address": "227A SUMANG LANE THE VERANDAH @ MATILDA SINGAPORE 821227",
         "building_name": "THE VERANDAH @ MATILDA",
         "recent_resale_median_sgd": 669000,
-        "remaining_lease": "90 years 11 months"
+        "remaining_lease": "90 years 11 months",
+        "ecda_400m": 5,
+        "infantcare_400m": 5,
+        "childcare_400m": 5,
+        "aop_pop_400m": 5,
+        "scc_500m": 0,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 92,
+        "nearest_infant_m": 92
       }
     },
     {
@@ -2826,7 +3458,15 @@
         "official_address": "402 ANG MO KIO AVENUE 10 SINGAPORE 560402",
         "building_name": "",
         "recent_resale_median_sgd": 710000,
-        "remaining_lease": "52 years 01 month"
+        "remaining_lease": "52 years 01 month",
+        "ecda_400m": 1,
+        "infantcare_400m": 1,
+        "childcare_400m": 1,
+        "aop_pop_400m": 1,
+        "scc_500m": 2,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 379,
+        "nearest_infant_m": 379
       }
     },
     {
@@ -2860,7 +3500,15 @@
         "planning_area": "CLEMENTI",
         "subzone": "CLEMENTI WOODS",
         "official_address": "801A WEST COAST CRESCENT WEST COAST PARKVIEW SINGAPORE 121801",
-        "building_name": "WEST COAST PARKVIEW"
+        "building_name": "WEST COAST PARKVIEW",
+        "ecda_400m": 2,
+        "infantcare_400m": 1,
+        "childcare_400m": 1,
+        "aop_pop_400m": 1,
+        "scc_500m": 1,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 89,
+        "nearest_infant_m": 89
       }
     },
     {
@@ -2896,7 +3544,15 @@
         "official_address": "915 JURONG WEST STREET 91 NANYANG EMERALD SINGAPORE 640915",
         "building_name": "NANYANG EMERALD",
         "recent_resale_median_sgd": 530000,
-        "remaining_lease": "60 years 10 months"
+        "remaining_lease": "60 years 10 months",
+        "ecda_400m": 3,
+        "infantcare_400m": 2,
+        "childcare_400m": 2,
+        "aop_pop_400m": 3,
+        "scc_500m": 1,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 161,
+        "nearest_infant_m": 161
       }
     },
     {
@@ -2932,7 +3588,15 @@
         "official_address": "932 JURONG WEST STREET 92 SINGAPORE 640932",
         "building_name": "",
         "recent_resale_median_sgd": 492000,
-        "remaining_lease": "61 years 04 months"
+        "remaining_lease": "61 years 04 months",
+        "ecda_400m": 4,
+        "infantcare_400m": 2,
+        "childcare_400m": 3,
+        "aop_pop_400m": 4,
+        "scc_500m": 1,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 64,
+        "nearest_infant_m": 64
       }
     },
     {
@@ -2966,7 +3630,15 @@
         "planning_area": "BUKIT BATOK",
         "subzone": "BRICKWORKS",
         "official_address": "431B BUKIT BATOK WEST AVENUE 8 WEST SCAPE @ BUKIT BATOK SINGAPORE 652431",
-        "building_name": "WEST SCAPE @ BUKIT BATOK"
+        "building_name": "WEST SCAPE @ BUKIT BATOK",
+        "ecda_400m": 2,
+        "infantcare_400m": 1,
+        "childcare_400m": 2,
+        "aop_pop_400m": 2,
+        "scc_500m": 0,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 83,
+        "nearest_infant_m": 83
       }
     },
     {
@@ -3002,7 +3674,15 @@
         "official_address": "290A BUKIT BATOK STREET 24 HDB PUBLIC SHELTERS SINGAPORE 652290",
         "building_name": "HDB PUBLIC SHELTERS",
         "recent_resale_median_sgd": 588000,
-        "remaining_lease": "70 years 11 months"
+        "remaining_lease": "70 years 11 months",
+        "ecda_400m": 4,
+        "infantcare_400m": 2,
+        "childcare_400m": 4,
+        "aop_pop_400m": 4,
+        "scc_500m": 5,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 71,
+        "nearest_infant_m": 71
       }
     },
     {
@@ -3038,7 +3718,15 @@
         "official_address": "1 JALAN BUKIT MERAH BRICKWORKS ESTATE SINGAPORE 150001",
         "building_name": "BRICKWORKS ESTATE",
         "recent_resale_median_sgd": 415000,
-        "remaining_lease": "53 years 07 months"
+        "remaining_lease": "53 years 07 months",
+        "ecda_400m": 2,
+        "infantcare_400m": 1,
+        "childcare_400m": 1,
+        "aop_pop_400m": 2,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 154,
+        "nearest_infant_m": 182
       }
     },
     {
@@ -3072,7 +3760,15 @@
         "planning_area": "BUKIT BATOK",
         "subzone": "BRICKWORKS",
         "official_address": "433B BUKIT BATOK WEST AVENUE 8 WEST SCAPE @ BUKIT BATOK SINGAPORE 652433",
-        "building_name": "WEST SCAPE @ BUKIT BATOK"
+        "building_name": "WEST SCAPE @ BUKIT BATOK",
+        "ecda_400m": 5,
+        "infantcare_400m": 3,
+        "childcare_400m": 3,
+        "aop_pop_400m": 4,
+        "scc_500m": 0,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 126,
+        "nearest_infant_m": 126
       }
     },
     {
@@ -3106,7 +3802,15 @@
         "planning_area": "BUKIT BATOK",
         "subzone": "BRICKWORKS",
         "official_address": "433C BUKIT BATOK WEST AVENUE 8 WEST SCAPE @ BUKIT BATOK SINGAPORE 653433",
-        "building_name": "WEST SCAPE @ BUKIT BATOK"
+        "building_name": "WEST SCAPE @ BUKIT BATOK",
+        "ecda_400m": 6,
+        "infantcare_400m": 4,
+        "childcare_400m": 4,
+        "aop_pop_400m": 5,
+        "scc_500m": 0,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 96,
+        "nearest_infant_m": 96
       }
     },
     {
@@ -3142,7 +3846,15 @@
         "official_address": "913 JURONG WEST STREET 91 SINGAPORE 640913",
         "building_name": "",
         "recent_resale_median_sgd": 500000,
-        "remaining_lease": "60 years 06 months"
+        "remaining_lease": "60 years 06 months",
+        "ecda_400m": 3,
+        "infantcare_400m": 2,
+        "childcare_400m": 2,
+        "aop_pop_400m": 3,
+        "scc_500m": 1,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 141,
+        "nearest_infant_m": 141
       }
     },
     {
@@ -3178,7 +3890,15 @@
         "official_address": "916 JURONG WEST STREET 91 NANYANG EMERALD SINGAPORE 640916",
         "building_name": "NANYANG EMERALD",
         "recent_resale_median_sgd": 480000,
-        "remaining_lease": "61 years 03 months"
+        "remaining_lease": "61 years 03 months",
+        "ecda_400m": 3,
+        "infantcare_400m": 2,
+        "childcare_400m": 2,
+        "aop_pop_400m": 3,
+        "scc_500m": 1,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 199,
+        "nearest_infant_m": 199
       }
     },
     {
@@ -3214,7 +3934,15 @@
         "official_address": "2 JALAN BUKIT MERAH BRICKWORKS ESTATE SINGAPORE 150002",
         "building_name": "BRICKWORKS ESTATE",
         "recent_resale_median_sgd": 390000,
-        "remaining_lease": "53 years 03 months"
+        "remaining_lease": "53 years 03 months",
+        "ecda_400m": 3,
+        "infantcare_400m": 2,
+        "childcare_400m": 2,
+        "aop_pop_400m": 3,
+        "scc_500m": 0,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 47,
+        "nearest_infant_m": 270
       }
     },
     {
@@ -3250,7 +3978,15 @@
         "official_address": "613 CLEMENTI WEST STREET 1 SINGAPORE 120613",
         "building_name": "",
         "recent_resale_median_sgd": 826000,
-        "remaining_lease": "57 years 06 months"
+        "remaining_lease": "57 years 06 months",
+        "ecda_400m": 7,
+        "infantcare_400m": 1,
+        "childcare_400m": 6,
+        "aop_pop_400m": 3,
+        "scc_500m": 2,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 194,
+        "nearest_infant_m": 194
       }
     },
     {
@@ -3286,7 +4022,15 @@
         "official_address": "917 JURONG WEST STREET 91 HAPPY KIDS EARLY LEARNING CENTRE SINGAPORE 640917",
         "building_name": "HAPPY KIDS EARLY LEARNING CENTRE",
         "recent_resale_median_sgd": 520000,
-        "remaining_lease": "61 years 02 months"
+        "remaining_lease": "61 years 02 months",
+        "ecda_400m": 3,
+        "infantcare_400m": 2,
+        "childcare_400m": 2,
+        "aop_pop_400m": 3,
+        "scc_500m": 1,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 208,
+        "nearest_infant_m": 208
       }
     },
     {
@@ -3322,7 +4066,15 @@
         "official_address": "612 CLEMENTI WEST STREET 1 SINGAPORE 120612",
         "building_name": "",
         "recent_resale_median_sgd": 550000,
-        "remaining_lease": "56 years 02 months"
+        "remaining_lease": "56 years 02 months",
+        "ecda_400m": 5,
+        "infantcare_400m": 1,
+        "childcare_400m": 4,
+        "aop_pop_400m": 2,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 129,
+        "nearest_infant_m": 129
       }
     },
     {
@@ -3356,7 +4108,15 @@
         "planning_area": "SUNGEI KADUT",
         "subzone": "GALI BATU",
         "official_address": "548B SEGAR ROAD SEGAR PALMVIEW SINGAPORE 672548",
-        "building_name": "SEGAR PALMVIEW"
+        "building_name": "SEGAR PALMVIEW",
+        "ecda_400m": 7,
+        "infantcare_400m": 3,
+        "childcare_400m": 4,
+        "aop_pop_400m": 6,
+        "scc_500m": 3,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 137,
+        "nearest_infant_m": 137
       }
     },
     {
@@ -3392,7 +4152,15 @@
         "official_address": "116 YISHUN RING ROAD CHONG PANG VALE SINGAPORE 760116",
         "building_name": "CHONG PANG VALE",
         "recent_resale_median_sgd": 545000,
-        "remaining_lease": "56 years 01 month"
+        "remaining_lease": "56 years 01 month",
+        "ecda_400m": 7,
+        "infantcare_400m": 4,
+        "childcare_400m": 5,
+        "aop_pop_400m": 5,
+        "scc_500m": 1,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 223,
+        "nearest_infant_m": 223
       }
     },
     {
@@ -3426,7 +4194,15 @@
         "planning_area": "CLEMENTI",
         "subzone": "CLEMENTI WOODS",
         "official_address": "801B WEST COAST CRESCENT WEST COAST PARKVIEW SINGAPORE 122801",
-        "building_name": "WEST COAST PARKVIEW"
+        "building_name": "WEST COAST PARKVIEW",
+        "ecda_400m": 2,
+        "infantcare_400m": 1,
+        "childcare_400m": 1,
+        "aop_pop_400m": 1,
+        "scc_500m": 1,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 97,
+        "nearest_infant_m": 97
       }
     },
     {
@@ -3462,7 +4238,15 @@
         "official_address": "11 JALAN BUKIT MERAH SINGAPORE 150011",
         "building_name": "",
         "recent_resale_median_sgd": 948000,
-        "remaining_lease": "75 years 03 months"
+        "remaining_lease": "75 years 03 months",
+        "ecda_400m": 4,
+        "infantcare_400m": 3,
+        "childcare_400m": 3,
+        "aop_pop_400m": 2,
+        "scc_500m": 0,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 204,
+        "nearest_infant_m": 204
       }
     },
     {
@@ -3498,7 +4282,15 @@
         "official_address": "289D BUKIT BATOK STREET 25 NATURE VIEW SINGAPORE 653289",
         "building_name": "NATURE VIEW",
         "recent_resale_median_sgd": 743000,
-        "remaining_lease": "70 years 03 months"
+        "remaining_lease": "70 years 03 months",
+        "ecda_400m": 2,
+        "infantcare_400m": 1,
+        "childcare_400m": 2,
+        "aop_pop_400m": 2,
+        "scc_500m": 4,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 221,
+        "nearest_infant_m": 349
       }
     },
     {
@@ -3532,7 +4324,15 @@
         "planning_area": "CLEMENTI",
         "subzone": "CLEMENTI WOODS",
         "official_address": "801C WEST COAST CRESCENT WEST COAST PARKVIEW SINGAPORE 123801",
-        "building_name": "WEST COAST PARKVIEW"
+        "building_name": "WEST COAST PARKVIEW",
+        "ecda_400m": 4,
+        "infantcare_400m": 2,
+        "childcare_400m": 3,
+        "aop_pop_400m": 2,
+        "scc_500m": 1,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 167,
+        "nearest_infant_m": 167
       }
     },
     {
@@ -3566,7 +4366,15 @@
         "planning_area": "SENGKANG",
         "subzone": "FERNVALE",
         "official_address": "459B SENGKANG WEST WAY FERNVALE GLADES SINGAPORE 792459",
-        "building_name": "FERNVALE GLADES"
+        "building_name": "FERNVALE GLADES",
+        "ecda_400m": 2,
+        "infantcare_400m": 2,
+        "childcare_400m": 2,
+        "aop_pop_400m": 2,
+        "scc_500m": 0,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 63,
+        "nearest_infant_m": 63
       }
     },
     {
@@ -3600,7 +4408,15 @@
         "planning_area": "SENGKANG",
         "subzone": "FERNVALE",
         "official_address": "459A SENGKANG WEST WAY FERNVALE GLADES SINGAPORE 791459",
-        "building_name": "FERNVALE GLADES"
+        "building_name": "FERNVALE GLADES",
+        "ecda_400m": 3,
+        "infantcare_400m": 3,
+        "childcare_400m": 3,
+        "aop_pop_400m": 3,
+        "scc_500m": 0,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 108,
+        "nearest_infant_m": 108
       }
     },
     {
@@ -3634,7 +4450,15 @@
         "planning_area": "SENGKANG",
         "subzone": "FERNVALE",
         "official_address": "460A SENGKANG WEST WAY FERNVALE GLADES SINGAPORE 791460",
-        "building_name": "FERNVALE GLADES"
+        "building_name": "FERNVALE GLADES",
+        "ecda_400m": 2,
+        "infantcare_400m": 2,
+        "childcare_400m": 2,
+        "aop_pop_400m": 2,
+        "scc_500m": 0,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 63,
+        "nearest_infant_m": 63
       }
     },
     {
@@ -3670,7 +4494,15 @@
         "official_address": "783A WOODLANDS RISE WOODLANDS PASTURE I SINGAPORE 731783",
         "building_name": "WOODLANDS PASTURE I",
         "recent_resale_median_sgd": 598000,
-        "remaining_lease": "91 years"
+        "remaining_lease": "91 years",
+        "ecda_400m": 5,
+        "infantcare_400m": 4,
+        "childcare_400m": 4,
+        "aop_pop_400m": 4,
+        "scc_500m": 1,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 125,
+        "nearest_infant_m": 125
       }
     },
     {
@@ -3706,7 +4538,15 @@
         "official_address": "403 ANG MO KIO AVENUE 10 SINGAPORE 560403",
         "building_name": "",
         "recent_resale_median_sgd": 515000,
-        "remaining_lease": "51 years 07 months"
+        "remaining_lease": "51 years 07 months",
+        "ecda_400m": 1,
+        "infantcare_400m": 1,
+        "childcare_400m": 1,
+        "aop_pop_400m": 1,
+        "scc_500m": 2,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 368,
+        "nearest_infant_m": 368
       }
     },
     {
@@ -3740,7 +4580,15 @@
         "planning_area": "ANG MO KIO",
         "subzone": "CHONG BOON",
         "official_address": "407 ANG MO KIO AVENUE 10 TECK GHEE SQUARE SINGAPORE 560407",
-        "building_name": "TECK GHEE SQUARE"
+        "building_name": "TECK GHEE SQUARE",
+        "ecda_400m": 1,
+        "infantcare_400m": 1,
+        "childcare_400m": 1,
+        "aop_pop_400m": 1,
+        "scc_500m": 2,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 326,
+        "nearest_infant_m": 326
       }
     },
     {
@@ -3776,7 +4624,15 @@
         "official_address": "475 ANG MO KIO AVENUE 10 TECK GHEE HORIZON SINGAPORE 560475",
         "building_name": "TECK GHEE HORIZON",
         "recent_resale_median_sgd": 520000,
-        "remaining_lease": "52 years 06 months"
+        "remaining_lease": "52 years 06 months",
+        "ecda_400m": 2,
+        "infantcare_400m": 1,
+        "childcare_400m": 2,
+        "aop_pop_400m": 2,
+        "scc_500m": 2,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 367,
+        "nearest_infant_m": 370
       }
     },
     {
@@ -3812,7 +4668,15 @@
         "official_address": "169 HOUGANG AVENUE 1 SINGAPORE 530169",
         "building_name": "",
         "recent_resale_median_sgd": 690000,
-        "remaining_lease": "70 years 02 months"
+        "remaining_lease": "70 years 02 months",
+        "ecda_400m": 3,
+        "infantcare_400m": 3,
+        "childcare_400m": 3,
+        "aop_pop_400m": 3,
+        "scc_500m": 1,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 83,
+        "nearest_infant_m": 83
       }
     },
     {
@@ -3848,7 +4712,15 @@
         "official_address": "1 GHIM MOH ROAD GHIM MOH GREEN SINGAPORE 270001",
         "building_name": "GHIM MOH GREEN",
         "recent_resale_median_sgd": 383000,
-        "remaining_lease": "49 years 03 months"
+        "remaining_lease": "49 years 03 months",
+        "ecda_400m": 3,
+        "infantcare_400m": 3,
+        "childcare_400m": 3,
+        "aop_pop_400m": 2,
+        "scc_500m": 1,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 165,
+        "nearest_infant_m": 165
       }
     },
     {
@@ -3884,7 +4756,15 @@
         "official_address": "404 ANG MO KIO AVENUE 10 SINGAPORE 560404",
         "building_name": "",
         "recent_resale_median_sgd": 528888,
-        "remaining_lease": "51 years 11 months"
+        "remaining_lease": "51 years 11 months",
+        "ecda_400m": 1,
+        "infantcare_400m": 1,
+        "childcare_400m": 1,
+        "aop_pop_400m": 1,
+        "scc_500m": 2,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 329,
+        "nearest_infant_m": 329
       }
     },
     {
@@ -3920,7 +4800,15 @@
         "official_address": "106 HOUGANG AVENUE 1 SINGAPORE 530106",
         "building_name": "",
         "recent_resale_median_sgd": 590000,
-        "remaining_lease": "57 years 02 months"
+        "remaining_lease": "57 years 02 months",
+        "ecda_400m": 2,
+        "infantcare_400m": 2,
+        "childcare_400m": 2,
+        "aop_pop_400m": 1,
+        "scc_500m": 3,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 242,
+        "nearest_infant_m": 242
       }
     },
     {
@@ -3956,7 +4844,15 @@
         "official_address": "108 HOUGANG AVENUE 1 SINGAPORE 530108",
         "building_name": "",
         "recent_resale_median_sgd": 480000,
-        "remaining_lease": "56 years 06 months"
+        "remaining_lease": "56 years 06 months",
+        "ecda_400m": 2,
+        "infantcare_400m": 2,
+        "childcare_400m": 2,
+        "aop_pop_400m": 1,
+        "scc_500m": 2,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 201,
+        "nearest_infant_m": 201
       }
     },
     {
@@ -3992,7 +4888,15 @@
         "official_address": "4 GHIM MOH ROAD GHIM MOH GREEN SINGAPORE 270004",
         "building_name": "GHIM MOH GREEN",
         "recent_resale_median_sgd": 650000,
-        "remaining_lease": "47 years 03 months"
+        "remaining_lease": "47 years 03 months",
+        "ecda_400m": 3,
+        "infantcare_400m": 3,
+        "childcare_400m": 3,
+        "aop_pop_400m": 2,
+        "scc_500m": 1,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 64,
+        "nearest_infant_m": 64
       }
     },
     {
@@ -4028,7 +4932,15 @@
         "official_address": "168 HOUGANG AVENUE 1 SINGAPORE 530168",
         "building_name": "",
         "recent_resale_median_sgd": 665000,
-        "remaining_lease": "70 years 07 months"
+        "remaining_lease": "70 years 07 months",
+        "ecda_400m": 3,
+        "infantcare_400m": 3,
+        "childcare_400m": 3,
+        "aop_pop_400m": 3,
+        "scc_500m": 1,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 68,
+        "nearest_infant_m": 68
       }
     },
     {
@@ -4064,7 +4976,15 @@
         "official_address": "101 HOUGANG AVENUE 1 SINGAPORE 530101",
         "building_name": "",
         "recent_resale_median_sgd": 615000,
-        "remaining_lease": "56 years 08 months"
+        "remaining_lease": "56 years 08 months",
+        "ecda_400m": 1,
+        "infantcare_400m": 1,
+        "childcare_400m": 1,
+        "aop_pop_400m": 0,
+        "scc_500m": 2,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 125,
+        "nearest_infant_m": 125
       }
     },
     {
@@ -4100,7 +5020,15 @@
         "official_address": "51 TEBAN GARDENS ROAD SINGAPORE 600051",
         "building_name": "",
         "recent_resale_median_sgd": 778000,
-        "remaining_lease": "58 years 10 months"
+        "remaining_lease": "58 years 10 months",
+        "ecda_400m": 3,
+        "infantcare_400m": 2,
+        "childcare_400m": 3,
+        "aop_pop_400m": 3,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 142,
+        "nearest_infant_m": 142
       }
     },
     {
@@ -4136,7 +5064,15 @@
         "official_address": "2 GHIM MOH ROAD GHIM MOH GREEN SINGAPORE 270002",
         "building_name": "GHIM MOH GREEN",
         "recent_resale_median_sgd": 630000,
-        "remaining_lease": "46 years 07 months"
+        "remaining_lease": "46 years 07 months",
+        "ecda_400m": 4,
+        "infantcare_400m": 4,
+        "childcare_400m": 4,
+        "aop_pop_400m": 3,
+        "scc_500m": 1,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 154,
+        "nearest_infant_m": 154
       }
     },
     {
@@ -4172,7 +5108,15 @@
         "official_address": "50 TEBAN GARDENS ROAD SINGAPORE 600050",
         "building_name": "",
         "recent_resale_median_sgd": 750000,
-        "remaining_lease": "60 years 04 months"
+        "remaining_lease": "60 years 04 months",
+        "ecda_400m": 3,
+        "infantcare_400m": 2,
+        "childcare_400m": 3,
+        "aop_pop_400m": 3,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 152,
+        "nearest_infant_m": 152
       }
     },
     {
@@ -4208,7 +5152,15 @@
         "official_address": "52 TEBAN GARDENS ROAD SINGAPORE 600052",
         "building_name": "",
         "recent_resale_median_sgd": 472888,
-        "remaining_lease": "60 years 01 month"
+        "remaining_lease": "60 years 01 month",
+        "ecda_400m": 3,
+        "infantcare_400m": 2,
+        "childcare_400m": 3,
+        "aop_pop_400m": 3,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 101,
+        "nearest_infant_m": 101
       }
     },
     {
@@ -4244,7 +5196,15 @@
         "official_address": "54 TEBAN GARDENS ROAD SINGAPORE 600054",
         "building_name": "",
         "recent_resale_median_sgd": 355000,
-        "remaining_lease": "59 years 04 months"
+        "remaining_lease": "59 years 04 months",
+        "ecda_400m": 3,
+        "infantcare_400m": 2,
+        "childcare_400m": 3,
+        "aop_pop_400m": 3,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 72,
+        "nearest_infant_m": 72
       }
     },
     {
@@ -4280,7 +5240,15 @@
         "official_address": "53 TEBAN GARDENS ROAD SINGAPORE 600053",
         "building_name": "",
         "recent_resale_median_sgd": 520000,
-        "remaining_lease": "59 years 04 months"
+        "remaining_lease": "59 years 04 months",
+        "ecda_400m": 3,
+        "infantcare_400m": 2,
+        "childcare_400m": 3,
+        "aop_pop_400m": 3,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 55,
+        "nearest_infant_m": 55
       }
     },
     {
@@ -4314,7 +5282,15 @@
         "planning_area": "JURONG EAST",
         "subzone": "JURONG RIVER",
         "official_address": "49 TEBAN GARDENS ROAD SINGAPORE 600049",
-        "building_name": ""
+        "building_name": "",
+        "ecda_400m": 3,
+        "infantcare_400m": 2,
+        "childcare_400m": 3,
+        "aop_pop_400m": 3,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 119,
+        "nearest_infant_m": 119
       }
     },
     {
@@ -4348,7 +5324,15 @@
         "planning_area": "BUKIT TIMAH",
         "subzone": "ULU PANDAN",
         "official_address": "343 CLEMENTI AVENUE 5 SINGAPORE 120343",
-        "building_name": ""
+        "building_name": "",
+        "ecda_400m": 1,
+        "infantcare_400m": 1,
+        "childcare_400m": 1,
+        "aop_pop_400m": 0,
+        "scc_500m": 1,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 323,
+        "nearest_infant_m": 323
       }
     },
     {
@@ -4382,7 +5366,15 @@
         "planning_area": "BUKIT TIMAH",
         "subzone": "ULU PANDAN",
         "official_address": "340 CLEMENTI AVENUE 5 SINGAPORE 120340",
-        "building_name": ""
+        "building_name": "",
+        "ecda_400m": 3,
+        "infantcare_400m": 2,
+        "childcare_400m": 2,
+        "aop_pop_400m": 1,
+        "scc_500m": 1,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 214,
+        "nearest_infant_m": 214
       }
     },
     {
@@ -4416,7 +5408,15 @@
         "planning_area": "BUKIT TIMAH",
         "subzone": "ULU PANDAN",
         "official_address": "347 CLEMENTI AVENUE 5 SINGAPORE 120347",
-        "building_name": ""
+        "building_name": "",
+        "ecda_400m": 2,
+        "infantcare_400m": 1,
+        "childcare_400m": 1,
+        "aop_pop_400m": 0,
+        "scc_500m": 1,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 346,
+        "nearest_infant_m": 346
       }
     },
     {
@@ -4451,7 +5451,15 @@
         "subzone": "NORTH COAST",
         "official_address": "223A MARSILING LANE MARSILING PEAK I SINGAPORE 731223",
         "building_name": "MARSILING PEAK I",
-        "remaining_lease": "98 years 00 months"
+        "remaining_lease": "98 years 00 months",
+        "ecda_400m": 3,
+        "infantcare_400m": 2,
+        "childcare_400m": 3,
+        "aop_pop_400m": 2,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 255,
+        "nearest_infant_m": 323
       }
     },
     {
@@ -4486,7 +5494,15 @@
         "subzone": "NORTH COAST",
         "official_address": "223B MARSILING LANE MARSILING PEAK I SINGAPORE 732223",
         "building_name": "MARSILING PEAK I",
-        "remaining_lease": "98 years 00 months"
+        "remaining_lease": "98 years 00 months",
+        "ecda_400m": 3,
+        "infantcare_400m": 2,
+        "childcare_400m": 3,
+        "aop_pop_400m": 2,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 252,
+        "nearest_infant_m": 289
       }
     },
     {
@@ -4521,7 +5537,15 @@
         "subzone": "NORTH COAST",
         "official_address": "224A MARSILING LANE MARSILING PEAK II SINGAPORE 731224",
         "building_name": "MARSILING PEAK II",
-        "remaining_lease": "98 years 00 months"
+        "remaining_lease": "98 years 00 months",
+        "ecda_400m": 3,
+        "infantcare_400m": 2,
+        "childcare_400m": 3,
+        "aop_pop_400m": 2,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 262,
+        "nearest_infant_m": 262
       }
     },
     {
@@ -4556,7 +5580,15 @@
         "subzone": "SEMBAWANG NORTH",
         "official_address": "445B ADMIRALTY LANE SEMBAWANG VOYAGE SINGAPORE 752445",
         "building_name": "SEMBAWANG VOYAGE",
-        "remaining_lease": "98 years 00 months"
+        "remaining_lease": "98 years 00 months",
+        "ecda_400m": 2,
+        "infantcare_400m": 2,
+        "childcare_400m": 2,
+        "aop_pop_400m": 1,
+        "scc_500m": 0,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 267,
+        "nearest_infant_m": 267
       }
     },
     {
@@ -4591,7 +5623,15 @@
         "subzone": "BANGKIT",
         "official_address": "489A BUKIT PANJANG RING ROAD BANGKIT BREEZE SINGAPORE 671489",
         "building_name": "BANGKIT BREEZE",
-        "remaining_lease": "98 years 00 months"
+        "remaining_lease": "98 years 00 months",
+        "ecda_400m": 3,
+        "infantcare_400m": 3,
+        "childcare_400m": 3,
+        "aop_pop_400m": 2,
+        "scc_500m": 4,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 255,
+        "nearest_infant_m": 255
       }
     },
     {
@@ -4626,7 +5666,15 @@
         "subzone": "SEMBAWANG NORTH",
         "official_address": "448B ADMIRALTY LANE SEMBAWANG DECK SINGAPORE 752448",
         "building_name": "SEMBAWANG DECK",
-        "remaining_lease": "98 years 00 months"
+        "remaining_lease": "98 years 00 months",
+        "ecda_400m": 1,
+        "infantcare_400m": 1,
+        "childcare_400m": 1,
+        "aop_pop_400m": 1,
+        "scc_500m": 0,
+        "pri_sch_1km": 4,
+        "nearest_ecda_m": 338,
+        "nearest_infant_m": 338
       }
     },
     {
@@ -4661,7 +5709,15 @@
         "subzone": "SEMBAWANG NORTH",
         "official_address": "445A ADMIRALTY LANE SEMBAWANG VOYAGE SINGAPORE 751445",
         "building_name": "SEMBAWANG VOYAGE",
-        "remaining_lease": "98 years 00 months"
+        "remaining_lease": "98 years 00 months",
+        "ecda_400m": 2,
+        "infantcare_400m": 2,
+        "childcare_400m": 2,
+        "aop_pop_400m": 1,
+        "scc_500m": 0,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 205,
+        "nearest_infant_m": 205
       }
     },
     {
@@ -4697,7 +5753,15 @@
         "official_address": "370 PASIR PANJANG ROAD THE FOLIAGE SINGAPORE 118707",
         "building_name": "THE FOLIAGE",
         "recent_resale_median_sgd": 1650000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 1,
+        "infantcare_400m": 0,
+        "childcare_400m": 0,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 343,
+        "nearest_infant_m": 653
       }
     },
     {
@@ -4733,7 +5797,15 @@
         "official_address": "59 WEST COAST CRESCENT THE VISION SINGAPORE 128055",
         "building_name": "THE VISION",
         "recent_resale_median_sgd": 2050000,
-        "remaining_lease": "99y from 2008 (~80y left)"
+        "remaining_lease": "99y from 2008 (~80y left)",
+        "ecda_400m": 1,
+        "infantcare_400m": 1,
+        "childcare_400m": 1,
+        "aop_pop_400m": 1,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 178,
+        "nearest_infant_m": 178
       }
     },
     {
@@ -4769,7 +5841,15 @@
         "official_address": "339 PASIR PANJANG ROAD LIIV RESIDENCES SINGAPORE 117368",
         "building_name": "LIIV RESIDENCES",
         "recent_resale_median_sgd": 1050000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 2,
+        "infantcare_400m": 1,
+        "childcare_400m": 2,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 324,
+        "nearest_infant_m": 324
       }
     },
     {
@@ -4805,7 +5885,15 @@
         "official_address": "390 PASIR PANJANG ROAD PASIR PANJANG LODGE SINGAPORE 118722",
         "building_name": "PASIR PANJANG LODGE",
         "recent_resale_median_sgd": 1442900,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 1,
+        "infantcare_400m": 0,
+        "childcare_400m": 0,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 135,
+        "nearest_infant_m": 865
       }
     },
     {
@@ -4841,7 +5929,15 @@
         "official_address": "313 PASIR PANJANG ROAD THE ESTIVA SINGAPORE 117482",
         "building_name": "THE ESTIVA",
         "recent_resale_median_sgd": 2500000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 2,
+        "infantcare_400m": 1,
+        "childcare_400m": 2,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 152,
+        "nearest_infant_m": 152
       }
     },
     {
@@ -4877,7 +5973,15 @@
         "official_address": "1005 LOWER DELTA ROAD TERESA VILLE SINGAPORE 099309",
         "building_name": "TERESA VILLE",
         "recent_resale_median_sgd": 2900000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 4,
+        "infantcare_400m": 2,
+        "childcare_400m": 3,
+        "aop_pop_400m": 4,
+        "scc_500m": 2,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 262,
+        "nearest_infant_m": 262
       }
     },
     {
@@ -4913,7 +6017,15 @@
         "official_address": "360 PASIR PANJANG ROAD GOLD COAST CONDOMINIUM SINGAPORE 118699",
         "building_name": "GOLD COAST CONDOMINIUM",
         "recent_resale_median_sgd": 3200000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 0,
+        "infantcare_400m": 0,
+        "childcare_400m": 0,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 421,
+        "nearest_infant_m": 573
       }
     },
     {
@@ -4949,7 +6061,15 @@
         "official_address": "8A BUKIT TERESA CLOSE TERESA 8 SINGAPORE 099794",
         "building_name": "TERESA 8",
         "recent_resale_median_sgd": 3380000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 3,
+        "infantcare_400m": 1,
+        "childcare_400m": 3,
+        "aop_pop_400m": 3,
+        "scc_500m": 2,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 213,
+        "nearest_infant_m": 213
       }
     },
     {
@@ -4985,7 +6105,15 @@
         "official_address": "29A PASIR PANJANG CLOSE PASIR PANJANG COURT SINGAPORE 118976",
         "building_name": "PASIR PANJANG COURT",
         "recent_resale_median_sgd": 1900000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 1,
+        "infantcare_400m": 0,
+        "childcare_400m": 0,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 183,
+        "nearest_infant_m": 880
       }
     },
     {
@@ -5021,7 +6149,15 @@
         "official_address": "463 PASIR PANJANG ROAD VILLAGE @ PASIR PANJANG SINGAPORE 118797",
         "building_name": "VILLAGE @ PASIR PANJANG",
         "recent_resale_median_sgd": 1880000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 1,
+        "infantcare_400m": 0,
+        "childcare_400m": 0,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 143,
+        "nearest_infant_m": 1001
       }
     },
     {
@@ -5057,7 +6193,15 @@
         "official_address": "52 WEST COAST CRESCENT WEST BAY CONDOMINIUM SINGAPORE 128036",
         "building_name": "WEST BAY CONDOMINIUM",
         "recent_resale_median_sgd": 1159000,
-        "remaining_lease": "99y from 1991 (~63y left)"
+        "remaining_lease": "99y from 1991 (~63y left)",
+        "ecda_400m": 2,
+        "infantcare_400m": 2,
+        "childcare_400m": 2,
+        "aop_pop_400m": 1,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 234,
+        "nearest_infant_m": 234
       }
     },
     {
@@ -5093,7 +6237,15 @@
         "official_address": "345 PASIR PANJANG ROAD PALM MANSIONS SINGAPORE 118684",
         "building_name": "PALM MANSIONS",
         "recent_resale_median_sgd": 1395000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 1,
+        "infantcare_400m": 1,
+        "childcare_400m": 1,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 385,
+        "nearest_infant_m": 385
       }
     },
     {
@@ -5129,7 +6281,15 @@
         "official_address": "107 WEST COAST CRESCENT SEAHILL SINGAPORE 126771",
         "building_name": "SEAHILL",
         "recent_resale_median_sgd": 1185000,
-        "remaining_lease": "99y from 2011 (~83y left)"
+        "remaining_lease": "99y from 2011 (~83y left)",
+        "ecda_400m": 1,
+        "infantcare_400m": 1,
+        "childcare_400m": 1,
+        "aop_pop_400m": 1,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 117,
+        "nearest_infant_m": 117
       }
     },
     {
@@ -5165,7 +6325,15 @@
         "official_address": "88 WEST COAST ROAD CLEMENTIWOODS CONDOMINIUM SINGAPORE 126819",
         "building_name": "CLEMENTIWOODS CONDOMINIUM",
         "recent_resale_median_sgd": 2188000,
-        "remaining_lease": "99y from 2006 (~78y left)"
+        "remaining_lease": "99y from 2006 (~78y left)",
+        "ecda_400m": 1,
+        "infantcare_400m": 1,
+        "childcare_400m": 1,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 328,
+        "nearest_infant_m": 328
       }
     },
     {
@@ -5201,7 +6369,15 @@
         "official_address": "18 CLEMENTI AVENUE 1 THE CLEMENT CANOPY SINGAPORE 129961",
         "building_name": "THE CLEMENT CANOPY",
         "recent_resale_median_sgd": 2008000,
-        "remaining_lease": "99y from 2016 (~88y left)"
+        "remaining_lease": "99y from 2016 (~88y left)",
+        "ecda_400m": 3,
+        "infantcare_400m": 2,
+        "childcare_400m": 3,
+        "aop_pop_400m": 2,
+        "scc_500m": 1,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 173,
+        "nearest_infant_m": 347
       }
     },
     {
@@ -5237,7 +6413,15 @@
         "official_address": "385 PASIR PANJANG ROAD VILLA DE WEST SINGAPORE 118719",
         "building_name": "VILLA DE WEST",
         "recent_resale_median_sgd": 2020000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 1,
+        "infantcare_400m": 0,
+        "childcare_400m": 0,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 139,
+        "nearest_infant_m": 862
       }
     },
     {
@@ -5273,7 +6457,15 @@
         "official_address": "29 WEST COAST CRESCENT BLUE HORIZON SINGAPORE 128049",
         "building_name": "BLUE HORIZON",
         "recent_resale_median_sgd": 1680000,
-        "remaining_lease": "99y from 2000 (~72y left)"
+        "remaining_lease": "99y from 2000 (~72y left)",
+        "ecda_400m": 1,
+        "infantcare_400m": 1,
+        "childcare_400m": 1,
+        "aop_pop_400m": 1,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 267,
+        "nearest_infant_m": 267
       }
     },
     {
@@ -5309,7 +6501,15 @@
         "official_address": "319 PASIR PANJANG ROAD STARPOINT SINGAPORE 118653",
         "building_name": "STARPOINT",
         "recent_resale_median_sgd": 4000000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 2,
+        "infantcare_400m": 1,
+        "childcare_400m": 2,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 244,
+        "nearest_infant_m": 244
       }
     },
     {
@@ -5345,7 +6545,15 @@
         "official_address": "481 PASIR PANJANG ROAD PALM GREEN SINGAPORE 117621",
         "building_name": "PALM GREEN",
         "recent_resale_median_sgd": 1680000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 2,
+        "infantcare_400m": 0,
+        "childcare_400m": 1,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 207,
+        "nearest_infant_m": 948
       }
     },
     {
@@ -5381,7 +6589,15 @@
         "official_address": "40 WEST COAST ROAD VARSITY PARK CONDOMINIUM SINGAPORE 126843",
         "building_name": "VARSITY PARK CONDOMINIUM",
         "recent_resale_median_sgd": 2408000,
-        "remaining_lease": "99y from 2004 (~76y left)"
+        "remaining_lease": "99y from 2004 (~76y left)",
+        "ecda_400m": 1,
+        "infantcare_400m": 0,
+        "childcare_400m": 1,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 321,
+        "nearest_infant_m": 548
       }
     },
     {
@@ -5417,7 +6633,15 @@
         "official_address": "11 NORMANTON PARK NORMANTON PARK SINGAPORE 119008",
         "building_name": "NORMANTON PARK",
         "recent_resale_median_sgd": 1625000,
-        "remaining_lease": "99y from 2019 (~91y left)"
+        "remaining_lease": "99y from 2019 (~91y left)",
+        "ecda_400m": 2,
+        "infantcare_400m": 2,
+        "childcare_400m": 2,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 215,
+        "nearest_infant_m": 215
       }
     },
     {
@@ -5453,7 +6677,15 @@
         "official_address": "180 DEPOT ROAD THE INTERLACE SINGAPORE 109684",
         "building_name": "THE INTERLACE",
         "recent_resale_median_sgd": 2950000,
-        "remaining_lease": "99y from 2009 (~81y left)"
+        "remaining_lease": "99y from 2009 (~81y left)",
+        "ecda_400m": 0,
+        "infantcare_400m": 0,
+        "childcare_400m": 0,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 436,
+        "nearest_infant_m": 436
       }
     },
     {
@@ -5489,7 +6721,15 @@
         "official_address": "33 WEST COAST ROAD WESTSIDE 33 SINGAPORE 127325",
         "building_name": "WESTSIDE 33",
         "recent_resale_median_sgd": 3150000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 1,
+        "infantcare_400m": 0,
+        "childcare_400m": 1,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 124,
+        "nearest_infant_m": 625
       }
     },
     {
@@ -5525,7 +6765,15 @@
         "official_address": "370H ALEXANDRA ROAD THE ANCHORAGE SINGAPORE 159961",
         "building_name": "THE ANCHORAGE",
         "recent_resale_median_sgd": 2930000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 3,
+        "infantcare_400m": 2,
+        "childcare_400m": 2,
+        "aop_pop_400m": 1,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 276,
+        "nearest_infant_m": 276
       }
     },
     {
@@ -5561,7 +6809,15 @@
         "official_address": "331L PASIR PANJANG ROAD LYNNSVILLE 331 SINGAPORE 117479",
         "building_name": "LYNNSVILLE 331",
         "recent_resale_median_sgd": 3050000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 2,
+        "infantcare_400m": 1,
+        "childcare_400m": 2,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 284,
+        "nearest_infant_m": 284
       }
     },
     {
@@ -5597,7 +6853,15 @@
         "official_address": "315 PASIR PANJANG ROAD PARC REGENCY SINGAPORE 118652",
         "building_name": "PARC REGENCY",
         "recent_resale_median_sgd": 2550000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 2,
+        "infantcare_400m": 1,
+        "childcare_400m": 2,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 163,
+        "nearest_infant_m": 163
       }
     },
     {
@@ -5633,7 +6897,15 @@
         "official_address": "16 WEST COAST CRESCENT WESTCOVE CONDOMINIUM SINGAPORE 128044",
         "building_name": "WESTCOVE CONDOMINIUM",
         "recent_resale_median_sgd": 1450000,
-        "remaining_lease": "99y from 1995 (~67y left)"
+        "remaining_lease": "99y from 1995 (~67y left)",
+        "ecda_400m": 2,
+        "infantcare_400m": 2,
+        "childcare_400m": 2,
+        "aop_pop_400m": 1,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 277,
+        "nearest_infant_m": 277
       }
     },
     {
@@ -5669,7 +6941,15 @@
         "official_address": "303 PASIR PANJANG ROAD HARBOUR RESIDENCES SINGAPORE 118645",
         "building_name": "HARBOUR RESIDENCES",
         "recent_resale_median_sgd": 5950000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 2,
+        "infantcare_400m": 1,
+        "childcare_400m": 2,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 105,
+        "nearest_infant_m": 184
       }
     },
     {
@@ -5705,7 +6985,15 @@
         "official_address": "334 PASIR PANJANG ROAD WHITEHAVEN SINGAPORE 118659",
         "building_name": "WHITEHAVEN",
         "recent_resale_median_sgd": 1800000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 2,
+        "infantcare_400m": 1,
+        "childcare_400m": 2,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 273,
+        "nearest_infant_m": 273
       }
     },
     {
@@ -5741,7 +7029,15 @@
         "official_address": "338 PASIR PANJANG ROAD LUXE VILLE SINGAPORE 118669",
         "building_name": "LUXE VILLE",
         "recent_resale_median_sgd": 2320000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 2,
+        "infantcare_400m": 1,
+        "childcare_400m": 2,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 304,
+        "nearest_infant_m": 304
       }
     },
     {
@@ -5777,7 +7073,15 @@
         "official_address": "28 MAS KUNING TERRACE THE CLEMENTVALE SINGAPORE 126872",
         "building_name": "THE CLEMENTVALE",
         "recent_resale_median_sgd": 2850000,
-        "remaining_lease": "99y from 1997 (~69y left)"
+        "remaining_lease": "99y from 1997 (~69y left)",
+        "ecda_400m": 5,
+        "infantcare_400m": 0,
+        "childcare_400m": 4,
+        "aop_pop_400m": 2,
+        "scc_500m": 2,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 236,
+        "nearest_infant_m": 468
       }
     },
     {
@@ -5813,7 +7117,15 @@
         "official_address": "346A PASIR PANJANG ROAD WEST PARK REGENCY SINGAPORE 117665",
         "building_name": "WEST PARK REGENCY",
         "recent_resale_median_sgd": 2398988,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 1,
+        "infantcare_400m": 1,
+        "childcare_400m": 1,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 371,
+        "nearest_infant_m": 371
       }
     },
     {
@@ -5849,7 +7161,15 @@
         "official_address": "349 PASIR PANJANG ROAD MURANO SINGAPORE 118691",
         "building_name": "MURANO",
         "recent_resale_median_sgd": 1595000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 0,
+        "infantcare_400m": 0,
+        "childcare_400m": 0,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 438,
+        "nearest_infant_m": 438
       }
     },
     {
@@ -5885,7 +7205,15 @@
         "official_address": "118A BUKIT TERESA ROAD TERESA VILLAS SINGAPORE 099763",
         "building_name": "TERESA VILLAS",
         "recent_resale_median_sgd": 4700000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 5,
+        "infantcare_400m": 2,
+        "childcare_400m": 4,
+        "aop_pop_400m": 5,
+        "scc_500m": 2,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 280,
+        "nearest_infant_m": 284
       }
     },
     {
@@ -5921,7 +7249,15 @@
         "official_address": "55 WEST COAST ROAD THE SORRENTO SINGAPORE 127365",
         "building_name": "THE SORRENTO",
         "recent_resale_median_sgd": 860000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 1,
+        "infantcare_400m": 0,
+        "childcare_400m": 1,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 285,
+        "nearest_infant_m": 497
       }
     },
     {
@@ -5957,7 +7293,15 @@
         "official_address": "10 AVA ROAD AVA TOWERS SINGAPORE 329949",
         "building_name": "AVA TOWERS",
         "recent_resale_median_sgd": 1930000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 2,
+        "infantcare_400m": 1,
+        "childcare_400m": 1,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 162,
+        "nearest_infant_m": 162
       }
     },
     {
@@ -5993,7 +7337,15 @@
         "official_address": "341 BALESTIER ROAD CHELSEA GROVE SINGAPORE 329773",
         "building_name": "CHELSEA GROVE",
         "recent_resale_median_sgd": 1750000,
-        "remaining_lease": "999-yr Leasehold"
+        "remaining_lease": "999-yr Leasehold",
+        "ecda_400m": 3,
+        "infantcare_400m": 1,
+        "childcare_400m": 2,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 92,
+        "nearest_infant_m": 385
       }
     },
     {
@@ -6029,7 +7381,15 @@
         "official_address": "288 BALESTIER ROAD BALESTIER 288 SINGAPORE 329731",
         "building_name": "BALESTIER 288",
         "recent_resale_median_sgd": 1450000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 3,
+        "infantcare_400m": 2,
+        "childcare_400m": 2,
+        "aop_pop_400m": 1,
+        "scc_500m": 0,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 137,
+        "nearest_infant_m": 224
       }
     },
     {
@@ -6065,7 +7425,15 @@
         "official_address": "47 MANDALAY ROAD THE AXIS SINGAPORE 308227",
         "building_name": "THE AXIS",
         "recent_resale_median_sgd": 1428000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 2,
+        "infantcare_400m": 0,
+        "childcare_400m": 1,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 198,
+        "nearest_infant_m": 496
       }
     },
     {
@@ -6101,7 +7469,15 @@
         "official_address": "6 KIM KEAT ROAD KIM KEAT GARDENS SINGAPORE 328847",
         "building_name": "KIM KEAT GARDENS",
         "recent_resale_median_sgd": 6500000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 3,
+        "infantcare_400m": 2,
+        "childcare_400m": 2,
+        "aop_pop_400m": 1,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 80,
+        "nearest_infant_m": 290
       }
     },
     {
@@ -6137,7 +7513,15 @@
         "official_address": "42 BOON TECK ROAD BOON TECK APARTMENTS SINGAPORE 329609",
         "building_name": "BOON TECK APARTMENTS",
         "recent_resale_median_sgd": 1530000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 2,
+        "infantcare_400m": 1,
+        "childcare_400m": 1,
+        "aop_pop_400m": 1,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 390,
+        "nearest_infant_m": 390
       }
     },
     {
@@ -6173,7 +7557,15 @@
         "official_address": "51 OEI TIONG HAM PARK OEI TIONG HAM PARK SINGAPORE 267056",
         "building_name": "OEI TIONG HAM PARK",
         "recent_resale_median_sgd": 17000000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 2,
+        "infantcare_400m": 2,
+        "childcare_400m": 2,
+        "aop_pop_400m": 1,
+        "scc_500m": 1,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 373,
+        "nearest_infant_m": 373
       }
     },
     {
@@ -6209,7 +7601,15 @@
         "official_address": "238 BALESTIER ROAD URBAN HERITAGE SINGAPORE 329701",
         "building_name": "URBAN HERITAGE",
         "recent_resale_median_sgd": 690000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 5,
+        "infantcare_400m": 2,
+        "childcare_400m": 4,
+        "aop_pop_400m": 3,
+        "scc_500m": 1,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 130,
+        "nearest_infant_m": 130
       }
     },
     {
@@ -6245,7 +7645,15 @@
         "official_address": "61 MOUNT SINAI DRIVE RIDGEWOOD CONDOMINIUM SINGAPORE 277113",
         "building_name": "RIDGEWOOD CONDOMINIUM",
         "recent_resale_median_sgd": 3200000,
-        "remaining_lease": "999-yr Leasehold"
+        "remaining_lease": "999-yr Leasehold",
+        "ecda_400m": 2,
+        "infantcare_400m": 1,
+        "childcare_400m": 2,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 85,
+        "nearest_infant_m": 244
       }
     },
     {
@@ -6281,7 +7689,15 @@
         "official_address": "13 KIM KEAT ROAD VICTORY HEIGHTS SINGAPORE 328842",
         "building_name": "VICTORY HEIGHTS",
         "recent_resale_median_sgd": 1420000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 3,
+        "infantcare_400m": 2,
+        "childcare_400m": 2,
+        "aop_pop_400m": 1,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 90,
+        "nearest_infant_m": 348
       }
     },
     {
@@ -6317,7 +7733,15 @@
         "official_address": "60 KIM KEAT ROAD KIM KEAT HOUSE SINGAPORE 328827",
         "building_name": "KIM KEAT HOUSE",
         "recent_resale_median_sgd": 1225000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 5,
+        "infantcare_400m": 2,
+        "childcare_400m": 4,
+        "aop_pop_400m": 4,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 254,
+        "nearest_infant_m": 254
       }
     },
     {
@@ -6353,7 +7777,15 @@
         "official_address": "346 BALESTIER ROAD RITZ MANSIONS SINGAPORE 329776",
         "building_name": "RITZ MANSIONS",
         "recent_resale_median_sgd": 1920888,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 2,
+        "infantcare_400m": 1,
+        "childcare_400m": 1,
+        "aop_pop_400m": 1,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 136,
+        "nearest_infant_m": 364
       }
     },
     {
@@ -6389,7 +7821,15 @@
         "official_address": "348 BALESTIER ROAD PRESTIGE HEIGHTS SINGAPORE 329778",
         "building_name": "PRESTIGE HEIGHTS",
         "recent_resale_median_sgd": 690000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 2,
+        "infantcare_400m": 1,
+        "childcare_400m": 1,
+        "aop_pop_400m": 1,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 167,
+        "nearest_infant_m": 396
       }
     },
     {
@@ -6425,7 +7865,15 @@
         "official_address": "205 BALESTIER ROAD THE MEZZO SINGAPORE 329682",
         "building_name": "THE MEZZO",
         "recent_resale_median_sgd": 1420000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 2,
+        "infantcare_400m": 1,
+        "childcare_400m": 1,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 52,
+        "nearest_infant_m": 52
       }
     },
     {
@@ -6461,7 +7909,15 @@
         "official_address": "1A JALAN KEMAMAN SINGAPORE 329317",
         "building_name": "NIL",
         "recent_resale_median_sgd": 1500000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 2,
+        "infantcare_400m": 0,
+        "childcare_400m": 1,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 298,
+        "nearest_infant_m": 527
       }
     },
     {
@@ -6497,7 +7953,15 @@
         "official_address": "3 JALAN KEMAMAN VERTICUS SINGAPORE 329343",
         "building_name": "VERTICUS",
         "recent_resale_median_sgd": 1740000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 2,
+        "infantcare_400m": 0,
+        "childcare_400m": 1,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 312,
+        "nearest_infant_m": 434
       }
     },
     {
@@ -6533,7 +7997,15 @@
         "official_address": "20 PEGU ROAD BELMONDO VIEW SINGAPORE 328369",
         "building_name": "BELMONDO VIEW",
         "recent_resale_median_sgd": 2128000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 3,
+        "infantcare_400m": 1,
+        "childcare_400m": 2,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 111,
+        "nearest_infant_m": 293
       }
     },
     {
@@ -6569,7 +8041,15 @@
         "official_address": "54 MINBU ROAD MINBU COURT SINGAPORE 308184",
         "building_name": "MINBU COURT",
         "recent_resale_median_sgd": 1820000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 4,
+        "infantcare_400m": 0,
+        "childcare_400m": 3,
+        "aop_pop_400m": 1,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 184,
+        "nearest_infant_m": 535
       }
     },
     {
@@ -6605,7 +8085,15 @@
         "official_address": "63 MOUNT SINAI DRIVE MONTVIEW SINGAPORE 277116",
         "building_name": "MONTVIEW",
         "recent_resale_median_sgd": 3060000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 1,
+        "infantcare_400m": 0,
+        "childcare_400m": 1,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 243,
+        "nearest_infant_m": 438
       }
     },
     {
@@ -6641,7 +8129,15 @@
         "official_address": "432 BALESTIER ROAD PUBLIC MANSIONS SINGAPORE 329813",
         "building_name": "PUBLIC MANSIONS",
         "recent_resale_median_sgd": 2290000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 4,
+        "infantcare_400m": 0,
+        "childcare_400m": 3,
+        "aop_pop_400m": 1,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 266,
+        "nearest_infant_m": 620
       }
     },
     {
@@ -6677,7 +8173,15 @@
         "official_address": "8 MINBU ROAD MONTEBLEU SINGAPORE 308162",
         "building_name": "MONTEBLEU",
         "recent_resale_median_sgd": 1618888,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 2,
+        "infantcare_400m": 0,
+        "childcare_400m": 1,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 194,
+        "nearest_infant_m": 413
       }
     },
     {
@@ -6713,7 +8217,15 @@
         "official_address": "221 BALESTIER ROAD ROCCA BALESTIER SINGAPORE 329928",
         "building_name": "ROCCA BALESTIER",
         "recent_resale_median_sgd": 1700000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 2,
+        "infantcare_400m": 1,
+        "childcare_400m": 1,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 35,
+        "nearest_infant_m": 35
       }
     },
     {
@@ -6749,7 +8261,15 @@
         "official_address": "5 QUEEN ASTRID GARDENS QUEEN ASTRID GARDENS SINGAPORE 266861",
         "building_name": "QUEEN ASTRID GARDENS",
         "recent_resale_median_sgd": 5500000,
-        "remaining_lease": "999-yr Leasehold"
+        "remaining_lease": "999-yr Leasehold",
+        "ecda_400m": 1,
+        "infantcare_400m": 0,
+        "childcare_400m": 1,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 280,
+        "nearest_infant_m": 682
       }
     },
     {
@@ -6785,7 +8305,15 @@
         "official_address": "11 BOON TECK ROAD SUMMER GREEN SINGAPORE 329585",
         "building_name": "SUMMER GREEN",
         "recent_resale_median_sgd": 1838800,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 3,
+        "infantcare_400m": 0,
+        "childcare_400m": 2,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 372,
+        "nearest_infant_m": 495
       }
     },
     {
@@ -6821,7 +8349,15 @@
         "official_address": "23 MINBU ROAD D' IXORAS SINGAPORE 308172",
         "building_name": "D' IXORAS",
         "recent_resale_median_sgd": 1450000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 2,
+        "infantcare_400m": 0,
+        "childcare_400m": 1,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 82,
+        "nearest_infant_m": 485
       }
     },
     {
@@ -6857,7 +8393,15 @@
         "official_address": "8 MOONBEAM DRIVE HOLLAND GARDENS SINGAPORE 277348",
         "building_name": "HOLLAND GARDENS",
         "recent_resale_median_sgd": 8630000,
-        "remaining_lease": "999-yr Leasehold"
+        "remaining_lease": "999-yr Leasehold",
+        "ecda_400m": 3,
+        "infantcare_400m": 1,
+        "childcare_400m": 3,
+        "aop_pop_400m": 0,
+        "scc_500m": 1,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 152,
+        "nearest_infant_m": 383
       }
     },
     {
@@ -6893,7 +8437,15 @@
         "official_address": "10 LORONG AMPAS D'LOTUS SINGAPORE 328784",
         "building_name": "D'LOTUS",
         "recent_resale_median_sgd": 1340000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 3,
+        "infantcare_400m": 2,
+        "childcare_400m": 2,
+        "aop_pop_400m": 2,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 268,
+        "nearest_infant_m": 268
       }
     },
     {
@@ -6929,7 +8481,15 @@
         "official_address": "352 BALESTIER ROAD SHAW PLAZA - TWIN HEIGHTS SINGAPORE 329780",
         "building_name": "SHAW PLAZA - TWIN HEIGHTS",
         "recent_resale_median_sgd": 2520000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 2,
+        "infantcare_400m": 0,
+        "childcare_400m": 1,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 136,
+        "nearest_infant_m": 461
       }
     },
     {
@@ -6965,7 +8525,15 @@
         "official_address": "35 MOUNT SINAI LANE MT SINAI RESIDENCES SINGAPORE 275788",
         "building_name": "MT SINAI RESIDENCES",
         "recent_resale_median_sgd": 4250000,
-        "remaining_lease": "999-yr Leasehold"
+        "remaining_lease": "999-yr Leasehold",
+        "ecda_400m": 2,
+        "infantcare_400m": 0,
+        "childcare_400m": 2,
+        "aop_pop_400m": 0,
+        "scc_500m": 1,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 236,
+        "nearest_infant_m": 412
       }
     },
     {
@@ -7001,7 +8569,15 @@
         "official_address": "54 MING TECK PARK MING TECK PARK SINGAPORE 277421",
         "building_name": "MING TECK PARK",
         "recent_resale_median_sgd": 8100000,
-        "remaining_lease": "999-yr Leasehold"
+        "remaining_lease": "999-yr Leasehold",
+        "ecda_400m": 1,
+        "infantcare_400m": 0,
+        "childcare_400m": 1,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 324,
+        "nearest_infant_m": 839
       }
     },
     {
@@ -7037,7 +8613,15 @@
         "official_address": "29 GROVE AVENUE HENRY PARK SINGAPORE 279199",
         "building_name": "HENRY PARK",
         "recent_resale_median_sgd": 9825000,
-        "remaining_lease": "999-yr Leasehold"
+        "remaining_lease": "999-yr Leasehold",
+        "ecda_400m": 2,
+        "infantcare_400m": 2,
+        "childcare_400m": 2,
+        "aop_pop_400m": 1,
+        "scc_500m": 2,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 207,
+        "nearest_infant_m": 207
       }
     },
     {
@@ -7073,7 +8657,15 @@
         "official_address": "3 JALAN AMPAS BIRCHWOOD MANSIONS SINGAPORE 329504",
         "building_name": "BIRCHWOOD MANSIONS",
         "recent_resale_median_sgd": 1640000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 2,
+        "infantcare_400m": 0,
+        "childcare_400m": 1,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 262,
+        "nearest_infant_m": 446
       }
     },
     {
@@ -7109,7 +8701,15 @@
         "official_address": "369 HOLLAND ROAD ALLSWORTH PARK SINGAPORE 278640",
         "building_name": "ALLSWORTH PARK",
         "recent_resale_median_sgd": 4100000,
-        "remaining_lease": "999-yr Leasehold"
+        "remaining_lease": "999-yr Leasehold",
+        "ecda_400m": 2,
+        "infantcare_400m": 1,
+        "childcare_400m": 2,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 114,
+        "nearest_infant_m": 114
       }
     },
     {
@@ -7145,7 +8745,15 @@
         "official_address": "456 BALESTIER ROAD ASCENT @ 456 SINGAPORE 329832",
         "building_name": "ASCENT @ 456",
         "recent_resale_median_sgd": 1080000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 4,
+        "infantcare_400m": 0,
+        "childcare_400m": 3,
+        "aop_pop_400m": 1,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 229,
+        "nearest_infant_m": 614
       }
     },
     {
@@ -7181,7 +8789,15 @@
         "official_address": "8 JALAN RAMA RAMA PAPILLON SINGAPORE 329089",
         "building_name": "PAPILLON",
         "recent_resale_median_sgd": 1856000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 3,
+        "infantcare_400m": 0,
+        "childcare_400m": 2,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 320,
+        "nearest_infant_m": 546
       }
     },
     {
@@ -7217,7 +8833,15 @@
         "official_address": "5 JALAN AMPAS AMPAS APARTMENTS SINGAPORE 329506",
         "building_name": "AMPAS APARTMENTS",
         "recent_resale_median_sgd": 2118000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 2,
+        "infantcare_400m": 0,
+        "childcare_400m": 1,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 276,
+        "nearest_infant_m": 409
       }
     },
     {
@@ -7253,7 +8877,15 @@
         "official_address": "75 MING TECK PARK MING TECK PARK SINGAPORE 277442",
         "building_name": "MING TECK PARK",
         "recent_resale_median_sgd": 6250000,
-        "remaining_lease": "999-yr Leasehold"
+        "remaining_lease": "999-yr Leasehold",
+        "ecda_400m": 1,
+        "infantcare_400m": 0,
+        "childcare_400m": 1,
+        "aop_pop_400m": 0,
+        "scc_500m": 1,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 145,
+        "nearest_infant_m": 715
       }
     },
     {
@@ -7289,7 +8921,15 @@
         "official_address": "400 BALESTIER ROAD BALESTIER PLAZA SINGAPORE 329802",
         "building_name": "BALESTIER PLAZA",
         "recent_resale_median_sgd": 2000000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 2,
+        "infantcare_400m": 0,
+        "childcare_400m": 1,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 270,
+        "nearest_infant_m": 500
       }
     },
     {
@@ -7325,7 +8965,15 @@
         "official_address": "20 MARTABAN ROAD DE PARADISO SINGAPORE 328644",
         "building_name": "DE PARADISO",
         "recent_resale_median_sgd": 1810000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 2,
+        "infantcare_400m": 0,
+        "childcare_400m": 1,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 153,
+        "nearest_infant_m": 405
       }
     },
     {
@@ -7361,7 +9009,15 @@
         "official_address": "2 MINBU ROAD MEDGE SINGAPORE 308186",
         "building_name": "MEDGE",
         "recent_resale_median_sgd": 1510000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 3,
+        "infantcare_400m": 1,
+        "childcare_400m": 2,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 188,
+        "nearest_infant_m": 358
       }
     },
     {
@@ -7397,7 +9053,15 @@
         "official_address": "245 BALESTIER ROAD SCENIC HEIGHTS SINGAPORE 329929",
         "building_name": "SCENIC HEIGHTS",
         "recent_resale_median_sgd": 2200000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 2,
+        "infantcare_400m": 1,
+        "childcare_400m": 1,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 83,
+        "nearest_infant_m": 83
       }
     },
     {
@@ -7433,7 +9097,15 @@
         "official_address": "6 JALAN AMPAS THE VIRIDIAN SINGAPORE 329507",
         "building_name": "THE VIRIDIAN",
         "recent_resale_median_sgd": 1510000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 2,
+        "infantcare_400m": 1,
+        "childcare_400m": 1,
+        "aop_pop_400m": 1,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 239,
+        "nearest_infant_m": 379
       }
     },
     {
@@ -7469,7 +9141,15 @@
         "official_address": "25 KIM KEAT CLOSE BLISS LOFT SINGAPORE 328933",
         "building_name": "BLISS LOFT",
         "recent_resale_median_sgd": 1140000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 5,
+        "infantcare_400m": 2,
+        "childcare_400m": 4,
+        "aop_pop_400m": 3,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 128,
+        "nearest_infant_m": 254
       }
     },
     {
@@ -7505,7 +9185,15 @@
         "official_address": "5 KIM KEAT ROAD KIM KEAT LODGE SINGAPORE 328843",
         "building_name": "KIM KEAT LODGE",
         "recent_resale_median_sgd": 1850000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 3,
+        "infantcare_400m": 2,
+        "childcare_400m": 2,
+        "aop_pop_400m": 1,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 64,
+        "nearest_infant_m": 358
       }
     },
     {
@@ -7541,7 +9229,15 @@
         "official_address": "262 BALESTIER ROAD OKIO SINGAPORE 329714",
         "building_name": "OKIO",
         "recent_resale_median_sgd": 800000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 5,
+        "infantcare_400m": 2,
+        "childcare_400m": 4,
+        "aop_pop_400m": 3,
+        "scc_500m": 1,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 148,
+        "nearest_infant_m": 148
       }
     },
     {
@@ -7577,7 +9273,15 @@
         "official_address": "2 MARTABAN ROAD CHELSEA GROVE SINGAPORE 328626",
         "building_name": "CHELSEA GROVE",
         "recent_resale_median_sgd": 1480000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 3,
+        "infantcare_400m": 1,
+        "childcare_400m": 2,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 102,
+        "nearest_infant_m": 377
       }
     },
     {
@@ -7613,7 +9317,15 @@
         "official_address": "9 BOON TECK ROAD VA RESIDENCES SINGAPORE 329583",
         "building_name": "VA RESIDENCES",
         "recent_resale_median_sgd": 900000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 3,
+        "infantcare_400m": 0,
+        "childcare_400m": 2,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 354,
+        "nearest_infant_m": 509
       }
     },
     {
@@ -7649,7 +9361,15 @@
         "official_address": "26 HOLLAND GROVE ROAD PARKSUITES SINGAPORE 278804",
         "building_name": "PARKSUITES",
         "recent_resale_median_sgd": 1892100,
-        "remaining_lease": "110y from 2017 (~100y left)"
+        "remaining_lease": "110y from 2017 (~100y left)",
+        "ecda_400m": 3,
+        "infantcare_400m": 1,
+        "childcare_400m": 2,
+        "aop_pop_400m": 0,
+        "scc_500m": 1,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 122,
+        "nearest_infant_m": 278
       }
     },
     {
@@ -7685,7 +9405,15 @@
         "official_address": "4 JALAN AMPAS BALESTIER REGENCY SINGAPORE 329505",
         "building_name": "BALESTIER REGENCY",
         "recent_resale_median_sgd": 2118888,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 1,
+        "infantcare_400m": 0,
+        "childcare_400m": 0,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 161,
+        "nearest_infant_m": 430
       }
     },
     {
@@ -7721,7 +9449,15 @@
         "official_address": "11B MOUNT SINAI LANE GLENTREES SINGAPORE 277051",
         "building_name": "GLENTREES",
         "recent_resale_median_sgd": 3745000,
-        "remaining_lease": "999-yr Leasehold"
+        "remaining_lease": "999-yr Leasehold",
+        "ecda_400m": 3,
+        "infantcare_400m": 1,
+        "childcare_400m": 3,
+        "aop_pop_400m": 0,
+        "scc_500m": 1,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 201,
+        "nearest_infant_m": 271
       }
     },
     {
@@ -7757,7 +9493,15 @@
         "official_address": "279 BALESTIER ROAD BALESTIER POINT SINGAPORE 329727",
         "building_name": "BALESTIER POINT",
         "recent_resale_median_sgd": 1680000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 2,
+        "infantcare_400m": 1,
+        "childcare_400m": 1,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 120,
+        "nearest_infant_m": 212
       }
     },
     {
@@ -7793,7 +9537,15 @@
         "official_address": "424 BALESTIER ROAD GIFFARD MANSIONS SINGAPORE 329810",
         "building_name": "GIFFARD MANSIONS",
         "recent_resale_median_sgd": 2065000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 3,
+        "infantcare_400m": 0,
+        "childcare_400m": 2,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 276,
+        "nearest_infant_m": 593
       }
     },
     {
@@ -7829,7 +9581,15 @@
         "official_address": "45 MOUNT SINAI RISE BEAVERTON COURT SINGAPORE 276958",
         "building_name": "BEAVERTON COURT",
         "recent_resale_median_sgd": 5950000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 1,
+        "infantcare_400m": 0,
+        "childcare_400m": 1,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 392,
+        "nearest_infant_m": 576
       }
     },
     {
@@ -7865,7 +9625,15 @@
         "official_address": "15 MINBU ROAD MANDALAY MANSION SINGAPORE 308166",
         "building_name": "MANDALAY MANSION",
         "recent_resale_median_sgd": 2828888,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 2,
+        "infantcare_400m": 0,
+        "childcare_400m": 1,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 101,
+        "nearest_infant_m": 484
       }
     },
     {
@@ -7901,7 +9669,15 @@
         "official_address": "30 JALAN KEMAMAN NEEM TREE SINGAPORE 329341",
         "building_name": "NEEM TREE",
         "recent_resale_median_sgd": 1068000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 2,
+        "infantcare_400m": 1,
+        "childcare_400m": 1,
+        "aop_pop_400m": 1,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 289,
+        "nearest_infant_m": 289
       }
     },
     {
@@ -7937,7 +9713,15 @@
         "official_address": "10 LORONG LIMAU CRADELS SINGAPORE 328754",
         "building_name": "CRADELS",
         "recent_resale_median_sgd": 1000000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 4,
+        "infantcare_400m": 1,
+        "childcare_400m": 3,
+        "aop_pop_400m": 3,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 218,
+        "nearest_infant_m": 218
       }
     },
     {
@@ -7973,7 +9757,15 @@
         "official_address": "21 KIM KEAT LANE SINGAPORE 328877",
         "building_name": "NIL",
         "recent_resale_median_sgd": 3700000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 5,
+        "infantcare_400m": 2,
+        "childcare_400m": 4,
+        "aop_pop_400m": 3,
+        "scc_500m": 1,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 185,
+        "nearest_infant_m": 185
       }
     },
     {
@@ -8009,7 +9801,15 @@
         "official_address": "31 BOON TECK ROAD D'MIRA SINGAPORE 329602",
         "building_name": "D'MIRA",
         "recent_resale_median_sgd": 2590000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 2,
+        "infantcare_400m": 0,
+        "childcare_400m": 1,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 390,
+        "nearest_infant_m": 462
       }
     },
     {
@@ -8045,7 +9845,15 @@
         "official_address": "10 MARTABAN ROAD ECOVILLE SINGAPORE 328668",
         "building_name": "ECOVILLE",
         "recent_resale_median_sgd": 1940000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 3,
+        "infantcare_400m": 1,
+        "childcare_400m": 2,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 122,
+        "nearest_infant_m": 366
       }
     },
     {
@@ -8081,7 +9889,15 @@
         "official_address": "99 GROVE DRIVE GROVE RESIDENCE SINGAPORE 275758",
         "building_name": "GROVE RESIDENCE",
         "recent_resale_median_sgd": 7500000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 2,
+        "infantcare_400m": 2,
+        "childcare_400m": 2,
+        "aop_pop_400m": 1,
+        "scc_500m": 2,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 278,
+        "nearest_infant_m": 278
       }
     },
     {
@@ -8117,7 +9933,15 @@
         "official_address": "28 PEGU ROAD THE TIER SINGAPORE 328373",
         "building_name": "THE TIER",
         "recent_resale_median_sgd": 860000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 3,
+        "infantcare_400m": 1,
+        "childcare_400m": 2,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 145,
+        "nearest_infant_m": 283
       }
     },
     {
@@ -8153,7 +9977,15 @@
         "official_address": "41 BOON TECK ROAD BOON TECK TOWER SINGAPORE 329608",
         "building_name": "BOON TECK TOWER",
         "recent_resale_median_sgd": 2100000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 0,
+        "infantcare_400m": 0,
+        "childcare_400m": 0,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 405,
+        "nearest_infant_m": 405
       }
     },
     {
@@ -8189,7 +10021,15 @@
         "official_address": "31 KIM KEAT LANE CALARASI SINGAPORE 328882",
         "building_name": "CALARASI",
         "recent_resale_median_sgd": 1828000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 5,
+        "infantcare_400m": 2,
+        "childcare_400m": 4,
+        "aop_pop_400m": 3,
+        "scc_500m": 1,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 145,
+        "nearest_infant_m": 145
       }
     },
     {
@@ -8225,7 +10065,15 @@
         "official_address": "45 MANDALAY ROAD MANDALE HEIGHTS SINGAPORE 308225",
         "building_name": "MANDALE HEIGHTS",
         "recent_resale_median_sgd": 2560000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 2,
+        "infantcare_400m": 0,
+        "childcare_400m": 1,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 161,
+        "nearest_infant_m": 487
       }
     },
     {
@@ -8261,7 +10109,15 @@
         "official_address": "27 BOON TECK ROAD KINGSLEY MANSIONS SINGAPORE 329599",
         "building_name": "KINGSLEY MANSIONS",
         "recent_resale_median_sgd": 1780000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 2,
+        "infantcare_400m": 0,
+        "childcare_400m": 1,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 390,
+        "nearest_infant_m": 470
       }
     },
     {
@@ -8297,7 +10153,15 @@
         "official_address": "8 BHAMO ROAD NOVA 88 SINGAPORE 329640",
         "building_name": "NOVA 88",
         "recent_resale_median_sgd": 2050000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 2,
+        "infantcare_400m": 0,
+        "childcare_400m": 1,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 159,
+        "nearest_infant_m": 539
       }
     },
     {
@@ -8333,7 +10197,15 @@
         "official_address": "21 KIM KEAT ROAD THE INTERWEAVE SINGAPORE 328805",
         "building_name": "THE INTERWEAVE",
         "recent_resale_median_sgd": 1006688,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 3,
+        "infantcare_400m": 2,
+        "childcare_400m": 2,
+        "aop_pop_400m": 2,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 221,
+        "nearest_infant_m": 325
       }
     },
     {
@@ -8369,7 +10241,15 @@
         "official_address": "265 HOLLAND ROAD MCMAHON PARK SINGAPORE 278612",
         "building_name": "MCMAHON PARK",
         "recent_resale_median_sgd": 8800000,
-        "remaining_lease": "999-yr Leasehold"
+        "remaining_lease": "999-yr Leasehold",
+        "ecda_400m": 1,
+        "infantcare_400m": 0,
+        "childcare_400m": 1,
+        "aop_pop_400m": 0,
+        "scc_500m": 2,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 192,
+        "nearest_infant_m": 436
       }
     },
     {
@@ -8405,7 +10285,15 @@
         "official_address": "23 PROME ROAD SINGAPORE 328331",
         "building_name": "NIL",
         "recent_resale_median_sgd": 3300000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 2,
+        "infantcare_400m": 0,
+        "childcare_400m": 1,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 131,
+        "nearest_infant_m": 535
       }
     },
     {
@@ -8441,7 +10329,15 @@
         "official_address": "235 BALESTIER ROAD CITY SUITES SINGAPORE 329699",
         "building_name": "CITY SUITES",
         "recent_resale_median_sgd": 990000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 2,
+        "infantcare_400m": 1,
+        "childcare_400m": 1,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 53,
+        "nearest_infant_m": 53
       }
     },
     {
@@ -8477,7 +10373,15 @@
         "official_address": "8 RIDGEWOOD CLOSE THE TRIZON SINGAPORE 276698",
         "building_name": "THE TRIZON",
         "recent_resale_median_sgd": 4308888,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 2,
+        "infantcare_400m": 1,
+        "childcare_400m": 2,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 158,
+        "nearest_infant_m": 347
       }
     },
     {
@@ -8513,7 +10417,15 @@
         "official_address": "10 PROME ROAD NOVA 48 SINGAPORE 328318",
         "building_name": "NOVA 48",
         "recent_resale_median_sgd": 2080000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 4,
+        "infantcare_400m": 0,
+        "childcare_400m": 2,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 159,
+        "nearest_infant_m": 555
       }
     },
     {
@@ -8549,7 +10461,15 @@
         "official_address": "16 LORONG LIMAU PARC HAVEN SINGAPORE 328743",
         "building_name": "PARC HAVEN",
         "recent_resale_median_sgd": 1550000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 4,
+        "infantcare_400m": 1,
+        "childcare_400m": 3,
+        "aop_pop_400m": 3,
+        "scc_500m": 1,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 105,
+        "nearest_infant_m": 105
       }
     },
     {
@@ -8585,7 +10505,15 @@
         "official_address": "17 KIM KEAT ROAD REGAL COURT SINGAPORE 328837",
         "building_name": "REGAL COURT",
         "recent_resale_median_sgd": 1270000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 2,
+        "infantcare_400m": 1,
+        "childcare_400m": 1,
+        "aop_pop_400m": 1,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 129,
+        "nearest_infant_m": 326
       }
     },
     {
@@ -8621,7 +10549,15 @@
         "official_address": "62 GREENLEAF ROAD LINK RESIDENCE @ HOLLAND SINGAPORE 279352",
         "building_name": "LINK RESIDENCE @ HOLLAND",
         "recent_resale_median_sgd": 13160000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 0,
+        "infantcare_400m": 0,
+        "childcare_400m": 0,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 432,
+        "nearest_infant_m": 841
       }
     },
     {
@@ -8657,7 +10593,15 @@
         "official_address": "371 HOLLAND ROAD THE SERENADE @ HOLLAND SINGAPORE 278698",
         "building_name": "THE SERENADE @ HOLLAND",
         "recent_resale_median_sgd": 2530000,
-        "remaining_lease": "99y from 2001 (~73y left)"
+        "remaining_lease": "99y from 2001 (~73y left)",
+        "ecda_400m": 2,
+        "infantcare_400m": 1,
+        "childcare_400m": 2,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 111,
+        "nearest_infant_m": 168
       }
     },
     {
@@ -8693,7 +10637,15 @@
         "official_address": "51 MANDALAY ROAD MONARCHY APARTMENTS SINGAPORE 308231",
         "building_name": "MONARCHY APARTMENTS",
         "recent_resale_median_sgd": 1690000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 2,
+        "infantcare_400m": 0,
+        "childcare_400m": 1,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 224,
+        "nearest_infant_m": 502
       }
     },
     {
@@ -8729,7 +10681,15 @@
         "official_address": "56 MINBU ROAD MINBU VILLA SINGAPORE 308185",
         "building_name": "MINBU VILLA",
         "recent_resale_median_sgd": 3180000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 4,
+        "infantcare_400m": 0,
+        "childcare_400m": 3,
+        "aop_pop_400m": 1,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 220,
+        "nearest_infant_m": 541
       }
     },
     {
@@ -8765,7 +10725,15 @@
         "official_address": "12 CLEMENTI CRESCENT CLEMENTI GREEN SINGAPORE 599515",
         "building_name": "CLEMENTI GREEN",
         "recent_resale_median_sgd": 18800000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 0,
+        "infantcare_400m": 0,
+        "childcare_400m": 0,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 681,
+        "nearest_infant_m": 681
       }
     },
     {
@@ -8801,7 +10769,15 @@
         "official_address": "23B CLEMENTI CRESCENT CLEMENTI GARDENS SINGAPORE 599530",
         "building_name": "CLEMENTI GARDENS",
         "recent_resale_median_sgd": 7100000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 0,
+        "infantcare_400m": 0,
+        "childcare_400m": 0,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 725,
+        "nearest_infant_m": 725
       }
     },
     {
@@ -8837,7 +10813,15 @@
         "official_address": "3 SENGKANG EAST AVENUE RIVERSOUND RESIDENCE SINGAPORE 544813",
         "building_name": "RIVERSOUND RESIDENCE",
         "recent_resale_median_sgd": 1530000,
-        "remaining_lease": "99y from 2011 (~83y left)"
+        "remaining_lease": "99y from 2011 (~83y left)",
+        "ecda_400m": 3,
+        "infantcare_400m": 2,
+        "childcare_400m": 3,
+        "aop_pop_400m": 3,
+        "scc_500m": 0,
+        "pri_sch_1km": 4,
+        "nearest_ecda_m": 147,
+        "nearest_infant_m": 245
       }
     },
     {
@@ -8873,7 +10857,15 @@
         "official_address": "21 TAMPINES STREET 86 THE SANTORINI SINGAPORE 528592",
         "building_name": "THE SANTORINI",
         "recent_resale_median_sgd": 1260000,
-        "remaining_lease": "99y from 2013 (~85y left)"
+        "remaining_lease": "99y from 2013 (~85y left)",
+        "ecda_400m": 4,
+        "infantcare_400m": 3,
+        "childcare_400m": 4,
+        "aop_pop_400m": 3,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 140,
+        "nearest_infant_m": 140
       }
     },
     {
@@ -8909,7 +10901,15 @@
         "official_address": "183 JALAN PELIKAT THE PROMENADE@PELIKAT SINGAPORE 537643",
         "building_name": "THE PROMENADE@PELIKAT",
         "recent_resale_median_sgd": 1188000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 3,
+        "infantcare_400m": 1,
+        "childcare_400m": 3,
+        "aop_pop_400m": 2,
+        "scc_500m": 3,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 244,
+        "nearest_infant_m": 356
       }
     },
     {
@@ -8945,7 +10945,15 @@
         "official_address": "65 TAMPINES AVENUE 1 THE TROPICA SINGAPORE 529778",
         "building_name": "THE TROPICA",
         "recent_resale_median_sgd": 1670000,
-        "remaining_lease": "99y from 1996 (~68y left)"
+        "remaining_lease": "99y from 1996 (~68y left)",
+        "ecda_400m": 1,
+        "infantcare_400m": 1,
+        "childcare_400m": 1,
+        "aop_pop_400m": 1,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 365,
+        "nearest_infant_m": 365
       }
     },
     {
@@ -8981,7 +10989,15 @@
         "official_address": "12 TAI HWAN AVENUE TAI HWAN GARDEN SINGAPORE 555681",
         "building_name": "TAI HWAN GARDEN",
         "recent_resale_median_sgd": 4900000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 3,
+        "infantcare_400m": 0,
+        "childcare_400m": 3,
+        "aop_pop_400m": 0,
+        "scc_500m": 1,
+        "pri_sch_1km": 4,
+        "nearest_ecda_m": 288,
+        "nearest_infant_m": 690
       }
     },
     {
@@ -9017,7 +11033,15 @@
         "official_address": "20 PINE GROVE CAVENDISH PARK SINGAPORE 597595",
         "building_name": "CAVENDISH PARK",
         "recent_resale_median_sgd": 1920000,
-        "remaining_lease": "99y from 1991 (~63y left)"
+        "remaining_lease": "99y from 1991 (~63y left)",
+        "ecda_400m": 1,
+        "infantcare_400m": 0,
+        "childcare_400m": 1,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 365,
+        "nearest_infant_m": 536
       }
     },
     {
@@ -9053,7 +11077,15 @@
         "official_address": "12 TAMPINES STREET 73 PINEVALE SINGAPORE 528828",
         "building_name": "PINEVALE",
         "recent_resale_median_sgd": 1550000,
-        "remaining_lease": "99y from 1997 (~69y left)"
+        "remaining_lease": "99y from 1997 (~69y left)",
+        "ecda_400m": 9,
+        "infantcare_400m": 4,
+        "childcare_400m": 6,
+        "aop_pop_400m": 7,
+        "scc_500m": 1,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 181,
+        "nearest_infant_m": 292
       }
     },
     {
@@ -9089,7 +11121,15 @@
         "official_address": "31 ANCHORVALE CRESCENT BELLEWATERS SINGAPORE 544659",
         "building_name": "BELLEWATERS",
         "recent_resale_median_sgd": 1700000,
-        "remaining_lease": "99y from 2013 (~85y left)"
+        "remaining_lease": "99y from 2013 (~85y left)",
+        "ecda_400m": 5,
+        "infantcare_400m": 3,
+        "childcare_400m": 5,
+        "aop_pop_400m": 5,
+        "scc_500m": 0,
+        "pri_sch_1km": 4,
+        "nearest_ecda_m": 139,
+        "nearest_infant_m": 139
       }
     },
     {
@@ -9125,7 +11165,15 @@
         "official_address": "57 TAMPINES STREET 86 THE TAPESTRY SINGAPORE 528542",
         "building_name": "THE TAPESTRY",
         "recent_resale_median_sgd": 1080000,
-        "remaining_lease": "99y from 2017 (~89y left)"
+        "remaining_lease": "99y from 2017 (~89y left)",
+        "ecda_400m": 4,
+        "infantcare_400m": 3,
+        "childcare_400m": 4,
+        "aop_pop_400m": 3,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 78,
+        "nearest_infant_m": 148
       }
     },
     {
@@ -9161,7 +11209,15 @@
         "official_address": "60 ANCHORVALE CRESCENT TREASURE CREST SINGAPORE 544614",
         "building_name": "TREASURE CREST",
         "recent_resale_median_sgd": 1690000,
-        "remaining_lease": "99y from 2015 (~87y left)"
+        "remaining_lease": "99y from 2015 (~87y left)",
+        "ecda_400m": 6,
+        "infantcare_400m": 4,
+        "childcare_400m": 6,
+        "aop_pop_400m": 6,
+        "scc_500m": 1,
+        "pri_sch_1km": 4,
+        "nearest_ecda_m": 281,
+        "nearest_infant_m": 335
       }
     },
     {
@@ -9197,7 +11253,15 @@
         "official_address": "104 PUNGGOL WALK TWIN WATERFALLS SINGAPORE 828792",
         "building_name": "TWIN WATERFALLS",
         "recent_resale_median_sgd": 1710000,
-        "remaining_lease": "99y from 2011 (~83y left)"
+        "remaining_lease": "99y from 2011 (~83y left)",
+        "ecda_400m": 5,
+        "infantcare_400m": 4,
+        "childcare_400m": 4,
+        "aop_pop_400m": 4,
+        "scc_500m": 2,
+        "pri_sch_1km": 4,
+        "nearest_ecda_m": 186,
+        "nearest_infant_m": 257
       }
     },
     {
@@ -9233,7 +11297,15 @@
         "official_address": "1L PINE GROVE PINE GROVE SINGAPORE 591101",
         "building_name": "PINE GROVE",
         "recent_resale_median_sgd": 1780000,
-        "remaining_lease": "99y from 1984 (~56y left)"
+        "remaining_lease": "99y from 1984 (~56y left)",
+        "ecda_400m": 0,
+        "infantcare_400m": 0,
+        "childcare_400m": 0,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 452,
+        "nearest_infant_m": 557
       }
     },
     {
@@ -9269,7 +11341,15 @@
         "official_address": "7 PANDAN VALLEY PANDAN VALLEY, POINCIANA TOWER SINGAPORE 597631",
         "building_name": "PANDAN VALLEY, POINCIANA TOWER",
         "recent_resale_median_sgd": 2800000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 2,
+        "infantcare_400m": 1,
+        "childcare_400m": 2,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 107,
+        "nearest_infant_m": 220
       }
     },
     {
@@ -9305,7 +11385,15 @@
         "official_address": "21 TAMPINES AVENUE 8 ARC AT TAMPINES SINGAPORE 529604",
         "building_name": "ARC AT TAMPINES",
         "recent_resale_median_sgd": 1438888,
-        "remaining_lease": "99y from 2011 (~83y left)"
+        "remaining_lease": "99y from 2011 (~83y left)",
+        "ecda_400m": 6,
+        "infantcare_400m": 4,
+        "childcare_400m": 5,
+        "aop_pop_400m": 4,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 93,
+        "nearest_infant_m": 93
       }
     },
     {
@@ -9341,7 +11429,15 @@
         "official_address": "63 TAI HWAN CRESCENT TAI HWAN PARK SINGAPORE 555617",
         "building_name": "TAI HWAN PARK",
         "recent_resale_median_sgd": 4680000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 1,
+        "infantcare_400m": 0,
+        "childcare_400m": 1,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 4,
+        "nearest_ecda_m": 126,
+        "nearest_infant_m": 840
       }
     },
     {
@@ -9377,7 +11473,15 @@
         "official_address": "38 SAINT ANNE'S WOOD SAINT ANNE'S WOOD SINGAPORE 545234",
         "building_name": "SAINT ANNE'S WOOD",
         "recent_resale_median_sgd": 4728000,
-        "remaining_lease": "999-yr Leasehold"
+        "remaining_lease": "999-yr Leasehold",
+        "ecda_400m": 17,
+        "infantcare_400m": 7,
+        "childcare_400m": 16,
+        "aop_pop_400m": 8,
+        "scc_500m": 4,
+        "pri_sch_1km": 5,
+        "nearest_ecda_m": 79,
+        "nearest_infant_m": 175
       }
     },
     {
@@ -9413,7 +11517,15 @@
         "official_address": "1 TOH TUCK RISE VISTA GARDEN SINGAPORE 596751",
         "building_name": "VISTA GARDEN",
         "recent_resale_median_sgd": 4700000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 1,
+        "infantcare_400m": 0,
+        "childcare_400m": 1,
+        "aop_pop_400m": 0,
+        "scc_500m": 1,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 260,
+        "nearest_infant_m": 889
       }
     },
     {
@@ -9449,7 +11561,15 @@
         "official_address": "5 PINE GROVE ASTOR GREEN SINGAPORE 597591",
         "building_name": "ASTOR GREEN",
         "recent_resale_median_sgd": 2080000,
-        "remaining_lease": "99y from 1991 (~63y left)"
+        "remaining_lease": "99y from 1991 (~63y left)",
+        "ecda_400m": 1,
+        "infantcare_400m": 0,
+        "childcare_400m": 1,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 268,
+        "nearest_infant_m": 411
       }
     },
     {
@@ -9485,7 +11605,15 @@
         "official_address": "7 TAMPINES STREET 86 Q BAY RESIDENCES SINGAPORE 528586",
         "building_name": "Q BAY RESIDENCES",
         "recent_resale_median_sgd": 1320000,
-        "remaining_lease": "99y from 2012 (~84y left)"
+        "remaining_lease": "99y from 2012 (~84y left)",
+        "ecda_400m": 3,
+        "infantcare_400m": 2,
+        "childcare_400m": 3,
+        "aop_pop_400m": 2,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 233,
+        "nearest_infant_m": 233
       }
     },
     {
@@ -9521,7 +11649,15 @@
         "official_address": "134 PUNGGOL WALK ECOPOLITAN SINGAPORE 828778",
         "building_name": "ECOPOLITAN",
         "recent_resale_median_sgd": 1638000,
-        "remaining_lease": "99y from 2012 (~84y left)"
+        "remaining_lease": "99y from 2012 (~84y left)",
+        "ecda_400m": 5,
+        "infantcare_400m": 4,
+        "childcare_400m": 4,
+        "aop_pop_400m": 4,
+        "scc_500m": 2,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 229,
+        "nearest_infant_m": 308
       }
     },
     {
@@ -9557,7 +11693,15 @@
         "official_address": "28 SAINT ANNE'S WOOD SAINT ANNE'S WOOD SINGAPORE 545244",
         "building_name": "SAINT ANNE'S WOOD",
         "recent_resale_median_sgd": 3580000,
-        "remaining_lease": "999-yr Leasehold"
+        "remaining_lease": "999-yr Leasehold",
+        "ecda_400m": 14,
+        "infantcare_400m": 6,
+        "childcare_400m": 13,
+        "aop_pop_400m": 8,
+        "scc_500m": 5,
+        "pri_sch_1km": 5,
+        "nearest_ecda_m": 65,
+        "nearest_infant_m": 233
       }
     },
     {
@@ -9593,7 +11737,15 @@
         "official_address": "131 TAMPINES STREET 86 PARC CENTRAL RESIDENCES SINGAPORE 528447",
         "building_name": "PARC CENTRAL RESIDENCES",
         "recent_resale_median_sgd": 1555000,
-        "remaining_lease": "99y from 2019 (~91y left)"
+        "remaining_lease": "99y from 2019 (~91y left)",
+        "ecda_400m": 5,
+        "infantcare_400m": 3,
+        "childcare_400m": 3,
+        "aop_pop_400m": 3,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 166,
+        "nearest_infant_m": 166
       }
     },
     {
@@ -9629,7 +11781,15 @@
         "official_address": "113 TAMPINES STREET 86 THE ALPS RESIDENCES SINGAPORE 528536",
         "building_name": "THE ALPS RESIDENCES",
         "recent_resale_median_sgd": 1052800,
-        "remaining_lease": "99y from 2015 (~87y left)"
+        "remaining_lease": "99y from 2015 (~87y left)",
+        "ecda_400m": 6,
+        "infantcare_400m": 3,
+        "childcare_400m": 4,
+        "aop_pop_400m": 3,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 252,
+        "nearest_infant_m": 252
       }
     },
     {
@@ -9665,7 +11825,15 @@
         "official_address": "1801 ANG MO KIO AVENUE 1 KINGSGROVE SINGAPORE 569979",
         "building_name": "KINGSGROVE",
         "recent_resale_median_sgd": 2262000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 1,
+        "infantcare_400m": 0,
+        "childcare_400m": 1,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 4,
+        "nearest_ecda_m": 125,
+        "nearest_infant_m": 800
       }
     },
     {
@@ -9701,7 +11869,15 @@
         "official_address": "7 RIVERVALE CRESCENT RIVERVALE CREST SINGAPORE 545085",
         "building_name": "RIVERVALE CREST",
         "recent_resale_median_sgd": 1300000,
-        "remaining_lease": "99y from 1997 (~69y left)"
+        "remaining_lease": "99y from 1997 (~69y left)",
+        "ecda_400m": 11,
+        "infantcare_400m": 5,
+        "childcare_400m": 10,
+        "aop_pop_400m": 7,
+        "scc_500m": 4,
+        "pri_sch_1km": 5,
+        "nearest_ecda_m": 100,
+        "nearest_infant_m": 249
       }
     },
     {
@@ -9737,7 +11913,15 @@
         "official_address": "30 SELETAR HILLS DRIVE SELETAR VIEW SINGAPORE 807045",
         "building_name": "SELETAR VIEW",
         "recent_resale_median_sgd": 3320000,
-        "remaining_lease": "999-yr Leasehold"
+        "remaining_lease": "999-yr Leasehold",
+        "ecda_400m": 2,
+        "infantcare_400m": 1,
+        "childcare_400m": 2,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 125,
+        "nearest_infant_m": 125
       }
     },
     {
@@ -9773,7 +11957,15 @@
         "official_address": "23E LORONG BUANG KOK KAMPONG LORONG BUANG KOK SINGAPORE 547578",
         "building_name": "KAMPONG LORONG BUANG KOK",
         "recent_resale_median_sgd": 4490000,
-        "remaining_lease": "999-yr Leasehold"
+        "remaining_lease": "999-yr Leasehold",
+        "ecda_400m": 6,
+        "infantcare_400m": 4,
+        "childcare_400m": 5,
+        "aop_pop_400m": 5,
+        "scc_500m": 0,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 156,
+        "nearest_infant_m": 156
       }
     },
     {
@@ -9809,7 +12001,15 @@
         "official_address": "596 YISHUN RING ROAD THE WISTERIA SINGAPORE 768697",
         "building_name": "THE WISTERIA",
         "recent_resale_median_sgd": 1240000,
-        "remaining_lease": "99y from 2015 (~87y left)"
+        "remaining_lease": "99y from 2015 (~87y left)",
+        "ecda_400m": 9,
+        "infantcare_400m": 6,
+        "childcare_400m": 8,
+        "aop_pop_400m": 8,
+        "scc_500m": 2,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 27,
+        "nearest_infant_m": 27
       }
     },
     {
@@ -9845,7 +12045,15 @@
         "official_address": "1 WOODLANDS DRIVE 72 WOODSVALE SINGAPORE 738089",
         "building_name": "WOODSVALE",
         "recent_resale_median_sgd": 1190000,
-        "remaining_lease": "99y from 1997 (~69y left)"
+        "remaining_lease": "99y from 1997 (~69y left)",
+        "ecda_400m": 5,
+        "infantcare_400m": 4,
+        "childcare_400m": 5,
+        "aop_pop_400m": 5,
+        "scc_500m": 2,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 126,
+        "nearest_infant_m": 126
       }
     },
     {
@@ -9881,7 +12089,15 @@
         "official_address": "33 YISHUN CLOSE NORTH GAIA SINGAPORE 769345",
         "building_name": "NORTH GAIA",
         "recent_resale_median_sgd": 1429000,
-        "remaining_lease": "99y from 2021 (~93y left)"
+        "remaining_lease": "99y from 2021 (~93y left)",
+        "ecda_400m": 7,
+        "infantcare_400m": 2,
+        "childcare_400m": 7,
+        "aop_pop_400m": 2,
+        "scc_500m": 0,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 152,
+        "nearest_infant_m": 152
       }
     },
     {
@@ -9917,7 +12133,15 @@
         "official_address": "13 JALAN SALANG SEMBAWANG SPRINGS ESTATE SINGAPORE 769498",
         "building_name": "SEMBAWANG SPRINGS ESTATE",
         "recent_resale_median_sgd": 4600000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 7,
+        "infantcare_400m": 2,
+        "childcare_400m": 6,
+        "aop_pop_400m": 2,
+        "scc_500m": 0,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 36,
+        "nearest_infant_m": 136
       }
     },
     {
@@ -9953,7 +12177,15 @@
         "official_address": "16 YISHUN AVENUE 9 NINE RESIDENCES SINGAPORE 768896",
         "building_name": "NINE RESIDENCES",
         "recent_resale_median_sgd": 1000000,
-        "remaining_lease": "99y from 2013 (~85y left)"
+        "remaining_lease": "99y from 2013 (~85y left)",
+        "ecda_400m": 7,
+        "infantcare_400m": 2,
+        "childcare_400m": 7,
+        "aop_pop_400m": 3,
+        "scc_500m": 2,
+        "pri_sch_1km": 5,
+        "nearest_ecda_m": 174,
+        "nearest_infant_m": 174
       }
     },
     {
@@ -9989,7 +12221,15 @@
         "official_address": "23 GERALD DRIVE THE GARDENS AT GERALD SINGAPORE 797689",
         "building_name": "THE GARDENS AT GERALD",
         "recent_resale_median_sgd": 3268000,
-        "remaining_lease": "999-yr Leasehold"
+        "remaining_lease": "999-yr Leasehold",
+        "ecda_400m": 4,
+        "infantcare_400m": 4,
+        "childcare_400m": 4,
+        "aop_pop_400m": 2,
+        "scc_500m": 0,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 306,
+        "nearest_infant_m": 306
       }
     },
     {
@@ -10025,7 +12265,15 @@
         "official_address": "11 YISHUN CLOSE SYMPHONY SUITES SINGAPORE 768009",
         "building_name": "SYMPHONY SUITES",
         "recent_resale_median_sgd": 1180000,
-        "remaining_lease": "99y from 2014 (~86y left)"
+        "remaining_lease": "99y from 2014 (~86y left)",
+        "ecda_400m": 9,
+        "infantcare_400m": 4,
+        "childcare_400m": 9,
+        "aop_pop_400m": 3,
+        "scc_500m": 0,
+        "pri_sch_1km": 4,
+        "nearest_ecda_m": 41,
+        "nearest_infant_m": 41
       }
     },
     {
@@ -10061,7 +12309,15 @@
         "official_address": "13 JALAN TARI PAYONG THE MORNING DEW SINGAPORE 799289",
         "building_name": "THE MORNING DEW",
         "recent_resale_median_sgd": 4368000,
-        "remaining_lease": "999-yr Leasehold"
+        "remaining_lease": "999-yr Leasehold",
+        "ecda_400m": 1,
+        "infantcare_400m": 1,
+        "childcare_400m": 1,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 396,
+        "nearest_infant_m": 396
       }
     },
     {
@@ -10097,7 +12353,15 @@
         "official_address": "16 BURGUNDY RISE BURGUNDY HILL SINGAPORE 658867",
         "building_name": "BURGUNDY HILL",
         "recent_resale_median_sgd": 3080000,
-        "remaining_lease": "99y from 1995 (~67y left)"
+        "remaining_lease": "99y from 1995 (~67y left)",
+        "ecda_400m": 1,
+        "infantcare_400m": 0,
+        "childcare_400m": 1,
+        "aop_pop_400m": 0,
+        "scc_500m": 1,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 237,
+        "nearest_infant_m": 806
       }
     },
     {
@@ -10133,7 +12397,15 @@
         "official_address": "13 KELULUT HILL KELULUT HILL SINGAPORE 805891",
         "building_name": "KELULUT HILL",
         "recent_resale_median_sgd": 3999000,
-        "remaining_lease": "999-yr Leasehold"
+        "remaining_lease": "999-yr Leasehold",
+        "ecda_400m": 2,
+        "infantcare_400m": 1,
+        "childcare_400m": 2,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 229,
+        "nearest_infant_m": 229
       }
     },
     {
@@ -10169,7 +12441,15 @@
         "official_address": "53 JALAN KETUMBIT SELETAR HILLS ESTATE SINGAPORE 808906",
         "building_name": "SELETAR HILLS ESTATE",
         "recent_resale_median_sgd": 5350000,
-        "remaining_lease": "999-yr Leasehold"
+        "remaining_lease": "999-yr Leasehold",
+        "ecda_400m": 1,
+        "infantcare_400m": 1,
+        "childcare_400m": 1,
+        "aop_pop_400m": 0,
+        "scc_500m": 2,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 297,
+        "nearest_infant_m": 297
       }
     },
     {
@@ -10205,7 +12485,15 @@
         "official_address": "27 FERNVALE ROAD HIGH PARK RESIDENCES SINGAPORE 797415",
         "building_name": "HIGH PARK RESIDENCES",
         "recent_resale_median_sgd": 1108000,
-        "remaining_lease": "99y from 2014 (~86y left)"
+        "remaining_lease": "99y from 2014 (~86y left)",
+        "ecda_400m": 6,
+        "infantcare_400m": 5,
+        "childcare_400m": 5,
+        "aop_pop_400m": 5,
+        "scc_500m": 2,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 46,
+        "nearest_infant_m": 46
       }
     },
     {
@@ -10241,7 +12529,15 @@
         "official_address": "40 JALAN BANGAU D' KENARIS SINGAPORE 809383",
         "building_name": "D' KENARIS",
         "recent_resale_median_sgd": 3118888,
-        "remaining_lease": "999-yr Leasehold"
+        "remaining_lease": "999-yr Leasehold",
+        "ecda_400m": 1,
+        "infantcare_400m": 0,
+        "childcare_400m": 1,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 323,
+        "nearest_infant_m": 408
       }
     },
     {
@@ -10277,7 +12573,15 @@
         "official_address": "24 CHOA CHU KANG GROVE SOL ACRES SINGAPORE 688214",
         "building_name": "SOL ACRES",
         "recent_resale_median_sgd": 1307000,
-        "remaining_lease": "99y from 2014 (~86y left)"
+        "remaining_lease": "99y from 2014 (~86y left)",
+        "ecda_400m": 7,
+        "infantcare_400m": 3,
+        "childcare_400m": 6,
+        "aop_pop_400m": 6,
+        "scc_500m": 2,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 123,
+        "nearest_infant_m": 123
       }
     },
     {
@@ -10313,7 +12617,15 @@
         "official_address": "30 SEGAR ROAD BLOSSOM RESIDENCES SINGAPORE 677721",
         "building_name": "BLOSSOM RESIDENCES",
         "recent_resale_median_sgd": 1300000,
-        "remaining_lease": "99y from 2011 (~83y left)"
+        "remaining_lease": "99y from 2011 (~83y left)",
+        "ecda_400m": 8,
+        "infantcare_400m": 3,
+        "childcare_400m": 5,
+        "aop_pop_400m": 7,
+        "scc_500m": 3,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 120,
+        "nearest_infant_m": 120
       }
     },
     {
@@ -10349,7 +12661,15 @@
         "official_address": "19 SELETAR ROAD SELETAR PARK RESIDENCE SINGAPORE 807020",
         "building_name": "SELETAR PARK RESIDENCE",
         "recent_resale_median_sgd": 8500000,
-        "remaining_lease": "999-yr Leasehold"
+        "remaining_lease": "999-yr Leasehold",
+        "ecda_400m": 2,
+        "infantcare_400m": 1,
+        "childcare_400m": 2,
+        "aop_pop_400m": 1,
+        "scc_500m": 0,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 138,
+        "nearest_infant_m": 283
       }
     },
     {
@@ -10385,7 +12705,15 @@
         "official_address": "110 GERALD DRIVE SELETAR SPRINGS CONDOMINIUM SINGAPORE 799036",
         "building_name": "SELETAR SPRINGS CONDOMINIUM",
         "recent_resale_median_sgd": 1480000,
-        "remaining_lease": "99y from 1997 (~69y left)"
+        "remaining_lease": "99y from 1997 (~69y left)",
+        "ecda_400m": 6,
+        "infantcare_400m": 4,
+        "childcare_400m": 4,
+        "aop_pop_400m": 5,
+        "scc_500m": 1,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 187,
+        "nearest_infant_m": 221
       }
     },
     {
@@ -10421,7 +12749,15 @@
         "official_address": "38 FERNVALE LINK H2O RESIDENCES SINGAPORE 797534",
         "building_name": "H2O RESIDENCES",
         "recent_resale_median_sgd": 1590000,
-        "remaining_lease": "99y from 2010 (~82y left)"
+        "remaining_lease": "99y from 2010 (~82y left)",
+        "ecda_400m": 6,
+        "infantcare_400m": 5,
+        "childcare_400m": 6,
+        "aop_pop_400m": 4,
+        "scc_500m": 0,
+        "pri_sch_1km": 4,
+        "nearest_ecda_m": 107,
+        "nearest_infant_m": 107
       }
     },
     {
@@ -10457,7 +12793,15 @@
         "official_address": "585B SEMBAWANG PLACE GOLDWOOD GARDENS SINGAPORE 758437",
         "building_name": "GOLDWOOD GARDENS",
         "recent_resale_median_sgd": 8250000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 10,
+        "infantcare_400m": 4,
+        "childcare_400m": 9,
+        "aop_pop_400m": 3,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 31,
+        "nearest_infant_m": 108
       }
     },
     {
@@ -10493,7 +12837,15 @@
         "official_address": "11 JALAN LENGKOK SEMBAWANG SEMBAWANG PARK SINGAPORE 759201",
         "building_name": "SEMBAWANG PARK",
         "recent_resale_median_sgd": 4050000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 7,
+        "infantcare_400m": 3,
+        "childcare_400m": 6,
+        "aop_pop_400m": 4,
+        "scc_500m": 0,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 114,
+        "nearest_infant_m": 267
       }
     },
     {
@@ -10529,7 +12881,15 @@
         "official_address": "32 WOODLANDS CRESCENT NORTHOAKS SINGAPORE 738087",
         "building_name": "NORTHOAKS",
         "recent_resale_median_sgd": 1180000,
-        "remaining_lease": "99y from 1997 (~69y left)"
+        "remaining_lease": "99y from 1997 (~69y left)",
+        "ecda_400m": 3,
+        "infantcare_400m": 2,
+        "childcare_400m": 3,
+        "aop_pop_400m": 3,
+        "scc_500m": 0,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 172,
+        "nearest_infant_m": 172
       }
     },
     {
@@ -10565,7 +12925,15 @@
         "official_address": "1 JALAN ULU SEMBAWANG THE SENSORIA SINGAPORE 758930",
         "building_name": "THE SENSORIA",
         "recent_resale_median_sgd": 1480000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 6,
+        "infantcare_400m": 2,
+        "childcare_400m": 5,
+        "aop_pop_400m": 2,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 121,
+        "nearest_infant_m": 123
       }
     },
     {
@@ -10601,7 +12969,15 @@
         "official_address": "5 YISHUN STREET 51 THE CRITERION SINGAPORE 767998",
         "building_name": "THE CRITERION",
         "recent_resale_median_sgd": 1345000,
-        "remaining_lease": "99y from 2014 (~86y left)"
+        "remaining_lease": "99y from 2014 (~86y left)",
+        "ecda_400m": 3,
+        "infantcare_400m": 3,
+        "childcare_400m": 3,
+        "aop_pop_400m": 3,
+        "scc_500m": 0,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 128,
+        "nearest_infant_m": 128
       }
     },
     {
@@ -10637,7 +13013,15 @@
         "official_address": "218A JALAN KAYU JALAN KAYU ESTATE SINGAPORE 799441",
         "building_name": "JALAN KAYU ESTATE",
         "recent_resale_median_sgd": 3650000,
-        "remaining_lease": "999-yr Leasehold"
+        "remaining_lease": "999-yr Leasehold",
+        "ecda_400m": 4,
+        "infantcare_400m": 3,
+        "childcare_400m": 3,
+        "aop_pop_400m": 2,
+        "scc_500m": 1,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 195,
+        "nearest_infant_m": 195
       }
     },
     {
@@ -10673,7 +13057,15 @@
         "official_address": "28A PLATINA ROAD PLATINA GARDENS SINGAPORE 758645",
         "building_name": "PLATINA GARDENS",
         "recent_resale_median_sgd": 4720000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 4,
+        "infantcare_400m": 1,
+        "childcare_400m": 3,
+        "aop_pop_400m": 1,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 22,
+        "nearest_infant_m": 360
       }
     },
     {
@@ -10709,7 +13101,15 @@
         "official_address": "109 WOODLANDS VIEW NORTHWAVE SINGAPORE 737712",
         "building_name": "NORTHWAVE",
         "recent_resale_median_sgd": 1270000,
-        "remaining_lease": "99y from 2015 (~87y left)"
+        "remaining_lease": "99y from 2015 (~87y left)",
+        "ecda_400m": 3,
+        "infantcare_400m": 1,
+        "childcare_400m": 3,
+        "aop_pop_400m": 3,
+        "scc_500m": 1,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 319,
+        "nearest_infant_m": 373
       }
     },
     {
@@ -10745,7 +13145,15 @@
         "official_address": "1 CANBERRA DRIVE 1 CANBERRA SINGAPORE 768101",
         "building_name": "1 CANBERRA",
         "recent_resale_median_sgd": 1400000,
-        "remaining_lease": "99y from 2012 (~84y left)"
+        "remaining_lease": "99y from 2012 (~84y left)",
+        "ecda_400m": 5,
+        "infantcare_400m": 3,
+        "childcare_400m": 4,
+        "aop_pop_400m": 2,
+        "scc_500m": 1,
+        "pri_sch_1km": 4,
+        "nearest_ecda_m": 117,
+        "nearest_infant_m": 117
       }
     },
     {
@@ -10781,7 +13189,15 @@
         "official_address": "3 BUKIT BATOK STREET 25 PARKVIEW APARTMENTS SINGAPORE 658881",
         "building_name": "PARKVIEW APARTMENTS",
         "recent_resale_median_sgd": 1088000,
-        "remaining_lease": "99y from 1994 (~66y left)"
+        "remaining_lease": "99y from 1994 (~66y left)",
+        "ecda_400m": 0,
+        "infantcare_400m": 0,
+        "childcare_400m": 0,
+        "aop_pop_400m": 0,
+        "scc_500m": 2,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 473,
+        "nearest_infant_m": 521
       }
     },
     {
@@ -10817,7 +13233,15 @@
         "official_address": "32 BUKIT BATOK STREET 21 THE DEW SINGAPORE 659637",
         "building_name": "THE DEW",
         "recent_resale_median_sgd": 1500000,
-        "remaining_lease": "99y from 2000 (~72y left)"
+        "remaining_lease": "99y from 2000 (~72y left)",
+        "ecda_400m": 6,
+        "infantcare_400m": 3,
+        "childcare_400m": 5,
+        "aop_pop_400m": 5,
+        "scc_500m": 4,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 95,
+        "nearest_infant_m": 95
       }
     },
     {
@@ -10853,7 +13277,15 @@
         "official_address": "73 GERALD DRIVE SUMMER VILLAS SINGAPORE 797703",
         "building_name": "SUMMER VILLAS",
         "recent_resale_median_sgd": 3128000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 4,
+        "infantcare_400m": 3,
+        "childcare_400m": 3,
+        "aop_pop_400m": 3,
+        "scc_500m": 1,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 245,
+        "nearest_infant_m": 245
       }
     },
     {
@@ -10889,7 +13321,15 @@
         "official_address": "21 SELETAR GREEN WALK LUXUS HILLS SINGAPORE 805213",
         "building_name": "LUXUS HILLS",
         "recent_resale_median_sgd": 5500000,
-        "remaining_lease": "999-yr Leasehold"
+        "remaining_lease": "999-yr Leasehold",
+        "ecda_400m": 5,
+        "infantcare_400m": 3,
+        "childcare_400m": 5,
+        "aop_pop_400m": 2,
+        "scc_500m": 0,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 213,
+        "nearest_infant_m": 295
       }
     },
     {
@@ -10925,7 +13365,15 @@
         "official_address": "85 YISHUN AVENUE 11 THE CANOPY SINGAPORE 768865",
         "building_name": "THE CANOPY",
         "recent_resale_median_sgd": 1340000,
-        "remaining_lease": "99y from 2010 (~82y left)"
+        "remaining_lease": "99y from 2010 (~82y left)",
+        "ecda_400m": 9,
+        "infantcare_400m": 7,
+        "childcare_400m": 7,
+        "aop_pop_400m": 8,
+        "scc_500m": 2,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 117,
+        "nearest_infant_m": 117
       }
     },
     {
@@ -10961,7 +13409,15 @@
         "official_address": "17 EATON WALK EATON PARK SINGAPORE 799818",
         "building_name": "EATON PARK",
         "recent_resale_median_sgd": 4800000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 2,
+        "infantcare_400m": 1,
+        "childcare_400m": 1,
+        "aop_pop_400m": 1,
+        "scc_500m": 2,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 152,
+        "nearest_infant_m": 152
       }
     },
     {
@@ -10997,7 +13453,15 @@
         "official_address": "2D HONG SAN WALK PALM GARDENS SINGAPORE 689050",
         "building_name": "PALM GARDENS",
         "recent_resale_median_sgd": 1280000,
-        "remaining_lease": "99y from 1996 (~68y left)"
+        "remaining_lease": "99y from 1996 (~68y left)",
+        "ecda_400m": 14,
+        "infantcare_400m": 7,
+        "childcare_400m": 11,
+        "aop_pop_400m": 11,
+        "scc_500m": 5,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 137,
+        "nearest_infant_m": 231
       }
     },
     {
@@ -11033,7 +13497,15 @@
         "official_address": "25 FERNVALE LANE THE TOPIARY SINGAPORE 797502",
         "building_name": "THE TOPIARY",
         "recent_resale_median_sgd": 1640000,
-        "remaining_lease": "99y from 2012 (~84y left)"
+        "remaining_lease": "99y from 2012 (~84y left)",
+        "ecda_400m": 7,
+        "infantcare_400m": 4,
+        "childcare_400m": 5,
+        "aop_pop_400m": 5,
+        "scc_500m": 2,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 69,
+        "nearest_infant_m": 69
       }
     },
     {
@@ -11069,7 +13541,15 @@
         "official_address": "538 MILTONIA CLOSE THE MILTONIA RESIDENCES SINGAPORE 768113",
         "building_name": "THE MILTONIA RESIDENCES",
         "recent_resale_median_sgd": 1100000,
-        "remaining_lease": "99y from 2010 (~82y left)"
+        "remaining_lease": "99y from 2010 (~82y left)",
+        "ecda_400m": 0,
+        "infantcare_400m": 0,
+        "childcare_400m": 0,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 436,
+        "nearest_infant_m": 436
       }
     },
     {
@@ -11105,7 +13585,15 @@
         "official_address": "560 YISHUN AVENUE 6 LILYDALE SINGAPORE 768966",
         "building_name": "LILYDALE",
         "recent_resale_median_sgd": 1148000,
-        "remaining_lease": "99y from 2000 (~72y left)"
+        "remaining_lease": "99y from 2000 (~72y left)",
+        "ecda_400m": 10,
+        "infantcare_400m": 8,
+        "childcare_400m": 8,
+        "aop_pop_400m": 9,
+        "scc_500m": 2,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 182,
+        "nearest_infant_m": 182
       }
     },
     {
@@ -11141,7 +13629,15 @@
         "official_address": "7E JALAN KECHUBONG KECHUBONG TERRACE SINGAPORE 799422",
         "building_name": "KECHUBONG TERRACE",
         "recent_resale_median_sgd": 3570000,
-        "remaining_lease": "999-yr Leasehold"
+        "remaining_lease": "999-yr Leasehold",
+        "ecda_400m": 2,
+        "infantcare_400m": 1,
+        "childcare_400m": 1,
+        "aop_pop_400m": 0,
+        "scc_500m": 2,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 312,
+        "nearest_infant_m": 312
       }
     },
     {
@@ -11177,7 +13673,15 @@
         "official_address": "39 MUGLISTON PARK MUGLISTON HILL SINGAPORE 798553",
         "building_name": "MUGLISTON HILL",
         "recent_resale_median_sgd": 4000000,
-        "remaining_lease": "999-yr Leasehold"
+        "remaining_lease": "999-yr Leasehold",
+        "ecda_400m": 7,
+        "infantcare_400m": 3,
+        "childcare_400m": 4,
+        "aop_pop_400m": 6,
+        "scc_500m": 0,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 183,
+        "nearest_infant_m": 183
       }
     },
     {
@@ -11213,7 +13717,15 @@
         "official_address": "386 MILTONIA CLOSE THE SHAUGHNESSY SINGAPORE 768379",
         "building_name": "THE SHAUGHNESSY",
         "recent_resale_median_sgd": 2475888,
-        "remaining_lease": "99y from 2001 (~73y left)"
+        "remaining_lease": "99y from 2001 (~73y left)",
+        "ecda_400m": 2,
+        "infantcare_400m": 2,
+        "childcare_400m": 2,
+        "aop_pop_400m": 2,
+        "scc_500m": 0,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 253,
+        "nearest_infant_m": 253
       }
     },
     {
@@ -11249,7 +13761,15 @@
         "official_address": "22 GERALD CRESCENT GERALD GARDENS SINGAPORE 799719",
         "building_name": "GERALD GARDENS",
         "recent_resale_median_sgd": 4408888,
-        "remaining_lease": "999-yr Leasehold"
+        "remaining_lease": "999-yr Leasehold",
+        "ecda_400m": 2,
+        "infantcare_400m": 1,
+        "childcare_400m": 1,
+        "aop_pop_400m": 0,
+        "scc_500m": 2,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 256,
+        "nearest_infant_m": 256
       }
     },
     {
@@ -11285,7 +13805,15 @@
         "official_address": "35 MILTONIA CLOSE SKIES MILTONIA SINGAPORE 768065",
         "building_name": "SKIES MILTONIA",
         "recent_resale_median_sgd": 1130000,
-        "remaining_lease": "99y from 2012 (~84y left)"
+        "remaining_lease": "99y from 2012 (~84y left)",
+        "ecda_400m": 3,
+        "infantcare_400m": 2,
+        "childcare_400m": 2,
+        "aop_pop_400m": 3,
+        "scc_500m": 0,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 303,
+        "nearest_infant_m": 303
       }
     },
     {
@@ -11321,7 +13849,15 @@
         "official_address": "8 BUKIT BATOK STREET 41 LE QUEST SINGAPORE 657993",
         "building_name": "LE QUEST",
         "recent_resale_median_sgd": 1400000,
-        "remaining_lease": "99y from 2016 (~88y left)"
+        "remaining_lease": "99y from 2016 (~88y left)",
+        "ecda_400m": 7,
+        "infantcare_400m": 7,
+        "childcare_400m": 7,
+        "aop_pop_400m": 6,
+        "scc_500m": 0,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 0,
+        "nearest_infant_m": 0
       }
     },
     {
@@ -11357,7 +13893,15 @@
         "official_address": "33 BANGKIT ROAD CHESTERVALE SINGAPORE 679974",
         "building_name": "CHESTERVALE",
         "recent_resale_median_sgd": 1380000,
-        "remaining_lease": "99y from 1997 (~69y left)"
+        "remaining_lease": "99y from 1997 (~69y left)",
+        "ecda_400m": 4,
+        "infantcare_400m": 3,
+        "childcare_400m": 3,
+        "aop_pop_400m": 3,
+        "scc_500m": 0,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 138,
+        "nearest_infant_m": 138
       }
     },
     {
@@ -11393,7 +13937,15 @@
         "official_address": "577A SEMBAWANG PLACE COUNTRYVIEW SINGAPORE 758424",
         "building_name": "COUNTRYVIEW",
         "recent_resale_median_sgd": 9050000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 8,
+        "infantcare_400m": 2,
+        "childcare_400m": 7,
+        "aop_pop_400m": 2,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 36,
+        "nearest_infant_m": 36
       }
     },
     {
@@ -11429,7 +13981,15 @@
         "official_address": "511 SEMBAWANG ROAD SELETARIS SINGAPORE 757711",
         "building_name": "SELETARIS",
         "recent_resale_median_sgd": 2130000,
-        "remaining_lease": "Freehold"
+        "remaining_lease": "Freehold",
+        "ecda_400m": 6,
+        "infantcare_400m": 2,
+        "childcare_400m": 5,
+        "aop_pop_400m": 2,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 129,
+        "nearest_infant_m": 172
       }
     },
     {
@@ -11465,7 +14025,15 @@
         "official_address": "39 JALAN TARI PAYONG JALAN KAYU ESTATE SINGAPORE 799279",
         "building_name": "JALAN KAYU ESTATE",
         "recent_resale_median_sgd": 4100000,
-        "remaining_lease": "999-yr Leasehold"
+        "remaining_lease": "999-yr Leasehold",
+        "ecda_400m": 1,
+        "infantcare_400m": 0,
+        "childcare_400m": 1,
+        "aop_pop_400m": 1,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 311,
+        "nearest_infant_m": 538
       }
     },
     {
@@ -11501,7 +14069,15 @@
         "official_address": "10 FERNVALE STREET PARC BOTANNIA SINGAPORE 797390",
         "building_name": "PARC BOTANNIA",
         "recent_resale_median_sgd": 1240000,
-        "remaining_lease": "99y from 2016 (~88y left)"
+        "remaining_lease": "99y from 2016 (~88y left)",
+        "ecda_400m": 4,
+        "infantcare_400m": 3,
+        "childcare_400m": 3,
+        "aop_pop_400m": 3,
+        "scc_500m": 1,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 46,
+        "nearest_infant_m": 46
       }
     },
     {
@@ -11537,7 +14113,15 @@
         "official_address": "27 YISHUN STREET 51 SIGNATURE AT YISHUN SINGAPORE 768088",
         "building_name": "SIGNATURE AT YISHUN",
         "recent_resale_median_sgd": 1380000,
-        "remaining_lease": "99y from 2014 (~86y left)"
+        "remaining_lease": "99y from 2014 (~86y left)",
+        "ecda_400m": 4,
+        "infantcare_400m": 4,
+        "childcare_400m": 4,
+        "aop_pop_400m": 4,
+        "scc_500m": 0,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 116,
+        "nearest_infant_m": 116
       }
     },
     {
@@ -11573,7 +14157,15 @@
         "official_address": "8A GERALD CRESCENT GERALD MUGLISTON ESTATE SINGAPORE 799704",
         "building_name": "GERALD MUGLISTON ESTATE",
         "recent_resale_median_sgd": 4700000,
-        "remaining_lease": "999-yr Leasehold"
+        "remaining_lease": "999-yr Leasehold",
+        "ecda_400m": 2,
+        "infantcare_400m": 1,
+        "childcare_400m": 1,
+        "aop_pop_400m": 1,
+        "scc_500m": 2,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 249,
+        "nearest_infant_m": 249
       }
     },
     {
@@ -11607,7 +14199,15 @@
         "planning_area": "SENGKANG",
         "subzone": "FERNVALE",
         "official_address": "41 LORONG TANGGAM JALAN KAYU ESTATE SINGAPORE 798742",
-        "building_name": "JALAN KAYU ESTATE"
+        "building_name": "JALAN KAYU ESTATE",
+        "ecda_400m": 4,
+        "infantcare_400m": 3,
+        "childcare_400m": 3,
+        "aop_pop_400m": 3,
+        "scc_500m": 0,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 126,
+        "nearest_infant_m": 126
       }
     },
     {
@@ -11641,7 +14241,15 @@
         "planning_area": "SENGKANG",
         "subzone": "FERNVALE",
         "official_address": "30 LORONG TANGGAM JALAN KAYU ESTATE SINGAPORE 798730",
-        "building_name": "JALAN KAYU ESTATE"
+        "building_name": "JALAN KAYU ESTATE",
+        "ecda_400m": 4,
+        "infantcare_400m": 3,
+        "childcare_400m": 3,
+        "aop_pop_400m": 3,
+        "scc_500m": 0,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 183,
+        "nearest_infant_m": 183
       }
     },
     {
@@ -11675,7 +14283,15 @@
         "planning_area": "SENGKANG",
         "subzone": "FERNVALE",
         "official_address": "246 JALAN KAYU JALAN KAYU ESTATE SINGAPORE 799470",
-        "building_name": "JALAN KAYU ESTATE"
+        "building_name": "JALAN KAYU ESTATE",
+        "ecda_400m": 4,
+        "infantcare_400m": 3,
+        "childcare_400m": 3,
+        "aop_pop_400m": 3,
+        "scc_500m": 0,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 202,
+        "nearest_infant_m": 202
       }
     },
     {
@@ -11709,7 +14325,15 @@
         "planning_area": "HOUGANG",
         "subzone": "TRAFALGAR",
         "official_address": "10D GERALD CRESCENT GREEN SPRINGS SINGAPORE 799746",
-        "building_name": "GREEN SPRINGS"
+        "building_name": "GREEN SPRINGS",
+        "ecda_400m": 2,
+        "infantcare_400m": 2,
+        "childcare_400m": 2,
+        "aop_pop_400m": 0,
+        "scc_500m": 2,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 277,
+        "nearest_infant_m": 277
       }
     },
     {
@@ -11743,7 +14367,15 @@
         "planning_area": "HOUGANG",
         "subzone": "TRAFALGAR",
         "official_address": "17 GERALD CRESCENT GERALD RESIDENCE SINGAPORE 797729",
-        "building_name": "GERALD RESIDENCE"
+        "building_name": "GERALD RESIDENCE",
+        "ecda_400m": 3,
+        "infantcare_400m": 1,
+        "childcare_400m": 1,
+        "aop_pop_400m": 1,
+        "scc_500m": 2,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 186,
+        "nearest_infant_m": 186
       }
     },
     {
@@ -11777,7 +14409,15 @@
         "planning_area": "QUEENSTOWN",
         "subzone": "PASIR PANJANG 1",
         "official_address": "367B PASIR PANJANG ROAD CHARIS LODGE SINGAPORE 117673",
-        "building_name": "CHARIS LODGE"
+        "building_name": "CHARIS LODGE",
+        "ecda_400m": 0,
+        "infantcare_400m": 0,
+        "childcare_400m": 0,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 405,
+        "nearest_infant_m": 594
       }
     },
     {
@@ -11811,7 +14451,15 @@
         "planning_area": "NOVENA",
         "subzone": "BALESTIER",
         "official_address": "56 KIM KEAT ROAD SINGAPORE 328825",
-        "building_name": ""
+        "building_name": "",
+        "ecda_400m": 5,
+        "infantcare_400m": 2,
+        "childcare_400m": 4,
+        "aop_pop_400m": 4,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 250,
+        "nearest_infant_m": 253
       }
     },
     {
@@ -11845,7 +14493,15 @@
         "planning_area": "QUEENSTOWN",
         "subzone": "PASIR PANJANG 1",
         "official_address": "353 PASIR PANJANG ROAD JUBILEE RESIDENCE SINGAPORE 118695",
-        "building_name": "JUBILEE RESIDENCE"
+        "building_name": "JUBILEE RESIDENCE",
+        "ecda_400m": 0,
+        "infantcare_400m": 0,
+        "childcare_400m": 0,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 471,
+        "nearest_infant_m": 471
       }
     },
     {
@@ -11879,7 +14535,15 @@
         "planning_area": "BUKIT BATOK",
         "subzone": "BRICKWORKS",
         "official_address": "115 BUKIT BATOK WEST AVENUE 8 ALTURA SINGAPORE 659859",
-        "building_name": "ALTURA"
+        "building_name": "ALTURA",
+        "ecda_400m": 5,
+        "infantcare_400m": 4,
+        "childcare_400m": 4,
+        "aop_pop_400m": 5,
+        "scc_500m": 0,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 90,
+        "nearest_infant_m": 90
       }
     },
     {
@@ -11913,7 +14577,15 @@
         "planning_area": "QUEENSTOWN",
         "subzone": "PASIR PANJANG 1",
         "official_address": "348D PASIR PANJANG ROAD GRYPHON TERRACE SINGAPORE 118818",
-        "building_name": "GRYPHON TERRACE"
+        "building_name": "GRYPHON TERRACE",
+        "ecda_400m": 1,
+        "infantcare_400m": 1,
+        "childcare_400m": 1,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 395,
+        "nearest_infant_m": 395
       }
     },
     {
@@ -11947,7 +14619,15 @@
         "planning_area": "SELETAR",
         "subzone": "SELETAR",
         "official_address": "311 OLD BIRDCAGE WALK SINGAPORE 798484",
-        "building_name": ""
+        "building_name": "",
+        "ecda_400m": 0,
+        "infantcare_400m": 0,
+        "childcare_400m": 0,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 759,
+        "nearest_infant_m": 1366
       }
     },
     {
@@ -11981,7 +14661,15 @@
         "planning_area": "SELETAR",
         "subzone": "SELETAR",
         "official_address": "312 OLD BIRDCAGE WALK SINGAPORE 798485",
-        "building_name": ""
+        "building_name": "",
+        "ecda_400m": 0,
+        "infantcare_400m": 0,
+        "childcare_400m": 0,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 757,
+        "nearest_infant_m": 1348
       }
     },
     {
@@ -12015,7 +14703,15 @@
         "planning_area": "QUEENSTOWN",
         "subzone": "ONE NORTH",
         "official_address": "65 MEDIA CIRCLE BLOOMSBURY RESIDENCES (U/C) SINGAPORE 139817",
-        "building_name": "BLOOMSBURY RESIDENCES (U/C)"
+        "building_name": "BLOOMSBURY RESIDENCES (U/C)",
+        "ecda_400m": 1,
+        "infantcare_400m": 1,
+        "childcare_400m": 1,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 236,
+        "nearest_infant_m": 236
       }
     },
     {
@@ -12049,7 +14745,15 @@
         "planning_area": "SENGKANG",
         "subzone": "RIVERVALE",
         "official_address": "50 SENGKANG EAST WAY BEAUTY GARDEN SINGAPORE 548601",
-        "building_name": "BEAUTY GARDEN"
+        "building_name": "BEAUTY GARDEN",
+        "ecda_400m": 13,
+        "infantcare_400m": 7,
+        "childcare_400m": 12,
+        "aop_pop_400m": 10,
+        "scc_500m": 5,
+        "pri_sch_1km": 5,
+        "nearest_ecda_m": 1,
+        "nearest_infant_m": 192
       }
     },
     {
@@ -12083,7 +14787,15 @@
         "planning_area": "SENGKANG",
         "subzone": "RIVERVALE",
         "official_address": "52 SENGKANG EAST WAY BEAUTY GARDEN SINGAPORE 548600",
-        "building_name": "BEAUTY GARDEN"
+        "building_name": "BEAUTY GARDEN",
+        "ecda_400m": 12,
+        "infantcare_400m": 6,
+        "childcare_400m": 11,
+        "aop_pop_400m": 9,
+        "scc_500m": 5,
+        "pri_sch_1km": 5,
+        "nearest_ecda_m": 5,
+        "nearest_infant_m": 196
       }
     },
     {
@@ -12117,7 +14829,15 @@
         "planning_area": "SELETAR",
         "subzone": "SELETAR",
         "official_address": "2 PICCADILLY SINGAPORE 798365",
-        "building_name": ""
+        "building_name": "",
+        "ecda_400m": 1,
+        "infantcare_400m": 0,
+        "childcare_400m": 1,
+        "aop_pop_400m": 1,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 313,
+        "nearest_infant_m": 901
       }
     },
     {
@@ -12151,7 +14871,15 @@
         "planning_area": "SELETAR",
         "subzone": "SELETAR",
         "official_address": "3 LAMBETH WALK SINGAPORE 798935",
-        "building_name": ""
+        "building_name": "",
+        "ecda_400m": 1,
+        "infantcare_400m": 0,
+        "childcare_400m": 1,
+        "aop_pop_400m": 1,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 273,
+        "nearest_infant_m": 896
       }
     },
     {
@@ -12185,7 +14913,15 @@
         "planning_area": "SELETAR",
         "subzone": "SELETAR",
         "official_address": "1 PICCADILLY SINGAPORE 798364",
-        "building_name": ""
+        "building_name": "",
+        "ecda_400m": 1,
+        "infantcare_400m": 0,
+        "childcare_400m": 1,
+        "aop_pop_400m": 1,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 282,
+        "nearest_infant_m": 877
       }
     },
     {
@@ -12219,7 +14955,15 @@
         "planning_area": "JURONG WEST",
         "subzone": "YUNNAN",
         "official_address": "122 YUNNAN CRESCENT YUNNAN GARDENS SINGAPORE 638329",
-        "building_name": "YUNNAN GARDENS"
+        "building_name": "YUNNAN GARDENS",
+        "ecda_400m": 11,
+        "infantcare_400m": 6,
+        "childcare_400m": 10,
+        "aop_pop_400m": 8,
+        "scc_500m": 0,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 265,
+        "nearest_infant_m": 271
       }
     },
     {
@@ -12253,7 +14997,15 @@
         "planning_area": "HOUGANG",
         "subzone": "DEFU INDUSTRIAL PARK",
         "official_address": "201 JALAN PELIKAT SINGAPORE 537652",
-        "building_name": ""
+        "building_name": "",
+        "ecda_400m": 3,
+        "infantcare_400m": 2,
+        "childcare_400m": 3,
+        "aop_pop_400m": 0,
+        "scc_500m": 3,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 273,
+        "nearest_infant_m": 324
       }
     },
     {
@@ -12287,7 +15039,15 @@
         "planning_area": "JURONG WEST",
         "subzone": "YUNNAN",
         "official_address": "19 YUNNAN WALK 1 YUNNAN GARDENS SINGAPORE 638150",
-        "building_name": "YUNNAN GARDENS"
+        "building_name": "YUNNAN GARDENS",
+        "ecda_400m": 8,
+        "infantcare_400m": 5,
+        "childcare_400m": 8,
+        "aop_pop_400m": 6,
+        "scc_500m": 0,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 57,
+        "nearest_infant_m": 57
       }
     },
     {
@@ -12321,7 +15081,15 @@
         "planning_area": "PAYA LEBAR",
         "subzone": "PAYA LEBAR EAST",
         "official_address": "75 TAMPINES AVENUE 1 WATERVIEW SINGAPORE 529781",
-        "building_name": "WATERVIEW"
+        "building_name": "WATERVIEW",
+        "ecda_400m": 0,
+        "infantcare_400m": 0,
+        "childcare_400m": 0,
+        "aop_pop_400m": 0,
+        "scc_500m": 0,
+        "pri_sch_1km": 0,
+        "nearest_ecda_m": 437,
+        "nearest_infant_m": 437
       }
     },
     {
@@ -12355,7 +15123,15 @@
         "planning_area": "JURONG WEST",
         "subzone": "YUNNAN",
         "official_address": "80 YUNNAN CRESCENT YUNNAN GARDENS SINGAPORE 638301",
-        "building_name": "YUNNAN GARDENS"
+        "building_name": "YUNNAN GARDENS",
+        "ecda_400m": 8,
+        "infantcare_400m": 5,
+        "childcare_400m": 8,
+        "aop_pop_400m": 6,
+        "scc_500m": 0,
+        "pri_sch_1km": 4,
+        "nearest_ecda_m": 155,
+        "nearest_infant_m": 155
       }
     },
     {
@@ -12389,7 +15165,15 @@
         "planning_area": "ANG MO KIO",
         "subzone": "CHONG BOON",
         "official_address": "65A CHARTWELL DRIVE SERANGOON GARDEN ESTATE SINGAPORE 558778",
-        "building_name": "SERANGOON GARDEN ESTATE"
+        "building_name": "SERANGOON GARDEN ESTATE",
+        "ecda_400m": 1,
+        "infantcare_400m": 0,
+        "childcare_400m": 1,
+        "aop_pop_400m": 0,
+        "scc_500m": 1,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 51,
+        "nearest_infant_m": 671
       }
     },
     {
@@ -12423,7 +15207,15 @@
         "planning_area": "BUKIT MERAH",
         "subzone": "ALEXANDRA HILL",
         "official_address": "354 ALEXANDRA ROAD ALEXIS SINGAPORE 159948",
-        "building_name": "ALEXIS"
+        "building_name": "ALEXIS",
+        "ecda_400m": 4,
+        "infantcare_400m": 4,
+        "childcare_400m": 4,
+        "aop_pop_400m": 2,
+        "scc_500m": 1,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 27,
+        "nearest_infant_m": 27
       }
     },
     {
@@ -12457,7 +15249,15 @@
         "planning_area": "BUKIT MERAH",
         "subzone": "ALEXANDRA HILL",
         "official_address": "23 STIRLING ROAD STIRLING RESIDENCES SINGAPORE 148961",
-        "building_name": "STIRLING RESIDENCES"
+        "building_name": "STIRLING RESIDENCES",
+        "ecda_400m": 4,
+        "infantcare_400m": 4,
+        "childcare_400m": 4,
+        "aop_pop_400m": 2,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 70,
+        "nearest_infant_m": 70
       }
     },
     {
@@ -12491,7 +15291,15 @@
         "planning_area": "BUKIT MERAH",
         "subzone": "TELOK BLANGAH WAY",
         "official_address": "522 KAMPONG BAHRU ROAD HARBOUR SUITES SINGAPORE 099454",
-        "building_name": "HARBOUR SUITES"
+        "building_name": "HARBOUR SUITES",
+        "ecda_400m": 1,
+        "infantcare_400m": 0,
+        "childcare_400m": 1,
+        "aop_pop_400m": 1,
+        "scc_500m": 2,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 287,
+        "nearest_infant_m": 658
       }
     },
     {
@@ -12525,7 +15333,15 @@
         "planning_area": "YISHUN",
         "subzone": "YISHUN WEST",
         "official_address": "53 CANBERRA DRIVE THE WATERGARDENS AT CANBERRA SINGAPORE 769328",
-        "building_name": "THE WATERGARDENS AT CANBERRA"
+        "building_name": "THE WATERGARDENS AT CANBERRA",
+        "ecda_400m": 7,
+        "infantcare_400m": 2,
+        "childcare_400m": 6,
+        "aop_pop_400m": 2,
+        "scc_500m": 0,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 104,
+        "nearest_infant_m": 271
       }
     },
     {
@@ -12559,7 +15375,15 @@
         "planning_area": "YISHUN",
         "subzone": "YISHUN WEST",
         "official_address": "14 CANBERRA DRIVE EIGHT COURTYARDS SINGAPORE 768096",
-        "building_name": "EIGHT COURTYARDS"
+        "building_name": "EIGHT COURTYARDS",
+        "ecda_400m": 3,
+        "infantcare_400m": 1,
+        "childcare_400m": 2,
+        "aop_pop_400m": 1,
+        "scc_500m": 1,
+        "pri_sch_1km": 4,
+        "nearest_ecda_m": 174,
+        "nearest_infant_m": 174
       }
     },
     {
@@ -12593,7 +15417,15 @@
         "planning_area": "YISHUN",
         "subzone": "YISHUN WEST",
         "official_address": "53 JALAN KEMUNING SEMBAWANG SPRINGS ESTATE SINGAPORE 769775",
-        "building_name": "SEMBAWANG SPRINGS ESTATE"
+        "building_name": "SEMBAWANG SPRINGS ESTATE",
+        "ecda_400m": 11,
+        "infantcare_400m": 5,
+        "childcare_400m": 10,
+        "aop_pop_400m": 4,
+        "scc_500m": 0,
+        "pri_sch_1km": 1,
+        "nearest_ecda_m": 179,
+        "nearest_infant_m": 288
       }
     },
     {
@@ -12627,7 +15459,15 @@
         "planning_area": "CHOA CHU KANG",
         "subzone": "TECK WHYE",
         "official_address": "61G CHOA CHU KANG ROAD NICON GARDENS SINGAPORE 689395",
-        "building_name": "NICON GARDENS"
+        "building_name": "NICON GARDENS",
+        "ecda_400m": 5,
+        "infantcare_400m": 2,
+        "childcare_400m": 5,
+        "aop_pop_400m": 1,
+        "scc_500m": 0,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 130,
+        "nearest_infant_m": 140
       }
     },
     {
@@ -12661,7 +15501,15 @@
         "planning_area": "CHOA CHU KANG",
         "subzone": "TECK WHYE",
         "official_address": "357 CHOA CHU KANG AVENUE 3 WANDERVALE SINGAPORE 689882",
-        "building_name": "WANDERVALE"
+        "building_name": "WANDERVALE",
+        "ecda_400m": 7,
+        "infantcare_400m": 3,
+        "childcare_400m": 3,
+        "aop_pop_400m": 4,
+        "scc_500m": 5,
+        "pri_sch_1km": 2,
+        "nearest_ecda_m": 101,
+        "nearest_infant_m": 311
       }
     },
     {
@@ -12695,7 +15543,15 @@
         "planning_area": "PUNGGOL",
         "subzone": "MATILDA",
         "official_address": "22 SUMANG WALK PIERMONT GRAND SINGAPORE 828677",
-        "building_name": "PIERMONT GRAND"
+        "building_name": "PIERMONT GRAND",
+        "ecda_400m": 5,
+        "infantcare_400m": 2,
+        "childcare_400m": 3,
+        "aop_pop_400m": 3,
+        "scc_500m": 3,
+        "pri_sch_1km": 3,
+        "nearest_ecda_m": 122,
+        "nearest_infant_m": 122
       }
     }
   ]
