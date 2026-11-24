@@ -1,0 +1,3644 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847795,
+          1.41785
+        ]
+      },
+      "properties": {
+        "parcel_source": "Official 2025-2026 BTO/GLS",
+        "name": "Miltonia Close (GLS 2H2025 EC)",
+        "dev_type": "Buyer & Dev / GLS Confirmed (EC ~430u)",
+        "lu_desc": "RESIDENTIAL / GLS / BTO",
+        "gpr": "GLS/BTO",
+        "area_ha": null,
+        "units": 430,
+        "lat": 1.41785,
+        "lng": 103.847795,
+        "road_or_location": "MILTONIA CLOSE",
+        "anchor_postal": "762432",
+        "anchor_ref": "Yishun Avenue 1",
+        "address_display": "MILTONIA CLOSE | Ref Postal: 762432",
+        "nearest_tri_id": "SL-05",
+        "nearest_tri_station": "Yishun East / Chencharu Fringe",
+        "corridor": "Seletar Line (Study Corridor)",
+        "dist_tri_m": 390,
+        "nearest_official_mrt": "KHATIB",
+        "dist_existing_mrt_m": 1652,
+        "rail_gap_saved_m": 1263,
+        "station_posterior_pct": 96.5,
+        "score": 72.6,
+        "planning_area": "YISHUN",
+        "subzone": "YISHUN EAST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.794685,
+          1.294225
+        ]
+      },
+      "properties": {
+        "parcel_source": "Official 2025-2026 BTO/GLS",
+        "name": "Media Circle Parcel A/B (GLS Reserve)",
+        "dev_type": "Developer / GLS Reserve List",
+        "lu_desc": "RESIDENTIAL / GLS / BTO",
+        "gpr": "GLS/BTO",
+        "area_ha": null,
+        "units": 600,
+        "lat": 1.294225,
+        "lng": 103.794685,
+        "road_or_location": "MEDIA CIRCLE",
+        "anchor_postal": "139815",
+        "anchor_ref": "Media Circle",
+        "address_display": "MEDIA CIRCLE | Ref Postal: 139815",
+        "nearest_tri_id": "TL-04",
+        "nearest_tri_station": "Queensway / Portsdown (One-North South)",
+        "corridor": "Tengah Line (Study Corridor)",
+        "dist_tri_m": 243,
+        "nearest_official_mrt": "COMMONWEALTH",
+        "dist_existing_mrt_m": 995,
+        "rail_gap_saved_m": 752,
+        "station_posterior_pct": 89.2,
+        "score": 64.8,
+        "planning_area": "QUEENSTOWN",
+        "subzone": "ONE NORTH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.817556,
+          1.457769
+        ]
+      },
+      "properties": {
+        "parcel_source": "Official 2025-2026 BTO/GLS",
+        "name": "Sembawang Deck & Voyage (BTO Feb 2026)",
+        "dev_type": "Buyer / HDB BTO (1,950 units)",
+        "lu_desc": "RESIDENTIAL / GLS / BTO",
+        "gpr": "GLS/BTO",
+        "area_ha": null,
+        "units": 1950,
+        "lat": 1.457769,
+        "lng": 103.817556,
+        "road_or_location": "ADMIRALTY LANE",
+        "anchor_postal": "752446",
+        "anchor_ref": "Admiralty Lane",
+        "address_display": "ADMIRALTY LANE | Ref Postal: 752446",
+        "nearest_tri_id": "SL-02",
+        "nearest_tri_station": "Sembawang North / Shipyard",
+        "corridor": "Seletar Line (Study Corridor)",
+        "dist_tri_m": 374,
+        "nearest_official_mrt": "SEMBAWANG",
+        "dist_existing_mrt_m": 1021,
+        "rail_gap_saved_m": 647,
+        "station_posterior_pct": 95.2,
+        "score": 57.5,
+        "planning_area": "SEMBAWANG",
+        "subzone": "SEMBAWANG NORTH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.814813,
+          1.459104
+        ]
+      },
+      "properties": {
+        "parcel_source": "Official 2025-2026 BTO/GLS",
+        "name": "Sembawang Anchor (BTO Nov 2026)",
+        "dev_type": "Buyer / HDB BTO (1,310 units)",
+        "lu_desc": "RESIDENTIAL / GLS / BTO",
+        "gpr": "GLS/BTO",
+        "area_ha": null,
+        "units": 1310,
+        "lat": 1.459104,
+        "lng": 103.814813,
+        "road_or_location": "SEMBAWANG DRIVE",
+        "anchor_postal": "752433",
+        "anchor_ref": "Admiralty Lane",
+        "address_display": "SEMBAWANG DRIVE | Ref Postal: 752433",
+        "nearest_tri_id": "SL-02",
+        "nearest_tri_station": "Sembawang North / Shipyard",
+        "corridor": "Seletar Line (Study Corridor)",
+        "dist_tri_m": 461,
+        "nearest_official_mrt": "SEMBAWANG",
+        "dist_existing_mrt_m": 1271,
+        "rail_gap_saved_m": 810,
+        "station_posterior_pct": 95.2,
+        "score": 57.3,
+        "planning_area": "SEMBAWANG",
+        "subzone": "SEMBAWANG NORTH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.817181,
+          1.456474
+        ]
+      },
+      "properties": {
+        "parcel_source": "Official 2025-2026 BTO/GLS",
+        "name": "Sembawang Beacon (BTO Jul 2025)",
+        "dev_type": "Buyer / HDB BTO (775 units)",
+        "lu_desc": "RESIDENTIAL / GLS / BTO",
+        "gpr": "GLS/BTO",
+        "area_ha": null,
+        "units": 775,
+        "lat": 1.456474,
+        "lng": 103.817181,
+        "road_or_location": "ADMIRALTY LINK",
+        "anchor_postal": "750492",
+        "anchor_ref": "Blk 492",
+        "address_display": "492 ADMIRALTY LINK SEMBAWANG GREEN SINGAPORE 750492 | Ref Postal: 750492",
+        "nearest_tri_id": "SL-02",
+        "nearest_tri_station": "Sembawang North / Shipyard",
+        "corridor": "Seletar Line (Study Corridor)",
+        "dist_tri_m": 524,
+        "nearest_official_mrt": "SEMBAWANG",
+        "dist_existing_mrt_m": 897,
+        "rail_gap_saved_m": 373,
+        "station_posterior_pct": 95.2,
+        "score": 43.1,
+        "planning_area": "SEMBAWANG",
+        "subzone": "SEMBAWANG NORTH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.813869,
+          1.457774
+        ]
+      },
+      "properties": {
+        "parcel_source": "Official 2025-2026 BTO/GLS",
+        "name": "Sembawang Drive / Admiralty Walk (GLS 1H2026 EC)",
+        "dev_type": "Buyer & Dev / GLS Confirmed (EC)",
+        "lu_desc": "RESIDENTIAL / GLS / BTO",
+        "gpr": "GLS/BTO",
+        "area_ha": null,
+        "units": 635,
+        "lat": 1.457774,
+        "lng": 103.813869,
+        "road_or_location": "ADMIRALTY WALK",
+        "anchor_postal": "751434",
+        "anchor_ref": "Admiralty Lane",
+        "address_display": "ADMIRALTY WALK | Ref Postal: 751434",
+        "nearest_tri_id": "SL-02",
+        "nearest_tri_station": "Sembawang North / Shipyard",
+        "corridor": "Seletar Line (Study Corridor)",
+        "dist_tri_m": 627,
+        "nearest_official_mrt": "SEMBAWANG",
+        "dist_existing_mrt_m": 1198,
+        "rail_gap_saved_m": 571,
+        "station_posterior_pct": 95.2,
+        "score": 42.9,
+        "planning_area": "SEMBAWANG",
+        "subzone": "SEMBAWANG NORTH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.879073,
+          1.394006
+        ]
+      },
+      "properties": {
+        "parcel_source": "Official 2025-2026 BTO/GLS",
+        "name": "Fernvale Plains (BTO Oct 2025)",
+        "dev_type": "Buyer / HDB BTO (1,037 units)",
+        "lu_desc": "RESIDENTIAL / GLS / BTO",
+        "gpr": "GLS/BTO",
+        "area_ha": null,
+        "units": 1037,
+        "lat": 1.394006,
+        "lng": 103.879073,
+        "road_or_location": "FERNVALE LINK",
+        "anchor_postal": "791430",
+        "anchor_ref": "Fernvale Link",
+        "address_display": "FERNVALE LINK | Ref Postal: 791430",
+        "nearest_tri_id": "SL-07",
+        "nearest_tri_station": "Seletar Hills / Trafalgar (Jalan Kayu)",
+        "corridor": "Seletar Line (Study Corridor)",
+        "dist_tri_m": 839,
+        "nearest_official_mrt": "SENGKANG",
+        "dist_existing_mrt_m": 1842,
+        "rail_gap_saved_m": 1003,
+        "station_posterior_pct": 91.6,
+        "score": 38.8,
+        "planning_area": "HOUGANG",
+        "subzone": "TRAFALGAR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.828195,
+          1.441485
+        ]
+      },
+      "properties": {
+        "parcel_source": "Official 2025-2026 BTO/GLS",
+        "name": "Canberra Drive (GLS 1H2026 EC)",
+        "dev_type": "Buyer & Dev / GLS Confirmed (EC)",
+        "lu_desc": "RESIDENTIAL / GLS / BTO",
+        "gpr": "GLS/BTO",
+        "area_ha": null,
+        "units": 500,
+        "lat": 1.441485,
+        "lng": 103.828195,
+        "road_or_location": "CANBERRA DRIVE",
+        "anchor_postal": "769309",
+        "anchor_ref": "Canberra Drive",
+        "address_display": "CANBERRA DRIVE | Ref Postal: 769309",
+        "nearest_tri_id": "IND-07",
+        "nearest_tri_station": "Yishun West (Yishun Ring Road)",
+        "corridor": "Independent Rail-Gap Discovery (PV/Bus)",
+        "dist_tri_m": 836,
+        "nearest_official_mrt": "CANBERRA",
+        "dist_existing_mrt_m": 257,
+        "rail_gap_saved_m": 0,
+        "station_posterior_pct": 94.6,
+        "score": 23.0,
+        "planning_area": "YISHUN",
+        "subzone": "YISHUN WEST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.733848,
+          1.359676
+        ]
+      },
+      "properties": {
+        "parcel_source": "Official 2025-2026 BTO/GLS",
+        "name": "Plantation Dew (BTO Nov 2026)",
+        "dev_type": "Buyer / HDB BTO (710 units)",
+        "lu_desc": "RESIDENTIAL / GLS / BTO",
+        "gpr": "GLS/BTO",
+        "area_ha": null,
+        "units": 710,
+        "lat": 1.359676,
+        "lng": 103.733848,
+        "road_or_location": "TENGAH BOULEVARD",
+        "anchor_postal": "692123",
+        "anchor_ref": "Tengah Drive",
+        "address_display": "TENGAH BOULEVARD | Ref Postal: 692123",
+        "nearest_tri_id": "IND-08",
+        "nearest_tri_station": "Brickworks (Bukit Batok West Avenue 8)",
+        "corridor": "Independent Rail-Gap Discovery (PV/Bus)",
+        "dist_tri_m": 906,
+        "nearest_official_mrt": "TENGAH PLANTATION",
+        "dist_existing_mrt_m": 264,
+        "rail_gap_saved_m": 0,
+        "station_posterior_pct": 92.0,
+        "score": 20.0,
+        "planning_area": "BUKIT BATOK",
+        "subzone": "BRICKWORKS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.816413,
+          1.285452
+        ]
+      },
+      "properties": {
+        "parcel_source": "Official 2025-2026 BTO/GLS",
+        "name": "Redhill Peaks (BTO Feb 2026)",
+        "dev_type": "Buyer / HDB Prime BTO (1,052 units)",
+        "lu_desc": "RESIDENTIAL / GLS / BTO",
+        "gpr": "GLS/BTO",
+        "area_ha": null,
+        "units": 1052,
+        "lat": 1.285452,
+        "lng": 103.816413,
+        "road_or_location": "REDHILL CLOSE",
+        "anchor_postal": "150070",
+        "anchor_ref": "Blk 70",
+        "address_display": "REDHILL CLOSE | Ref Postal: 150070",
+        "nearest_tri_id": "TL-05",
+        "nearest_tri_station": "Alexandra Hill / Bukit Merah Central",
+        "corridor": "Tengah Line (Study Corridor)",
+        "dist_tri_m": 1019,
+        "nearest_official_mrt": "REDHILL",
+        "dist_existing_mrt_m": 449,
+        "rail_gap_saved_m": 0,
+        "station_posterior_pct": 97.5,
+        "score": 17.2,
+        "planning_area": "BUKIT MERAH",
+        "subzone": "ALEXANDRA HILL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.866043,
+          1.360508
+        ]
+      },
+      "properties": {
+        "parcel_source": "Official 2025-2026 BTO/GLS",
+        "name": "Chuan Grove (GLS 2H2026 Reserve)",
+        "dev_type": "Developer / GLS Reserve List",
+        "lu_desc": "RESIDENTIAL / GLS / BTO",
+        "gpr": "GLS/BTO",
+        "area_ha": null,
+        "units": 500,
+        "lat": 1.360508,
+        "lng": 103.866043,
+        "road_or_location": "CHUAN GREEN PLAYGROUND",
+        "anchor_postal": "558269",
+        "anchor_ref": "Conway Circle",
+        "address_display": "CHUAN GREEN PLAYGROUND | Ref Postal: 558269",
+        "nearest_tri_id": "ANC-01",
+        "nearest_tri_station": "Chong Boon / Ang Mo Kio Avenue 10",
+        "corridor": "Multi-Anchor Discovery (Emp / Health / Edu)",
+        "dist_tri_m": 1036,
+        "nearest_official_mrt": "LORONG CHUAN",
+        "dist_existing_mrt_m": 1019,
+        "rail_gap_saved_m": 0,
+        "station_posterior_pct": 95.0,
+        "score": 16.1,
+        "planning_area": "ANG MO KIO",
+        "subzone": "CHONG BOON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.780737,
+          1.427747
+        ]
+      },
+      "properties": {
+        "parcel_source": "Official 2025-2026 BTO/GLS",
+        "name": "Woodgrove Acres (BTO Jun 2026)",
+        "dev_type": "Buyer / HDB BTO (584 units)",
+        "lu_desc": "RESIDENTIAL / GLS / BTO",
+        "gpr": "GLS/BTO",
+        "area_ha": null,
+        "units": 584,
+        "lat": 1.427747,
+        "lng": 103.780737,
+        "road_or_location": "WOODGROVE AVENUE",
+        "anchor_postal": "738230",
+        "anchor_ref": "Woodgrove Drive",
+        "address_display": "WOODGROVE AVENUE | Ref Postal: 738230",
+        "nearest_tri_id": "SL-01",
+        "nearest_tri_station": "Woodlands North Coast West",
+        "corridor": "Seletar Line (Study Corridor)",
+        "dist_tri_m": 1784,
+        "nearest_official_mrt": "MARSILING",
+        "dist_existing_mrt_m": 919,
+        "rail_gap_saved_m": 0,
+        "station_posterior_pct": 99.2,
+        "score": 13.6,
+        "planning_area": "WOODLANDS",
+        "subzone": "NORTH COAST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.787566,
+          1.430736
+        ]
+      },
+      "properties": {
+        "parcel_source": "Official 2025-2026 BTO/GLS",
+        "name": "Woodlands Avenue 2 (GLS Reserve White Site)",
+        "dev_type": "Developer / GLS Reserve White Site",
+        "lu_desc": "RESIDENTIAL / GLS / BTO",
+        "gpr": "GLS/BTO",
+        "area_ha": null,
+        "units": 1000,
+        "lat": 1.430736,
+        "lng": 103.787566,
+        "road_or_location": "WOODLANDS (AVE 2) PARK CONNECTOR",
+        "anchor_postal": "737940",
+        "anchor_ref": "Rosewood Drive",
+        "address_display": "WOODLANDS (AVE 2) PARK CONNECTOR | Ref Postal: 737940",
+        "nearest_tri_id": "SL-01",
+        "nearest_tri_station": "Woodlands North Coast West",
+        "corridor": "Seletar Line (Study Corridor)",
+        "dist_tri_m": 1893,
+        "nearest_official_mrt": "WOODLANDS",
+        "dist_existing_mrt_m": 606,
+        "rail_gap_saved_m": 0,
+        "station_posterior_pct": 99.2,
+        "score": 13.6,
+        "planning_area": "WOODLANDS",
+        "subzone": "NORTH COAST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.82667,
+          1.3257
+        ]
+      },
+      "properties": {
+        "parcel_source": "Official 2025-2026 BTO/GLS",
+        "name": "Mount Pleasant Crest (BTO Oct 2025)",
+        "dev_type": "Buyer / HDB Prime BTO (1,300+ units)",
+        "lu_desc": "RESIDENTIAL / GLS / BTO",
+        "gpr": "GLS/BTO",
+        "area_ha": null,
+        "units": 1340,
+        "lat": 1.3257,
+        "lng": 103.82667,
+        "road_or_location": "MOUNT PLEASANT ROAD",
+        "anchor_postal": "298063",
+        "anchor_ref": "Trevose Park",
+        "address_display": "MOUNT PLEASANT ROAD | Ref Postal: 298063",
+        "nearest_tri_id": "SL-09",
+        "nearest_tri_station": "Whampoa / Balestier",
+        "corridor": "Seletar Line (Study Corridor)",
+        "dist_tri_m": 3094,
+        "nearest_official_mrt": "STEVENS",
+        "dist_existing_mrt_m": 626,
+        "rail_gap_saved_m": 0,
+        "station_posterior_pct": 97.7,
+        "score": 13.4,
+        "planning_area": "NOVENA",
+        "subzone": "BALESTIER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.817549,
+          1.290302
+        ]
+      },
+      "properties": {
+        "parcel_source": "Official 2025-2026 BTO/GLS",
+        "name": "Alexandra Peaks & Vista (BTO Jul 2025)",
+        "dev_type": "Buyer / HDB Prime BTO",
+        "lu_desc": "RESIDENTIAL / GLS / BTO",
+        "gpr": "GLS/BTO",
+        "area_ha": null,
+        "units": 1200,
+        "lat": 1.290302,
+        "lng": 103.817549,
+        "road_or_location": "ALEXANDRA VIEW",
+        "anchor_postal": "158742",
+        "anchor_ref": "Alexandra View",
+        "address_display": "ALEXANDRA VIEW | Ref Postal: 158742",
+        "nearest_tri_id": "TL-05",
+        "nearest_tri_station": "Alexandra Hill / Bukit Merah Central",
+        "corridor": "Tengah Line (Study Corridor)",
+        "dist_tri_m": 1263,
+        "nearest_official_mrt": "REDHILL",
+        "dist_existing_mrt_m": 108,
+        "rail_gap_saved_m": 0,
+        "station_posterior_pct": 97.5,
+        "score": 13.4,
+        "planning_area": "BUKIT MERAH",
+        "subzone": "ALEXANDRA HILL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.814362,
+          1.269135
+        ]
+      },
+      "properties": {
+        "parcel_source": "Official 2025-2026 BTO/GLS",
+        "name": "Berlayar Drive / Berlayar Close (GLS 2026)",
+        "dev_type": "Buyer & Dev / GLS Confirmed (GSW)",
+        "lu_desc": "RESIDENTIAL / GLS / BTO",
+        "gpr": "GLS/BTO",
+        "area_ha": null,
+        "units": 695,
+        "lat": 1.269135,
+        "lng": 103.814362,
+        "road_or_location": "TELOK BLANGAH ROAD",
+        "anchor_postal": "098402",
+        "anchor_ref": "Keppel Bay View",
+        "address_display": "TELOK BLANGAH ROAD | Ref Postal: 098402",
+        "nearest_tri_id": "SL-10",
+        "nearest_tri_station": "Telok Blangah Way / GSW Convergence",
+        "corridor": "Seletar Line (Study Corridor)",
+        "dist_tri_m": 1262,
+        "nearest_official_mrt": "TELOK BLANGAH",
+        "dist_existing_mrt_m": 528,
+        "rail_gap_saved_m": 0,
+        "station_posterior_pct": 96.1,
+        "score": 13.2,
+        "planning_area": "BUKIT MERAH",
+        "subzone": "TELOK BLANGAH WAY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.830967,
+          1.360614
+        ]
+      },
+      "properties": {
+        "parcel_source": "Official 2025-2026 BTO/GLS",
+        "name": "Lorong Puntong / Sin Ming Ave (GLS 1H2026)",
+        "dev_type": "Buyer & Dev / GLS Confirmed (~140u)",
+        "lu_desc": "RESIDENTIAL / GLS / BTO",
+        "gpr": "GLS/BTO",
+        "area_ha": null,
+        "units": 140,
+        "lat": 1.360614,
+        "lng": 103.830967,
+        "road_or_location": "LORONG PUNTONG",
+        "anchor_postal": "570454",
+        "anchor_ref": "Blk 454",
+        "address_display": "LORONG PUNTONG | Ref Postal: 570454",
+        "nearest_tri_id": "ANC-01",
+        "nearest_tri_station": "Chong Boon / Ang Mo Kio Avenue 10",
+        "corridor": "Multi-Anchor Discovery (Emp / Health / Edu)",
+        "dist_tri_m": 2868,
+        "nearest_official_mrt": "BRIGHT HILL",
+        "dist_existing_mrt_m": 354,
+        "rail_gap_saved_m": 0,
+        "station_posterior_pct": 95.0,
+        "score": 13.1,
+        "planning_area": "ANG MO KIO",
+        "subzone": "CHONG BOON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.944936,
+          1.313917
+        ]
+      },
+      "properties": {
+        "parcel_source": "Official 2025-2026 BTO/GLS",
+        "name": "Bayshore Drive (GLS 1H2026 Mixed)",
+        "dev_type": "Buyer & Dev / GLS Confirmed Mixed",
+        "lu_desc": "RESIDENTIAL / GLS / BTO",
+        "gpr": "GLS/BTO",
+        "area_ha": null,
+        "units": 1000,
+        "lat": 1.313917,
+        "lng": 103.944936,
+        "road_or_location": "BAYSHORE DRIVE",
+        "anchor_postal": "466542",
+        "anchor_ref": "Upper East Coast Road",
+        "address_display": "BAYSHORE DRIVE | Ref Postal: 466542",
+        "nearest_tri_id": "IND-01",
+        "nearest_tri_station": "Paya Lebar Air Base East / Tampines West",
+        "corridor": "Independent Rail-Gap Discovery",
+        "dist_tri_m": 4936,
+        "nearest_official_mrt": "BAYSHORE",
+        "dist_existing_mrt_m": 392,
+        "rail_gap_saved_m": 0,
+        "station_posterior_pct": 95.4,
+        "score": 13.1,
+        "planning_area": "PAYA LEBAR",
+        "subzone": "PAYA LEBAR EAST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.873252,
+          1.366472
+        ]
+      },
+      "properties": {
+        "parcel_source": "Official 2025-2026 BTO/GLS",
+        "name": "Serangoon North View (GLS 2H2026 Reserve)",
+        "dev_type": "Developer / GLS Reserve List",
+        "lu_desc": "RESIDENTIAL / GLS / BTO",
+        "gpr": "GLS/BTO",
+        "area_ha": null,
+        "units": 500,
+        "lat": 1.366472,
+        "lng": 103.873252,
+        "road_or_location": "SERANGOON NORTH AVENUE 1",
+        "anchor_postal": "550149",
+        "anchor_ref": "Blk 149",
+        "address_display": "SERANGOON NORTH AVENUE 1 | Ref Postal: 550149",
+        "nearest_tri_id": "ANC-01",
+        "nearest_tri_station": "Chong Boon / Ang Mo Kio Avenue 10",
+        "corridor": "Multi-Anchor Discovery (Emp / Health / Edu)",
+        "dist_tri_m": 1981,
+        "nearest_official_mrt": "SERANGOON NORTH",
+        "dist_existing_mrt_m": 459,
+        "rail_gap_saved_m": 0,
+        "station_posterior_pct": 95.0,
+        "score": 13.1,
+        "planning_area": "ANG MO KIO",
+        "subzone": "CHONG BOON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.734931,
+          1.343944
+        ]
+      },
+      "properties": {
+        "parcel_source": "Official 2025-2026 BTO/GLS",
+        "name": "Jurong East Ave 1 (GLS 2H2026 EC)",
+        "dev_type": "Buyer & Dev / GLS Confirmed (EC ~735u)",
+        "lu_desc": "RESIDENTIAL / GLS / BTO",
+        "gpr": "GLS/BTO",
+        "area_ha": null,
+        "units": 735,
+        "lat": 1.343944,
+        "lng": 103.734931,
+        "road_or_location": "JURONG EAST AVENUE 1",
+        "anchor_postal": "609775",
+        "anchor_ref": "Jurong East Avenue 1",
+        "address_display": "JURONG EAST AVENUE 1 | Ref Postal: 609775",
+        "nearest_tri_id": "IND-08",
+        "nearest_tri_station": "Brickworks (Bukit Batok West Avenue 8)",
+        "corridor": "Independent Rail-Gap Discovery (PV/Bus)",
+        "dist_tri_m": 1925,
+        "nearest_official_mrt": "CHINESE GARDEN",
+        "dist_existing_mrt_m": 322,
+        "rail_gap_saved_m": 0,
+        "station_posterior_pct": 92.0,
+        "score": 12.7,
+        "planning_area": "BUKIT BATOK",
+        "subzone": "BRICKWORKS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.739373,
+          1.331038
+        ]
+      },
+      "properties": {
+        "parcel_source": "Official 2025-2026 BTO/GLS",
+        "name": "Town Hall Link JLD (GLS 2H2026 White)",
+        "dev_type": "Developer & Buyer / GLS Confirmed (~1,200u)",
+        "lu_desc": "RESIDENTIAL / GLS / BTO",
+        "gpr": "GLS/BTO",
+        "area_ha": null,
+        "units": 1200,
+        "lat": 1.331038,
+        "lng": 103.739373,
+        "road_or_location": "TOWN HALL LINK",
+        "anchor_postal": "608516",
+        "anchor_ref": "Four Points by Sheraton",
+        "address_display": "TOWN HALL LINK | Ref Postal: 608516",
+        "nearest_tri_id": "WCE-01",
+        "nearest_tri_station": "Teban Gardens / Jurong River",
+        "corridor": "JRL West Coast Ext (Unfixed Intermediate)",
+        "dist_tri_m": 1389,
+        "nearest_official_mrt": "JURONG EAST",
+        "dist_existing_mrt_m": 411,
+        "rail_gap_saved_m": 0,
+        "station_posterior_pct": 91.8,
+        "score": 12.6,
+        "planning_area": "JURONG EAST",
+        "subzone": "JURONG RIVER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.784628,
+          1.327152
+        ]
+      },
+      "properties": {
+        "parcel_source": "Official 2025-2026 BTO/GLS",
+        "name": "Holland Plain (GLS 1H2026 & 2H2026)",
+        "dev_type": "Buyer & Dev / GLS Confirmed (~890u)",
+        "lu_desc": "RESIDENTIAL / GLS / BTO",
+        "gpr": "GLS/BTO",
+        "area_ha": null,
+        "units": 890,
+        "lat": 1.327152,
+        "lng": 103.784628,
+        "road_or_location": "HOLLAND PLAIN",
+        "anchor_postal": "279167",
+        "anchor_ref": "Holland Link",
+        "address_display": "HOLLAND PLAIN | Ref Postal: 279167",
+        "nearest_tri_id": "TL-03",
+        "nearest_tri_station": "Ghim Moh / Ulu Pandan North",
+        "corridor": "Tengah Line (Study Corridor)",
+        "dist_tri_m": 1404,
+        "nearest_official_mrt": "MAJU",
+        "dist_existing_mrt_m": 879,
+        "rail_gap_saved_m": 0,
+        "station_posterior_pct": 88.9,
+        "score": 12.2,
+        "planning_area": "QUEENSTOWN",
+        "subzone": "GHIM MOH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.780418,
+          1.305869
+        ]
+      },
+      "properties": {
+        "parcel_source": "Official 2025-2026 BTO/GLS",
+        "name": "Dover Road (GLS 2H2025 Mixed)",
+        "dev_type": "Buyer & Dev / GLS Confirmed (~625u)",
+        "lu_desc": "RESIDENTIAL / GLS / BTO",
+        "gpr": "GLS/BTO",
+        "area_ha": null,
+        "units": 625,
+        "lat": 1.305869,
+        "lng": 103.780418,
+        "road_or_location": "DOVER ROAD",
+        "anchor_postal": "130027",
+        "anchor_ref": "Blk 27",
+        "address_display": "DOVER ROAD | Ref Postal: 130027",
+        "nearest_tri_id": "TL-03",
+        "nearest_tri_station": "Ghim Moh / Ulu Pandan North",
+        "corridor": "Tengah Line (Study Corridor)",
+        "dist_tri_m": 1229,
+        "nearest_official_mrt": "DOVER",
+        "dist_existing_mrt_m": 671,
+        "rail_gap_saved_m": 0,
+        "station_posterior_pct": 88.9,
+        "score": 12.2,
+        "planning_area": "QUEENSTOWN",
+        "subzone": "GHIM MOH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.793722,
+          1.42598
+        ]
+      },
+      "properties": {
+        "parcel_source": "Official 2025-2026 BTO/GLS",
+        "name": "Woodlands Drive 17 (GLS 2H2025 EC)",
+        "dev_type": "Buyer & Dev / GLS Confirmed (EC ~560u)",
+        "lu_desc": "RESIDENTIAL / GLS / BTO",
+        "gpr": "GLS/BTO",
+        "area_ha": null,
+        "units": 560,
+        "lat": 1.42598,
+        "lng": 103.793722,
+        "road_or_location": "WOODLANDS DRIVE 17",
+        "anchor_postal": "731592",
+        "anchor_ref": "Woodlands Drive 17",
+        "address_display": "WOODLANDS DRIVE 17 | Ref Postal: 731592",
+        "nearest_tri_id": "ANC-02",
+        "nearest_tri_station": "Woodlands East / Woodlands Rise",
+        "corridor": "Multi-Anchor Discovery (Emp / Health / Edu)",
+        "dist_tri_m": 2701,
+        "nearest_official_mrt": "WOODLANDS SOUTH",
+        "dist_existing_mrt_m": 113,
+        "rail_gap_saved_m": 0,
+        "station_posterior_pct": 83.8,
+        "score": 11.5,
+        "planning_area": "WOODLANDS",
+        "subzone": "WOODLANDS EAST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.818828,
+          1.46038
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Residential Parcel (12.9 ha, GPR 3.5)",
+        "dev_type": "Buyer & Dev / Greenfield Residential",
+        "lu_desc": "RESIDENTIAL",
+        "gpr": "3.5",
+        "area_ha": 12.86,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.46038,
+        "lng": 103.818828,
+        "road_or_location": "Adjacent to Admiralty Lane (SEMBAWANG NORTH)",
+        "anchor_postal": "752448",
+        "anchor_ref": "Admiralty Lane",
+        "address_display": "Adjacent to Admiralty Lane (SEMBAWANG NORTH) | Ref Postal: 752448 (Admiralty Lane, ~152m)",
+        "nearest_tri_id": "SL-02",
+        "nearest_tri_station": "Sembawang North / Shipyard",
+        "corridor": "Seletar Line (Study Corridor)",
+        "dist_tri_m": 78,
+        "nearest_official_mrt": "SEMBAWANG",
+        "dist_existing_mrt_m": 1281,
+        "rail_gap_saved_m": 1203,
+        "station_posterior_pct": 95.2,
+        "score": 92.9,
+        "planning_area": "SEMBAWANG",
+        "subzone": "SEMBAWANG NORTH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.873134,
+          1.411327
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Reserve Site Parcel (2.4 ha, GPR EVA)",
+        "dev_type": "Developer / URA Reserve Site",
+        "lu_desc": "RESERVE SITE",
+        "gpr": "EVA",
+        "area_ha": 2.37,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.411327,
+        "lng": 103.873134,
+        "road_or_location": "Adjacent to Old Birdcage Walk (SELETAR)",
+        "anchor_postal": "798485",
+        "anchor_ref": "Old Birdcage Walk",
+        "address_display": "Adjacent to Old Birdcage Walk (SELETAR) | Ref Postal: 798485 (Old Birdcage Walk, ~285m)",
+        "nearest_tri_id": "ANC-04",
+        "nearest_tri_station": "Seletar / Old Birdcage Walk",
+        "corridor": "Multi-Anchor Discovery (Emp / Health / Edu)",
+        "dist_tri_m": 181,
+        "nearest_official_mrt": "SENGKANG",
+        "dist_existing_mrt_m": 3306,
+        "rail_gap_saved_m": 3125,
+        "station_posterior_pct": 82.6,
+        "score": 92.3,
+        "planning_area": "SELETAR",
+        "subzone": "SELETAR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.870967,
+          1.398585
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Residential Parcel (1.8 ha, GPR 2.1)",
+        "dev_type": "Buyer & Dev / Greenfield Residential",
+        "lu_desc": "RESIDENTIAL",
+        "gpr": "2.1",
+        "area_ha": 1.83,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.398585,
+        "lng": 103.870967,
+        "road_or_location": "Adjacent to Lorong Tanggam (FERNVALE)",
+        "anchor_postal": "798725",
+        "anchor_ref": "Lorong Tanggam",
+        "address_display": "Adjacent to Lorong Tanggam (FERNVALE) | Ref Postal: 798725 (Lorong Tanggam, ~260m)",
+        "nearest_tri_id": "SL-06",
+        "nearest_tri_station": "Sengkang West / Fernvale West",
+        "corridor": "Seletar Line (Study Corridor)",
+        "dist_tri_m": 182,
+        "nearest_official_mrt": "SENGKANG",
+        "dist_existing_mrt_m": 2831,
+        "rail_gap_saved_m": 2648,
+        "station_posterior_pct": 99.0,
+        "score": 83.2,
+        "planning_area": "SENGKANG",
+        "subzone": "FERNVALE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.871689,
+          1.396919
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Residential Parcel (1.6 ha, GPR 2.1)",
+        "dev_type": "Buyer & Dev / Greenfield Residential",
+        "lu_desc": "RESIDENTIAL",
+        "gpr": "2.1",
+        "area_ha": 1.65,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.396919,
+        "lng": 103.871689,
+        "road_or_location": "Adjacent to Jalan Kayu (FERNVALE)",
+        "anchor_postal": "799470",
+        "anchor_ref": "Jalan Kayu",
+        "address_display": "Adjacent to Jalan Kayu (FERNVALE) | Ref Postal: 799470 (Jalan Kayu, ~217m)",
+        "nearest_tri_id": "SL-06",
+        "nearest_tri_station": "Sengkang West / Fernvale West",
+        "corridor": "Seletar Line (Study Corridor)",
+        "dist_tri_m": 150,
+        "nearest_official_mrt": "SENGKANG",
+        "dist_existing_mrt_m": 2708,
+        "rail_gap_saved_m": 2558,
+        "station_posterior_pct": 99.0,
+        "score": 82.9,
+        "planning_area": "SENGKANG",
+        "subzone": "FERNVALE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.894785,
+          1.354517
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Reserve Site Parcel (28.5 ha, GPR EVA)",
+        "dev_type": "Developer / URA Reserve Site",
+        "lu_desc": "RESERVE SITE",
+        "gpr": "EVA",
+        "area_ha": 28.53,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.354517,
+        "lng": 103.894785,
+        "road_or_location": "Adjacent to Hougang Street 22 (DEFU INDUSTRIAL PARK)",
+        "anchor_postal": "530101",
+        "anchor_ref": "Blk 101",
+        "address_display": "Adjacent to Hougang Street 22 (DEFU INDUSTRIAL PARK) | Ref Postal: 530101 (Blk 101, ~402m)",
+        "nearest_tri_id": "IND-02",
+        "nearest_tri_station": "Defu South / PLAB West",
+        "corridor": "Independent Rail-Gap Discovery",
+        "dist_tri_m": 282,
+        "nearest_official_mrt": "DEFU",
+        "dist_existing_mrt_m": 992,
+        "rail_gap_saved_m": 710,
+        "station_posterior_pct": 96.0,
+        "score": 82.6,
+        "planning_area": "HOUGANG",
+        "subzone": "DEFU INDUSTRIAL PARK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.871793,
+          1.400435
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Reserve Site Parcel (0.4 ha, GPR EVA)",
+        "dev_type": "Developer / URA Reserve Site",
+        "lu_desc": "RESERVE SITE",
+        "gpr": "EVA",
+        "area_ha": 0.37,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.400435,
+        "lng": 103.871793,
+        "road_or_location": "Adjacent to Lorong Tanggam (FERNVALE)",
+        "anchor_postal": "798725",
+        "anchor_ref": "Lorong Tanggam",
+        "address_display": "Adjacent to Lorong Tanggam (FERNVALE) | Ref Postal: 798725 (Lorong Tanggam, ~242m)",
+        "nearest_tri_id": "SL-06",
+        "nearest_tri_station": "Sengkang West / Fernvale West",
+        "corridor": "Seletar Line (Study Corridor)",
+        "dist_tri_m": 282,
+        "nearest_official_mrt": "SENGKANG",
+        "dist_existing_mrt_m": 2807,
+        "rail_gap_saved_m": 2525,
+        "station_posterior_pct": 99.0,
+        "score": 81.9,
+        "planning_area": "SENGKANG",
+        "subzone": "FERNVALE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.769148,
+          1.29908
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Reserve Site Parcel (0.8 ha, GPR EVA)",
+        "dev_type": "Developer / URA Reserve Site",
+        "lu_desc": "RESERVE SITE",
+        "gpr": "EVA",
+        "area_ha": 0.76,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.29908,
+        "lng": 103.769148,
+        "road_or_location": "Adjacent to Clementi Road (CLEMENTI WOODS)",
+        "anchor_postal": "129790",
+        "anchor_ref": "Blk A",
+        "address_display": "Adjacent to Clementi Road (CLEMENTI WOODS) | Ref Postal: 129790 (Blk A, ~223m)",
+        "nearest_tri_id": "WCE-02",
+        "nearest_tri_station": "Clementi Woods / West Coast Plaza",
+        "corridor": "JRL West Coast Ext (Unfixed Intermediate)",
+        "dist_tri_m": 360,
+        "nearest_official_mrt": "DOVER",
+        "dist_existing_mrt_m": 1726,
+        "rail_gap_saved_m": 1366,
+        "station_posterior_pct": 98.9,
+        "score": 81.8,
+        "planning_area": "CLEMENTI",
+        "subzone": "CLEMENTI WOODS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.858383,
+          1.359287
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Residential Parcel (7.1 ha, GPR 1.4)",
+        "dev_type": "Buyer & Dev / Greenfield Residential",
+        "lu_desc": "RESIDENTIAL",
+        "gpr": "1.4",
+        "area_ha": 7.12,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.359287,
+        "lng": 103.858383,
+        "road_or_location": "Adjacent to Boundary Close (CHONG BOON)",
+        "anchor_postal": "567730",
+        "anchor_ref": "Central Staff Apartments",
+        "address_display": "Adjacent to Boundary Close (CHONG BOON) | Ref Postal: 567730 (Central Staff Apartments, ~161m)",
+        "nearest_tri_id": "ANC-01",
+        "nearest_tri_station": "Chong Boon / Ang Mo Kio Avenue 10",
+        "corridor": "Multi-Anchor Discovery (Emp / Health / Edu)",
+        "dist_tri_m": 189,
+        "nearest_official_mrt": "LORONG CHUAN",
+        "dist_existing_mrt_m": 1055,
+        "rail_gap_saved_m": 866,
+        "station_posterior_pct": 95.0,
+        "score": 78.6,
+        "planning_area": "ANG MO KIO",
+        "subzone": "CHONG BOON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.87382,
+          1.39985
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Residential Parcel (5.4 ha, GPR SDP)",
+        "dev_type": "Buyer & Dev / Greenfield Residential",
+        "lu_desc": "RESIDENTIAL",
+        "gpr": "SDP",
+        "area_ha": 5.43,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.39985,
+        "lng": 103.87382,
+        "road_or_location": "Adjacent to Lorong Tanggam (FERNVALE)",
+        "anchor_postal": "798729",
+        "anchor_ref": "Lorong Tanggam",
+        "address_display": "Adjacent to Lorong Tanggam (FERNVALE) | Ref Postal: 798729 (Lorong Tanggam, ~118m)",
+        "nearest_tri_id": "SL-06",
+        "nearest_tri_station": "Sengkang West / Fernvale West",
+        "corridor": "Seletar Line (Study Corridor)",
+        "dist_tri_m": 253,
+        "nearest_official_mrt": "SENGKANG",
+        "dist_existing_mrt_m": 2573,
+        "rail_gap_saved_m": 2320,
+        "station_posterior_pct": 99.0,
+        "score": 76.9,
+        "planning_area": "SENGKANG",
+        "subzone": "FERNVALE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.733851,
+          1.31694
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Reserve Site Parcel (2.9 ha, GPR EVA)",
+        "dev_type": "Developer / URA Reserve Site",
+        "lu_desc": "RESERVE SITE",
+        "gpr": "EVA",
+        "area_ha": 2.88,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.31694,
+        "lng": 103.733851,
+        "road_or_location": "Adjacent to Penjuru Place (JURONG RIVER)",
+        "anchor_postal": "608560",
+        "anchor_ref": "Jurong Penjuru Dormitory 2",
+        "address_display": "Adjacent to Penjuru Place (JURONG RIVER) | Ref Postal: 608560 (Jurong Penjuru Dormitory 2, ~199m)",
+        "nearest_tri_id": "WCE-01",
+        "nearest_tri_station": "Teban Gardens / Jurong River",
+        "corridor": "JRL West Coast Ext (Unfixed Intermediate)",
+        "dist_tri_m": 300,
+        "nearest_official_mrt": "JURONG LAKE DISTRICT",
+        "dist_existing_mrt_m": 1300,
+        "rail_gap_saved_m": 1000,
+        "station_posterior_pct": 91.8,
+        "score": 73.5,
+        "planning_area": "JURONG EAST",
+        "subzone": "JURONG RIVER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.773772,
+          1.318628
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Residential Parcel (8.3 ha, GPR 2.1)",
+        "dev_type": "Buyer & Dev / Greenfield Residential",
+        "lu_desc": "RESIDENTIAL",
+        "gpr": "2.1",
+        "area_ha": 8.3,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.318628,
+        "lng": 103.773772,
+        "road_or_location": "Adjacent to Pine Grove (ULU PANDAN)",
+        "anchor_postal": "597593",
+        "anchor_ref": "Pine Grove",
+        "address_display": "Adjacent to Pine Grove (ULU PANDAN) | Ref Postal: 597593 (Pine Grove, ~229m)",
+        "nearest_tri_id": "TL-02",
+        "nearest_tri_station": "Ulu Pandan / Holland Plain West",
+        "corridor": "Tengah Line (Study Corridor)",
+        "dist_tri_m": 75,
+        "nearest_official_mrt": "DOVER",
+        "dist_existing_mrt_m": 939,
+        "rail_gap_saved_m": 864,
+        "station_posterior_pct": 76.9,
+        "score": 72.8,
+        "planning_area": "BUKIT TIMAH",
+        "subzone": "ULU PANDAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.834816,
+          1.437365
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Reserve Site Parcel (8.0 ha, GPR EVA)",
+        "dev_type": "Developer / URA Reserve Site",
+        "lu_desc": "RESERVE SITE",
+        "gpr": "EVA",
+        "area_ha": 8.03,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.437365,
+        "lng": 103.834816,
+        "road_or_location": "Adjacent to Yishun Street 20 (NORTHLAND)",
+        "anchor_postal": "760299",
+        "anchor_ref": "Blk 299",
+        "address_display": "Adjacent to Yishun Street 20 (NORTHLAND) | Ref Postal: 760299 (Blk 299, ~118m)",
+        "nearest_tri_id": "SL-03",
+        "nearest_tri_station": "Northland / Simpang North",
+        "corridor": "Seletar Line (Study Corridor)",
+        "dist_tri_m": 455,
+        "nearest_official_mrt": "CANBERRA",
+        "dist_existing_mrt_m": 864,
+        "rail_gap_saved_m": 409,
+        "station_posterior_pct": 98.8,
+        "score": 72.2,
+        "planning_area": "YISHUN",
+        "subzone": "NORTHLAND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.793232,
+          1.290769
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Residential With Commercial At 1St Storey Parcel (5.5 ha, GPR SDP)",
+        "dev_type": "Buyer & Dev / Greenfield Residential",
+        "lu_desc": "RESIDENTIAL WITH COMMERCIAL AT 1ST STOREY",
+        "gpr": "SDP",
+        "area_ha": 5.53,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.290769,
+        "lng": 103.793232,
+        "road_or_location": "Adjacent to Normanton Park (ONE NORTH)",
+        "anchor_postal": "118998",
+        "anchor_ref": "Normanton Park",
+        "address_display": "Adjacent to Normanton Park (ONE NORTH) | Ref Postal: 118998 (Normanton Park, ~366m)",
+        "nearest_tri_id": "TL-04",
+        "nearest_tri_station": "Queensway / Portsdown (One-North South)",
+        "corridor": "Tengah Line (Study Corridor)",
+        "dist_tri_m": 174,
+        "nearest_official_mrt": "KENT RIDGE",
+        "dist_existing_mrt_m": 1009,
+        "rail_gap_saved_m": 834,
+        "station_posterior_pct": 89.2,
+        "score": 72.1,
+        "planning_area": "QUEENSTOWN",
+        "subzone": "ONE NORTH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.725019,
+          1.326139
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Commercial & Residential Parcel (2.1 ha, GPR EVA)",
+        "dev_type": "Buyer & Dev / Greenfield Residential",
+        "lu_desc": "COMMERCIAL & RESIDENTIAL",
+        "gpr": "EVA",
+        "area_ha": 2.12,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.326139,
+        "lng": 103.725019,
+        "road_or_location": "Adjacent to Yung Ho Walk (TAMAN JURONG)",
+        "anchor_postal": "618274",
+        "anchor_ref": "Saint Andrew's Nursing Home",
+        "address_display": "Adjacent to Yung Ho Walk (TAMAN JURONG) | Ref Postal: 618274 (Saint Andrew's Nursing Home, ~117m)",
+        "nearest_tri_id": "CR3-01",
+        "nearest_tri_station": "Taman Jurong (Jurong West South)",
+        "corridor": "CRL Phase 3 (Unfixed Stations)",
+        "dist_tri_m": 261,
+        "nearest_official_mrt": "JURONG LAKE DISTRICT",
+        "dist_existing_mrt_m": 1647,
+        "rail_gap_saved_m": 1387,
+        "station_posterior_pct": 99.3,
+        "score": 71.1,
+        "planning_area": "JURONG WEST",
+        "subzone": "TAMAN JURONG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.793516,
+          1.294432
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "White Parcel (1.4 ha, GPR 0.8)",
+        "dev_type": "Developer / White Mixed-Use Site",
+        "lu_desc": "WHITE",
+        "gpr": "0.8",
+        "area_ha": 1.36,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.294432,
+        "lng": 103.793516,
+        "road_or_location": "Adjacent to Media Circle (ONE NORTH)",
+        "anchor_postal": "139815",
+        "anchor_ref": "Media Circle",
+        "address_display": "Adjacent to Media Circle (ONE NORTH) | Ref Postal: 139815 (Media Circle, ~143m)",
+        "nearest_tri_id": "TL-04",
+        "nearest_tri_station": "Queensway / Portsdown (One-North South)",
+        "corridor": "Tengah Line (Study Corridor)",
+        "dist_tri_m": 244,
+        "nearest_official_mrt": "ONE-NORTH",
+        "dist_existing_mrt_m": 892,
+        "rail_gap_saved_m": 648,
+        "station_posterior_pct": 89.2,
+        "score": 70.9,
+        "planning_area": "QUEENSTOWN",
+        "subzone": "ONE NORTH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.854256,
+          1.434279
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Reserve Site Parcel (202.2 ha, GPR EVA)",
+        "dev_type": "Developer / URA Reserve Site",
+        "lu_desc": "RESERVE SITE",
+        "gpr": "EVA",
+        "area_ha": 202.22,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.434279,
+        "lng": 103.854256,
+        "road_or_location": "Adjacent to Yishun Avenue 6 (SIMPANG SOUTH)",
+        "anchor_postal": "760479",
+        "anchor_ref": "Blk 479",
+        "address_display": "Adjacent to Yishun Avenue 6 (SIMPANG SOUTH) | Ref Postal: 760479 (Blk 479, ~584m)",
+        "nearest_tri_id": "SL-04",
+        "nearest_tri_station": "Simpang South / Yishun Ave 1",
+        "corridor": "Seletar Line (Study Corridor)",
+        "dist_tri_m": 576,
+        "nearest_official_mrt": "YISHUN",
+        "dist_existing_mrt_m": 2203,
+        "rail_gap_saved_m": 1627,
+        "station_posterior_pct": 96.0,
+        "score": 70.7,
+        "planning_area": "SIMPANG",
+        "subzone": "SIMPANG SOUTH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.775752,
+          1.446987
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Reserve Site Parcel (4.5 ha, GPR EVA)",
+        "dev_type": "Developer / URA Reserve Site",
+        "lu_desc": "RESERVE SITE",
+        "gpr": "EVA",
+        "area_ha": 4.47,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.446987,
+        "lng": 103.775752,
+        "road_or_location": "Adjacent to Marsiling Crescent (NORTH COAST)",
+        "anchor_postal": "730210",
+        "anchor_ref": "Marsiling Crescent",
+        "address_display": "Adjacent to Marsiling Crescent (NORTH COAST) | Ref Postal: 730210 (Marsiling Crescent, ~247m)",
+        "nearest_tri_id": "SL-01",
+        "nearest_tri_station": "Woodlands North Coast West",
+        "corridor": "Seletar Line (Study Corridor)",
+        "dist_tri_m": 443,
+        "nearest_official_mrt": "WOODLANDS NORTH",
+        "dist_existing_mrt_m": 1071,
+        "rail_gap_saved_m": 627,
+        "station_posterior_pct": 99.2,
+        "score": 70.7,
+        "planning_area": "WOODLANDS",
+        "subzone": "NORTH COAST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.879067,
+          1.387646
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Residential Parcel (3.4 ha, GPR 1.4)",
+        "dev_type": "Buyer & Dev / Greenfield Residential",
+        "lu_desc": "RESIDENTIAL",
+        "gpr": "1.4",
+        "area_ha": 3.42,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.387646,
+        "lng": 103.879067,
+        "road_or_location": "Adjacent to Gerald Drive (TRAFALGAR)",
+        "anchor_postal": "791415",
+        "anchor_ref": "Blk 415A",
+        "address_display": "Adjacent to Gerald Drive (TRAFALGAR) | Ref Postal: 791415 (Blk 415A, ~159m)",
+        "nearest_tri_id": "SL-07",
+        "nearest_tri_station": "Seletar Hills / Trafalgar (Jalan Kayu)",
+        "corridor": "Seletar Line (Study Corridor)",
+        "dist_tri_m": 250,
+        "nearest_official_mrt": "BUANGKOK",
+        "dist_existing_mrt_m": 1650,
+        "rail_gap_saved_m": 1400,
+        "station_posterior_pct": 91.6,
+        "score": 70.6,
+        "planning_area": "HOUGANG",
+        "subzone": "TRAFALGAR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.766615,
+          1.297724
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Residential Parcel (1.9 ha, GPR 1.6)",
+        "dev_type": "Buyer & Dev / Greenfield Residential",
+        "lu_desc": "RESIDENTIAL",
+        "gpr": "1.6",
+        "area_ha": 1.86,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.297724,
+        "lng": 103.766615,
+        "road_or_location": "Adjacent to West Coast Crescent (CLEMENTI WOODS)",
+        "anchor_postal": "128036",
+        "anchor_ref": "West Coast Crescent",
+        "address_display": "Adjacent to West Coast Crescent (CLEMENTI WOODS) | Ref Postal: 128036 (West Coast Crescent, ~120m)",
+        "nearest_tri_id": "WCE-02",
+        "nearest_tri_station": "Clementi Woods / West Coast Plaza",
+        "corridor": "JRL West Coast Ext (Unfixed Intermediate)",
+        "dist_tri_m": 392,
+        "nearest_official_mrt": "WEST COAST",
+        "dist_existing_mrt_m": 1778,
+        "rail_gap_saved_m": 1385,
+        "station_posterior_pct": 98.9,
+        "score": 70.4,
+        "planning_area": "CLEMENTI",
+        "subzone": "CLEMENTI WOODS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.774851,
+          1.290596
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Residential Parcel (0.8 ha, GPR 1.4)",
+        "dev_type": "Buyer & Dev / Greenfield Residential",
+        "lu_desc": "RESIDENTIAL",
+        "gpr": "1.4",
+        "area_ha": 0.8,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.290596,
+        "lng": 103.774851,
+        "road_or_location": "Adjacent to Heng Mui Keng Terrace (PASIR PANJANG 1)",
+        "anchor_postal": "117484",
+        "anchor_ref": "Pasir Panjang Road",
+        "address_display": "Adjacent to Heng Mui Keng Terrace (PASIR PANJANG 1) | Ref Postal: 117484 (Pasir Panjang Road, ~185m)",
+        "nearest_tri_id": "WCE-03",
+        "nearest_tri_station": "Pasir Panjang / Kent Ridge South",
+        "corridor": "JRL West Coast Ext (Unfixed Intermediate)",
+        "dist_tri_m": 120,
+        "nearest_official_mrt": "KENT RIDGE",
+        "dist_existing_mrt_m": 1128,
+        "rail_gap_saved_m": 1008,
+        "station_posterior_pct": 96.7,
+        "score": 70.3,
+        "planning_area": "QUEENSTOWN",
+        "subzone": "PASIR PANJANG 1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.819939,
+          1.465687
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Reserve Site Parcel (27.9 ha, GPR EVA)",
+        "dev_type": "Developer / URA Reserve Site",
+        "lu_desc": "RESERVE SITE",
+        "gpr": "EVA",
+        "area_ha": 27.86,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.465687,
+        "lng": 103.819939,
+        "road_or_location": "Adjacent to Admiralty Lane (SEMBAWANG NORTH)",
+        "anchor_postal": "752445",
+        "anchor_ref": "Admiralty Lane",
+        "address_display": "Adjacent to Admiralty Lane (SEMBAWANG NORTH) | Ref Postal: 752445 (Admiralty Lane, ~715m)",
+        "nearest_tri_id": "SL-02",
+        "nearest_tri_station": "Sembawang North / Shipyard",
+        "corridor": "Seletar Line (Study Corridor)",
+        "dist_tri_m": 545,
+        "nearest_official_mrt": "SEMBAWANG",
+        "dist_existing_mrt_m": 1864,
+        "rail_gap_saved_m": 1319,
+        "station_posterior_pct": 95.2,
+        "score": 69.0,
+        "planning_area": "SEMBAWANG",
+        "subzone": "SEMBAWANG NORTH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.854241,
+          1.327354
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Residential Parcel (2.1 ha, GPR 4.3)",
+        "dev_type": "Buyer & Dev / Greenfield Residential",
+        "lu_desc": "RESIDENTIAL",
+        "gpr": "4.3",
+        "area_ha": 2.13,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.327354,
+        "lng": 103.854241,
+        "road_or_location": "Adjacent to Jalan Rajah (BALESTIER)",
+        "anchor_postal": "320107",
+        "anchor_ref": "Blk 107",
+        "address_display": "Adjacent to Jalan Rajah (BALESTIER) | Ref Postal: 320107 (Blk 107, ~100m)",
+        "nearest_tri_id": "SL-09",
+        "nearest_tri_station": "Whampoa / Balestier",
+        "corridor": "Seletar Line (Study Corridor)",
+        "dist_tri_m": 153,
+        "nearest_official_mrt": "TOA PAYOH",
+        "dist_existing_mrt_m": 978,
+        "rail_gap_saved_m": 825,
+        "station_posterior_pct": 97.7,
+        "score": 68.8,
+        "planning_area": "NOVENA",
+        "subzone": "BALESTIER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.848316,
+          1.417598
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Residential Parcel (2.7 ha, GPR 1.4)",
+        "dev_type": "Buyer & Dev / Greenfield Residential",
+        "lu_desc": "RESIDENTIAL",
+        "gpr": "1.4",
+        "area_ha": 2.7,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.417598,
+        "lng": 103.848316,
+        "road_or_location": "Adjacent to Yishun Avenue 1 (YISHUN EAST)",
+        "anchor_postal": "761432",
+        "anchor_ref": "Blk 432A",
+        "address_display": "Adjacent to Yishun Avenue 1 (YISHUN EAST) | Ref Postal: 761432 (Blk 432A, ~248m)",
+        "nearest_tri_id": "SL-05",
+        "nearest_tri_station": "Yishun East / Chencharu Fringe",
+        "corridor": "Seletar Line (Study Corridor)",
+        "dist_tri_m": 450,
+        "nearest_official_mrt": "KHATIB",
+        "dist_existing_mrt_m": 1710,
+        "rail_gap_saved_m": 1260,
+        "station_posterior_pct": 96.5,
+        "score": 68.3,
+        "planning_area": "YISHUN",
+        "subzone": "YISHUN EAST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.79558,
+          1.292056
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Residential With Commercial At 1St Storey Parcel (1.8 ha, GPR SDP)",
+        "dev_type": "Buyer & Dev / Greenfield Residential",
+        "lu_desc": "RESIDENTIAL WITH COMMERCIAL AT 1ST STOREY",
+        "gpr": "SDP",
+        "area_ha": 1.75,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.292056,
+        "lng": 103.79558,
+        "road_or_location": "Adjacent to Media Circle (ONE NORTH)",
+        "anchor_postal": "139817",
+        "anchor_ref": "Media Circle",
+        "address_display": "Adjacent to Media Circle (ONE NORTH) | Ref Postal: 139817 (Media Circle, ~234m)",
+        "nearest_tri_id": "TL-04",
+        "nearest_tri_station": "Queensway / Portsdown (One-North South)",
+        "corridor": "Tengah Line (Study Corridor)",
+        "dist_tri_m": 205,
+        "nearest_official_mrt": "QUEENSTOWN",
+        "dist_existing_mrt_m": 1188,
+        "rail_gap_saved_m": 983,
+        "station_posterior_pct": 89.2,
+        "score": 68.2,
+        "planning_area": "QUEENSTOWN",
+        "subzone": "ONE NORTH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.786363,
+          1.313917
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Residential Parcel (3.6 ha, GPR 4.6)",
+        "dev_type": "Buyer & Dev / Greenfield Residential",
+        "lu_desc": "RESIDENTIAL",
+        "gpr": "4.6",
+        "area_ha": 3.56,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.313917,
+        "lng": 103.786363,
+        "road_or_location": "Adjacent to Ghim Moh Road (GHIM MOH)",
+        "anchor_postal": "270001",
+        "anchor_ref": "Blk 1",
+        "address_display": "Adjacent to Ghim Moh Road (GHIM MOH) | Ref Postal: 270001 (Blk 1, ~122m)",
+        "nearest_tri_id": "TL-03",
+        "nearest_tri_station": "Ghim Moh / Ulu Pandan North",
+        "corridor": "Tengah Line (Study Corridor)",
+        "dist_tri_m": 117,
+        "nearest_official_mrt": "BUONA VISTA",
+        "dist_existing_mrt_m": 912,
+        "rail_gap_saved_m": 796,
+        "station_posterior_pct": 88.9,
+        "score": 67.0,
+        "planning_area": "QUEENSTOWN",
+        "subzone": "GHIM MOH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.760298,
+          1.341194
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Residential Parcel (2.5 ha, GPR 2.5)",
+        "dev_type": "Buyer & Dev / Greenfield Residential",
+        "lu_desc": "RESIDENTIAL",
+        "gpr": "2.5",
+        "area_ha": 2.5,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.341194,
+        "lng": 103.760298,
+        "road_or_location": "Adjacent to Bukit Batok East Avenue 3 (BUKIT BATOK SOUTH)",
+        "anchor_postal": "652289",
+        "anchor_ref": "Blk 289C",
+        "address_display": "Adjacent to Bukit Batok East Avenue 3 (BUKIT BATOK SOUTH) | Ref Postal: 652289 (Blk 289C, ~287m)",
+        "nearest_tri_id": "TL-01",
+        "nearest_tri_station": "Bukit Batok South / Toh Tuck North",
+        "corridor": "Tengah Line (Study Corridor)",
+        "dist_tri_m": 290,
+        "nearest_official_mrt": "BUKIT BATOK",
+        "dist_existing_mrt_m": 1478,
+        "rail_gap_saved_m": 1188,
+        "station_posterior_pct": 98.1,
+        "score": 67.0,
+        "planning_area": "BUKIT BATOK",
+        "subzone": "BUKIT BATOK SOUTH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.880295,
+          1.414313
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Reserve Site Parcel (137.7 ha, GPR EVA)",
+        "dev_type": "Developer / URA Reserve Site",
+        "lu_desc": "RESERVE SITE",
+        "gpr": "EVA",
+        "area_ha": 137.74,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.414313,
+        "lng": 103.880295,
+        "road_or_location": "Adjacent to Punggol Barat Lane (SELETAR)",
+        "anchor_postal": "797359",
+        "anchor_ref": "Punggol Barat Lane",
+        "address_display": "Adjacent to Punggol Barat Lane (SELETAR) | Ref Postal: 797359 (Punggol Barat Lane, ~562m)",
+        "nearest_tri_id": "ANC-04",
+        "nearest_tri_station": "Seletar / Old Birdcage Walk",
+        "corridor": "Multi-Anchor Discovery (Emp / Health / Edu)",
+        "dist_tri_m": 691,
+        "nearest_official_mrt": "PUNGGOL",
+        "dist_existing_mrt_m": 2661,
+        "rail_gap_saved_m": 1970,
+        "station_posterior_pct": 82.6,
+        "score": 66.4,
+        "planning_area": "SELETAR",
+        "subzone": "SELETAR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.923752,
+          1.359755
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Reserve Site Parcel (88.0 ha, GPR EVA)",
+        "dev_type": "Developer / URA Reserve Site",
+        "lu_desc": "RESERVE SITE",
+        "gpr": "EVA",
+        "area_ha": 87.98,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.359755,
+        "lng": 103.923752,
+        "road_or_location": "Adjacent to Tampines Street 86 (PAYA LEBAR EAST)",
+        "anchor_postal": "528536",
+        "anchor_ref": "Tampines Street 86",
+        "address_display": "Adjacent to Tampines Street 86 (PAYA LEBAR EAST) | Ref Postal: 528536 (Tampines Street 86, ~790m)",
+        "nearest_tri_id": "IND-01",
+        "nearest_tri_station": "Paya Lebar Air Base East / Tampines West",
+        "corridor": "Independent Rail-Gap Discovery",
+        "dist_tri_m": 748,
+        "nearest_official_mrt": "TAMPINES NORTH",
+        "dist_existing_mrt_m": 1897,
+        "rail_gap_saved_m": 1149,
+        "station_posterior_pct": 95.4,
+        "score": 66.0,
+        "planning_area": "PAYA LEBAR",
+        "subzone": "PAYA LEBAR EAST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.824222,
+          1.277434
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Residential Parcel (0.8 ha, GPR 2.5)",
+        "dev_type": "Buyer & Dev / Greenfield Residential",
+        "lu_desc": "RESIDENTIAL",
+        "gpr": "2.5",
+        "area_ha": 0.82,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.277434,
+        "lng": 103.824222,
+        "road_or_location": "Adjacent to Bukit Teresa Road (TELOK BLANGAH WAY)",
+        "anchor_postal": "099762",
+        "anchor_ref": "Bukit Teresa Road",
+        "address_display": "Adjacent to Bukit Teresa Road (TELOK BLANGAH WAY) | Ref Postal: 099762 (Bukit Teresa Road, ~141m)",
+        "nearest_tri_id": "SL-10",
+        "nearest_tri_station": "Telok Blangah Way / GSW Convergence",
+        "corridor": "Seletar Line (Study Corridor)",
+        "dist_tri_m": 171,
+        "nearest_official_mrt": "TIONG BAHRU",
+        "dist_existing_mrt_m": 1016,
+        "rail_gap_saved_m": 845,
+        "station_posterior_pct": 96.1,
+        "score": 66.0,
+        "planning_area": "BUKIT MERAH",
+        "subzone": "TELOK BLANGAH WAY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.846386,
+          1.416824
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Residential Parcel (3.4 ha, GPR 1.4)",
+        "dev_type": "Buyer & Dev / Greenfield Residential",
+        "lu_desc": "RESIDENTIAL",
+        "gpr": "1.4",
+        "area_ha": 3.4,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.416824,
+        "lng": 103.846386,
+        "road_or_location": "Adjacent to Yishun Street 51 (YISHUN EAST)",
+        "anchor_postal": "767973",
+        "anchor_ref": "Yishun Street 51",
+        "address_display": "Adjacent to Yishun Street 51 (YISHUN EAST) | Ref Postal: 767973 (Yishun Street 51, ~115m)",
+        "nearest_tri_id": "SL-05",
+        "nearest_tri_station": "Yishun East / Chencharu Fringe",
+        "corridor": "Seletar Line (Study Corridor)",
+        "dist_tri_m": 420,
+        "nearest_official_mrt": "KHATIB",
+        "dist_existing_mrt_m": 1496,
+        "rail_gap_saved_m": 1076,
+        "station_posterior_pct": 96.5,
+        "score": 65.5,
+        "planning_area": "YISHUN",
+        "subzone": "YISHUN EAST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.740219,
+          1.361975
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Reserve Site Parcel (3.9 ha, GPR EVA)",
+        "dev_type": "Developer / URA Reserve Site",
+        "lu_desc": "RESERVE SITE",
+        "gpr": "EVA",
+        "area_ha": 3.85,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.361975,
+        "lng": 103.740219,
+        "road_or_location": "Adjacent to Tengah Road (BRICKWORKS)",
+        "anchor_postal": "693316",
+        "anchor_ref": "Blk 316C",
+        "address_display": "Adjacent to Tengah Road (BRICKWORKS) | Ref Postal: 693316 (Blk 316C, ~155m)",
+        "nearest_tri_id": "IND-08",
+        "nearest_tri_station": "Brickworks (Bukit Batok West Avenue 8)",
+        "corridor": "Independent Rail-Gap Discovery (PV/Bus)",
+        "dist_tri_m": 317,
+        "nearest_official_mrt": "TENGAH PLANTATION",
+        "dist_existing_mrt_m": 912,
+        "rail_gap_saved_m": 595,
+        "station_posterior_pct": 92.0,
+        "score": 65.3,
+        "planning_area": "BUKIT BATOK",
+        "subzone": "BRICKWORKS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.79749,
+          1.291214
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Residential Parcel (10.4 ha, GPR SDP)",
+        "dev_type": "Buyer & Dev / Greenfield Residential",
+        "lu_desc": "RESIDENTIAL",
+        "gpr": "SDP",
+        "area_ha": 10.36,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.291214,
+        "lng": 103.79749,
+        "road_or_location": "Adjacent to Queen's Crescent (ONE NORTH)",
+        "anchor_postal": "142205",
+        "anchor_ref": "Queen's Crescent",
+        "address_display": "Adjacent to Queen's Crescent (ONE NORTH) | Ref Postal: 142205 (Queen's Crescent, ~231m)",
+        "nearest_tri_id": "TL-04",
+        "nearest_tri_station": "Queensway / Portsdown (One-North South)",
+        "corridor": "Tengah Line (Study Corridor)",
+        "dist_tri_m": 431,
+        "nearest_official_mrt": "QUEENSTOWN",
+        "dist_existing_mrt_m": 1018,
+        "rail_gap_saved_m": 587,
+        "station_posterior_pct": 89.2,
+        "score": 63.6,
+        "planning_area": "QUEENSTOWN",
+        "subzone": "ONE NORTH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.824418,
+          1.463911
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Reserve Site Parcel (52.8 ha, GPR EVA)",
+        "dev_type": "Developer / URA Reserve Site",
+        "lu_desc": "RESERVE SITE",
+        "gpr": "EVA",
+        "area_ha": 52.84,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.463911,
+        "lng": 103.824418,
+        "road_or_location": "Adjacent to Admiralty Lane (SEMBAWANG NORTH)",
+        "anchor_postal": "751448",
+        "anchor_ref": "Admiralty Lane",
+        "address_display": "Adjacent to Admiralty Lane (SEMBAWANG NORTH) | Ref Postal: 751448 (Admiralty Lane, ~838m)",
+        "nearest_tri_id": "SL-02",
+        "nearest_tri_station": "Sembawang North / Shipyard",
+        "corridor": "Seletar Line (Study Corridor)",
+        "dist_tri_m": 733,
+        "nearest_official_mrt": "SEMBAWANG",
+        "dist_existing_mrt_m": 1737,
+        "rail_gap_saved_m": 1004,
+        "station_posterior_pct": 95.2,
+        "score": 63.3,
+        "planning_area": "SEMBAWANG",
+        "subzone": "SEMBAWANG NORTH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.887099,
+          1.406041
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Reserve Site Parcel (43.0 ha, GPR EVA)",
+        "dev_type": "Developer / URA Reserve Site",
+        "lu_desc": "RESERVE SITE",
+        "gpr": "EVA",
+        "area_ha": 43.05,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.406041,
+        "lng": 103.887099,
+        "road_or_location": "Adjacent to Sumang Lane (MATILDA)",
+        "anchor_postal": "822232",
+        "anchor_ref": "Blk 232B",
+        "address_display": "Adjacent to Sumang Lane (MATILDA) | Ref Postal: 822232 (Blk 232B, ~563m)",
+        "nearest_tri_id": "IND-05",
+        "nearest_tri_station": "Matilda / Punggol West",
+        "corridor": "Independent Rail-Gap Discovery",
+        "dist_tri_m": 644,
+        "nearest_official_mrt": "PUNGGOL",
+        "dist_existing_mrt_m": 1709,
+        "rail_gap_saved_m": 1064,
+        "station_posterior_pct": 89.7,
+        "score": 62.6,
+        "planning_area": "PUNGGOL",
+        "subzone": "MATILDA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.889962,
+          1.403265
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Residential Parcel (3.4 ha, GPR 3.0)",
+        "dev_type": "Buyer & Dev / Greenfield Residential",
+        "lu_desc": "RESIDENTIAL",
+        "gpr": "3.0",
+        "area_ha": 3.41,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.403265,
+        "lng": 103.889962,
+        "road_or_location": "Adjacent to Sumang Lane (MATILDA)",
+        "anchor_postal": "822232",
+        "anchor_ref": "Blk 232B",
+        "address_display": "Adjacent to Sumang Lane (MATILDA) | Ref Postal: 822232 (Blk 232B, ~120m)",
+        "nearest_tri_id": "IND-05",
+        "nearest_tri_station": "Matilda / Punggol West",
+        "corridor": "Independent Rail-Gap Discovery",
+        "dist_tri_m": 351,
+        "nearest_official_mrt": "PUNGGOL",
+        "dist_existing_mrt_m": 1406,
+        "rail_gap_saved_m": 1055,
+        "station_posterior_pct": 89.7,
+        "score": 62.5,
+        "planning_area": "PUNGGOL",
+        "subzone": "MATILDA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.76269,
+          1.3422
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Reserve Site Parcel (35.0 ha, GPR EVA)",
+        "dev_type": "Developer / URA Reserve Site",
+        "lu_desc": "RESERVE SITE",
+        "gpr": "EVA",
+        "area_ha": 34.96,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.3422,
+        "lng": 103.76269,
+        "road_or_location": "Adjacent to Bukit Batok Street 25 (BUKIT BATOK SOUTH)",
+        "anchor_postal": "651289",
+        "anchor_ref": "Bukit Batok Street 25",
+        "address_display": "Adjacent to Bukit Batok Street 25 (BUKIT BATOK SOUTH) | Ref Postal: 651289 (Bukit Batok Street 25, ~302m)",
+        "nearest_tri_id": "TL-01",
+        "nearest_tri_station": "Bukit Batok South / Toh Tuck North",
+        "corridor": "Tengah Line (Study Corridor)",
+        "dist_tri_m": 551,
+        "nearest_official_mrt": "BEAUTY WORLD",
+        "dist_existing_mrt_m": 1455,
+        "rail_gap_saved_m": 904,
+        "station_posterior_pct": 98.1,
+        "score": 62.4,
+        "planning_area": "BUKIT BATOK",
+        "subzone": "BUKIT BATOK SOUTH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.927776,
+          1.352244
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Residential Parcel (1.7 ha, GPR 2.8)",
+        "dev_type": "Buyer & Dev / Greenfield Residential",
+        "lu_desc": "RESIDENTIAL",
+        "gpr": "2.8",
+        "area_ha": 1.71,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.352244,
+        "lng": 103.927776,
+        "road_or_location": "Adjacent to Tampines Avenue 10 (PAYA LEBAR EAST)",
+        "anchor_postal": "528704",
+        "anchor_ref": "The Santorini",
+        "address_display": "Adjacent to Tampines Avenue 10 (PAYA LEBAR EAST) | Ref Postal: 528704 (The Santorini, ~25m)",
+        "nearest_tri_id": "IND-01",
+        "nearest_tri_station": "Paya Lebar Air Base East / Tampines West",
+        "corridor": "Independent Rail-Gap Discovery",
+        "dist_tri_m": 351,
+        "nearest_official_mrt": "TAMPINES WEST",
+        "dist_existing_mrt_m": 1426,
+        "rail_gap_saved_m": 1075,
+        "station_posterior_pct": 95.4,
+        "score": 62.3,
+        "planning_area": "PAYA LEBAR",
+        "subzone": "PAYA LEBAR EAST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.772179,
+          1.382128
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Reserve Site Parcel (1.6 ha, GPR EVA)",
+        "dev_type": "Developer / URA Reserve Site",
+        "lu_desc": "RESERVE SITE",
+        "gpr": "EVA",
+        "area_ha": 1.63,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.382128,
+        "lng": 103.772179,
+        "road_or_location": "Adjacent to Fajar Road (BANGKIT)",
+        "anchor_postal": "672442",
+        "anchor_ref": "Blk 442B",
+        "address_display": "Adjacent to Fajar Road (BANGKIT) | Ref Postal: 672442 (Blk 442B, ~108m)",
+        "nearest_tri_id": "IND-06",
+        "nearest_tri_station": "Bangkit / Bukit Panjang Central",
+        "corridor": "Independent Rail-Gap Discovery",
+        "dist_tri_m": 278,
+        "nearest_official_mrt": "BUKIT PANJANG",
+        "dist_existing_mrt_m": 1257,
+        "rail_gap_saved_m": 979,
+        "station_posterior_pct": 72.5,
+        "score": 61.6,
+        "planning_area": "BUKIT PANJANG",
+        "subzone": "BANGKIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.762598,
+          1.336887
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Reserve Site Parcel (22.1 ha, GPR EVA)",
+        "dev_type": "Developer / URA Reserve Site",
+        "lu_desc": "RESERVE SITE",
+        "gpr": "EVA",
+        "area_ha": 22.11,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.336887,
+        "lng": 103.762598,
+        "road_or_location": "Adjacent to Toh Tuck Road (BUKIT BATOK SOUTH)",
+        "anchor_postal": "596710",
+        "anchor_ref": "Toh Tuck Road",
+        "address_display": "Adjacent to Toh Tuck Road (BUKIT BATOK SOUTH) | Ref Postal: 596710 (Toh Tuck Road, ~641m)",
+        "nearest_tri_id": "TL-01",
+        "nearest_tri_station": "Bukit Batok South / Toh Tuck North",
+        "corridor": "Tengah Line (Study Corridor)",
+        "dist_tri_m": 763,
+        "nearest_official_mrt": "BEAUTY WORLD",
+        "dist_existing_mrt_m": 1533,
+        "rail_gap_saved_m": 769,
+        "station_posterior_pct": 98.1,
+        "score": 60.0,
+        "planning_area": "BUKIT BATOK",
+        "subzone": "BUKIT BATOK SOUTH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.771505,
+          1.290319
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Residential Parcel (1.3 ha, GPR 1.4)",
+        "dev_type": "Buyer & Dev / Greenfield Residential",
+        "lu_desc": "RESIDENTIAL",
+        "gpr": "1.4",
+        "area_ha": 1.27,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.290319,
+        "lng": 103.771505,
+        "road_or_location": "Adjacent to Pasir Panjang Road (PASIR PANJANG 1)",
+        "anchor_postal": "118797",
+        "anchor_ref": "Pasir Panjang Road",
+        "address_display": "Adjacent to Pasir Panjang Road (PASIR PANJANG 1) | Ref Postal: 118797 (Pasir Panjang Road, ~175m)",
+        "nearest_tri_id": "WCE-03",
+        "nearest_tri_station": "Pasir Panjang / Kent Ridge South",
+        "corridor": "JRL West Coast Ext (Unfixed Intermediate)",
+        "dist_tri_m": 473,
+        "nearest_official_mrt": "HAW PAR VILLA",
+        "dist_existing_mrt_m": 1420,
+        "rail_gap_saved_m": 946,
+        "station_posterior_pct": 96.7,
+        "score": 59.3,
+        "planning_area": "QUEENSTOWN",
+        "subzone": "PASIR PANJANG 1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.733984,
+          1.323071
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Residential Parcel (38.0 ha, GPR 3.5)",
+        "dev_type": "Buyer & Dev / Greenfield Residential",
+        "lu_desc": "RESIDENTIAL",
+        "gpr": "3.5",
+        "area_ha": 38.0,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.323071,
+        "lng": 103.733984,
+        "road_or_location": "Adjacent to Teban Gardens Road (JURONG RIVER)",
+        "anchor_postal": "600054",
+        "anchor_ref": "Blk 54",
+        "address_display": "Adjacent to Teban Gardens Road (JURONG RIVER) | Ref Postal: 600054 (Blk 54, ~364m)",
+        "nearest_tri_id": "WCE-01",
+        "nearest_tri_station": "Teban Gardens / Jurong River",
+        "corridor": "JRL West Coast Ext (Unfixed Intermediate)",
+        "dist_tri_m": 448,
+        "nearest_official_mrt": "JURONG LAKE DISTRICT",
+        "dist_existing_mrt_m": 781,
+        "rail_gap_saved_m": 334,
+        "station_posterior_pct": 91.8,
+        "score": 59.2,
+        "planning_area": "JURONG EAST",
+        "subzone": "JURONG RIVER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.872697,
+          1.389987
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Reserve Site Parcel (3.0 ha, GPR EVA)",
+        "dev_type": "Developer / URA Reserve Site",
+        "lu_desc": "RESERVE SITE",
+        "gpr": "EVA",
+        "area_ha": 3.0,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.389987,
+        "lng": 103.872697,
+        "road_or_location": "Adjacent to Fernvale Lane (TRAFALGAR)",
+        "anchor_postal": "793405",
+        "anchor_ref": "Blk 405C",
+        "address_display": "Adjacent to Fernvale Lane (TRAFALGAR) | Ref Postal: 793405 (Blk 405C, ~113m)",
+        "nearest_tri_id": "SL-07",
+        "nearest_tri_station": "Seletar Hills / Trafalgar (Jalan Kayu)",
+        "corridor": "Seletar Line (Study Corridor)",
+        "dist_tri_m": 599,
+        "nearest_official_mrt": "SERANGOON NORTH",
+        "dist_existing_mrt_m": 2166,
+        "rail_gap_saved_m": 1567,
+        "station_posterior_pct": 91.6,
+        "score": 59.2,
+        "planning_area": "HOUGANG",
+        "subzone": "TRAFALGAR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.859091,
+          1.334812
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Residential Parcel (1.3 ha, GPR 3.5)",
+        "dev_type": "Buyer & Dev / Greenfield Residential",
+        "lu_desc": "RESIDENTIAL",
+        "gpr": "3.5",
+        "area_ha": 1.33,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.334812,
+        "lng": 103.859091,
+        "road_or_location": "Adjacent to Lorong 7 Toa Payoh (PEI CHUN)",
+        "anchor_postal": "310270",
+        "anchor_ref": "Blk 270",
+        "address_display": "Adjacent to Lorong 7 Toa Payoh (PEI CHUN) | Ref Postal: 310270 (Blk 270, ~120m)",
+        "nearest_tri_id": "SL-08",
+        "nearest_tri_station": "Toa Payoh East / Pei Chun",
+        "corridor": "Seletar Line (Study Corridor)",
+        "dist_tri_m": 271,
+        "nearest_official_mrt": "POTONG PASIR",
+        "dist_existing_mrt_m": 1156,
+        "rail_gap_saved_m": 884,
+        "station_posterior_pct": 99.1,
+        "score": 59.0,
+        "planning_area": "TOA PAYOH",
+        "subzone": "PEI CHUN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.85459,
+          1.423391
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Residential Parcel (19.5 ha, GPR SDP)",
+        "dev_type": "Buyer & Dev / Greenfield Residential",
+        "lu_desc": "RESIDENTIAL",
+        "gpr": "SDP",
+        "area_ha": 19.46,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.423391,
+        "lng": 103.85459,
+        "road_or_location": "Adjacent to Yishun Street 43 (SIMPANG SOUTH)",
+        "anchor_postal": "760469",
+        "anchor_ref": "Blk 469",
+        "address_display": "Adjacent to Yishun Street 43 (SIMPANG SOUTH) | Ref Postal: 760469 (Blk 469, ~279m)",
+        "nearest_tri_id": "SL-04",
+        "nearest_tri_station": "Simpang South / Yishun Ave 1",
+        "corridor": "Seletar Line (Study Corridor)",
+        "dist_tri_m": 727,
+        "nearest_official_mrt": "YISHUN",
+        "dist_existing_mrt_m": 2272,
+        "rail_gap_saved_m": 1545,
+        "station_posterior_pct": 96.0,
+        "score": 58.9,
+        "planning_area": "SIMPANG",
+        "subzone": "SIMPANG SOUTH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.77317,
+          1.290415
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Residential Parcel (0.4 ha, GPR 1.4)",
+        "dev_type": "Buyer & Dev / Greenfield Residential",
+        "lu_desc": "RESIDENTIAL",
+        "gpr": "1.4",
+        "area_ha": 0.4,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.290415,
+        "lng": 103.77317,
+        "road_or_location": "Adjacent to Heng Mui Keng Terrace (PASIR PANJANG 1)",
+        "anchor_postal": "117484",
+        "anchor_ref": "Pasir Panjang Road",
+        "address_display": "Adjacent to Heng Mui Keng Terrace (PASIR PANJANG 1) | Ref Postal: 117484 (Pasir Panjang Road, ~306m)",
+        "nearest_tri_id": "WCE-03",
+        "nearest_tri_station": "Pasir Panjang / Kent Ridge South",
+        "corridor": "JRL West Coast Ext (Unfixed Intermediate)",
+        "dist_tri_m": 291,
+        "nearest_official_mrt": "HAW PAR VILLA",
+        "dist_existing_mrt_m": 1279,
+        "rail_gap_saved_m": 988,
+        "station_posterior_pct": 96.7,
+        "score": 58.7,
+        "planning_area": "QUEENSTOWN",
+        "subzone": "PASIR PANJANG 1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.775047,
+          1.319816
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Residential Parcel (2.5 ha, GPR 2.1)",
+        "dev_type": "Buyer & Dev / Greenfield Residential",
+        "lu_desc": "RESIDENTIAL",
+        "gpr": "2.1",
+        "area_ha": 2.48,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.319816,
+        "lng": 103.775047,
+        "road_or_location": "Adjacent to Pine Grove (ULU PANDAN)",
+        "anchor_postal": "597592",
+        "anchor_ref": "Pine Grove",
+        "address_display": "Adjacent to Pine Grove (ULU PANDAN) | Ref Postal: 597592 (Pine Grove, ~240m)",
+        "nearest_tri_id": "TL-02",
+        "nearest_tri_station": "Ulu Pandan / Holland Plain West",
+        "corridor": "Tengah Line (Study Corridor)",
+        "dist_tri_m": 183,
+        "nearest_official_mrt": "MAJU",
+        "dist_existing_mrt_m": 938,
+        "rail_gap_saved_m": 755,
+        "station_posterior_pct": 76.9,
+        "score": 58.5,
+        "planning_area": "BUKIT TIMAH",
+        "subzone": "ULU PANDAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.815883,
+          1.458061
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Residential Parcel (4.0 ha, GPR 4.0)",
+        "dev_type": "Buyer & Dev / Greenfield Residential",
+        "lu_desc": "RESIDENTIAL",
+        "gpr": "4.0",
+        "area_ha": 3.98,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.458061,
+        "lng": 103.815883,
+        "road_or_location": "Adjacent to Admiralty Link (SEMBAWANG NORTH)",
+        "anchor_postal": "750484",
+        "anchor_ref": "Blk 484",
+        "address_display": "Adjacent to Admiralty Link (SEMBAWANG NORTH) | Ref Postal: 750484 (Blk 484, ~131m)",
+        "nearest_tri_id": "SL-02",
+        "nearest_tri_station": "Sembawang North / Shipyard",
+        "corridor": "Seletar Line (Study Corridor)",
+        "dist_tri_m": 438,
+        "nearest_official_mrt": "SEMBAWANG",
+        "dist_existing_mrt_m": 1115,
+        "rail_gap_saved_m": 678,
+        "station_posterior_pct": 95.2,
+        "score": 57.6,
+        "planning_area": "SEMBAWANG",
+        "subzone": "SEMBAWANG NORTH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.839113,
+          1.443715
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Reserve Site Parcel (299.0 ha, GPR EVA)",
+        "dev_type": "Developer / URA Reserve Site",
+        "lu_desc": "RESERVE SITE",
+        "gpr": "EVA",
+        "area_ha": 299.01,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.443715,
+        "lng": 103.839113,
+        "road_or_location": "Adjacent to Yishun Avenue 6 (NORTHLAND)",
+        "anchor_postal": "760289",
+        "anchor_ref": "Blk 289",
+        "address_display": "Adjacent to Yishun Avenue 6 (NORTHLAND) | Ref Postal: 760289 (Blk 289, ~374m)",
+        "nearest_tri_id": "SL-03",
+        "nearest_tri_station": "Northland / Simpang North",
+        "corridor": "Seletar Line (Study Corridor)",
+        "dist_tri_m": 581,
+        "nearest_official_mrt": "CANBERRA",
+        "dist_existing_mrt_m": 1046,
+        "rail_gap_saved_m": 465,
+        "station_posterior_pct": 98.8,
+        "score": 54.8,
+        "planning_area": "YISHUN",
+        "subzone": "NORTHLAND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.775619,
+          1.448958
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Reserve Site Parcel (10.1 ha, GPR EVA)",
+        "dev_type": "Developer / URA Reserve Site",
+        "lu_desc": "RESERVE SITE",
+        "gpr": "EVA",
+        "area_ha": 10.08,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.448958,
+        "lng": 103.775619,
+        "road_or_location": "Adjacent to Marsiling Crescent (NORTH COAST)",
+        "anchor_postal": "730218",
+        "anchor_ref": "Blk 218",
+        "address_display": "Adjacent to Marsiling Crescent (NORTH COAST) | Ref Postal: 730218 (Blk 218, ~363m)",
+        "nearest_tri_id": "SL-01",
+        "nearest_tri_station": "Woodlands North Coast West",
+        "corridor": "Seletar Line (Study Corridor)",
+        "dist_tri_m": 663,
+        "nearest_official_mrt": "WOODLANDS NORTH",
+        "dist_existing_mrt_m": 1074,
+        "rail_gap_saved_m": 411,
+        "station_posterior_pct": 99.2,
+        "score": 53.9,
+        "planning_area": "WOODLANDS",
+        "subzone": "NORTH COAST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.89438,
+          1.406336
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Residential Parcel (3.4 ha, GPR 3.0)",
+        "dev_type": "Buyer & Dev / Greenfield Residential",
+        "lu_desc": "RESIDENTIAL",
+        "gpr": "3.0",
+        "area_ha": 3.36,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.406336,
+        "lng": 103.89438,
+        "road_or_location": "Adjacent to Sumang Walk (MATILDA)",
+        "anchor_postal": "821256",
+        "anchor_ref": "Sumang Walk",
+        "address_display": "Adjacent to Sumang Walk (MATILDA) | Ref Postal: 821256 (Sumang Walk, ~137m)",
+        "nearest_tri_id": "IND-05",
+        "nearest_tri_station": "Matilda / Punggol West",
+        "corridor": "Independent Rail-Gap Discovery",
+        "dist_tri_m": 253,
+        "nearest_official_mrt": "PUNGGOL",
+        "dist_existing_mrt_m": 905,
+        "rail_gap_saved_m": 652,
+        "station_posterior_pct": 89.7,
+        "score": 53.9,
+        "planning_area": "PUNGGOL",
+        "subzone": "MATILDA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.892617,
+          1.411274
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Reserve Site Parcel (14.2 ha, GPR EVA)",
+        "dev_type": "Developer / URA Reserve Site",
+        "lu_desc": "RESERVE SITE",
+        "gpr": "EVA",
+        "area_ha": 14.21,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.411274,
+        "lng": 103.892617,
+        "road_or_location": "Adjacent to Sumang Walk (MATILDA)",
+        "anchor_postal": "824322",
+        "anchor_ref": "Blk 322D",
+        "address_display": "Adjacent to Sumang Walk (MATILDA) | Ref Postal: 824322 (Blk 322D, ~452m)",
+        "nearest_tri_id": "IND-05",
+        "nearest_tri_station": "Matilda / Punggol West",
+        "corridor": "Independent Rail-Gap Discovery",
+        "dist_tri_m": 726,
+        "nearest_official_mrt": "PUNGGOL",
+        "dist_existing_mrt_m": 1281,
+        "rail_gap_saved_m": 556,
+        "station_posterior_pct": 89.7,
+        "score": 53.5,
+        "planning_area": "PUNGGOL",
+        "subzone": "MATILDA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.850004,
+          1.418341
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Residential Parcel (5.5 ha, GPR 2.8)",
+        "dev_type": "Buyer & Dev / Greenfield Residential",
+        "lu_desc": "RESIDENTIAL",
+        "gpr": "2.8",
+        "area_ha": 5.5,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.418341,
+        "lng": 103.850004,
+        "road_or_location": "Adjacent to Yishun Avenue 1 (YISHUN EAST)",
+        "anchor_postal": "761431",
+        "anchor_ref": "Blk 431A",
+        "address_display": "Adjacent to Yishun Avenue 1 (YISHUN EAST) | Ref Postal: 761431 (Blk 431A, ~339m)",
+        "nearest_tri_id": "SL-05",
+        "nearest_tri_station": "Yishun East / Chencharu Fringe",
+        "corridor": "Seletar Line (Study Corridor)",
+        "dist_tri_m": 555,
+        "nearest_official_mrt": "KHATIB",
+        "dist_existing_mrt_m": 1900,
+        "rail_gap_saved_m": 1345,
+        "station_posterior_pct": 96.5,
+        "score": 52.8,
+        "planning_area": "YISHUN",
+        "subzone": "YISHUN EAST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.86291,
+          1.340327
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Reserve Site Parcel (25.5 ha, GPR EVA)",
+        "dev_type": "Developer / URA Reserve Site",
+        "lu_desc": "RESERVE SITE",
+        "gpr": "EVA",
+        "area_ha": 25.51,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.340327,
+        "lng": 103.86291,
+        "road_or_location": "Adjacent to Potong Pasir Avenue 1 (PEI CHUN)",
+        "anchor_postal": "350115",
+        "anchor_ref": "Potong Pasir Avenue 1",
+        "address_display": "Adjacent to Potong Pasir Avenue 1 (PEI CHUN) | Ref Postal: 350115 (Potong Pasir Avenue 1, ~322m)",
+        "nearest_tri_id": "SL-08",
+        "nearest_tri_station": "Toa Payoh East / Pei Chun",
+        "corridor": "Seletar Line (Study Corridor)",
+        "dist_tri_m": 553,
+        "nearest_official_mrt": "WOODLEIGH",
+        "dist_existing_mrt_m": 893,
+        "rail_gap_saved_m": 340,
+        "station_posterior_pct": 99.1,
+        "score": 52.6,
+        "planning_area": "TOA PAYOH",
+        "subzone": "PEI CHUN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.772811,
+          1.439899
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Residential Parcel (4.0 ha, GPR 4.4)",
+        "dev_type": "Buyer & Dev / Greenfield Residential",
+        "lu_desc": "RESIDENTIAL",
+        "gpr": "4.4",
+        "area_ha": 4.02,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.439899,
+        "lng": 103.772811,
+        "road_or_location": "Adjacent to Marsiling Drive (NORTH COAST)",
+        "anchor_postal": "730023",
+        "anchor_ref": "Marsiling Drive",
+        "address_display": "Adjacent to Marsiling Drive (NORTH COAST) | Ref Postal: 730023 (Marsiling Drive, ~189m)",
+        "nearest_tri_id": "SL-01",
+        "nearest_tri_station": "Woodlands North Coast West",
+        "corridor": "Seletar Line (Study Corridor)",
+        "dist_tri_m": 475,
+        "nearest_official_mrt": "MARSILING",
+        "dist_existing_mrt_m": 814,
+        "rail_gap_saved_m": 339,
+        "station_posterior_pct": 99.2,
+        "score": 52.0,
+        "planning_area": "WOODLANDS",
+        "subzone": "NORTH COAST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.773657,
+          1.449153
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Reserve Site Parcel (6.5 ha, GPR EVA)",
+        "dev_type": "Developer / URA Reserve Site",
+        "lu_desc": "RESERVE SITE",
+        "gpr": "EVA",
+        "area_ha": 6.5,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.449153,
+        "lng": 103.773657,
+        "road_or_location": "Adjacent to Marsiling Lane (NORTH COAST)",
+        "anchor_postal": "730215",
+        "anchor_ref": "Marsiling Lane",
+        "address_display": "Adjacent to Marsiling Lane (NORTH COAST) | Ref Postal: 730215 (Marsiling Lane, ~246m)",
+        "nearest_tri_id": "SL-01",
+        "nearest_tri_station": "Woodlands North Coast West",
+        "corridor": "Seletar Line (Study Corridor)",
+        "dist_tri_m": 723,
+        "nearest_official_mrt": "WOODLANDS NORTH",
+        "dist_existing_mrt_m": 1293,
+        "rail_gap_saved_m": 570,
+        "station_posterior_pct": 99.2,
+        "score": 51.8,
+        "planning_area": "WOODLANDS",
+        "subzone": "NORTH COAST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.899341,
+          1.352732
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Reserve Site Parcel (47.9 ha, GPR EVA)",
+        "dev_type": "Developer / URA Reserve Site",
+        "lu_desc": "RESERVE SITE",
+        "gpr": "EVA",
+        "area_ha": 47.88,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.352732,
+        "lng": 103.899341,
+        "road_or_location": "Adjacent to Hougang Street 22 (DEFU INDUSTRIAL PARK)",
+        "anchor_postal": "530101",
+        "anchor_ref": "Blk 101",
+        "address_display": "Adjacent to Hougang Street 22 (DEFU INDUSTRIAL PARK) | Ref Postal: 530101 (Blk 101, ~937m)",
+        "nearest_tri_id": "IND-02",
+        "nearest_tri_station": "Defu South / PLAB West",
+        "corridor": "Independent Rail-Gap Discovery",
+        "dist_tri_m": 733,
+        "nearest_official_mrt": "DEFU",
+        "dist_existing_mrt_m": 1063,
+        "rail_gap_saved_m": 329,
+        "station_posterior_pct": 96.0,
+        "score": 51.4,
+        "planning_area": "HOUGANG",
+        "subzone": "DEFU INDUSTRIAL PARK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.763374,
+          1.396832
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Reserve Site Parcel (150.7 ha, GPR EVA)",
+        "dev_type": "Developer / URA Reserve Site",
+        "lu_desc": "RESERVE SITE",
+        "gpr": "EVA",
+        "area_ha": 150.73,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.396832,
+        "lng": 103.763374,
+        "road_or_location": "Adjacent to Senja Close (GALI BATU)",
+        "anchor_postal": "670646",
+        "anchor_ref": "Blk 646",
+        "address_display": "Adjacent to Senja Close (GALI BATU) | Ref Postal: 670646 (Blk 646, ~801m)",
+        "nearest_tri_id": "IND-03",
+        "nearest_tri_station": "Gali Batu / Pang Sua (Sungei Kadut South)",
+        "corridor": "Independent Rail-Gap Discovery",
+        "dist_tri_m": 725,
+        "nearest_official_mrt": "DE1",
+        "dist_existing_mrt_m": 1181,
+        "rail_gap_saved_m": 455,
+        "station_posterior_pct": 87.8,
+        "score": 51.0,
+        "planning_area": "SUNGEI KADUT",
+        "subzone": "GALI BATU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.851645,
+          1.422263
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Residential Parcel (4.2 ha, GPR 2.8)",
+        "dev_type": "Buyer & Dev / Greenfield Residential",
+        "lu_desc": "RESIDENTIAL",
+        "gpr": "2.8",
+        "area_ha": 4.15,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.422263,
+        "lng": 103.851645,
+        "road_or_location": "Adjacent to Yishun Street 43 (YISHUN EAST)",
+        "anchor_postal": "762469",
+        "anchor_ref": "Blk 469B",
+        "address_display": "Adjacent to Yishun Street 43 (YISHUN EAST) | Ref Postal: 762469 (Blk 469B, ~228m)",
+        "nearest_tri_id": "SL-05",
+        "nearest_tri_station": "Yishun East / Chencharu Fringe",
+        "corridor": "Seletar Line (Study Corridor)",
+        "dist_tri_m": 711,
+        "nearest_official_mrt": "YISHUN",
+        "dist_existing_mrt_m": 2008,
+        "rail_gap_saved_m": 1297,
+        "station_posterior_pct": 96.5,
+        "score": 50.5,
+        "planning_area": "YISHUN",
+        "subzone": "YISHUN EAST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.852888,
+          1.423204
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Residential Parcel (3.0 ha, GPR 2.8)",
+        "dev_type": "Buyer & Dev / Greenfield Residential",
+        "lu_desc": "RESIDENTIAL",
+        "gpr": "2.8",
+        "area_ha": 3.01,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.423204,
+        "lng": 103.852888,
+        "road_or_location": "Adjacent to Yishun Street 43 (SIMPANG SOUTH)",
+        "anchor_postal": "760469",
+        "anchor_ref": "Blk 469",
+        "address_display": "Adjacent to Yishun Street 43 (SIMPANG SOUTH) | Ref Postal: 760469 (Blk 469, ~152m)",
+        "nearest_tri_id": "SL-04",
+        "nearest_tri_station": "Simpang South / Yishun Ave 1",
+        "corridor": "Seletar Line (Study Corridor)",
+        "dist_tri_m": 704,
+        "nearest_official_mrt": "YISHUN",
+        "dist_existing_mrt_m": 2099,
+        "rail_gap_saved_m": 1395,
+        "station_posterior_pct": 96.0,
+        "score": 50.4,
+        "planning_area": "SIMPANG",
+        "subzone": "SIMPANG SOUTH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.895014,
+          1.347197
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Reserve Site Parcel (2.2 ha, GPR EVA)",
+        "dev_type": "Developer / URA Reserve Site",
+        "lu_desc": "RESERVE SITE",
+        "gpr": "EVA",
+        "area_ha": 2.19,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.347197,
+        "lng": 103.895014,
+        "road_or_location": "Adjacent to Hougang Street 13 (DEFU INDUSTRIAL PARK)",
+        "anchor_postal": "530180",
+        "anchor_ref": "Blk 180",
+        "address_display": "Adjacent to Hougang Street 13 (DEFU INDUSTRIAL PARK) | Ref Postal: 530180 (Blk 180, ~555m)",
+        "nearest_tri_id": "IND-02",
+        "nearest_tri_station": "Defu South / PLAB West",
+        "corridor": "Independent Rail-Gap Discovery",
+        "dist_tri_m": 693,
+        "nearest_official_mrt": "TAI SENG",
+        "dist_existing_mrt_m": 1521,
+        "rail_gap_saved_m": 828,
+        "station_posterior_pct": 96.0,
+        "score": 49.2,
+        "planning_area": "HOUGANG",
+        "subzone": "DEFU INDUSTRIAL PARK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.767867,
+          1.296272
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Residential Parcel (1.9 ha, GPR 1.4)",
+        "dev_type": "Buyer & Dev / Greenfield Residential",
+        "lu_desc": "RESIDENTIAL",
+        "gpr": "1.4",
+        "area_ha": 1.88,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.296272,
+        "lng": 103.767867,
+        "road_or_location": "Adjacent to West Coast Road (CLEMENTI WOODS)",
+        "anchor_postal": "127307",
+        "anchor_ref": "West Coast Road",
+        "address_display": "Adjacent to West Coast Road (CLEMENTI WOODS) | Ref Postal: 127307 (West Coast Road, ~210m)",
+        "nearest_tri_id": "WCE-02",
+        "nearest_tri_station": "Clementi Woods / West Coast Plaza",
+        "corridor": "JRL West Coast Ext (Unfixed Intermediate)",
+        "dist_tri_m": 567,
+        "nearest_official_mrt": "KENT RIDGE",
+        "dist_existing_mrt_m": 1883,
+        "rail_gap_saved_m": 1316,
+        "station_posterior_pct": 98.9,
+        "score": 48.7,
+        "planning_area": "CLEMENTI",
+        "subzone": "CLEMENTI WOODS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.777579,
+          1.288388
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Residential Parcel (0.4 ha, GPR 1.4)",
+        "dev_type": "Buyer & Dev / Greenfield Residential",
+        "lu_desc": "RESIDENTIAL",
+        "gpr": "1.4",
+        "area_ha": 0.44,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.288388,
+        "lng": 103.777579,
+        "road_or_location": "Adjacent to Pasir Panjang Road (PASIR PANJANG 1)",
+        "anchor_postal": "117395",
+        "anchor_ref": "Pasir Panjang Road",
+        "address_display": "Adjacent to Pasir Panjang Road (PASIR PANJANG 1) | Ref Postal: 117395 (Pasir Panjang Road, ~125m)",
+        "nearest_tri_id": "WCE-03",
+        "nearest_tri_station": "Pasir Panjang / Kent Ridge South",
+        "corridor": "JRL West Coast Ext (Unfixed Intermediate)",
+        "dist_tri_m": 271,
+        "nearest_official_mrt": "HAW PAR VILLA",
+        "dist_existing_mrt_m": 771,
+        "rail_gap_saved_m": 500,
+        "station_posterior_pct": 96.7,
+        "score": 48.4,
+        "planning_area": "QUEENSTOWN",
+        "subzone": "PASIR PANJANG 1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.803684,
+          1.287309
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Commercial & Residential Parcel (1.0 ha, GPR EVA)",
+        "dev_type": "Buyer & Dev / Greenfield Residential",
+        "lu_desc": "COMMERCIAL & RESIDENTIAL",
+        "gpr": "EVA",
+        "area_ha": 0.96,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.287309,
+        "lng": 103.803684,
+        "road_or_location": "Adjacent to Alexandra Road (ALEXANDRA HILL)",
+        "anchor_postal": "150123",
+        "anchor_ref": "Blk 123",
+        "address_display": "Adjacent to Alexandra Road (ALEXANDRA HILL) | Ref Postal: 150123 (Blk 123, ~99m)",
+        "nearest_tri_id": "TL-05",
+        "nearest_tri_station": "Alexandra Hill / Bukit Merah Central",
+        "corridor": "Tengah Line (Study Corridor)",
+        "dist_tri_m": 445,
+        "nearest_official_mrt": "QUEENSTOWN",
+        "dist_existing_mrt_m": 874,
+        "rail_gap_saved_m": 429,
+        "station_posterior_pct": 97.5,
+        "score": 48.0,
+        "planning_area": "BUKIT MERAH",
+        "subzone": "ALEXANDRA HILL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.76631,
+          1.295731
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Residential Parcel (0.7 ha, GPR 1.4)",
+        "dev_type": "Buyer & Dev / Greenfield Residential",
+        "lu_desc": "RESIDENTIAL",
+        "gpr": "1.4",
+        "area_ha": 0.7,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.295731,
+        "lng": 103.76631,
+        "road_or_location": "Adjacent to West Coast Road (CLEMENTI WOODS)",
+        "anchor_postal": "128045",
+        "anchor_ref": "West Coast Crescent",
+        "address_display": "Adjacent to West Coast Road (CLEMENTI WOODS) | Ref Postal: 128045 (West Coast Crescent, ~168m)",
+        "nearest_tri_id": "WCE-02",
+        "nearest_tri_station": "Clementi Woods / West Coast Plaza",
+        "corridor": "JRL West Coast Ext (Unfixed Intermediate)",
+        "dist_tri_m": 616,
+        "nearest_official_mrt": "WEST COAST",
+        "dist_existing_mrt_m": 1951,
+        "rail_gap_saved_m": 1336,
+        "station_posterior_pct": 98.9,
+        "score": 47.6,
+        "planning_area": "CLEMENTI",
+        "subzone": "CLEMENTI WOODS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.728981,
+          1.324562
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Residential Parcel (21.2 ha, GPR SDP)",
+        "dev_type": "Buyer & Dev / Greenfield Residential",
+        "lu_desc": "RESIDENTIAL",
+        "gpr": "SDP",
+        "area_ha": 21.23,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.324562,
+        "lng": 103.728981,
+        "road_or_location": "Adjacent to Yung Ho Walk (TAMAN JURONG)",
+        "anchor_postal": "611134",
+        "anchor_ref": "Yung Ho Walk",
+        "address_display": "Adjacent to Yung Ho Walk (TAMAN JURONG) | Ref Postal: 611134 (Yung Ho Walk, ~261m)",
+        "nearest_tri_id": "CR3-01",
+        "nearest_tri_station": "Taman Jurong (Jurong West South)",
+        "corridor": "CRL Phase 3 (Unfixed Stations)",
+        "dist_tri_m": 689,
+        "nearest_official_mrt": "JURONG LAKE DISTRICT",
+        "dist_existing_mrt_m": 1234,
+        "rail_gap_saved_m": 545,
+        "station_posterior_pct": 99.3,
+        "score": 47.0,
+        "planning_area": "JURONG WEST",
+        "subzone": "TAMAN JURONG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.869312,
+          1.389143
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Residential Parcel (1.7 ha, GPR 2.8)",
+        "dev_type": "Buyer & Dev / Greenfield Residential",
+        "lu_desc": "RESIDENTIAL",
+        "gpr": "2.8",
+        "area_ha": 1.71,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.389143,
+        "lng": 103.869312,
+        "road_or_location": "Adjacent to Fernvale Lane (TRAFALGAR)",
+        "anchor_postal": "793400",
+        "anchor_ref": "Blk 400C",
+        "address_display": "Adjacent to Fernvale Lane (TRAFALGAR) | Ref Postal: 793400 (Blk 400C, ~95m)",
+        "nearest_tri_id": "SL-07",
+        "nearest_tri_station": "Seletar Hills / Trafalgar (Jalan Kayu)",
+        "corridor": "Seletar Line (Study Corridor)",
+        "dist_tri_m": 895,
+        "nearest_official_mrt": "SERANGOON NORTH",
+        "dist_existing_mrt_m": 2130,
+        "rail_gap_saved_m": 1235,
+        "station_posterior_pct": 91.6,
+        "score": 45.3,
+        "planning_area": "HOUGANG",
+        "subzone": "TRAFALGAR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.785605,
+          1.311694
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Residential Parcel (1.3 ha, GPR SDP)",
+        "dev_type": "Buyer & Dev / Greenfield Residential",
+        "lu_desc": "RESIDENTIAL",
+        "gpr": "SDP",
+        "area_ha": 1.3,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.311694,
+        "lng": 103.785605,
+        "road_or_location": "Adjacent to Ghim Moh Road (GHIM MOH)",
+        "anchor_postal": "270002",
+        "anchor_ref": "Ghim Moh Road",
+        "address_display": "Adjacent to Ghim Moh Road (GHIM MOH) | Ref Postal: 270002 (Ghim Moh Road, ~167m)",
+        "nearest_tri_id": "TL-03",
+        "nearest_tri_station": "Ghim Moh / Ulu Pandan North",
+        "corridor": "Tengah Line (Study Corridor)",
+        "dist_tri_m": 374,
+        "nearest_official_mrt": "BUONA VISTA",
+        "dist_existing_mrt_m": 772,
+        "rail_gap_saved_m": 399,
+        "station_posterior_pct": 88.9,
+        "score": 44.7,
+        "planning_area": "QUEENSTOWN",
+        "subzone": "GHIM MOH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.855342,
+          1.355427
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Reserve Site Parcel (2.8 ha, GPR EVA)",
+        "dev_type": "Developer / URA Reserve Site",
+        "lu_desc": "RESERVE SITE",
+        "gpr": "EVA",
+        "area_ha": 2.76,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.355427,
+        "lng": 103.855342,
+        "road_or_location": "Adjacent to Bishan Street 14 (CHONG BOON)",
+        "anchor_postal": "570532",
+        "anchor_ref": "Blk 532",
+        "address_display": "Adjacent to Bishan Street 14 (CHONG BOON) | Ref Postal: 570532 (Blk 532, ~350m)",
+        "nearest_tri_id": "ANC-01",
+        "nearest_tri_station": "Chong Boon / Ang Mo Kio Avenue 10",
+        "corridor": "Multi-Anchor Discovery (Emp / Health / Edu)",
+        "dist_tri_m": 505,
+        "nearest_official_mrt": "BISHAN",
+        "dist_existing_mrt_m": 897,
+        "rail_gap_saved_m": 391,
+        "station_posterior_pct": 95.0,
+        "score": 41.8,
+        "planning_area": "ANG MO KIO",
+        "subzone": "CHONG BOON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8179,
+          1.276714
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Reserve Site Parcel (0.4 ha, GPR EVA)",
+        "dev_type": "Developer / URA Reserve Site",
+        "lu_desc": "RESERVE SITE",
+        "gpr": "EVA",
+        "area_ha": 0.43,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.276714,
+        "lng": 103.8179,
+        "road_or_location": "Adjacent to Telok Blangah Crescent (TELOK BLANGAH WAY)",
+        "anchor_postal": "090026",
+        "anchor_ref": "Blk 26",
+        "address_display": "Adjacent to Telok Blangah Crescent (TELOK BLANGAH WAY) | Ref Postal: 090026 (Blk 26, ~107m)",
+        "nearest_tri_id": "SL-10",
+        "nearest_tri_station": "Telok Blangah Way / GSW Convergence",
+        "corridor": "Seletar Line (Study Corridor)",
+        "dist_tri_m": 567,
+        "nearest_official_mrt": "TELOK BLANGAH",
+        "dist_existing_mrt_m": 1113,
+        "rail_gap_saved_m": 545,
+        "station_posterior_pct": 96.1,
+        "score": 41.6,
+        "planning_area": "BUKIT MERAH",
+        "subzone": "TELOK BLANGAH WAY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.926944,
+          1.350626
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Residential Parcel (2.0 ha, GPR 2.8)",
+        "dev_type": "Buyer & Dev / Greenfield Residential",
+        "lu_desc": "RESIDENTIAL",
+        "gpr": "2.8",
+        "area_ha": 1.99,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.350626,
+        "lng": 103.926944,
+        "road_or_location": "Adjacent to Tampines Avenue 8 (PAYA LEBAR EAST)",
+        "anchor_postal": "528704",
+        "anchor_ref": "The Santorini",
+        "address_display": "Adjacent to Tampines Avenue 8 (PAYA LEBAR EAST) | Ref Postal: 528704 (The Santorini, ~196m)",
+        "nearest_tri_id": "IND-01",
+        "nearest_tri_station": "Paya Lebar Air Base East / Tampines West",
+        "corridor": "Independent Rail-Gap Discovery",
+        "dist_tri_m": 552,
+        "nearest_official_mrt": "TAMPINES WEST",
+        "dist_existing_mrt_m": 1421,
+        "rail_gap_saved_m": 869,
+        "station_posterior_pct": 95.4,
+        "score": 41.2,
+        "planning_area": "PAYA LEBAR",
+        "subzone": "PAYA LEBAR EAST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.782923,
+          1.316334
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Residential With Commercial At 1St Storey Parcel (0.9 ha, GPR 1.4)",
+        "dev_type": "Buyer & Dev / Greenfield Residential",
+        "lu_desc": "RESIDENTIAL WITH COMMERCIAL AT 1ST STOREY",
+        "gpr": "1.4",
+        "area_ha": 0.94,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.316334,
+        "lng": 103.782923,
+        "road_or_location": "Adjacent to Mount Sinai Lane (GHIM MOH)",
+        "anchor_postal": "277052",
+        "anchor_ref": "Mount Sinai Lane",
+        "address_display": "Adjacent to Mount Sinai Lane (GHIM MOH) | Ref Postal: 277052 (Mount Sinai Lane, ~155m)",
+        "nearest_tri_id": "TL-03",
+        "nearest_tri_station": "Ghim Moh / Ulu Pandan North",
+        "corridor": "Tengah Line (Study Corridor)",
+        "dist_tri_m": 486,
+        "nearest_official_mrt": "DOVER",
+        "dist_existing_mrt_m": 733,
+        "rail_gap_saved_m": 247,
+        "station_posterior_pct": 88.9,
+        "score": 40.8,
+        "planning_area": "QUEENSTOWN",
+        "subzone": "GHIM MOH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.882958,
+          1.391849
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Reserve Site Parcel (1.1 ha, GPR EVA)",
+        "dev_type": "Developer / URA Reserve Site",
+        "lu_desc": "RESERVE SITE",
+        "gpr": "EVA",
+        "area_ha": 1.1,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.391849,
+        "lng": 103.882958,
+        "road_or_location": "Adjacent to Anchorvale Lane (TRAFALGAR)",
+        "anchor_postal": "542311",
+        "anchor_ref": "Anchorvale Lane",
+        "address_display": "Adjacent to Anchorvale Lane (TRAFALGAR) | Ref Postal: 542311 (Anchorvale Lane, ~165m)",
+        "nearest_tri_id": "SL-07",
+        "nearest_tri_station": "Seletar Hills / Trafalgar (Jalan Kayu)",
+        "corridor": "Seletar Line (Study Corridor)",
+        "dist_tri_m": 872,
+        "nearest_official_mrt": "SENGKANG",
+        "dist_existing_mrt_m": 1393,
+        "rail_gap_saved_m": 521,
+        "station_posterior_pct": 91.6,
+        "score": 40.7,
+        "planning_area": "HOUGANG",
+        "subzone": "TRAFALGAR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.812156,
+          1.282095
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Residential Parcel (7.6 ha, GPR SDP)",
+        "dev_type": "Buyer & Dev / Greenfield Residential",
+        "lu_desc": "RESIDENTIAL",
+        "gpr": "SDP",
+        "area_ha": 7.57,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.282095,
+        "lng": 103.812156,
+        "road_or_location": "Adjacent to Jalan Bukit Merah (ALEXANDRA HILL)",
+        "anchor_postal": "101105",
+        "anchor_ref": "Blk 105A",
+        "address_display": "Adjacent to Jalan Bukit Merah (ALEXANDRA HILL) | Ref Postal: 101105 (Blk 105A, ~135m)",
+        "nearest_tri_id": "TL-05",
+        "nearest_tri_station": "Alexandra Hill / Bukit Merah Central",
+        "corridor": "Tengah Line (Study Corridor)",
+        "dist_tri_m": 664,
+        "nearest_official_mrt": "REDHILL",
+        "dist_existing_mrt_m": 985,
+        "rail_gap_saved_m": 321,
+        "station_posterior_pct": 97.5,
+        "score": 40.2,
+        "planning_area": "BUKIT MERAH",
+        "subzone": "ALEXANDRA HILL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.926019,
+          1.349007
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Residential Parcel (3.2 ha, GPR 2.1)",
+        "dev_type": "Buyer & Dev / Greenfield Residential",
+        "lu_desc": "RESIDENTIAL",
+        "gpr": "2.1",
+        "area_ha": 3.17,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.349007,
+        "lng": 103.926019,
+        "road_or_location": "Adjacent to Tampines Avenue 1 (PAYA LEBAR EAST)",
+        "anchor_postal": "529781",
+        "anchor_ref": "Waterview @ Tampines",
+        "address_display": "Adjacent to Tampines Avenue 1 (PAYA LEBAR EAST) | Ref Postal: 529781 (Waterview @ Tampines, ~46m)",
+        "nearest_tri_id": "IND-01",
+        "nearest_tri_station": "Paya Lebar Air Base East / Tampines West",
+        "corridor": "Independent Rail-Gap Discovery",
+        "dist_tri_m": 758,
+        "nearest_official_mrt": "TAMPINES WEST",
+        "dist_existing_mrt_m": 1455,
+        "rail_gap_saved_m": 697,
+        "station_posterior_pct": 95.4,
+        "score": 40.0,
+        "planning_area": "PAYA LEBAR",
+        "subzone": "PAYA LEBAR EAST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.69018,
+          1.337973
+        ]
+      },
+      "properties": {
+        "parcel_source": "URA MP2025 Unbuilt",
+        "name": "Residential Parcel (0.4 ha, GPR EVA)",
+        "dev_type": "Buyer & Dev / Greenfield Residential",
+        "lu_desc": "RESIDENTIAL",
+        "gpr": "EVA",
+        "area_ha": 0.43,
+        "units": null,
+        "mp2025_updated": "MP2025",
+        "lat": 1.337973,
+        "lng": 103.69018,
+        "road_or_location": "Adjacent to Jurong West Street 92 (YUNNAN)",
+        "anchor_postal": "640922",
+        "anchor_ref": "Blk 922",
+        "address_display": "Adjacent to Jurong West Street 92 (YUNNAN) | Ref Postal: 640922 (Blk 922, ~185m)",
+        "nearest_tri_id": "IND-09",
+        "nearest_tri_station": "Yunnan (Jurong West Street 91)",
+        "corridor": "Independent Rail-Gap Discovery (PV/Bus)",
+        "dist_tri_m": 485,
+        "nearest_official_mrt": "PIONEER",
+        "dist_existing_mrt_m": 775,
+        "rail_gap_saved_m": 290,
+        "station_posterior_pct": 83.2,
+        "score": 38.7,
+        "planning_area": "JURONG WEST",
+        "subzone": "YUNNAN"
+      }
+    }
+  ]
+}

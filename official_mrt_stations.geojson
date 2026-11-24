@@ -1,0 +1,4685 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.800857,
+          1.440407
+        ]
+      },
+      "properties": {
+        "name": "ADMIRALTY",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.440407,
+        "lng": 103.800857
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.882485,
+          1.316363
+        ]
+      },
+      "properties": {
+        "name": "ALJUNIED",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.316363,
+        "lng": 103.882485
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.849676,
+          1.369618
+        ]
+      },
+      "properties": {
+        "name": "ANG MO KIO",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.369618,
+        "lng": 103.849676
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.905464,
+          1.388013
+        ]
+      },
+      "properties": {
+        "name": "BAKAU",
+        "type": "LRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.388013,
+        "lng": 103.905464
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.772591,
+          1.379853
+        ]
+      },
+      "properties": {
+        "name": "BANGKIT",
+        "type": "LRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.379853,
+        "lng": 103.772591
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.879582,
+          1.342875
+        ]
+      },
+      "properties": {
+        "name": "BARTLEY",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.342875,
+        "lng": 103.879582
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.859205,
+          1.282089
+        ]
+      },
+      "properties": {
+        "name": "BAYFRONT",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.282089,
+        "lng": 103.859205
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.941583,
+          1.312815
+        ]
+      },
+      "properties": {
+        "name": "BAYSHORE",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.312815,
+        "lng": 103.941583
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.775732,
+          1.341087
+        ]
+      },
+      "properties": {
+        "name": "BEAUTY WORLD",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.341087,
+        "lng": 103.775732
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.929412,
+          1.323971
+        ]
+      },
+      "properties": {
+        "name": "BEDOK",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.323971,
+        "lng": 103.929412
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.918514,
+          1.334522
+        ]
+      },
+      "properties": {
+        "name": "BEDOK NORTH",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.334522,
+        "lng": 103.918514
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.933187,
+          1.336451
+        ]
+      },
+      "properties": {
+        "name": "BEDOK RESERVOIR",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.336451,
+        "lng": 103.933187
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.849892,
+          1.298365
+        ]
+      },
+      "properties": {
+        "name": "BENCOOLEN",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.298365,
+        "lng": 103.849892
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.863147,
+          1.313667
+        ]
+      },
+      "properties": {
+        "name": "BENDEMEER",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.313667,
+        "lng": 103.863147
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.848692,
+          1.350863
+        ]
+      },
+      "properties": {
+        "name": "BISHAN",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.350863,
+        "lng": 103.848692
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.861371,
+          1.319086
+        ]
+      },
+      "properties": {
+        "name": "BOON KENG",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.319086,
+        "lng": 103.861371
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.705718,
+          1.338476
+        ]
+      },
+      "properties": {
+        "name": "BOON LAY",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.338476,
+        "lng": 103.705718
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.815446,
+          1.32261
+        ]
+      },
+      "properties": {
+        "name": "BOTANIC GARDENS",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.32261,
+        "lng": 103.815446
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.846759,
+          1.340828
+        ]
+      },
+      "properties": {
+        "name": "BRADDELL",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.340828,
+        "lng": 103.846759
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.850526,
+          1.297001
+        ]
+      },
+      "properties": {
+        "name": "BRAS BASAH",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.297001,
+        "lng": 103.850526
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.832869,
+          1.363167
+        ]
+      },
+      "properties": {
+        "name": "BRIGHT HILL",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.363167,
+        "lng": 103.832869
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.893173,
+          1.38303
+        ]
+      },
+      "properties": {
+        "name": "BUANGKOK",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.38303,
+        "lng": 103.893173
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.856562,
+          1.299914
+        ]
+      },
+      "properties": {
+        "name": "BUGIS",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.299914,
+        "lng": 103.856562
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.749699,
+          1.349219
+        ]
+      },
+      "properties": {
+        "name": "BUKIT BATOK",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.349219,
+        "lng": 103.749699
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.751962,
+          1.359032
+        ]
+      },
+      "properties": {
+        "name": "BUKIT GOMBAK",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.359032,
+        "lng": 103.751962
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.763054,
+          1.377959
+        ]
+      },
+      "properties": {
+        "name": "BUKIT PANJANG",
+        "type": "LRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.377959,
+        "lng": 103.763054
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.761231,
+          1.379285
+        ]
+      },
+      "properties": {
+        "name": "BUKIT PANJANG",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.379285,
+        "lng": 103.761231
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.790659,
+          1.306929
+        ]
+      },
+      "properties": {
+        "name": "BUONA VISTA",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.306929,
+        "lng": 103.790659
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.840035,
+          1.337487
+        ]
+      },
+      "properties": {
+        "name": "CALDECOTT",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.337487,
+        "lng": 103.840035
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.829712,
+          1.443227
+        ]
+      },
+      "properties": {
+        "name": "CANBERRA",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.443227,
+        "lng": 103.829712
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.836977,
+          1.273048
+        ]
+      },
+      "properties": {
+        "name": "CANTONMENT",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.273048,
+        "lng": 103.836977
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.764234,
+          1.369833
+        ]
+      },
+      "properties": {
+        "name": "CASHEW",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.369833,
+        "lng": 103.764234
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.988291,
+          1.356781
+        ]
+      },
+      "properties": {
+        "name": "CHANGI AIRPORT",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.356781,
+        "lng": 103.988291
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.893803,
+          1.39628
+        ]
+      },
+      "properties": {
+        "name": "CHENG LIM",
+        "type": "LRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.39628,
+        "lng": 103.893803
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.844073,
+          1.284642
+        ]
+      },
+      "properties": {
+        "name": "CHINATOWN",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.284642,
+        "lng": 103.844073
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.732785,
+          1.341996
+        ]
+      },
+      "properties": {
+        "name": "CHINESE GARDEN",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.341996,
+        "lng": 103.732785
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.744608,
+          1.38499
+        ]
+      },
+      "properties": {
+        "name": "CHOA CHU KANG",
+        "type": "LRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.38499,
+        "lng": 103.744608
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.744416,
+          1.385425
+        ]
+      },
+      "properties": {
+        "name": "CHOA CHU KANG",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.385425,
+        "lng": 103.744416
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.852441,
+          1.293206
+        ]
+      },
+      "properties": {
+        "name": "CITY HALL",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.293206,
+        "lng": 103.852441
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.846565,
+          1.288616
+        ]
+      },
+      "properties": {
+        "name": "CLARKE QUAY",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.288616,
+        "lng": 103.846565
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.765372,
+          1.314771
+        ]
+      },
+      "properties": {
+        "name": "CLEMENTI",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.314771,
+        "lng": 103.765372
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.798379,
+          1.302373
+        ]
+      },
+      "properties": {
+        "name": "COMMONWEALTH",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.302373,
+        "lng": 103.798379
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.900662,
+          1.394431
+        ]
+      },
+      "properties": {
+        "name": "COMPASSVALE",
+        "type": "LRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.394431,
+        "lng": 103.900662
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.91268,
+          1.393828
+        ]
+      },
+      "properties": {
+        "name": "CORAL EDGE",
+        "type": "LRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.393828,
+        "lng": 103.91268
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.906052,
+          1.399214
+        ]
+      },
+      "properties": {
+        "name": "COVE",
+        "type": "LRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.399214,
+        "lng": 103.906052
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.888643,
+          1.308455
+        ]
+      },
+      "properties": {
+        "name": "DAKOTA",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.308455,
+        "lng": 103.888643
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.908703,
+          1.405165
+        ]
+      },
+      "properties": {
+        "name": "DAMAI",
+        "type": "LRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.405165,
+        "lng": 103.908703
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.845502,
+          1.299411
+        ]
+      },
+      "properties": {
+        "name": "DHOBY GHAUT",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.299411,
+        "lng": 103.845502
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.778385,
+          1.311554
+        ]
+      },
+      "properties": {
+        "name": "DOVER",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.311554,
+        "lng": 103.778385
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.852771,
+          1.279553
+        ]
+      },
+      "properties": {
+        "name": "DOWNTOWN",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.279553,
+        "lng": 103.852771
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.85568,
+          1.293194
+        ]
+      },
+      "properties": {
+        "name": "ESPLANADE",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.293194,
+        "lng": 103.85568
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.902897,
+          1.319537
+        ]
+      },
+      "properties": {
+        "name": "EUNOS",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.319537,
+        "lng": 103.902897
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.962394,
+          1.33518
+        ]
+      },
+      "properties": {
+        "name": "EXPO",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.33518,
+        "lng": 103.962394
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.770676,
+          1.384465
+        ]
+      },
+      "properties": {
+        "name": "FAJAR",
+        "type": "LRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.384465,
+        "lng": 103.770676
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.889261,
+          1.397167
+        ]
+      },
+      "properties": {
+        "name": "FARMWAY",
+        "type": "LRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.397167,
+        "lng": 103.889261
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.854337,
+          1.312161
+        ]
+      },
+      "properties": {
+        "name": "FARRER PARK",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.312161,
+        "lng": 103.854337
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.807677,
+          1.317523
+        ]
+      },
+      "properties": {
+        "name": "FARRER ROAD",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.317523,
+        "lng": 103.807677
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.876262,
+          1.392158
+        ]
+      },
+      "properties": {
+        "name": "FERNVALE",
+        "type": "LRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.392158,
+        "lng": 103.876262
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.844298,
+          1.292618
+        ]
+      },
+      "properties": {
+        "name": "FORT CANNING",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.292618,
+        "lng": 103.844298
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.867903,
+          1.279167
+        ]
+      },
+      "properties": {
+        "name": "GARDENS BY THE BAY",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.279167,
+        "lng": 103.867903
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.871675,
+          1.321335
+        ]
+      },
+      "properties": {
+        "name": "GEYLANG BAHRU",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.321335,
+        "lng": 103.871675
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.833092,
+          1.294296
+        ]
+      },
+      "properties": {
+        "name": "GREAT WORLD",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.294296,
+        "lng": 103.833092
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.65994,
+          1.318935
+        ]
+      },
+      "properties": {
+        "name": "GUL CIRCLE",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.318935,
+        "lng": 103.65994
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8215,
+          1.265411
+        ]
+      },
+      "properties": {
+        "name": "HARBOURFRONT",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.265411,
+        "lng": 103.8215
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.833734,
+          1.288438
+        ]
+      },
+      "properties": {
+        "name": "HAVELOCK",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.288438,
+        "lng": 103.833734
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.782006,
+          1.283055
+        ]
+      },
+      "properties": {
+        "name": "HAW PAR VILLA",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.283055,
+        "lng": 103.782006
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.767398,
+          1.362279
+        ]
+      },
+      "properties": {
+        "name": "HILLVIEW",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.362279,
+        "lng": 103.767398
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.795887,
+          1.311
+        ]
+      },
+      "properties": {
+        "name": "HOLLAND VILLAGE",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.311,
+        "lng": 103.795887
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.892464,
+          1.371432
+        ]
+      },
+      "properties": {
+        "name": "HOUGANG",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.371432,
+        "lng": 103.892464
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.768674,
+          1.354946
+        ]
+      },
+      "properties": {
+        "name": "HUME",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.354946,
+        "lng": 103.768674
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.85527,
+          1.305179
+        ]
+      },
+      "properties": {
+        "name": "JALAN BESAR",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.305179,
+        "lng": 103.85527
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.764677,
+          1.386833
+        ]
+      },
+      "properties": {
+        "name": "JELAPANG",
+        "type": "LRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.386833,
+        "lng": 103.764677
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.678582,
+          1.327729
+        ]
+      },
+      "properties": {
+        "name": "JOO KOON",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.327729,
+        "lng": 103.678582
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.742365,
+          1.333211
+        ]
+      },
+      "properties": {
+        "name": "JURONG EAST",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.333211,
+        "lng": 103.742365
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.916452,
+          1.39961
+        ]
+      },
+      "properties": {
+        "name": "KADALOOR",
+        "type": "LRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.39961,
+        "lng": 103.916452
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.909276,
+          1.335117
+        ]
+      },
+      "properties": {
+        "name": "KAKI BUKIT",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.335117,
+        "lng": 103.909276
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.871659,
+          1.311661
+        ]
+      },
+      "properties": {
+        "name": "KALLANG",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.311661,
+        "lng": 103.871659
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.902212,
+          1.38392
+        ]
+      },
+      "properties": {
+        "name": "KANGKAR",
+        "type": "LRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.38392,
+        "lng": 103.902212
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.886081,
+          1.297959
+        ]
+      },
+      "properties": {
+        "name": "KATONG PARK",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.297959,
+        "lng": 103.886081
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.749227,
+          1.378465
+        ]
+      },
+      "properties": {
+        "name": "KEAT HONG",
+        "type": "LRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.378465,
+        "lng": 103.749227
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.91292,
+          1.321038
+        ]
+      },
+      "properties": {
+        "name": "KEMBANGAN",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.321038,
+        "lng": 103.91292
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.784575,
+          1.293487
+        ]
+      },
+      "properties": {
+        "name": "KENT RIDGE",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.293487,
+        "lng": 103.784575
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.83011,
+          1.270387
+        ]
+      },
+      "properties": {
+        "name": "KEPPEL",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.270387,
+        "lng": 103.83011
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.832937,
+          1.417404
+        ]
+      },
+      "properties": {
+        "name": "KHATIB",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.417404,
+        "lng": 103.832937
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.783796,
+          1.335757
+        ]
+      },
+      "properties": {
+        "name": "KING ALBERT PARK",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.335757,
+        "lng": 103.783796
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.884827,
+          1.35998
+        ]
+      },
+      "properties": {
+        "name": "KOVAN",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.35998,
+        "lng": 103.884827
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.762053,
+          1.424961
+        ]
+      },
+      "properties": {
+        "name": "KRANJI",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.424961,
+        "lng": 103.762053
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.881139,
+          1.398221
+        ]
+      },
+      "properties": {
+        "name": "KUPANG",
+        "type": "LRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.398221,
+        "lng": 103.881139
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.802356,
+          1.272107
+        ]
+      },
+      "properties": {
+        "name": "LABRADOR PARK",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.272107,
+        "lng": 103.802356
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.721079,
+          1.344123
+        ]
+      },
+      "properties": {
+        "name": "LAKESIDE",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.344123,
+        "lng": 103.721079
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.862847,
+          1.307394
+        ]
+      },
+      "properties": {
+        "name": "LAVENDER",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.307394,
+        "lng": 103.862847
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.880151,
+          1.392085
+        ]
+      },
+      "properties": {
+        "name": "LAYAR",
+        "type": "LRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.392085,
+        "lng": 103.880151
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.836552,
+          1.384739
+        ]
+      },
+      "properties": {
+        "name": "LENTOR",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.384739,
+        "lng": 103.836552
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.849279,
+          1.306748
+        ]
+      },
+      "properties": {
+        "name": "LITTLE INDIA",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.306748,
+        "lng": 103.849279
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.863926,
+          1.351589
+        ]
+      },
+      "properties": {
+        "name": "LORONG CHUAN",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.351589,
+        "lng": 103.863926
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.889558,
+          1.325871
+        ]
+      },
+      "properties": {
+        "name": "MACPHERSON",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.325871,
+        "lng": 103.889558
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.855131,
+          1.275451
+        ]
+      },
+      "properties": {
+        "name": "MARINA BAY",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.275451,
+        "lng": 103.855131
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.862211,
+          1.27402
+        ]
+      },
+      "properties": {
+        "name": "MARINA SOUTH",
+        "type": "MRT",
+        "status": "Announced / Under Construction",
+        "line": "TEL (Shell / Estate-Tied)",
+        "target": "TBD (with Marina South)",
+        "code": "TE21",
+        "lat": 1.27402,
+        "lng": 103.862211
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.862955,
+          1.270984
+        ]
+      },
+      "properties": {
+        "name": "MARINA SOUTH PIER",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.270984,
+        "lng": 103.862955
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.906844,
+          1.303777
+        ]
+      },
+      "properties": {
+        "name": "MARINE PARADE",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.303777,
+        "lng": 103.906844
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.915074,
+          1.306694
+        ]
+      },
+      "properties": {
+        "name": "MARINE TERRACE",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.306694,
+        "lng": 103.915074
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.77411,
+          1.432693
+        ]
+      },
+      "properties": {
+        "name": "MARSILING",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.432693,
+        "lng": 103.77411
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.839573,
+          1.348423
+        ]
+      },
+      "properties": {
+        "name": "MARYMOUNT",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.348423,
+        "lng": 103.839573
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.88324,
+          1.326857
+        ]
+      },
+      "properties": {
+        "name": "MATTAR",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.326857,
+        "lng": 103.88324
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.843992,
+          1.280715
+        ]
+      },
+      "properties": {
+        "name": "MAXWELL",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.280715,
+        "lng": 103.843992
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.836766,
+          1.37204
+        ]
+      },
+      "properties": {
+        "name": "MAYFLOWER",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.37204,
+        "lng": 103.836766
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.908918,
+          1.396901
+        ]
+      },
+      "properties": {
+        "name": "MERIDIAN",
+        "type": "LRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.396901,
+        "lng": 103.908918
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.882923,
+          1.306399
+        ]
+      },
+      "properties": {
+        "name": "MOUNTBATTEN",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.306399,
+        "lng": 103.882923
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.819495,
+          1.30664
+        ]
+      },
+      "properties": {
+        "name": "NAPIER",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.30664,
+        "lng": 103.819495
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.838114,
+          1.312764
+        ]
+      },
+      "properties": {
+        "name": "NEWTON",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.312764,
+        "lng": 103.838114
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.900303,
+          1.411842
+        ]
+      },
+      "properties": {
+        "name": "NIBONG",
+        "type": "LRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.411842,
+        "lng": 103.900303
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.863829,
+          1.299915
+        ]
+      },
+      "properties": {
+        "name": "NICOLL HIGHWAY",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.299915,
+        "lng": 103.863829
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.843865,
+          1.320495
+        ]
+      },
+      "properties": {
+        "name": "NOVENA",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.320495,
+        "lng": 103.843865
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9127,
+          1.402305
+        ]
+      },
+      "properties": {
+        "name": "OASIS",
+        "type": "LRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.402305,
+        "lng": 103.9127
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.787546,
+          1.299794
+        ]
+      },
+      "properties": {
+        "name": "ONE-NORTH",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.299794,
+        "lng": 103.787546
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.823767,
+          1.303044
+        ]
+      },
+      "properties": {
+        "name": "ORCHARD BOULEVARD",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.303044,
+        "lng": 103.823767
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.83186,
+          1.303789
+        ]
+      },
+      "properties": {
+        "name": "ORCHARD",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.303789,
+        "lng": 103.83186
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.839077,
+          1.280728
+        ]
+      },
+      "properties": {
+        "name": "OUTRAM PARK",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.280728,
+        "lng": 103.839077
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.79203,
+          1.276003
+        ]
+      },
+      "properties": {
+        "name": "PASIR PANJANG",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.276003,
+        "lng": 103.79203
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.949235,
+          1.372864
+        ]
+      },
+      "properties": {
+        "name": "PASIR RIS",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.372864,
+        "lng": 103.949235
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.892441,
+          1.317721
+        ]
+      },
+      "properties": {
+        "name": "PAYA LEBAR",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.317721,
+        "lng": 103.892441
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.771328,
+          1.376297
+        ]
+      },
+      "properties": {
+        "name": "PENDING",
+        "type": "LRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.376297,
+        "lng": 103.771328
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.766793,
+          1.377603
+        ]
+      },
+      "properties": {
+        "name": "PETIR",
+        "type": "LRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.377603,
+        "lng": 103.766793
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.758252,
+          1.378614
+        ]
+      },
+      "properties": {
+        "name": "PHOENIX",
+        "type": "LRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.378614,
+        "lng": 103.758252
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.697142,
+          1.337588
+        ]
+      },
+      "properties": {
+        "name": "PIONEER",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.337588,
+        "lng": 103.697142
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.869001,
+          1.331672
+        ]
+      },
+      "properties": {
+        "name": "POTONG PASIR",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.331672,
+        "lng": 103.869001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.846218,
+          1.273235
+        ]
+      },
+      "properties": {
+        "name": "PRINCE EDWARD ROAD",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.273235,
+        "lng": 103.846218
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.860349,
+          1.293226
+        ]
+      },
+      "properties": {
+        "name": "PROMENADE",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.293226,
+        "lng": 103.860349
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.910107,
+          1.414963
+        ]
+      },
+      "properties": {
+        "name": "PUNGGOL COAST",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.414963,
+        "lng": 103.910107
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.901957,
+          1.404369
+        ]
+      },
+      "properties": {
+        "name": "PUNGGOL",
+        "type": "LRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.404369,
+        "lng": 103.901957
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.902452,
+          1.405263
+        ]
+      },
+      "properties": {
+        "name": "PUNGGOL",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.405263,
+        "lng": 103.902452
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.906756,
+          1.416789
+        ]
+      },
+      "properties": {
+        "name": "PUNGGOL POINT",
+        "type": "LRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.416789,
+        "lng": 103.906756
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.805893,
+          1.294852
+        ]
+      },
+      "properties": {
+        "name": "QUEENSTOWN",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.294852,
+        "lng": 103.805893
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.851415,
+          1.283704
+        ]
+      },
+      "properties": {
+        "name": "RAFFLES PLACE",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.283704,
+        "lng": 103.851415
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.897273,
+          1.384141
+        ]
+      },
+      "properties": {
+        "name": "RANGGUNG",
+        "type": "LRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.384141,
+        "lng": 103.897273
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.817122,
+          1.289428
+        ]
+      },
+      "properties": {
+        "name": "REDHILL",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.289428,
+        "lng": 103.817122
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.890424,
+          1.386756
+        ]
+      },
+      "properties": {
+        "name": "RENJONG",
+        "type": "LRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.386756,
+        "lng": 103.890424
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.916099,
+          1.394442
+        ]
+      },
+      "properties": {
+        "name": "RIVIERA",
+        "type": "LRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.394442,
+        "lng": 103.916099
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.85274,
+          1.303809
+        ]
+      },
+      "properties": {
+        "name": "ROCHOR",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.303809,
+        "lng": 103.85274
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.906062,
+          1.391377
+        ]
+      },
+      "properties": {
+        "name": "RUMBIA",
+        "type": "LRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.391377,
+        "lng": 103.906062
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.904915,
+          1.409765
+        ]
+      },
+      "properties": {
+        "name": "SAM KEE",
+        "type": "LRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.409765,
+        "lng": 103.904915
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.902137,
+          1.415886
+        ]
+      },
+      "properties": {
+        "name": "SAMUDERA",
+        "type": "LRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.415886,
+        "lng": 103.902137
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.76941,
+          1.387812
+        ]
+      },
+      "properties": {
+        "name": "SEGAR",
+        "type": "LRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.387812,
+        "lng": 103.76941
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.820015,
+          1.448922
+        ]
+      },
+      "properties": {
+        "name": "SEMBAWANG",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.448922,
+        "lng": 103.820015
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.895489,
+          1.391719
+        ]
+      },
+      "properties": {
+        "name": "SENGKANG",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.391719,
+        "lng": 103.895489
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.762326,
+          1.382875
+        ]
+      },
+      "properties": {
+        "name": "SENJA",
+        "type": "LRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.382875,
+        "lng": 103.762326
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.873297,
+          1.350262
+        ]
+      },
+      "properties": {
+        "name": "SERANGOON",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.350262,
+        "lng": 103.873297
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.850936,
+          1.277471
+        ]
+      },
+      "properties": {
+        "name": "SHENTON WAY",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.277471,
+        "lng": 103.850936
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.929979,
+          1.309854
+        ]
+      },
+      "properties": {
+        "name": "SIGLAP",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.309854,
+        "lng": 103.929979
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.953819,
+          1.342662
+        ]
+      },
+      "properties": {
+        "name": "SIMEI",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.342662,
+        "lng": 103.953819
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.796707,
+          1.331151
+        ]
+      },
+      "properties": {
+        "name": "SIXTH AVENUE",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.331151,
+        "lng": 103.796707
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.83884,
+          1.300368
+        ]
+      },
+      "properties": {
+        "name": "SOMERSET",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.300368,
+        "lng": 103.83884
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.897219,
+          1.40513
+        ]
+      },
+      "properties": {
+        "name": "SOO TECK",
+        "type": "LRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.40513,
+        "lng": 103.897219
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.745101,
+          1.380318
+        ]
+      },
+      "properties": {
+        "name": "SOUTH VIEW",
+        "type": "LRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.380318,
+        "lng": 103.745101
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.818159,
+          1.398097
+        ]
+      },
+      "properties": {
+        "name": "SPRINGLEAF",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.398097,
+        "lng": 103.818159
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.875313,
+          1.302941
+        ]
+      },
+      "properties": {
+        "name": "STADIUM",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.302941,
+        "lng": 103.875313
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.825788,
+          1.320142
+        ]
+      },
+      "properties": {
+        "name": "STEVENS",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.320142,
+        "lng": 103.825788
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.898546,
+          1.408428
+        ]
+      },
+      "properties": {
+        "name": "SUMANG",
+        "type": "LRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.408428,
+        "lng": 103.898546
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.888034,
+          1.335436
+        ]
+      },
+      "properties": {
+        "name": "TAI SENG",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.335436,
+        "lng": 103.888034
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.955283,
+          1.356143
+        ]
+      },
+      "properties": {
+        "name": "TAMPINES EAST",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.356143,
+        "lng": 103.955283
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.943782,
+          1.354317
+        ]
+      },
+      "properties": {
+        "name": "TAMPINES",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.354317,
+        "lng": 103.943782
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.938573,
+          1.345315
+        ]
+      },
+      "properties": {
+        "name": "TAMPINES WEST",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.345315,
+        "lng": 103.938573
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8078,
+          1.32574
+        ]
+      },
+      "properties": {
+        "name": "TAN KAH KEE",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.32574,
+        "lng": 103.8078
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.945759,
+          1.32696
+        ]
+      },
+      "properties": {
+        "name": "TANAH MERAH",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.32696,
+        "lng": 103.945759
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.897485,
+          1.299428
+        ]
+      },
+      "properties": {
+        "name": "TANJONG KATONG",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.299428,
+        "lng": 103.897485
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.846433,
+          1.276506
+        ]
+      },
+      "properties": {
+        "name": "TANJONG PAGAR",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.276506,
+        "lng": 103.846433
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.87354,
+          1.29733
+        ]
+      },
+      "properties": {
+        "name": "TANJONG RHU",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.29733,
+        "lng": 103.87354
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.906646,
+          1.412902
+        ]
+      },
+      "properties": {
+        "name": "TECK LEE",
+        "type": "LRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.412902,
+        "lng": 103.906646
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.753826,
+          1.376564
+        ]
+      },
+      "properties": {
+        "name": "TECK WHYE",
+        "type": "LRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.376564,
+        "lng": 103.753826
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.848344,
+          1.282387
+        ]
+      },
+      "properties": {
+        "name": "TELOK AYER",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.282387,
+        "lng": 103.848344
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.809884,
+          1.270721
+        ]
+      },
+      "properties": {
+        "name": "TELOK BLANGAH",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.270721,
+        "lng": 103.809884
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.875627,
+          1.397195
+        ]
+      },
+      "properties": {
+        "name": "THANGGAM",
+        "type": "LRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.397195,
+        "lng": 103.875627
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.827244,
+          1.286061
+        ]
+      },
+      "properties": {
+        "name": "TIONG BAHRU",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.286061,
+        "lng": 103.827244
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847285,
+          1.332741
+        ]
+      },
+      "properties": {
+        "name": "TOA PAYOH",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.332741,
+        "lng": 103.847285
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.886023,
+          1.38928
+        ]
+      },
+      "properties": {
+        "name": "TONGKANG",
+        "type": "LRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.38928,
+        "lng": 103.886023
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.649123,
+          1.321004
+        ]
+      },
+      "properties": {
+        "name": "TUAS CRESCENT",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.321004,
+        "lng": 103.649123
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.637043,
+          1.340683
+        ]
+      },
+      "properties": {
+        "name": "TUAS LINK",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.340683,
+        "lng": 103.637043
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.639538,
+          1.330027
+        ]
+      },
+      "properties": {
+        "name": "TUAS WEST ROAD",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.330027,
+        "lng": 103.639538
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.899231,
+          1.329891
+        ]
+      },
+      "properties": {
+        "name": "UBI",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.329891,
+        "lng": 103.899231
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.961285,
+          1.341548
+        ]
+      },
+      "properties": {
+        "name": "UPPER CHANGI",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.341548,
+        "lng": 103.961285
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.832821,
+          1.354527
+        ]
+      },
+      "properties": {
+        "name": "UPPER THOMSON",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.354527,
+        "lng": 103.832821
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.787627,
+          1.436187
+        ]
+      },
+      "properties": {
+        "name": "WOODLANDS",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.436187,
+        "lng": 103.787627
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.785266,
+          1.448492
+        ]
+      },
+      "properties": {
+        "name": "WOODLANDS NORTH",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.448492,
+        "lng": 103.785266
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.793958,
+          1.426972
+        ]
+      },
+      "properties": {
+        "name": "WOODLANDS SOUTH",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.426972,
+        "lng": 103.793958
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.870834,
+          1.338987
+        ]
+      },
+      "properties": {
+        "name": "WOODLEIGH",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.338987,
+        "lng": 103.870834
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.747267,
+          1.397499
+        ]
+      },
+      "properties": {
+        "name": "YEW TEE",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.397499,
+        "lng": 103.747267
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.844809,
+          1.381715
+        ]
+      },
+      "properties": {
+        "name": "YIO CHU KANG",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.381715,
+        "lng": 103.844809
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835049,
+          1.429384
+        ]
+      },
+      "properties": {
+        "name": "YISHUN",
+        "type": "MRT",
+        "status": "Operational",
+        "line": "Operational Network",
+        "target": "Open",
+        "code": "",
+        "lat": 1.429384,
+        "lng": 103.835049
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.004267,
+          1.369896
+        ]
+      },
+      "properties": {
+        "name": "AVIATION PARK",
+        "type": "MRT",
+        "status": "Announced / Under Construction",
+        "line": "CRL1",
+        "target": "2030",
+        "code": "CR2",
+        "lat": 1.369896,
+        "lng": 104.004267
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.703006,
+          1.34623
+        ]
+      },
+      "properties": {
+        "name": "BAHAR JUNCTION",
+        "type": "MRT",
+        "status": "Announced / Under Construction",
+        "line": "JRL",
+        "target": "2027-2029",
+        "code": "JS7",
+        "lat": 1.34623,
+        "lng": 103.703006
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.949088,
+          1.316664
+        ]
+      },
+      "properties": {
+        "name": "BEDOK SOUTH",
+        "type": "MRT",
+        "status": "Announced (Opening Dec 2026)",
+        "line": "TEL5",
+        "target": "2026-12-26",
+        "code": "TE30",
+        "lat": 1.316664,
+        "lng": 103.949088
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.74975,
+          1.368311
+        ]
+      },
+      "properties": {
+        "name": "BRICKLAND",
+        "type": "MRT",
+        "status": "Announced / Under Construction",
+        "line": "NSL Infill",
+        "target": "2034",
+        "code": "NS3A",
+        "lat": 1.368311,
+        "lng": 103.74975
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.739539,
+          1.345666
+        ]
+      },
+      "properties": {
+        "name": "BUKIT BATOK WEST",
+        "type": "MRT",
+        "status": "Announced / Under Construction",
+        "line": "JRL",
+        "target": "2027-2029",
+        "code": "JE3",
+        "lat": 1.345666,
+        "lng": 103.739539
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.830708,
+          1.333749
+        ]
+      },
+      "properties": {
+        "name": "BUKIT BROWN",
+        "type": "MRT",
+        "status": "Announced / Under Construction",
+        "line": "CCL (Shell)",
+        "target": "TBD",
+        "code": "CC18",
+        "lat": 1.333749,
+        "lng": 103.830708
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.991284,
+          1.324364
+        ]
+      },
+      "properties": {
+        "name": "CHANGI TERMINAL 5",
+        "type": "MRT",
+        "status": "Announced / Under Construction",
+        "line": "TEL / CRL T5 Ext",
+        "target": "Mid-2030s",
+        "code": "TE32/CR1",
+        "lat": 1.324364,
+        "lng": 103.991284
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.740035,
+          1.379237
+        ]
+      },
+      "properties": {
+        "name": "CHOA CHU KANG WEST",
+        "type": "MRT",
+        "status": "Announced / Under Construction",
+        "line": "JRL",
+        "target": "2027-2029",
+        "code": "JS2",
+        "lat": 1.379237,
+        "lng": 103.740035
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.713805,
+          1.352967
+        ]
+      },
+      "properties": {
+        "name": "CORPORATION",
+        "type": "MRT",
+        "status": "Announced / Under Construction",
+        "line": "JRL",
+        "target": "2027-2029",
+        "code": "JS5",
+        "lat": 1.352967,
+        "lng": 103.713805
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.753431,
+          1.400563
+        ]
+      },
+      "properties": {
+        "name": "DE1",
+        "type": "MRT",
+        "status": "Announced / Under Construction",
+        "line": "DTL2e (Yew Tee Village / Sungei Kadut Ave)",
+        "target": "2035",
+        "code": "DE1",
+        "lat": 1.400563,
+        "lng": 103.753431
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.749081,
+          1.413128
+        ]
+      },
+      "properties": {
+        "name": "SUNGEI KADUT (DE2/NS6)",
+        "type": "MRT",
+        "status": "Announced / Under Construction",
+        "line": "DTL2e / NSL Interchange (Sungei Kadut)",
+        "target": "2035",
+        "code": "DE2/NS6",
+        "lat": 1.413128,
+        "lng": 103.749081
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.899174,
+          1.362286
+        ]
+      },
+      "properties": {
+        "name": "DEFU",
+        "type": "MRT",
+        "status": "Announced / Under Construction",
+        "line": "CRL1",
+        "target": "2030",
+        "code": "CR7",
+        "lat": 1.362286,
+        "lng": 103.899174
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.938921,
+          1.383036
+        ]
+      },
+      "properties": {
+        "name": "ELIAS",
+        "type": "MRT",
+        "status": "Announced / Under Construction",
+        "line": "CRL Punggol Ext",
+        "target": "2032",
+        "code": "CP2",
+        "lat": 1.383036,
+        "lng": 103.938921
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.708559,
+          1.332749
+        ]
+      },
+      "properties": {
+        "name": "ENTERPRISE",
+        "type": "MRT",
+        "status": "Announced / Under Construction",
+        "line": "JRL",
+        "target": "2027-2029",
+        "code": "JS9",
+        "lat": 1.332749,
+        "lng": 103.708559
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.868865,
+          1.290897
+        ]
+      },
+      "properties": {
+        "name": "FOUNDERS' MEMORIAL",
+        "type": "MRT",
+        "status": "Announced / Under Construction",
+        "line": "TEL",
+        "target": "2028",
+        "code": "TE22A",
+        "lat": 1.290897,
+        "lng": 103.868865
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.698031,
+          1.348382
+        ]
+      },
+      "properties": {
+        "name": "GEK POH",
+        "type": "MRT",
+        "status": "Announced / Under Construction",
+        "line": "JRL",
+        "target": "2027-2029",
+        "code": "JW1",
+        "lat": 1.348382,
+        "lng": 103.698031
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.726083,
+          1.358047
+        ]
+      },
+      "properties": {
+        "name": "HONG KAH",
+        "type": "MRT",
+        "status": "Announced / Under Construction",
+        "line": "JRL",
+        "target": "2027-2029",
+        "code": "JS4",
+        "lat": 1.358047,
+        "lng": 103.726083
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.710137,
+          1.318593
+        ]
+      },
+      "properties": {
+        "name": "JURONG HILL",
+        "type": "MRT",
+        "status": "Announced / Under Construction",
+        "line": "JRL",
+        "target": "2027-2029",
+        "code": "JS11",
+        "lat": 1.318593,
+        "lng": 103.710137
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.739812,
+          1.326999
+        ]
+      },
+      "properties": {
+        "name": "JURONG LAKE DISTRICT",
+        "type": "MRT",
+        "status": "Announced / Under Construction",
+        "line": "CRL2",
+        "target": "2032",
+        "code": "CR19",
+        "lat": 1.326999,
+        "lng": 103.739812
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.710417,
+          1.313253
+        ]
+      },
+      "properties": {
+        "name": "JURONG PIER",
+        "type": "MRT",
+        "status": "Announced / Under Construction",
+        "line": "JRL",
+        "target": "2027-2029",
+        "code": "JS12",
+        "lat": 1.313253,
+        "lng": 103.710417
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.745238,
+          1.326348
+        ]
+      },
+      "properties": {
+        "name": "JURONG TOWN HALL",
+        "type": "MRT",
+        "status": "Announced / Under Construction",
+        "line": "JRL",
+        "target": "2027-2029",
+        "code": "JE6",
+        "lat": 1.326348,
+        "lng": 103.745238
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.708283,
+          1.349215
+        ]
+      },
+      "properties": {
+        "name": "JURONG WEST",
+        "type": "MRT",
+        "status": "Announced / Under Construction",
+        "line": "JRL",
+        "target": "2027-2029",
+        "code": "JS6",
+        "lat": 1.349215,
+        "lng": 103.708283
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.972981,
+          1.372013
+        ]
+      },
+      "properties": {
+        "name": "LOYANG",
+        "type": "MRT",
+        "status": "Announced / Under Construction",
+        "line": "CRL1",
+        "target": "2030",
+        "code": "CR3",
+        "lat": 1.372013,
+        "lng": 103.972981
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.776779,
+          1.328076
+        ]
+      },
+      "properties": {
+        "name": "MAJU",
+        "type": "MRT",
+        "status": "Announced / Under Construction",
+        "line": "CRL2",
+        "target": "2032",
+        "code": "CR16",
+        "lat": 1.328076,
+        "lng": 103.776779
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835077,
+          1.328558
+        ]
+      },
+      "properties": {
+        "name": "MOUNT PLEASANT",
+        "type": "MRT",
+        "status": "Announced / Under Construction",
+        "line": "TEL (Shell / Estate-Tied)",
+        "target": "TBD (with Mount Pleasant)",
+        "code": "TE10",
+        "lat": 1.328558,
+        "lng": 103.835077
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.681547,
+          1.348843
+        ]
+      },
+      "properties": {
+        "name": "NANYANG CRESCENT",
+        "type": "MRT",
+        "status": "Announced / Under Construction",
+        "line": "JRL",
+        "target": "2027-2029",
+        "code": "JW4",
+        "lat": 1.348843,
+        "lng": 103.681547
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.686659,
+          1.35372
+        ]
+      },
+      "properties": {
+        "name": "NANYANG GATEWAY",
+        "type": "MRT",
+        "status": "Announced / Under Construction",
+        "line": "JRL",
+        "target": "2027-2029",
+        "code": "JW3",
+        "lat": 1.35372,
+        "lng": 103.686659
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.744943,
+          1.320697
+        ]
+      },
+      "properties": {
+        "name": "PANDAN RESERVOIR",
+        "type": "MRT",
+        "status": "Announced / Under Construction",
+        "line": "JRL",
+        "target": "2027-2029",
+        "code": "JE7",
+        "lat": 1.320697,
+        "lng": 103.744943
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.960223,
+          1.367316
+        ]
+      },
+      "properties": {
+        "name": "PASIR RIS EAST",
+        "type": "MRT",
+        "status": "Announced / Under Construction",
+        "line": "CRL1",
+        "target": "2030",
+        "code": "CR4",
+        "lat": 1.367316,
+        "lng": 103.960223
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.678578,
+          1.343209
+        ]
+      },
+      "properties": {
+        "name": "PENG KANG HILL",
+        "type": "MRT",
+        "status": "Announced / Under Construction",
+        "line": "JRL",
+        "target": "2027-2029",
+        "code": "JW5",
+        "lat": 1.343209,
+        "lng": 103.678578
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.915601,
+          1.396171
+        ]
+      },
+      "properties": {
+        "name": "RIVIERA",
+        "type": "MRT",
+        "status": "Announced / Under Construction",
+        "line": "CRL Punggol Ext",
+        "target": "2032",
+        "code": "CP3",
+        "lat": 1.396171,
+        "lng": 103.915601
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.873907,
+          1.370546
+        ]
+      },
+      "properties": {
+        "name": "SERANGOON NORTH",
+        "type": "MRT",
+        "status": "Announced / Under Construction",
+        "line": "CRL1",
+        "target": "2030",
+        "code": "CR9",
+        "lat": 1.370546,
+        "lng": 103.873907
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956902,
+          1.320367
+        ]
+      },
+      "properties": {
+        "name": "SUNGEI BEDOK",
+        "type": "MRT",
+        "status": "Announced (Opening Dec 2026)",
+        "line": "TEL5 / DTL3e",
+        "target": "2026-12-26",
+        "code": "TE31/DT37",
+        "lat": 1.320367,
+        "lng": 103.956902
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.937937,
+          1.369233
+        ]
+      },
+      "properties": {
+        "name": "TAMPINES NORTH",
+        "type": "MRT",
+        "status": "Announced / Under Construction",
+        "line": "CRL1",
+        "target": "2030",
+        "code": "CR6",
+        "lat": 1.369233,
+        "lng": 103.937937
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.863067,
+          1.370027
+        ]
+      },
+      "properties": {
+        "name": "TAVISTOCK",
+        "type": "MRT",
+        "status": "Announced / Under Construction",
+        "line": "CRL1",
+        "target": "2030",
+        "code": "CR10",
+        "lat": 1.370027,
+        "lng": 103.863067
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.691948,
+          1.350625
+        ]
+      },
+      "properties": {
+        "name": "TAWAS",
+        "type": "MRT",
+        "status": "Announced / Under Construction",
+        "line": "JRL",
+        "target": "2027-2029",
+        "code": "JW2",
+        "lat": 1.350625,
+        "lng": 103.691948
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.843456,
+          1.365231
+        ]
+      },
+      "properties": {
+        "name": "TECK GHEE",
+        "type": "MRT",
+        "status": "Announced / Under Construction",
+        "line": "CRL1",
+        "target": "2030",
+        "code": "CR12",
+        "lat": 1.365231,
+        "lng": 103.843456
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.729928,
+          1.36633
+        ]
+      },
+      "properties": {
+        "name": "TENGAH",
+        "type": "MRT",
+        "status": "Announced / Under Construction",
+        "line": "JRL",
+        "target": "2027-2029",
+        "code": "JS3",
+        "lat": 1.36633,
+        "lng": 103.729928
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.736744,
+          1.352289
+        ]
+      },
+      "properties": {
+        "name": "TENGAH PARK",
+        "type": "MRT",
+        "status": "Announced / Under Construction",
+        "line": "JRL",
+        "target": "2027-2029",
+        "code": "JE2",
+        "lat": 1.352289,
+        "lng": 103.736744
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.733448,
+          1.35734
+        ]
+      },
+      "properties": {
+        "name": "TENGAH PLANTATION",
+        "type": "MRT",
+        "status": "Announced / Under Construction",
+        "line": "JRL",
+        "target": "2027-2029",
+        "code": "JE1",
+        "lat": 1.35734,
+        "lng": 103.733448
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.742497,
+          1.339913
+        ]
+      },
+      "properties": {
+        "name": "TOH GUAN",
+        "type": "MRT",
+        "status": "Announced / Under Construction",
+        "line": "JRL",
+        "target": "2027-2029",
+        "code": "JE4",
+        "lat": 1.339913,
+        "lng": 103.742497
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.709244,
+          1.325434
+        ]
+      },
+      "properties": {
+        "name": "TUKANG",
+        "type": "MRT",
+        "status": "Announced / Under Construction",
+        "line": "JRL",
+        "target": "2027-2029",
+        "code": "JS10",
+        "lat": 1.325434,
+        "lng": 103.709244
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.794468,
+          1.340956
+        ]
+      },
+      "properties": {
+        "name": "TURF CITY",
+        "type": "MRT",
+        "status": "Announced / Under Construction",
+        "line": "CRL2",
+        "target": "2032",
+        "code": "CR14",
+        "lat": 1.340956,
+        "lng": 103.794468
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.757983,
+          1.311181
+        ]
+      },
+      "properties": {
+        "name": "WEST COAST",
+        "type": "MRT",
+        "status": "Announced / Under Construction",
+        "line": "CRL2",
+        "target": "2032",
+        "code": "CR18",
+        "lat": 1.311181,
+        "lng": 103.757983
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.964756,
+          1.328935
+        ]
+      },
+      "properties": {
+        "name": "XILIN",
+        "type": "MRT",
+        "status": "Announced (Opening Dec 2026)",
+        "line": "DTL3e",
+        "target": "2026-12-26",
+        "code": "DT36",
+        "lat": 1.328935,
+        "lng": 103.964756
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.735,
+          1.3728
+        ]
+      },
+      "properties": {
+        "name": "TENGAH FOREST HILL (JS2A INFILL)",
+        "type": "MRT",
+        "status": "Announced / Under Construction",
+        "line": "JRL Infill",
+        "target": "Mid-2030s",
+        "code": "JS2A",
+        "lat": 1.3728,
+        "lng": 103.735
+      }
+    }
+  ]
+}

@@ -1,0 +1,3962 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.83875,
+          1.4385
+        ]
+      },
+      "properties": {
+        "id": "SL-03",
+        "name": "Northland / Simpang North",
+        "corridor": "Seletar Line (Study Corridor)",
+        "lat": 1.4385,
+        "lng": 103.83875,
+        "corridor_mention": true,
+        "gebiz_hint": false,
+        "is_new_v2": false,
+        "planning_area": "YISHUN",
+        "subzone": "NORTHLAND",
+        "region": "NORTH REGION",
+        "subzone_pop": 26740,
+        "subzone_pop_density_km2": 17696.9,
+        "subzone_senior_pct": 21.0,
+        "subzone_youth_pct": 15.8,
+        "nearest_official_mrt": "YISHUN",
+        "nearest_official_mrt_status": "Operational",
+        "d_mrt_m": 1094,
+        "d_lrt_m": 6156,
+        "hdb_units_650m": 6304,
+        "condo_cnt_650m": 1,
+        "landed_cnt_650m": 0,
+        "reserve_ha_750m": 307.03,
+        "white_ha_750m": 4.27,
+        "amend_cnt_750m": 0,
+        "bus_stops_500m": 11,
+        "bus_monthly_pax_500m": 755644,
+        "bus_peak_pax_500m": 206604,
+        "am_tap_in_600m": 87394,
+        "am_tap_out_600m": 92927,
+        "emp_gfa_ha_1km": 55.58,
+        "healthcare_nodes_1km": 1,
+        "nearest_health_name": "Yishun Polyclinic",
+        "nearest_health_dist_m": 897,
+        "health_names": [
+          "Yishun Polyclinic (897m)"
+        ],
+        "health_ha_1km": 0.9,
+        "ihl_campuses_1km": 0,
+        "ihl_names": [],
+        "schools_800m": 5,
+        "edu_ha_1km": 13.82,
+        "top_bus_stop_code": "59239",
+        "top_bus_stop_pax": 177739,
+        "rw_cnt_800m": 0,
+        "rw_unann_cnt_800m": 0,
+        "rw_lta_cnt_800m": 0,
+        "rw_max_days_800m": 0,
+        "rw_roads": [],
+        "rw_details": [],
+        "gebiz_tender_count": 0,
+        "gebiz_tenders": [],
+        "town_4r_median_sgd": 560000,
+        "prior_confidence": 0.58,
+        "posterior_confidence": 0.9879,
+        "evidence": [
+          "MOT/LTA study corridor (+)",
+          "MP2025 Reserve/Amendment (307.0ha)",
+          "Oct 2026 PV/Bus: 756k pax/mo (11 stops)",
+          "Employment Hub (55.6ha GFA, 93k AM tap-out)",
+          "Healthcare Anchor: Yishun Polyclinic (897m)",
+          "Education Hub: 5 MOE schools <=800m"
+        ],
+        "graph_centrality": 0.8318,
+        "corridor_neighbors_4_5km": 5,
+        "signals": {
+          "ura": 0.7,
+          "bus": 0.88,
+          "pop": 0.819,
+          "gap": 0.246,
+          "gebiz": 0.5,
+          "emp": 0.807,
+          "health": 0.256,
+          "edu": 0.445
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8455,
+          1.4205
+        ]
+      },
+      "properties": {
+        "id": "SL-05",
+        "name": "Yishun East / Chencharu Fringe",
+        "corridor": "Seletar Line (Study Corridor)",
+        "lat": 1.4205,
+        "lng": 103.8455,
+        "corridor_mention": true,
+        "gebiz_hint": false,
+        "is_new_v2": false,
+        "planning_area": "YISHUN",
+        "subzone": "YISHUN EAST",
+        "region": "NORTH REGION",
+        "subzone_pop": 73440,
+        "subzone_pop_density_km2": 41515.0,
+        "subzone_senior_pct": 12.9,
+        "subzone_youth_pct": 23.1,
+        "nearest_official_mrt": "KHATIB",
+        "nearest_official_mrt_status": "Operational",
+        "d_mrt_m": 1438,
+        "d_lrt_m": 4234,
+        "hdb_units_650m": 10979,
+        "condo_cnt_650m": 4,
+        "landed_cnt_650m": 0,
+        "reserve_ha_750m": 0.27,
+        "white_ha_750m": 6.09,
+        "amend_cnt_750m": 0,
+        "bus_stops_500m": 15,
+        "bus_monthly_pax_500m": 898766,
+        "bus_peak_pax_500m": 195176,
+        "am_tap_in_600m": 174766,
+        "am_tap_out_600m": 54284,
+        "emp_gfa_ha_1km": 11.45,
+        "healthcare_nodes_1km": 2,
+        "nearest_health_name": "Khoo Teck Puat Hospital",
+        "nearest_health_dist_m": 866,
+        "health_names": [
+          "Khoo Teck Puat Hospital (866m)",
+          "Yishun Community Hospital (987m)"
+        ],
+        "health_ha_1km": 14.57,
+        "ihl_campuses_1km": 0,
+        "ihl_names": [],
+        "schools_800m": 3,
+        "edu_ha_1km": 22.52,
+        "top_bus_stop_code": "59469",
+        "top_bus_stop_pax": 107852,
+        "rw_cnt_800m": 4,
+        "rw_unann_cnt_800m": 4,
+        "rw_lta_cnt_800m": 0,
+        "rw_max_days_800m": 1370,
+        "rw_roads": [
+          "YISHUN AVENUE 1",
+          "YISHUN STREET 51",
+          "YISHUN STREET 41",
+          "YISHUN AVENUE 11"
+        ],
+        "rw_details": [
+          {
+            "road": "YISHUN AVENUE 1",
+            "max_days": 1370,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 344
+          },
+          {
+            "road": "YISHUN STREET 51",
+            "max_days": 565,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 517
+          },
+          {
+            "road": "YISHUN STREET 41",
+            "max_days": 565,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 112
+          },
+          {
+            "road": "YISHUN AVENUE 11",
+            "max_days": 565,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 468
+          }
+        ],
+        "gebiz_tender_count": 0,
+        "gebiz_tenders": [],
+        "town_4r_median_sgd": 560000,
+        "prior_confidence": 0.58,
+        "posterior_confidence": 0.9646,
+        "evidence": [
+          "MOT/LTA study corridor (+)",
+          "Oct 2026 PV/Bus: 899k pax/mo (15 stops)",
+          "LTA RoadWorks: YISHUN STREET 41 (565d)",
+          "Healthcare Anchor: Khoo Teck Puat Hospital (866m)"
+        ],
+        "graph_centrality": 0.7432,
+        "corridor_neighbors_4_5km": 5,
+        "signals": {
+          "ura": 0.144,
+          "bus": 1.0,
+          "pop": 1.0,
+          "gap": 0.461,
+          "gebiz": 0.5,
+          "emp": 0.273,
+          "health": 1.0,
+          "edu": 0.375
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.751,
+          1.37775
+        ]
+      },
+      "properties": {
+        "id": "ANC-03",
+        "name": "Teck Whye (ITE College West)",
+        "corridor": "Multi-Anchor Discovery (Emp / Health / Edu)",
+        "lat": 1.37775,
+        "lng": 103.751,
+        "corridor_mention": false,
+        "gebiz_hint": false,
+        "is_new_v3": true,
+        "planning_area": "CHOA CHU KANG",
+        "subzone": "TECK WHYE",
+        "region": "WEST REGION",
+        "subzone_pop": 24170,
+        "subzone_pop_density_km2": 24097.7,
+        "subzone_senior_pct": 21.9,
+        "subzone_youth_pct": 14.6,
+        "nearest_official_mrt": "BRICKLAND",
+        "nearest_official_mrt_status": "Announced / Under Construction",
+        "d_mrt_m": 1059,
+        "d_lrt_m": 213,
+        "hdb_units_650m": 12442,
+        "condo_cnt_650m": 2,
+        "landed_cnt_650m": 0,
+        "reserve_ha_750m": 0.67,
+        "white_ha_750m": 3.82,
+        "amend_cnt_750m": 1,
+        "bus_stops_500m": 23,
+        "bus_monthly_pax_500m": 909592,
+        "bus_peak_pax_500m": 227438,
+        "am_tap_in_600m": 113700,
+        "am_tap_out_600m": 116553,
+        "emp_gfa_ha_1km": 13.64,
+        "healthcare_nodes_1km": 1,
+        "nearest_health_name": "Choa Chu Kang Polyclinic",
+        "nearest_health_dist_m": 511,
+        "health_names": [
+          "Choa Chu Kang Polyclinic (511m)"
+        ],
+        "health_ha_1km": 22.49,
+        "ihl_campuses_1km": 1,
+        "ihl_names": [
+          "ITE College West (317m)"
+        ],
+        "schools_800m": 3,
+        "edu_ha_1km": 27.36,
+        "top_bus_stop_code": "44291",
+        "top_bus_stop_pax": 132784,
+        "rw_cnt_800m": 3,
+        "rw_unann_cnt_800m": 3,
+        "rw_lta_cnt_800m": 1,
+        "rw_max_days_800m": 379,
+        "rw_roads": [
+          "CHOA CHU KANG AVENUE 1",
+          "CHOA CHU KANG AVENUE 7",
+          "TECK WHYE AVENUE"
+        ],
+        "rw_details": [
+          {
+            "road": "CHOA CHU KANG AVENUE 1",
+            "max_days": 379,
+            "is_lta_dept": true,
+            "near_ann": false,
+            "dist_m": 636
+          },
+          {
+            "road": "CHOA CHU KANG AVENUE 7",
+            "max_days": 374,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 583
+          },
+          {
+            "road": "TECK WHYE AVENUE",
+            "max_days": 374,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 498
+          }
+        ],
+        "gebiz_tender_count": 0,
+        "gebiz_tenders": [],
+        "town_4r_median_sgd": 555000,
+        "prior_confidence": 0.5672,
+        "posterior_confidence": 0.9135,
+        "evidence": [
+          "Oct 2026 PV/Bus: 910k pax/mo (23 stops)",
+          "LTA Civil Work: CHOA CHU KANG AVENUE 1 (379d)",
+          "Healthcare Anchor: Choa Chu Kang Polyclinic (511m)",
+          "Education Hub: ITE College West"
+        ],
+        "graph_centrality": 0.7388,
+        "corridor_neighbors_4_5km": 4,
+        "signals": {
+          "ura": 0.174,
+          "bus": 1.0,
+          "pop": 0.933,
+          "gap": 0.224,
+          "gebiz": 0.35,
+          "emp": 0.441,
+          "health": 0.567,
+          "edu": 0.725
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.742,
+          1.35975
+        ]
+      },
+      "properties": {
+        "id": "IND-08",
+        "name": "Brickworks (Bukit Batok West Avenue 8)",
+        "corridor": "Independent Rail-Gap Discovery (PV/Bus)",
+        "lat": 1.35975,
+        "lng": 103.742,
+        "corridor_mention": false,
+        "gebiz_hint": false,
+        "is_new_v2": true,
+        "planning_area": "BUKIT BATOK",
+        "subzone": "BRICKWORKS",
+        "region": "WEST REGION",
+        "subzone_pop": 30920,
+        "subzone_pop_density_km2": 25097.4,
+        "subzone_senior_pct": 9.0,
+        "subzone_youth_pct": 28.0,
+        "nearest_official_mrt": "TENGAH PLANTATION",
+        "nearest_official_mrt_status": "Announced / Under Construction",
+        "d_mrt_m": 988,
+        "d_lrt_m": 2231,
+        "hdb_units_650m": 14936,
+        "condo_cnt_650m": 0,
+        "landed_cnt_650m": 0,
+        "reserve_ha_750m": 4.29,
+        "white_ha_750m": 6.42,
+        "amend_cnt_750m": 0,
+        "bus_stops_500m": 20,
+        "bus_monthly_pax_500m": 710347,
+        "bus_peak_pax_500m": 172237,
+        "am_tap_in_600m": 94850,
+        "am_tap_out_600m": 36503,
+        "emp_gfa_ha_1km": 26.81,
+        "healthcare_nodes_1km": 1,
+        "nearest_health_name": "Tengah Polyclinic (Parc Point)",
+        "nearest_health_dist_m": 400,
+        "health_names": [
+          "Tengah Polyclinic (Parc Point) (400m)"
+        ],
+        "health_ha_1km": 1.79,
+        "ihl_campuses_1km": 0,
+        "ihl_names": [],
+        "schools_800m": 2,
+        "edu_ha_1km": 18.93,
+        "top_bus_stop_code": "43789",
+        "top_bus_stop_pax": 111952,
+        "rw_cnt_800m": 5,
+        "rw_unann_cnt_800m": 5,
+        "rw_lta_cnt_800m": 0,
+        "rw_max_days_800m": 1038,
+        "rw_roads": [
+          "BUKIT BATOK WEST AVENUE 8",
+          "BUKIT BATOK ROAD",
+          "BUKIT BATOK WEST AVENUE 5",
+          "BUKIT BATOK WEST AVENUE 2",
+          "BUKIT BATOK WEST AVENUE 9"
+        ],
+        "rw_details": [
+          {
+            "road": "BUKIT BATOK WEST AVENUE 8",
+            "max_days": 1038,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 523
+          },
+          {
+            "road": "BUKIT BATOK ROAD",
+            "max_days": 882,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 394
+          },
+          {
+            "road": "BUKIT BATOK WEST AVENUE 5",
+            "max_days": 778,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 154
+          },
+          {
+            "road": "BUKIT BATOK WEST AVENUE 2",
+            "max_days": 728,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 632
+          },
+          {
+            "road": "BUKIT BATOK WEST AVENUE 9",
+            "max_days": 448,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 558
+          }
+        ],
+        "gebiz_tender_count": 0,
+        "gebiz_tenders": [],
+        "town_4r_median_sgd": 625000,
+        "prior_confidence": 0.4926,
+        "posterior_confidence": 0.9201,
+        "evidence": [
+          "Oct 2026 PV/Bus: 710k pax/mo (20 stops)",
+          "LTA RoadWorks: BUKIT BATOK WEST AVENUE 5 (778d)",
+          "Employment Hub (26.8ha GFA, 37k AM tap-out)",
+          "Healthcare Anchor: Tengah Polyclinic (Parc Point) (400m)"
+        ],
+        "graph_centrality": 0.7375,
+        "corridor_neighbors_4_5km": 5,
+        "signals": {
+          "ura": 0.182,
+          "bus": 0.978,
+          "pop": 0.953,
+          "gap": 0.18,
+          "gebiz": 0.35,
+          "emp": 0.439,
+          "health": 0.295,
+          "edu": 0.317
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7735,
+          1.38
+        ]
+      },
+      "properties": {
+        "id": "IND-06",
+        "name": "Bangkit / Bukit Panjang Central",
+        "corridor": "Independent Rail-Gap Discovery",
+        "lat": 1.38,
+        "lng": 103.7735,
+        "corridor_mention": false,
+        "gebiz_hint": false,
+        "is_new_v2": false,
+        "planning_area": "BUKIT PANJANG",
+        "subzone": "BANGKIT",
+        "region": "WEST REGION",
+        "subzone_pop": 20740,
+        "subzone_pop_density_km2": 27182.2,
+        "subzone_senior_pct": 23.4,
+        "subzone_youth_pct": 13.9,
+        "nearest_official_mrt": "BUKIT PANJANG",
+        "nearest_official_mrt_status": "Operational",
+        "d_mrt_m": 1366,
+        "d_lrt_m": 102,
+        "hdb_units_650m": 9594,
+        "condo_cnt_650m": 7,
+        "landed_cnt_650m": 0,
+        "reserve_ha_750m": 2.54,
+        "white_ha_750m": 4.33,
+        "amend_cnt_750m": 0,
+        "bus_stops_500m": 16,
+        "bus_monthly_pax_500m": 1146936,
+        "bus_peak_pax_500m": 264509,
+        "am_tap_in_600m": 141068,
+        "am_tap_out_600m": 74706,
+        "emp_gfa_ha_1km": 9.34,
+        "healthcare_nodes_1km": 0,
+        "nearest_health_name": "",
+        "nearest_health_dist_m": null,
+        "health_names": [],
+        "health_ha_1km": 0.96,
+        "ihl_campuses_1km": 0,
+        "ihl_names": [],
+        "schools_800m": 2,
+        "edu_ha_1km": 6.81,
+        "top_bus_stop_code": "44269",
+        "top_bus_stop_pax": 223519,
+        "rw_cnt_800m": 2,
+        "rw_unann_cnt_800m": 2,
+        "rw_lta_cnt_800m": 0,
+        "rw_max_days_800m": 1369,
+        "rw_roads": [
+          "PETIR ROAD",
+          "PENDING ROAD"
+        ],
+        "rw_details": [
+          {
+            "road": "PETIR ROAD",
+            "max_days": 1369,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 635
+          },
+          {
+            "road": "PENDING ROAD",
+            "max_days": 403,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 487
+          }
+        ],
+        "gebiz_tender_count": 0,
+        "gebiz_tenders": [],
+        "town_4r_median_sgd": 570888,
+        "prior_confidence": 0.4764,
+        "posterior_confidence": 0.7249,
+        "evidence": [
+          "Oct 2026 PV/Bus: 1.15M pax/mo (16 stops)",
+          "LTA RoadWorks: PENDING ROAD (403d)"
+        ],
+        "graph_centrality": 0.734,
+        "corridor_neighbors_4_5km": 3,
+        "signals": {
+          "ura": 0.12,
+          "bus": 1.0,
+          "pop": 0.99,
+          "gap": 0.416,
+          "gebiz": 0.35,
+          "emp": 0.291,
+          "health": 0.042,
+          "edu": 0.192
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8275,
+          1.434
+        ]
+      },
+      "properties": {
+        "id": "IND-07",
+        "name": "Yishun West (Yishun Ring Road)",
+        "corridor": "Independent Rail-Gap Discovery (PV/Bus)",
+        "lat": 1.434,
+        "lng": 103.8275,
+        "corridor_mention": false,
+        "gebiz_hint": false,
+        "is_new_v2": true,
+        "planning_area": "YISHUN",
+        "subzone": "YISHUN WEST",
+        "region": "NORTH REGION",
+        "subzone_pop": 50700,
+        "subzone_pop_density_km2": 33399.2,
+        "subzone_senior_pct": 22.2,
+        "subzone_youth_pct": 14.5,
+        "nearest_official_mrt": "YISHUN",
+        "nearest_official_mrt_status": "Operational",
+        "d_mrt_m": 984,
+        "d_lrt_m": 6736,
+        "hdb_units_650m": 6874,
+        "condo_cnt_650m": 0,
+        "landed_cnt_650m": 110,
+        "reserve_ha_750m": 0.0,
+        "white_ha_750m": 4.49,
+        "amend_cnt_750m": 0,
+        "bus_stops_500m": 13,
+        "bus_monthly_pax_500m": 990905,
+        "bus_peak_pax_500m": 229238,
+        "am_tap_in_600m": 91965,
+        "am_tap_out_600m": 81286,
+        "emp_gfa_ha_1km": 21.02,
+        "healthcare_nodes_1km": 0,
+        "nearest_health_name": "",
+        "nearest_health_dist_m": null,
+        "health_names": [],
+        "health_ha_1km": 5.66,
+        "ihl_campuses_1km": 0,
+        "ihl_names": [],
+        "schools_800m": 5,
+        "edu_ha_1km": 9.43,
+        "top_bus_stop_code": "59111",
+        "top_bus_stop_pax": 248901,
+        "rw_cnt_800m": 3,
+        "rw_unann_cnt_800m": 3,
+        "rw_lta_cnt_800m": 1,
+        "rw_max_days_800m": 1777,
+        "rw_roads": [
+          "SEMBAWANG ROAD",
+          "YISHUN AVENUE 5",
+          "YISHUN CENTRAL"
+        ],
+        "rw_details": [
+          {
+            "road": "SEMBAWANG ROAD",
+            "max_days": 1777,
+            "is_lta_dept": true,
+            "near_ann": false,
+            "dist_m": 423
+          },
+          {
+            "road": "YISHUN AVENUE 5",
+            "max_days": 1454,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 561
+          },
+          {
+            "road": "YISHUN CENTRAL",
+            "max_days": 997,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 454
+          }
+        ],
+        "gebiz_tender_count": 0,
+        "gebiz_tenders": [],
+        "town_4r_median_sgd": 560000,
+        "prior_confidence": 0.4976,
+        "posterior_confidence": 0.9459,
+        "evidence": [
+          "Oct 2026 PV/Bus: 991k pax/mo (13 stops)",
+          "LTA Civil Work: SEMBAWANG ROAD (1777d)",
+          "Employment Hub (21.0ha GFA, 81k AM tap-out)",
+          "Healthcare Anchor: URA Health Zone (5.7ha) (400m)",
+          "Education Hub: 5 MOE schools <=800m"
+        ],
+        "graph_centrality": 0.7315,
+        "corridor_neighbors_4_5km": 5,
+        "signals": {
+          "ura": 0.105,
+          "bus": 1.0,
+          "pop": 1.0,
+          "gap": 0.177,
+          "gebiz": 0.35,
+          "emp": 0.461,
+          "health": 0.248,
+          "edu": 0.396
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.688,
+          1.34175
+        ]
+      },
+      "properties": {
+        "id": "IND-09",
+        "name": "Yunnan (Jurong West Street 91)",
+        "corridor": "Independent Rail-Gap Discovery (PV/Bus)",
+        "lat": 1.34175,
+        "lng": 103.688,
+        "corridor_mention": false,
+        "gebiz_hint": false,
+        "is_new_v2": true,
+        "planning_area": "JURONG WEST",
+        "subzone": "YUNNAN",
+        "region": "WEST REGION",
+        "subzone_pop": 65400,
+        "subzone_pop_density_km2": 29646.4,
+        "subzone_senior_pct": 17.3,
+        "subzone_youth_pct": 17.4,
+        "nearest_official_mrt": "PENG KANG HILL",
+        "nearest_official_mrt_status": "Announced / Under Construction",
+        "d_mrt_m": 1060,
+        "d_lrt_m": 7660,
+        "hdb_units_650m": 6366,
+        "condo_cnt_650m": 2,
+        "landed_cnt_650m": 2,
+        "reserve_ha_750m": 0.0,
+        "white_ha_750m": 2.94,
+        "amend_cnt_750m": 1,
+        "bus_stops_500m": 16,
+        "bus_monthly_pax_500m": 735974,
+        "bus_peak_pax_500m": 175539,
+        "am_tap_in_600m": 78478,
+        "am_tap_out_600m": 44887,
+        "emp_gfa_ha_1km": 12.79,
+        "healthcare_nodes_1km": 0,
+        "nearest_health_name": "",
+        "nearest_health_dist_m": null,
+        "health_names": [],
+        "health_ha_1km": 1.3,
+        "ihl_campuses_1km": 1,
+        "ihl_names": [
+          "Nanyang Technological University (NTU) (625m)"
+        ],
+        "schools_800m": 2,
+        "edu_ha_1km": 180.22,
+        "top_bus_stop_code": "27271",
+        "top_bus_stop_pax": 110112,
+        "rw_cnt_800m": 2,
+        "rw_unann_cnt_800m": 2,
+        "rw_lta_cnt_800m": 0,
+        "rw_max_days_800m": 443,
+        "rw_roads": [
+          "JURONG WEST STREET 91",
+          "JURONG WEST STREET 93"
+        ],
+        "rw_details": [
+          {
+            "road": "JURONG WEST STREET 91",
+            "max_days": 443,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 201
+          },
+          {
+            "road": "JURONG WEST STREET 93",
+            "max_days": 391,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 697
+          }
+        ],
+        "gebiz_tender_count": 0,
+        "gebiz_tenders": [],
+        "town_4r_median_sgd": 538000,
+        "prior_confidence": 0.4961,
+        "posterior_confidence": 0.832,
+        "evidence": [
+          "Oct 2026 PV/Bus: 736k pax/mo (16 stops)",
+          "LTA RoadWorks: JURONG WEST STREET 91 (443d)",
+          "Education Hub: Nanyang Technological University (NTU)"
+        ],
+        "graph_centrality": 0.7237,
+        "corridor_neighbors_4_5km": 3,
+        "signals": {
+          "ura": 0.149,
+          "bus": 0.94,
+          "pop": 1.0,
+          "gap": 0.225,
+          "gebiz": 0.35,
+          "emp": 0.27,
+          "health": 0.057,
+          "edu": 0.767
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.89275,
+          1.353
+        ]
+      },
+      "properties": {
+        "id": "IND-02",
+        "name": "Defu South / PLAB West",
+        "corridor": "Independent Rail-Gap Discovery",
+        "lat": 1.353,
+        "lng": 103.89275,
+        "corridor_mention": false,
+        "gebiz_hint": false,
+        "is_new_v2": false,
+        "planning_area": "HOUGANG",
+        "subzone": "DEFU INDUSTRIAL PARK",
+        "region": "NORTH-EAST REGION",
+        "subzone_pop": 10,
+        "subzone_pop_density_km2": 5.1,
+        "subzone_senior_pct": 0.0,
+        "subzone_youth_pct": 0.0,
+        "nearest_official_mrt": "KOVAN",
+        "nearest_official_mrt_status": "Operational",
+        "d_mrt_m": 1174,
+        "d_lrt_m": 3499,
+        "hdb_units_650m": 4321,
+        "condo_cnt_650m": 4,
+        "landed_cnt_650m": 0,
+        "reserve_ha_750m": 78.6,
+        "white_ha_750m": 0.65,
+        "amend_cnt_750m": 0,
+        "bus_stops_500m": 11,
+        "bus_monthly_pax_500m": 655751,
+        "bus_peak_pax_500m": 172447,
+        "am_tap_in_600m": 82922,
+        "am_tap_out_600m": 65588,
+        "emp_gfa_ha_1km": 47.18,
+        "healthcare_nodes_1km": 0,
+        "nearest_health_name": "",
+        "nearest_health_dist_m": null,
+        "health_names": [],
+        "health_ha_1km": 2.64,
+        "ihl_campuses_1km": 0,
+        "ihl_names": [],
+        "schools_800m": 2,
+        "edu_ha_1km": 9.83,
+        "top_bus_stop_code": "63099",
+        "top_bus_stop_pax": 113775,
+        "rw_cnt_800m": 1,
+        "rw_unann_cnt_800m": 1,
+        "rw_lta_cnt_800m": 0,
+        "rw_max_days_800m": 1352,
+        "rw_roads": [
+          "DEFU LANE 10"
+        ],
+        "rw_details": [
+          {
+            "road": "DEFU LANE 10",
+            "max_days": 1352,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 209
+          }
+        ],
+        "gebiz_tender_count": 0,
+        "gebiz_tenders": [],
+        "town_4r_median_sgd": 620000,
+        "prior_confidence": 0.4883,
+        "posterior_confidence": 0.9601,
+        "evidence": [
+          "MP2025 Reserve/Amendment (78.6ha)",
+          "Oct 2026 PV/Bus: 656k pax/mo (11 stops)",
+          "LTA RoadWorks: DEFU LANE 10 (1352d)",
+          "Employment Hub (47.2ha GFA, 66k AM tap-out)",
+          "Healthcare Anchor: URA Health Zone (2.6ha) (400m)"
+        ],
+        "graph_centrality": 0.7066,
+        "corridor_neighbors_4_5km": 5,
+        "signals": {
+          "ura": 0.605,
+          "bus": 0.787,
+          "pop": 0.498,
+          "gap": 0.296,
+          "gebiz": 0.35,
+          "emp": 0.746,
+          "health": 0.115,
+          "edu": 0.226
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.76675,
+          1.30125
+        ]
+      },
+      "properties": {
+        "id": "WCE-02",
+        "name": "Clementi Woods / West Coast Plaza",
+        "corridor": "JRL West Coast Ext (Unfixed Intermediate)",
+        "lat": 1.30125,
+        "lng": 103.76675,
+        "corridor_mention": true,
+        "gebiz_hint": true,
+        "is_new_v2": false,
+        "planning_area": "CLEMENTI",
+        "subzone": "CLEMENTI WOODS",
+        "region": "WEST REGION",
+        "subzone_pop": 19630,
+        "subzone_pop_density_km2": 18553.9,
+        "subzone_senior_pct": 20.1,
+        "subzone_youth_pct": 19.4,
+        "nearest_official_mrt": "WEST COAST",
+        "nearest_official_mrt_status": "Announced / Under Construction",
+        "d_mrt_m": 1473,
+        "d_lrt_m": 8360,
+        "hdb_units_650m": 3216,
+        "condo_cnt_650m": 27,
+        "landed_cnt_650m": 0,
+        "reserve_ha_750m": 1.14,
+        "white_ha_750m": 5.01,
+        "amend_cnt_750m": 0,
+        "bus_stops_500m": 19,
+        "bus_monthly_pax_500m": 847567,
+        "bus_peak_pax_500m": 210001,
+        "am_tap_in_600m": 77600,
+        "am_tap_out_600m": 83390,
+        "emp_gfa_ha_1km": 21.63,
+        "healthcare_nodes_1km": 0,
+        "nearest_health_name": "",
+        "nearest_health_dist_m": null,
+        "health_names": [],
+        "health_ha_1km": 1.0,
+        "ihl_campuses_1km": 1,
+        "ihl_names": [
+          "NUS University Town (UTown) (791m)"
+        ],
+        "schools_800m": 3,
+        "edu_ha_1km": 36.62,
+        "top_bus_stop_code": "17041",
+        "top_bus_stop_pax": 189354,
+        "rw_cnt_800m": 1,
+        "rw_unann_cnt_800m": 1,
+        "rw_lta_cnt_800m": 0,
+        "rw_max_days_800m": 1406,
+        "rw_roads": [
+          "AYER RAJAH EXPRESSWAY"
+        ],
+        "rw_details": [
+          {
+            "road": "AYER RAJAH EXPRESSWAY",
+            "max_days": 1406,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 718
+          }
+        ],
+        "gebiz_tender_count": 4,
+        "gebiz_tenders": [
+          {
+            "tender_no": "LTA000ETT23000136",
+            "award_date": "27/9/2024",
+            "desc": "Advance Engineering Study for Proposed Road Network at Jurong Lake District",
+            "amt_sgd": "14988888"
+          },
+          {
+            "tender_no": "LTA000ETT23000088",
+            "award_date": "30/7/2024",
+            "desc": "Design and Construction of Jurong Lake District Station and Tunnels for Cross Island Line",
+            "amt_sgd": "592000000"
+          },
+          {
+            "tender_no": "LTA000ETT23000080",
+            "award_date": "19/6/2024",
+            "desc": "Design and Construction of Tunnels Between Jurong Lake District Station & West Coast Station and Associated Works for Cross Island Line",
+            "amt_sgd": "242358590"
+          },
+          {
+            "tender_no": "LTA000ETT22000125",
+            "award_date": "6/12/2023",
+            "desc": "Design and Construction of West Coast Station and Tunnels for Cross Island Line",
+            "amt_sgd": "509568000"
+          }
+        ],
+        "town_4r_median_sgd": 860000,
+        "prior_confidence": 0.5518,
+        "posterior_confidence": 0.9886,
+        "evidence": [
+          "MOT/LTA study corridor (+)",
+          "Oct 2026 PV/Bus: 848k pax/mo (19 stops)",
+          "LTA RoadWorks: AYER RAJAH EXPRESSWAY (1406d)",
+          "GeBIZ LTA000ETT23000136 (Advance Engineering Study for Proposed Road...)",
+          "Employment Hub (21.6ha GFA, 83k AM tap-out)",
+          "Education Hub: NUS University Town (UTown)"
+        ],
+        "graph_centrality": 0.7059,
+        "corridor_neighbors_4_5km": 5,
+        "signals": {
+          "ura": 0.125,
+          "bus": 1.0,
+          "pop": 0.842,
+          "gap": 0.483,
+          "gebiz": 1.0,
+          "emp": 0.474,
+          "health": 0.044,
+          "edu": 0.825
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.859,
+          1.33725
+        ]
+      },
+      "properties": {
+        "id": "SL-08",
+        "name": "Toa Payoh East / Pei Chun",
+        "corridor": "Seletar Line (Study Corridor)",
+        "lat": 1.33725,
+        "lng": 103.859,
+        "corridor_mention": true,
+        "gebiz_hint": false,
+        "is_new_v2": false,
+        "planning_area": "TOA PAYOH",
+        "subzone": "PEI CHUN",
+        "region": "CENTRAL REGION",
+        "subzone_pop": 9710,
+        "subzone_pop_density_km2": 23625.3,
+        "subzone_senior_pct": 27.7,
+        "subzone_youth_pct": 12.8,
+        "nearest_official_mrt": "POTONG PASIR",
+        "nearest_official_mrt_status": "Operational",
+        "d_mrt_m": 1273,
+        "d_lrt_m": 6400,
+        "hdb_units_650m": 9014,
+        "condo_cnt_650m": 2,
+        "landed_cnt_650m": 0,
+        "reserve_ha_750m": 26.21,
+        "white_ha_750m": 0.0,
+        "amend_cnt_750m": 0,
+        "bus_stops_500m": 20,
+        "bus_monthly_pax_500m": 605155,
+        "bus_peak_pax_500m": 143688,
+        "am_tap_in_600m": 86554,
+        "am_tap_out_600m": 49239,
+        "emp_gfa_ha_1km": 36.01,
+        "healthcare_nodes_1km": 1,
+        "nearest_health_name": "Toa Payoh Polyclinic",
+        "nearest_health_dist_m": 308,
+        "health_names": [
+          "Toa Payoh Polyclinic (308m)"
+        ],
+        "health_ha_1km": 2.8,
+        "ihl_campuses_1km": 0,
+        "ihl_names": [],
+        "schools_800m": 3,
+        "edu_ha_1km": 12.98,
+        "top_bus_stop_code": "52481",
+        "top_bus_stop_pax": 67862,
+        "rw_cnt_800m": 5,
+        "rw_unann_cnt_800m": 5,
+        "rw_lta_cnt_800m": 0,
+        "rw_max_days_800m": 1571,
+        "rw_roads": [
+          "LORONG 7 TOA PAYOH",
+          "KIM KEAT AVENUE",
+          "TOA PAYOH EAST",
+          "LORONG 6 TOA PAYOH",
+          "TOA PAYOH WEST"
+        ],
+        "rw_details": [
+          {
+            "road": "LORONG 7 TOA PAYOH",
+            "max_days": 1571,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 292
+          },
+          {
+            "road": "KIM KEAT AVENUE",
+            "max_days": 1334,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 540
+          },
+          {
+            "road": "TOA PAYOH EAST",
+            "max_days": 1334,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 40
+          },
+          {
+            "road": "LORONG 6 TOA PAYOH",
+            "max_days": 1241,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 733
+          },
+          {
+            "road": "TOA PAYOH WEST",
+            "max_days": 851,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 603
+          }
+        ],
+        "gebiz_tender_count": 0,
+        "gebiz_tenders": [],
+        "town_4r_median_sgd": 1000000,
+        "prior_confidence": 0.5364,
+        "posterior_confidence": 0.9914,
+        "evidence": [
+          "MOT/LTA study corridor (+)",
+          "MP2025 Reserve/Amendment (26.2ha)",
+          "Oct 2026 PV/Bus: 605k pax/mo (20 stops)",
+          "LTA RoadWorks: TOA PAYOH EAST (1334d)",
+          "Employment Hub (36.0ha GFA, 49k AM tap-out)",
+          "Healthcare Anchor: Toa Payoh Polyclinic (308m)"
+        ],
+        "graph_centrality": 0.7049,
+        "corridor_neighbors_4_5km": 3,
+        "signals": {
+          "ura": 0.197,
+          "bus": 0.88,
+          "pop": 0.939,
+          "gap": 0.358,
+          "gebiz": 0.5,
+          "emp": 0.59,
+          "health": 0.339,
+          "edu": 0.319
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.80725,
+          1.2855
+        ]
+      },
+      "properties": {
+        "id": "TL-05",
+        "name": "Alexandra Hill / Bukit Merah Central",
+        "corridor": "Tengah Line (Study Corridor)",
+        "lat": 1.2855,
+        "lng": 103.80725,
+        "corridor_mention": true,
+        "gebiz_hint": false,
+        "is_new_v2": false,
+        "planning_area": "BUKIT MERAH",
+        "subzone": "ALEXANDRA HILL",
+        "region": "CENTRAL REGION",
+        "subzone_pop": 12680,
+        "subzone_pop_density_km2": 12310.7,
+        "subzone_senior_pct": 29.3,
+        "subzone_youth_pct": 14.1,
+        "nearest_official_mrt": "QUEENSTOWN",
+        "nearest_official_mrt_status": "Operational",
+        "d_mrt_m": 1051,
+        "d_lrt_m": 10857,
+        "hdb_units_650m": 5578,
+        "condo_cnt_650m": 3,
+        "landed_cnt_650m": 0,
+        "reserve_ha_750m": 0.59,
+        "white_ha_750m": 5.71,
+        "amend_cnt_750m": 0,
+        "bus_stops_500m": 16,
+        "bus_monthly_pax_500m": 968255,
+        "bus_peak_pax_500m": 276207,
+        "am_tap_in_600m": 80227,
+        "am_tap_out_600m": 117706,
+        "emp_gfa_ha_1km": 74.23,
+        "healthcare_nodes_1km": 1,
+        "nearest_health_name": "Alexandra Hospital (1300-Bed Redevelopment)",
+        "nearest_health_dist_m": 786,
+        "health_names": [
+          "Alexandra Hospital (1300-Bed Redevelopment) (786m)"
+        ],
+        "health_ha_1km": 33.94,
+        "ihl_campuses_1km": 0,
+        "ihl_names": [],
+        "schools_800m": 1,
+        "edu_ha_1km": 9.98,
+        "top_bus_stop_code": "11519",
+        "top_bus_stop_pax": 148087,
+        "rw_cnt_800m": 1,
+        "rw_unann_cnt_800m": 1,
+        "rw_lta_cnt_800m": 0,
+        "rw_max_days_800m": 365,
+        "rw_roads": [
+          "LENGKOK BAHRU"
+        ],
+        "rw_details": [
+          {
+            "road": "LENGKOK BAHRU",
+            "max_days": 365,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 452
+          }
+        ],
+        "gebiz_tender_count": 0,
+        "gebiz_tenders": [],
+        "town_4r_median_sgd": 934000,
+        "prior_confidence": 0.5549,
+        "posterior_confidence": 0.9746,
+        "evidence": [
+          "MOT/LTA study corridor (+)",
+          "Oct 2026 PV/Bus: 968k pax/mo (16 stops)",
+          "LTA RoadWorks: LENGKOK BAHRU (365d)",
+          "Employment Hub (74.2ha GFA, 118k AM tap-out)",
+          "Healthcare Anchor: Alexandra Hospital (1300-Bed Redevelopment) (786m)"
+        ],
+        "graph_centrality": 0.6882,
+        "corridor_neighbors_4_5km": 4,
+        "signals": {
+          "ura": 0.138,
+          "bus": 1.0,
+          "pop": 0.734,
+          "gap": 0.219,
+          "gebiz": 0.5,
+          "emp": 0.862,
+          "health": 0.838,
+          "edu": 0.169
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8725,
+          1.398
+        ]
+      },
+      "properties": {
+        "id": "SL-06",
+        "name": "Sengkang West / Fernvale West",
+        "corridor": "Seletar Line (Study Corridor)",
+        "lat": 1.398,
+        "lng": 103.8725,
+        "corridor_mention": true,
+        "gebiz_hint": false,
+        "is_new_v2": false,
+        "planning_area": "SENGKANG",
+        "subzone": "FERNVALE",
+        "region": "NORTH-EAST REGION",
+        "subzone_pop": 71200,
+        "subzone_pop_density_km2": 29765.9,
+        "subzone_senior_pct": 11.3,
+        "subzone_youth_pct": 25.1,
+        "nearest_official_mrt": "SENGKANG",
+        "nearest_official_mrt_status": "Operational",
+        "d_mrt_m": 2649,
+        "d_lrt_m": 359,
+        "hdb_units_650m": 7522,
+        "condo_cnt_650m": 3,
+        "landed_cnt_650m": 32,
+        "reserve_ha_750m": 35.85,
+        "white_ha_750m": 2.04,
+        "amend_cnt_750m": 0,
+        "bus_stops_500m": 14,
+        "bus_monthly_pax_500m": 502922,
+        "bus_peak_pax_500m": 148235,
+        "am_tap_in_600m": 83967,
+        "am_tap_out_600m": 51745,
+        "emp_gfa_ha_1km": 56.0,
+        "healthcare_nodes_1km": 0,
+        "nearest_health_name": "",
+        "nearest_health_dist_m": null,
+        "health_names": [],
+        "health_ha_1km": 3.9,
+        "ihl_campuses_1km": 0,
+        "ihl_names": [],
+        "schools_800m": 1,
+        "edu_ha_1km": 8.45,
+        "top_bus_stop_code": "68119",
+        "top_bus_stop_pax": 169674,
+        "rw_cnt_800m": 2,
+        "rw_unann_cnt_800m": 2,
+        "rw_lta_cnt_800m": 0,
+        "rw_max_days_800m": 1174,
+        "rw_roads": [
+          "FERNVALE STREET",
+          "FERNVALE ROAD"
+        ],
+        "rw_details": [
+          {
+            "road": "FERNVALE STREET",
+            "max_days": 1174,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 663
+          },
+          {
+            "road": "FERNVALE ROAD",
+            "max_days": 406,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 629
+          }
+        ],
+        "gebiz_tender_count": 0,
+        "gebiz_tenders": [],
+        "town_4r_median_sgd": 646888,
+        "prior_confidence": 0.58,
+        "posterior_confidence": 0.9902,
+        "evidence": [
+          "MOT/LTA study corridor (+)",
+          "MP2025 Reserve/Amendment (35.9ha)",
+          "Oct 2026 PV/Bus: 503k pax/mo (14 stops)",
+          "LTA RoadWorks: FERNVALE ROAD (406d)",
+          "Employment Hub (56.0ha GFA, 52k AM tap-out)",
+          "Healthcare Anchor: URA Health Zone (3.9ha) (400m)"
+        ],
+        "graph_centrality": 0.6863,
+        "corridor_neighbors_4_5km": 6,
+        "signals": {
+          "ura": 0.316,
+          "bus": 0.69,
+          "pop": 1.0,
+          "gap": 1.0,
+          "gebiz": 0.5,
+          "emp": 0.715,
+          "health": 0.171,
+          "edu": 0.152
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.823,
+          1.2765
+        ]
+      },
+      "properties": {
+        "id": "SL-10",
+        "name": "Telok Blangah Way / GSW Convergence",
+        "corridor": "Seletar Line (Study Corridor)",
+        "lat": 1.2765,
+        "lng": 103.823,
+        "corridor_mention": true,
+        "gebiz_hint": false,
+        "is_new_v2": false,
+        "planning_area": "BUKIT MERAH",
+        "subzone": "TELOK BLANGAH WAY",
+        "region": "CENTRAL REGION",
+        "subzone_pop": 8190,
+        "subzone_pop_density_km2": 29566.8,
+        "subzone_senior_pct": 30.5,
+        "subzone_youth_pct": 12.6,
+        "nearest_official_mrt": "KEPPEL",
+        "nearest_official_mrt_status": "Operational",
+        "d_mrt_m": 1042,
+        "d_lrt_m": 12495,
+        "hdb_units_650m": 8471,
+        "condo_cnt_650m": 2,
+        "landed_cnt_650m": 52,
+        "reserve_ha_750m": 2.72,
+        "white_ha_750m": 2.77,
+        "amend_cnt_750m": 0,
+        "bus_stops_500m": 15,
+        "bus_monthly_pax_500m": 860768,
+        "bus_peak_pax_500m": 208174,
+        "am_tap_in_600m": 113720,
+        "am_tap_out_600m": 68835,
+        "emp_gfa_ha_1km": 46.93,
+        "healthcare_nodes_1km": 0,
+        "nearest_health_name": "",
+        "nearest_health_dist_m": null,
+        "health_names": [],
+        "health_ha_1km": 1.86,
+        "ihl_campuses_1km": 0,
+        "ihl_names": [],
+        "schools_800m": 3,
+        "edu_ha_1km": 9.57,
+        "top_bus_stop_code": "14279",
+        "top_bus_stop_pax": 122574,
+        "rw_cnt_800m": 5,
+        "rw_unann_cnt_800m": 5,
+        "rw_lta_cnt_800m": 0,
+        "rw_max_days_800m": 1746,
+        "rw_roads": [
+          "HENDERSON ROAD",
+          "BUKIT MERAH VIEW",
+          "KAMPONG BAHRU ROAD",
+          "BUKIT PURMEI AVENUE",
+          "LOWER DELTA ROAD"
+        ],
+        "rw_details": [
+          {
+            "road": "HENDERSON ROAD",
+            "max_days": 1746,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 731
+          },
+          {
+            "road": "BUKIT MERAH VIEW",
+            "max_days": 1746,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 788
+          },
+          {
+            "road": "KAMPONG BAHRU ROAD",
+            "max_days": 972,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 756
+          },
+          {
+            "road": "BUKIT PURMEI AVENUE",
+            "max_days": 722,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 301
+          },
+          {
+            "road": "LOWER DELTA ROAD",
+            "max_days": 441,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 443
+          }
+        ],
+        "gebiz_tender_count": 0,
+        "gebiz_tenders": [],
+        "town_4r_median_sgd": 934000,
+        "prior_confidence": 0.5138,
+        "posterior_confidence": 0.9608,
+        "evidence": [
+          "MOT/LTA study corridor (+)",
+          "Oct 2026 PV/Bus: 861k pax/mo (15 stops)",
+          "LTA RoadWorks: BUKIT PURMEI AVENUE (722d)",
+          "Employment Hub (46.9ha GFA, 69k AM tap-out)"
+        ],
+        "graph_centrality": 0.6755,
+        "corridor_neighbors_4_5km": 2,
+        "signals": {
+          "ura": 0.085,
+          "bus": 1.0,
+          "pop": 1.0,
+          "gap": 0.214,
+          "gebiz": 0.5,
+          "emp": 0.753,
+          "health": 0.081,
+          "edu": 0.281
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.89275,
+          1.40475
+        ]
+      },
+      "properties": {
+        "id": "IND-05",
+        "name": "Matilda / Punggol West",
+        "corridor": "Independent Rail-Gap Discovery",
+        "lat": 1.40475,
+        "lng": 103.89275,
+        "corridor_mention": false,
+        "gebiz_hint": false,
+        "is_new_v2": false,
+        "planning_area": "PUNGGOL",
+        "subzone": "MATILDA",
+        "region": "NORTH-EAST REGION",
+        "subzone_pop": 52350,
+        "subzone_pop_density_km2": 36918.2,
+        "subzone_senior_pct": 9.0,
+        "subzone_youth_pct": 27.4,
+        "nearest_official_mrt": "PUNGGOL",
+        "nearest_official_mrt_status": "Operational",
+        "d_mrt_m": 1080,
+        "d_lrt_m": 499,
+        "hdb_units_650m": 8128,
+        "condo_cnt_650m": 1,
+        "landed_cnt_650m": 0,
+        "reserve_ha_750m": 57.26,
+        "white_ha_750m": 0.0,
+        "amend_cnt_750m": 0,
+        "bus_stops_500m": 12,
+        "bus_monthly_pax_500m": 357214,
+        "bus_peak_pax_500m": 83910,
+        "am_tap_in_600m": 89167,
+        "am_tap_out_600m": 26834,
+        "emp_gfa_ha_1km": 4.24,
+        "healthcare_nodes_1km": 1,
+        "nearest_health_name": "Sengkang Community Hospital",
+        "nearest_health_dist_m": 961,
+        "health_names": [
+          "Sengkang Community Hospital (961m)"
+        ],
+        "health_ha_1km": 2.69,
+        "ihl_campuses_1km": 0,
+        "ihl_names": [],
+        "schools_800m": 4,
+        "edu_ha_1km": 18.93,
+        "top_bus_stop_code": "65149",
+        "top_bus_stop_pax": 75605,
+        "rw_cnt_800m": 2,
+        "rw_unann_cnt_800m": 2,
+        "rw_lta_cnt_800m": 0,
+        "rw_max_days_800m": 1418,
+        "rw_roads": [
+          "SUMANG LANE",
+          "SUMANG WALK"
+        ],
+        "rw_details": [
+          {
+            "road": "SUMANG LANE",
+            "max_days": 1418,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 251
+          },
+          {
+            "road": "SUMANG WALK",
+            "max_days": 759,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 519
+          }
+        ],
+        "gebiz_tender_count": 0,
+        "gebiz_tenders": [],
+        "town_4r_median_sgd": 680000,
+        "prior_confidence": 0.463,
+        "posterior_confidence": 0.8966,
+        "evidence": [
+          "MP2025 Reserve/Amendment (57.3ha)",
+          "Oct 2026 PV/Bus: 357k pax/mo (12 stops)",
+          "LTA RoadWorks: SUMANG LANE (1418d)",
+          "Healthcare Anchor: Sengkang Community Hospital (961m)"
+        ],
+        "graph_centrality": 0.6614,
+        "corridor_neighbors_4_5km": 4,
+        "signals": {
+          "ura": 0.429,
+          "bus": 0.522,
+          "pop": 1.0,
+          "gap": 0.237,
+          "gebiz": 0.35,
+          "emp": 0.116,
+          "health": 0.389,
+          "edu": 0.433
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.724,
+          1.32825
+        ]
+      },
+      "properties": {
+        "id": "CR3-01",
+        "name": "Taman Jurong (Jurong West South)",
+        "corridor": "CRL Phase 3 (Unfixed Stations)",
+        "lat": 1.32825,
+        "lng": 103.724,
+        "corridor_mention": true,
+        "gebiz_hint": true,
+        "is_new_v2": false,
+        "planning_area": "JURONG WEST",
+        "subzone": "TAMAN JURONG",
+        "region": "WEST REGION",
+        "subzone_pop": 38570,
+        "subzone_pop_density_km2": 25990.6,
+        "subzone_senior_pct": 15.8,
+        "subzone_youth_pct": 20.0,
+        "nearest_official_mrt": "TUKANG",
+        "nearest_official_mrt_status": "Announced / Under Construction",
+        "d_mrt_m": 1670,
+        "d_lrt_m": 6247,
+        "hdb_units_650m": 5893,
+        "condo_cnt_650m": 1,
+        "landed_cnt_650m": 0,
+        "reserve_ha_750m": 0.0,
+        "white_ha_750m": 2.76,
+        "amend_cnt_750m": 0,
+        "bus_stops_500m": 18,
+        "bus_monthly_pax_500m": 606736,
+        "bus_peak_pax_500m": 160021,
+        "am_tap_in_600m": 75727,
+        "am_tap_out_600m": 53582,
+        "emp_gfa_ha_1km": 64.54,
+        "healthcare_nodes_1km": 1,
+        "nearest_health_name": "Taman Jurong Polyclinic (2030)",
+        "nearest_health_dist_m": 338,
+        "health_names": [
+          "Taman Jurong Polyclinic (2030) (338m)"
+        ],
+        "health_ha_1km": 5.36,
+        "ihl_campuses_1km": 0,
+        "ihl_names": [],
+        "schools_800m": 1,
+        "edu_ha_1km": 6.19,
+        "top_bus_stop_code": "21561",
+        "top_bus_stop_pax": 77751,
+        "rw_cnt_800m": 4,
+        "rw_unann_cnt_800m": 4,
+        "rw_lta_cnt_800m": 1,
+        "rw_max_days_800m": 1159,
+        "rw_roads": [
+          "HO CHING ROAD",
+          "YUAN CHING ROAD",
+          "CORPORATION DRIVE",
+          "YUNG KUANG ROAD"
+        ],
+        "rw_details": [
+          {
+            "road": "HO CHING ROAD",
+            "max_days": 638,
+            "is_lta_dept": true,
+            "near_ann": false,
+            "dist_m": 683
+          },
+          {
+            "road": "YUAN CHING ROAD",
+            "max_days": 1159,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 777
+          },
+          {
+            "road": "CORPORATION DRIVE",
+            "max_days": 1005,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 677
+          },
+          {
+            "road": "YUNG KUANG ROAD",
+            "max_days": 823,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 382
+          }
+        ],
+        "gebiz_tender_count": 4,
+        "gebiz_tenders": [
+          {
+            "tender_no": "LTA000ETT22000005",
+            "award_date": "22/9/2022",
+            "desc": "Mechanical & Electrical Engineering Services for the Cross Island Line Phase 3 (CRL3) Mainline",
+            "amt_sgd": "8880000"
+          },
+          {
+            "tender_no": "LTA000ETT22000007",
+            "award_date": "22/9/2022",
+            "desc": "Mechanical and Electrical Engineering Services for the Cross Island Line Phase 3 (CRL3) Depot",
+            "amt_sgd": "8383000"
+          },
+          {
+            "tender_no": "LTA000ETT21000100",
+            "award_date": "12/7/2022",
+            "desc": "Advance Engineering Study for the Cross Island Line Phase 3 (CRL3) - Depot",
+            "amt_sgd": "9197375.75"
+          },
+          {
+            "tender_no": "LTA000ETT21000102",
+            "award_date": "12/7/2022",
+            "desc": "Advance Engineering Study for the Cross Island Line Phase 3 (CRL3)-Mainline",
+            "amt_sgd": "13088800"
+          }
+        ],
+        "town_4r_median_sgd": 538000,
+        "prior_confidence": 0.5705,
+        "posterior_confidence": 0.993,
+        "evidence": [
+          "MOT/LTA study corridor (+)",
+          "Oct 2026 PV/Bus: 607k pax/mo (18 stops)",
+          "LTA Civil Work: HO CHING ROAD (638d)",
+          "GeBIZ LTA000ETT22000005 (Mechanical & Electrical Engineering Services...)",
+          "Employment Hub (64.5ha GFA, 54k AM tap-out)",
+          "Healthcare Anchor: Taman Jurong Polyclinic (2030) (338m)"
+        ],
+        "graph_centrality": 0.6595,
+        "corridor_neighbors_4_5km": 5,
+        "signals": {
+          "ura": 0.064,
+          "bus": 0.85,
+          "pop": 0.964,
+          "gap": 0.606,
+          "gebiz": 1.0,
+          "emp": 0.719,
+          "health": 0.451,
+          "edu": 0.127
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.75775,
+          1.34175
+        ]
+      },
+      "properties": {
+        "id": "TL-01",
+        "name": "Bukit Batok South / Toh Tuck North",
+        "corridor": "Tengah Line (Study Corridor)",
+        "lat": 1.34175,
+        "lng": 103.75775,
+        "corridor_mention": true,
+        "gebiz_hint": false,
+        "is_new_v2": false,
+        "planning_area": "BUKIT BATOK",
+        "subzone": "BUKIT BATOK SOUTH",
+        "region": "WEST REGION",
+        "subzone_pop": 14300,
+        "subzone_pop_density_km2": 7918.1,
+        "subzone_senior_pct": 17.1,
+        "subzone_youth_pct": 17.8,
+        "nearest_official_mrt": "BUKIT BATOK",
+        "nearest_official_mrt_status": "Operational",
+        "d_mrt_m": 1221,
+        "d_lrt_m": 3896,
+        "hdb_units_650m": 4958,
+        "condo_cnt_650m": 3,
+        "landed_cnt_650m": 0,
+        "reserve_ha_750m": 34.96,
+        "white_ha_750m": 4.53,
+        "amend_cnt_750m": 0,
+        "bus_stops_500m": 14,
+        "bus_monthly_pax_500m": 551183,
+        "bus_peak_pax_500m": 207138,
+        "am_tap_in_600m": 105977,
+        "am_tap_out_600m": 118119,
+        "emp_gfa_ha_1km": 71.18,
+        "healthcare_nodes_1km": 0,
+        "nearest_health_name": "",
+        "nearest_health_dist_m": null,
+        "health_names": [],
+        "health_ha_1km": 0.0,
+        "ihl_campuses_1km": 0,
+        "ihl_names": [],
+        "schools_800m": 3,
+        "edu_ha_1km": 6.7,
+        "top_bus_stop_code": "42311",
+        "top_bus_stop_pax": 90710,
+        "rw_cnt_800m": 3,
+        "rw_unann_cnt_800m": 3,
+        "rw_lta_cnt_800m": 1,
+        "rw_max_days_800m": 548,
+        "rw_roads": [
+          "BUKIT BATOK EAST AVENUE 3",
+          "BUKIT BATOK STREET 25",
+          "BUKIT BATOK STREET 24"
+        ],
+        "rw_details": [
+          {
+            "road": "BUKIT BATOK EAST AVENUE 3",
+            "max_days": 548,
+            "is_lta_dept": true,
+            "near_ann": false,
+            "dist_m": 234
+          },
+          {
+            "road": "BUKIT BATOK STREET 25",
+            "max_days": 455,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 402
+          },
+          {
+            "road": "BUKIT BATOK STREET 24",
+            "max_days": 401,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 187
+          }
+        ],
+        "gebiz_tender_count": 0,
+        "gebiz_tenders": [],
+        "town_4r_median_sgd": 625000,
+        "prior_confidence": 0.4789,
+        "posterior_confidence": 0.9808,
+        "evidence": [
+          "MOT/LTA study corridor (+)",
+          "MP2025 Reserve/Amendment (35.0ha)",
+          "Oct 2026 PV/Bus: 551k pax/mo (14 stops)",
+          "LTA Civil Work: BUKIT BATOK EAST AVENUE 3 (548d)",
+          "Employment Hub (71.2ha GFA, 118k AM tap-out)"
+        ],
+        "graph_centrality": 0.6431,
+        "corridor_neighbors_4_5km": 6,
+        "signals": {
+          "ura": 0.368,
+          "bus": 0.735,
+          "pop": 0.627,
+          "gap": 0.326,
+          "gebiz": 0.5,
+          "emp": 0.862,
+          "health": 0.0,
+          "edu": 0.249
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.805,
+          1.4475
+        ]
+      },
+      "properties": {
+        "id": "ANC-02",
+        "name": "Woodlands East / Woodlands Rise",
+        "corridor": "Multi-Anchor Discovery (Emp / Health / Edu)",
+        "lat": 1.4475,
+        "lng": 103.805,
+        "corridor_mention": false,
+        "gebiz_hint": false,
+        "is_new_v3": true,
+        "planning_area": "WOODLANDS",
+        "subzone": "WOODLANDS EAST",
+        "region": "NORTH REGION",
+        "subzone_pop": 98590,
+        "subzone_pop_density_km2": 38617.3,
+        "subzone_senior_pct": 12.0,
+        "subzone_youth_pct": 20.7,
+        "nearest_official_mrt": "ADMIRALTY",
+        "nearest_official_mrt_status": "Operational",
+        "d_mrt_m": 913,
+        "d_lrt_m": 7727,
+        "hdb_units_650m": 9124,
+        "condo_cnt_650m": 10,
+        "landed_cnt_650m": 0,
+        "reserve_ha_750m": 0.22,
+        "white_ha_750m": 1.42,
+        "amend_cnt_750m": 0,
+        "bus_stops_500m": 14,
+        "bus_monthly_pax_500m": 620132,
+        "bus_peak_pax_500m": 172531,
+        "am_tap_in_600m": 83015,
+        "am_tap_out_600m": 62540,
+        "emp_gfa_ha_1km": 86.6,
+        "healthcare_nodes_1km": 0,
+        "nearest_health_name": "",
+        "nearest_health_dist_m": null,
+        "health_names": [],
+        "health_ha_1km": 0.76,
+        "ihl_campuses_1km": 0,
+        "ihl_names": [],
+        "schools_800m": 3,
+        "edu_ha_1km": 12.33,
+        "top_bus_stop_code": "47619",
+        "top_bus_stop_pax": 145923,
+        "rw_cnt_800m": 2,
+        "rw_unann_cnt_800m": 2,
+        "rw_lta_cnt_800m": 0,
+        "rw_max_days_800m": 565,
+        "rw_roads": [
+          "WOODLANDS DRIVE 72",
+          "WOODLANDS CRESCENT"
+        ],
+        "rw_details": [
+          {
+            "road": "WOODLANDS DRIVE 72",
+            "max_days": 565,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 451
+          },
+          {
+            "road": "WOODLANDS CRESCENT",
+            "max_days": 565,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 305
+          }
+        ],
+        "gebiz_tender_count": 0,
+        "gebiz_tenders": [],
+        "town_4r_median_sgd": 553000,
+        "prior_confidence": 0.4595,
+        "posterior_confidence": 0.8379,
+        "evidence": [
+          "Oct 2026 PV/Bus: 620k pax/mo (14 stops)",
+          "LTA RoadWorks: WOODLANDS CRESCENT (565d)",
+          "Employment Hub (86.6ha GFA, 63k AM tap-out)"
+        ],
+        "graph_centrality": 0.6405,
+        "corridor_neighbors_4_5km": 4,
+        "signals": {
+          "ura": 0.035,
+          "bus": 0.8,
+          "pop": 1.0,
+          "gap": 0.133,
+          "gebiz": 0.35,
+          "emp": 0.739,
+          "health": 0.033,
+          "edu": 0.312
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.90625,
+          1.38675
+        ]
+      },
+      "properties": {
+        "id": "IND-04",
+        "name": "Rivervale / Sengkang East",
+        "corridor": "Independent Rail-Gap Discovery",
+        "lat": 1.38675,
+        "lng": 103.90625,
+        "corridor_mention": false,
+        "gebiz_hint": false,
+        "is_new_v2": false,
+        "planning_area": "SENGKANG",
+        "subzone": "RIVERVALE",
+        "region": "NORTH-EAST REGION",
+        "subzone_pop": 62470,
+        "subzone_pop_density_km2": 39815.2,
+        "subzone_senior_pct": 16.2,
+        "subzone_youth_pct": 19.2,
+        "nearest_official_mrt": "SENGKANG",
+        "nearest_official_mrt_status": "Operational",
+        "d_mrt_m": 1318,
+        "d_lrt_m": 165,
+        "hdb_units_650m": 14280,
+        "condo_cnt_650m": 6,
+        "landed_cnt_650m": 8,
+        "reserve_ha_750m": 0.0,
+        "white_ha_750m": 3.79,
+        "amend_cnt_750m": 0,
+        "bus_stops_500m": 16,
+        "bus_monthly_pax_500m": 522528,
+        "bus_peak_pax_500m": 114679,
+        "am_tap_in_600m": 95040,
+        "am_tap_out_600m": 29712,
+        "emp_gfa_ha_1km": 39.38,
+        "healthcare_nodes_1km": 0,
+        "nearest_health_name": "",
+        "nearest_health_dist_m": null,
+        "health_names": [],
+        "health_ha_1km": 0.95,
+        "ihl_campuses_1km": 0,
+        "ihl_names": [],
+        "schools_800m": 4,
+        "edu_ha_1km": 18.75,
+        "top_bus_stop_code": "67529",
+        "top_bus_stop_pax": 94749,
+        "rw_cnt_800m": 3,
+        "rw_unann_cnt_800m": 3,
+        "rw_lta_cnt_800m": 0,
+        "rw_max_days_800m": 770,
+        "rw_roads": [
+          "SENGKANG EAST DRIVE",
+          "RIVERVALE DRIVE",
+          "RIVERVALE WALK"
+        ],
+        "rw_details": [
+          {
+            "road": "SENGKANG EAST DRIVE",
+            "max_days": 770,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 90
+          },
+          {
+            "road": "RIVERVALE DRIVE",
+            "max_days": 456,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 197
+          },
+          {
+            "road": "RIVERVALE WALK",
+            "max_days": 406,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 708
+          }
+        ],
+        "gebiz_tender_count": 0,
+        "gebiz_tenders": [],
+        "town_4r_median_sgd": 646888,
+        "prior_confidence": 0.4975,
+        "posterior_confidence": 0.8706,
+        "evidence": [
+          "Oct 2026 PV/Bus: 523k pax/mo (16 stops)",
+          "LTA RoadWorks: SENGKANG EAST DRIVE (770d)",
+          "Employment Hub (39.4ha GFA, 30k AM tap-out)"
+        ],
+        "graph_centrality": 0.6354,
+        "corridor_neighbors_4_5km": 6,
+        "signals": {
+          "ura": 0.088,
+          "bus": 0.74,
+          "pop": 1.0,
+          "gap": 0.386,
+          "gebiz": 0.35,
+          "emp": 0.591,
+          "health": 0.042,
+          "edu": 0.433
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8545,
+          1.326
+        ]
+      },
+      "properties": {
+        "id": "SL-09",
+        "name": "Whampoa / Balestier",
+        "corridor": "Seletar Line (Study Corridor)",
+        "lat": 1.326,
+        "lng": 103.8545,
+        "corridor_mention": true,
+        "gebiz_hint": false,
+        "is_new_v2": false,
+        "planning_area": "NOVENA",
+        "subzone": "BALESTIER",
+        "region": "CENTRAL REGION",
+        "subzone_pop": 32800,
+        "subzone_pop_density_km2": 17021.3,
+        "subzone_senior_pct": 21.5,
+        "subzone_youth_pct": 16.3,
+        "nearest_official_mrt": "BOON KENG",
+        "nearest_official_mrt_status": "Operational",
+        "d_mrt_m": 1084,
+        "d_lrt_m": 7744,
+        "hdb_units_650m": 10390,
+        "condo_cnt_650m": 73,
+        "landed_cnt_650m": 34,
+        "reserve_ha_750m": 0.22,
+        "white_ha_750m": 4.75,
+        "amend_cnt_750m": 0,
+        "bus_stops_500m": 15,
+        "bus_monthly_pax_500m": 772063,
+        "bus_peak_pax_500m": 174542,
+        "am_tap_in_600m": 115357,
+        "am_tap_out_600m": 48256,
+        "emp_gfa_ha_1km": 49.68,
+        "healthcare_nodes_1km": 0,
+        "nearest_health_name": "",
+        "nearest_health_dist_m": null,
+        "health_names": [],
+        "health_ha_1km": 14.44,
+        "ihl_campuses_1km": 0,
+        "ihl_names": [],
+        "schools_800m": 3,
+        "edu_ha_1km": 10.38,
+        "top_bus_stop_code": "50991",
+        "top_bus_stop_pax": 139774,
+        "rw_cnt_800m": 7,
+        "rw_unann_cnt_800m": 7,
+        "rw_lta_cnt_800m": 1,
+        "rw_max_days_800m": 1604,
+        "rw_roads": [
+          "BALESTIER ROAD",
+          "MAY ROAD",
+          "JALAN RAJAH",
+          "JALAN TENTERAM",
+          "BOON TECK ROAD"
+        ],
+        "rw_details": [
+          {
+            "road": "BALESTIER ROAD",
+            "max_days": 786,
+            "is_lta_dept": true,
+            "near_ann": false,
+            "dist_m": 526
+          },
+          {
+            "road": "MAY ROAD",
+            "max_days": 1604,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 634
+          },
+          {
+            "road": "JALAN RAJAH",
+            "max_days": 1369,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 398
+          },
+          {
+            "road": "JALAN TENTERAM",
+            "max_days": 1276,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 558
+          },
+          {
+            "road": "BOON TECK ROAD",
+            "max_days": 684,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 499
+          }
+        ],
+        "gebiz_tender_count": 0,
+        "gebiz_tenders": [],
+        "town_4r_median_sgd": 650000,
+        "prior_confidence": 0.5041,
+        "posterior_confidence": 0.977,
+        "evidence": [
+          "MOT/LTA study corridor (+)",
+          "Oct 2026 PV/Bus: 772k pax/mo (15 stops)",
+          "LTA Civil Work: BALESTIER ROAD (786d)",
+          "Employment Hub (49.7ha GFA, 48k AM tap-out)",
+          "Healthcare Anchor: URA Health Zone (14.4ha) (400m)"
+        ],
+        "graph_centrality": 0.6307,
+        "corridor_neighbors_4_5km": 2,
+        "signals": {
+          "ura": 0.112,
+          "bus": 0.958,
+          "pop": 0.809,
+          "gap": 0.24,
+          "gebiz": 0.5,
+          "emp": 0.707,
+          "health": 0.35,
+          "edu": 0.29
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.85675,
+          1.35975
+        ]
+      },
+      "properties": {
+        "id": "ANC-01",
+        "name": "Chong Boon / Ang Mo Kio Avenue 10",
+        "corridor": "Multi-Anchor Discovery (Emp / Health / Edu)",
+        "lat": 1.35975,
+        "lng": 103.85675,
+        "corridor_mention": false,
+        "gebiz_hint": false,
+        "is_new_v3": true,
+        "planning_area": "ANG MO KIO",
+        "subzone": "CHONG BOON",
+        "region": "NORTH-EAST REGION",
+        "subzone_pop": 24820,
+        "subzone_pop_density_km2": 23002.8,
+        "subzone_senior_pct": 29.8,
+        "subzone_youth_pct": 12.5,
+        "nearest_official_mrt": "LORONG CHUAN",
+        "nearest_official_mrt_status": "Operational",
+        "d_mrt_m": 1208,
+        "d_lrt_m": 4206,
+        "hdb_units_650m": 2302,
+        "condo_cnt_650m": 1,
+        "landed_cnt_650m": 0,
+        "reserve_ha_750m": 2.83,
+        "white_ha_750m": 2.54,
+        "amend_cnt_750m": 4,
+        "bus_stops_500m": 10,
+        "bus_monthly_pax_500m": 516373,
+        "bus_peak_pax_500m": 153296,
+        "am_tap_in_600m": 56872,
+        "am_tap_out_600m": 65448,
+        "emp_gfa_ha_1km": 32.33,
+        "healthcare_nodes_1km": 0,
+        "nearest_health_name": "",
+        "nearest_health_dist_m": null,
+        "health_names": [],
+        "health_ha_1km": 3.28,
+        "ihl_campuses_1km": 0,
+        "ihl_names": [],
+        "schools_800m": 1,
+        "edu_ha_1km": 13.73,
+        "top_bus_stop_code": "54371",
+        "top_bus_stop_pax": 139762,
+        "rw_cnt_800m": 5,
+        "rw_unann_cnt_800m": 5,
+        "rw_lta_cnt_800m": 0,
+        "rw_max_days_800m": 1125,
+        "rw_roads": [
+          "BOUNDARY CLOSE",
+          "TAI HWAN PLACE",
+          "MEI HWAN ROAD",
+          "MEI HWAN DRIVE",
+          "BERWICK DRIVE"
+        ],
+        "rw_details": [
+          {
+            "road": "BOUNDARY CLOSE",
+            "max_days": 1125,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 404
+          },
+          {
+            "road": "TAI HWAN PLACE",
+            "max_days": 926,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 552
+          },
+          {
+            "road": "MEI HWAN ROAD",
+            "max_days": 792,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 632
+          },
+          {
+            "road": "MEI HWAN DRIVE",
+            "max_days": 792,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 797
+          },
+          {
+            "road": "BERWICK DRIVE",
+            "max_days": 365,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 632
+          }
+        ],
+        "gebiz_tender_count": 0,
+        "gebiz_tenders": [],
+        "town_4r_median_sgd": 603800,
+        "prior_confidence": 0.4556,
+        "posterior_confidence": 0.9495,
+        "evidence": [
+          "MP2025 Reserve/Amendment (2.8ha)",
+          "Oct 2026 PV/Bus: 516k pax/mo (10 stops)",
+          "LTA RoadWorks: BOUNDARY CLOSE (1125d)",
+          "Employment Hub (32.3ha GFA, 65k AM tap-out)",
+          "Healthcare Anchor: URA Health Zone (3.3ha) (400m)"
+        ],
+        "graph_centrality": 0.6284,
+        "corridor_neighbors_4_5km": 4,
+        "signals": {
+          "ura": 0.33,
+          "bus": 0.64,
+          "pop": 0.777,
+          "gap": 0.318,
+          "gebiz": 0.35,
+          "emp": 0.577,
+          "health": 0.143,
+          "edu": 0.211
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.85225,
+          1.4295
+        ]
+      },
+      "properties": {
+        "id": "SL-04",
+        "name": "Simpang South / Yishun Ave 1",
+        "corridor": "Seletar Line (Study Corridor)",
+        "lat": 1.4295,
+        "lng": 103.85225,
+        "corridor_mention": true,
+        "gebiz_hint": false,
+        "is_new_v2": false,
+        "planning_area": "SIMPANG",
+        "subzone": "SIMPANG SOUTH",
+        "region": "NORTH REGION",
+        "subzone_pop": 0,
+        "subzone_pop_density_km2": 0.0,
+        "subzone_senior_pct": 0.0,
+        "subzone_youth_pct": 0.0,
+        "nearest_official_mrt": "YISHUN",
+        "nearest_official_mrt_status": "Operational",
+        "d_mrt_m": 1912,
+        "d_lrt_m": 4434,
+        "hdb_units_650m": 10169,
+        "condo_cnt_650m": 0,
+        "landed_cnt_650m": 0,
+        "reserve_ha_750m": 202.22,
+        "white_ha_750m": 0.0,
+        "amend_cnt_750m": 0,
+        "bus_stops_500m": 10,
+        "bus_monthly_pax_500m": 394788,
+        "bus_peak_pax_500m": 83858,
+        "am_tap_in_600m": 65824,
+        "am_tap_out_600m": 15932,
+        "emp_gfa_ha_1km": 7.86,
+        "healthcare_nodes_1km": 0,
+        "nearest_health_name": "",
+        "nearest_health_dist_m": null,
+        "health_names": [],
+        "health_ha_1km": 1.0,
+        "ihl_campuses_1km": 0,
+        "ihl_names": [],
+        "schools_800m": 1,
+        "edu_ha_1km": 9.65,
+        "top_bus_stop_code": "59601",
+        "top_bus_stop_pax": 105458,
+        "rw_cnt_800m": 2,
+        "rw_unann_cnt_800m": 2,
+        "rw_lta_cnt_800m": 1,
+        "rw_max_days_800m": 1462,
+        "rw_roads": [
+          "YISHUN AVENUE 8",
+          "YISHUN STREET 31"
+        ],
+        "rw_details": [
+          {
+            "road": "YISHUN AVENUE 8",
+            "max_days": 1462,
+            "is_lta_dept": true,
+            "near_ann": false,
+            "dist_m": 373
+          },
+          {
+            "road": "YISHUN STREET 31",
+            "max_days": 1176,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 735
+          }
+        ],
+        "gebiz_tender_count": 0,
+        "gebiz_tenders": [],
+        "town_4r_median_sgd": 650000,
+        "prior_confidence": 0.4366,
+        "posterior_confidence": 0.9597,
+        "evidence": [
+          "MOT/LTA study corridor (+)",
+          "MP2025 Reserve/Amendment (202.2ha)",
+          "Oct 2026 PV/Bus: 395k pax/mo (10 stops)",
+          "LTA Civil Work: YISHUN AVENUE 8 (1462d)"
+        ],
+        "graph_centrality": 0.6141,
+        "corridor_neighbors_4_5km": 5,
+        "signals": {
+          "ura": 0.6,
+          "bus": 0.526,
+          "pop": 0.5,
+          "gap": 0.757,
+          "gebiz": 0.5,
+          "emp": 0.14,
+          "health": 0.044,
+          "edu": 0.166
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.77575,
+          1.443
+        ]
+      },
+      "properties": {
+        "id": "SL-01",
+        "name": "Woodlands North Coast West",
+        "corridor": "Seletar Line (Study Corridor)",
+        "lat": 1.443,
+        "lng": 103.77575,
+        "corridor_mention": true,
+        "gebiz_hint": false,
+        "is_new_v2": false,
+        "planning_area": "WOODLANDS",
+        "subzone": "NORTH COAST",
+        "region": "NORTH REGION",
+        "subzone_pop": 11160,
+        "subzone_pop_density_km2": 4553.2,
+        "subzone_senior_pct": 23.7,
+        "subzone_youth_pct": 12.3,
+        "nearest_official_mrt": "MARSILING",
+        "nearest_official_mrt_status": "Operational",
+        "d_mrt_m": 1160,
+        "d_lrt_m": 6177,
+        "hdb_units_650m": 8555,
+        "condo_cnt_650m": 3,
+        "landed_cnt_650m": 0,
+        "reserve_ha_750m": 23.66,
+        "white_ha_750m": 2.81,
+        "amend_cnt_750m": 0,
+        "bus_stops_500m": 23,
+        "bus_monthly_pax_500m": 973891,
+        "bus_peak_pax_500m": 226719,
+        "am_tap_in_600m": 122063,
+        "am_tap_out_600m": 74946,
+        "emp_gfa_ha_1km": 61.92,
+        "healthcare_nodes_1km": 0,
+        "nearest_health_name": "",
+        "nearest_health_dist_m": null,
+        "health_names": [],
+        "health_ha_1km": 2.9,
+        "ihl_campuses_1km": 1,
+        "ihl_names": [
+          "Republic Polytechnic (907m)"
+        ],
+        "schools_800m": 2,
+        "edu_ha_1km": 6.86,
+        "top_bus_stop_code": "46119",
+        "top_bus_stop_pax": 118596,
+        "rw_cnt_800m": 6,
+        "rw_unann_cnt_800m": 6,
+        "rw_lta_cnt_800m": 0,
+        "rw_max_days_800m": 2381,
+        "rw_roads": [
+          "MARSILING CRESCENT",
+          "MARSILING LANE",
+          "MARSILING ROAD",
+          "WOODLANDS CENTRE ROAD",
+          "ADMIRALTY ROAD"
+        ],
+        "rw_details": [
+          {
+            "road": "MARSILING CRESCENT",
+            "max_days": 2381,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 590
+          },
+          {
+            "road": "MARSILING LANE",
+            "max_days": 1609,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 187
+          },
+          {
+            "road": "MARSILING ROAD",
+            "max_days": 1547,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 633
+          },
+          {
+            "road": "WOODLANDS CENTRE ROAD",
+            "max_days": 1460,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 772
+          },
+          {
+            "road": "ADMIRALTY ROAD",
+            "max_days": 917,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 322
+          }
+        ],
+        "gebiz_tender_count": 0,
+        "gebiz_tenders": [],
+        "town_4r_median_sgd": 553000,
+        "prior_confidence": 0.5146,
+        "posterior_confidence": 0.9922,
+        "evidence": [
+          "MOT/LTA study corridor (+)",
+          "MP2025 Reserve/Amendment (23.7ha)",
+          "Oct 2026 PV/Bus: 974k pax/mo (23 stops)",
+          "LTA RoadWorks: MARSILING LANE (1609d)",
+          "Employment Hub (61.9ha GFA, 75k AM tap-out)",
+          "Healthcare Anchor: URA Health Zone (2.9ha) (400m)",
+          "Education Hub: Republic Polytechnic"
+        ],
+        "graph_centrality": 0.5891,
+        "corridor_neighbors_4_5km": 1,
+        "signals": {
+          "ura": 0.243,
+          "bus": 1.0,
+          "pop": 0.581,
+          "gap": 0.287,
+          "gebiz": 0.5,
+          "emp": 0.767,
+          "health": 0.127,
+          "edu": 0.593
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.92875,
+          1.35525
+        ]
+      },
+      "properties": {
+        "id": "IND-01",
+        "name": "Paya Lebar Air Base East / Tampines West",
+        "corridor": "Independent Rail-Gap Discovery",
+        "lat": 1.35525,
+        "lng": 103.92875,
+        "corridor_mention": false,
+        "gebiz_hint": false,
+        "is_new_v2": false,
+        "planning_area": "PAYA LEBAR",
+        "subzone": "PAYA LEBAR EAST",
+        "region": "EAST REGION",
+        "subzone_pop": 0,
+        "subzone_pop_density_km2": 0.0,
+        "subzone_senior_pct": 0.0,
+        "subzone_youth_pct": 0.0,
+        "nearest_official_mrt": "TAMPINES WEST",
+        "nearest_official_mrt_status": "Operational",
+        "d_mrt_m": 1553,
+        "d_lrt_m": 4343,
+        "hdb_units_650m": 5427,
+        "condo_cnt_650m": 4,
+        "landed_cnt_650m": 0,
+        "reserve_ha_750m": 88.77,
+        "white_ha_750m": 0.0,
+        "amend_cnt_750m": 0,
+        "bus_stops_500m": 12,
+        "bus_monthly_pax_500m": 388217,
+        "bus_peak_pax_500m": 106890,
+        "am_tap_in_600m": 83689,
+        "am_tap_out_600m": 45247,
+        "emp_gfa_ha_1km": 50.64,
+        "healthcare_nodes_1km": 0,
+        "nearest_health_name": "",
+        "nearest_health_dist_m": null,
+        "health_names": [],
+        "health_ha_1km": 0.0,
+        "ihl_campuses_1km": 1,
+        "ihl_names": [
+          "Temasek Polytechnic (813m)"
+        ],
+        "schools_800m": 3,
+        "edu_ha_1km": 10.72,
+        "top_bus_stop_code": "75151",
+        "top_bus_stop_pax": 104752,
+        "rw_cnt_800m": 7,
+        "rw_unann_cnt_800m": 7,
+        "rw_lta_cnt_800m": 0,
+        "rw_max_days_800m": 1795,
+        "rw_roads": [
+          "TAMPINES INDUSTRIAL AVENUE 2",
+          "TAMPINES INDUSTRIAL AVENUE 1",
+          "TAMPINES STREET 86",
+          "TAMPINES AVENUE 8",
+          "TAMPINES STREET 71"
+        ],
+        "rw_details": [
+          {
+            "road": "TAMPINES INDUSTRIAL AVENUE 2",
+            "max_days": 1795,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 727
+          },
+          {
+            "road": "TAMPINES INDUSTRIAL AVENUE 1",
+            "max_days": 885,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 387
+          },
+          {
+            "road": "TAMPINES STREET 86",
+            "max_days": 460,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 236
+          },
+          {
+            "road": "TAMPINES AVENUE 8",
+            "max_days": 428,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 433
+          },
+          {
+            "road": "TAMPINES STREET 71",
+            "max_days": 428,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 584
+          }
+        ],
+        "gebiz_tender_count": 0,
+        "gebiz_tenders": [],
+        "town_4r_median_sgd": 650000,
+        "prior_confidence": 0.5267,
+        "posterior_confidence": 0.9544,
+        "evidence": [
+          "MP2025 Reserve/Amendment (88.8ha)",
+          "Oct 2026 PV/Bus: 388k pax/mo (12 stops)",
+          "LTA RoadWorks: TAMPINES STREET 86 (460d)",
+          "Employment Hub (50.6ha GFA, 45k AM tap-out)",
+          "Education Hub: Temasek Polytechnic"
+        ],
+        "graph_centrality": 0.5728,
+        "corridor_neighbors_4_5km": 2,
+        "signals": {
+          "ura": 0.6,
+          "bus": 0.551,
+          "pop": 0.5,
+          "gap": 0.533,
+          "gebiz": 0.35,
+          "emp": 0.701,
+          "health": 0.0,
+          "edu": 0.694
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.877,
+          1.38675
+        ]
+      },
+      "properties": {
+        "id": "SL-07",
+        "name": "Seletar Hills / Trafalgar (Jalan Kayu)",
+        "corridor": "Seletar Line (Study Corridor)",
+        "lat": 1.38675,
+        "lng": 103.877,
+        "corridor_mention": true,
+        "gebiz_hint": false,
+        "is_new_v2": false,
+        "planning_area": "HOUGANG",
+        "subzone": "TRAFALGAR",
+        "region": "NORTH-EAST REGION",
+        "subzone_pop": 48440,
+        "subzone_pop_density_km2": 27775.2,
+        "subzone_senior_pct": 19.1,
+        "subzone_youth_pct": 17.3,
+        "nearest_official_mrt": "SERANGOON NORTH",
+        "nearest_official_mrt_status": "Announced / Under Construction",
+        "d_mrt_m": 1834,
+        "d_lrt_m": 607,
+        "hdb_units_650m": 10734,
+        "condo_cnt_650m": 8,
+        "landed_cnt_650m": 15,
+        "reserve_ha_750m": 3.81,
+        "white_ha_750m": 2.81,
+        "amend_cnt_750m": 0,
+        "bus_stops_500m": 10,
+        "bus_monthly_pax_500m": 309775,
+        "bus_peak_pax_500m": 69952,
+        "am_tap_in_600m": 103463,
+        "am_tap_out_600m": 30792,
+        "emp_gfa_ha_1km": 14.45,
+        "healthcare_nodes_1km": 0,
+        "nearest_health_name": "",
+        "nearest_health_dist_m": null,
+        "health_names": [],
+        "health_ha_1km": 16.57,
+        "ihl_campuses_1km": 0,
+        "ihl_names": [],
+        "schools_800m": 3,
+        "edu_ha_1km": 10.77,
+        "top_bus_stop_code": "67489",
+        "top_bus_stop_pax": 75070,
+        "rw_cnt_800m": 3,
+        "rw_unann_cnt_800m": 3,
+        "rw_lta_cnt_800m": 0,
+        "rw_max_days_800m": 406,
+        "rw_roads": [
+          "FERNVALE ROAD",
+          "SENGKANG WEST AVENUE",
+          "LUXUS HILL HEIGHTS"
+        ],
+        "rw_details": [
+          {
+            "road": "FERNVALE ROAD",
+            "max_days": 406,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 754
+          },
+          {
+            "road": "SENGKANG WEST AVENUE",
+            "max_days": 406,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 466
+          },
+          {
+            "road": "LUXUS HILL HEIGHTS",
+            "max_days": 365,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 777
+          }
+        ],
+        "gebiz_tender_count": 0,
+        "gebiz_tenders": [],
+        "town_4r_median_sgd": 620000,
+        "prior_confidence": 0.4857,
+        "posterior_confidence": 0.9163,
+        "evidence": [
+          "MOT/LTA study corridor (+)",
+          "LTA RoadWorks: SENGKANG WEST AVENUE (406d)",
+          "Healthcare Anchor: URA Health Zone (16.6ha) (400m)"
+        ],
+        "graph_centrality": 0.5341,
+        "corridor_neighbors_4_5km": 6,
+        "signals": {
+          "ura": 0.094,
+          "bus": 0.447,
+          "pop": 0.997,
+          "gap": 0.709,
+          "gebiz": 0.5,
+          "emp": 0.261,
+          "health": 0.35,
+          "edu": 0.295
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.787,
+          1.31475
+        ]
+      },
+      "properties": {
+        "id": "TL-03",
+        "name": "Ghim Moh / Ulu Pandan North",
+        "corridor": "Tengah Line (Study Corridor)",
+        "lat": 1.31475,
+        "lng": 103.787,
+        "corridor_mention": true,
+        "gebiz_hint": false,
+        "is_new_v2": false,
+        "planning_area": "QUEENSTOWN",
+        "subzone": "GHIM MOH",
+        "region": "CENTRAL REGION",
+        "subzone_pop": 13040,
+        "subzone_pop_density_km2": 26831.3,
+        "subzone_senior_pct": 25.8,
+        "subzone_youth_pct": 17.6,
+        "nearest_official_mrt": "BUONA VISTA",
+        "nearest_official_mrt_status": "Operational",
+        "d_mrt_m": 960,
+        "d_lrt_m": 7062,
+        "hdb_units_650m": 2547,
+        "condo_cnt_650m": 10,
+        "landed_cnt_650m": 0,
+        "reserve_ha_750m": 0.0,
+        "white_ha_750m": 2.67,
+        "amend_cnt_750m": 0,
+        "bus_stops_500m": 15,
+        "bus_monthly_pax_500m": 262185,
+        "bus_peak_pax_500m": 65411,
+        "am_tap_in_600m": 28303,
+        "am_tap_out_600m": 22274,
+        "emp_gfa_ha_1km": 31.44,
+        "healthcare_nodes_1km": 0,
+        "nearest_health_name": "",
+        "nearest_health_dist_m": null,
+        "health_names": [],
+        "health_ha_1km": 1.49,
+        "ihl_campuses_1km": 0,
+        "ihl_names": [],
+        "schools_800m": 1,
+        "edu_ha_1km": 3.91,
+        "top_bus_stop_code": "11009",
+        "top_bus_stop_pax": 58299,
+        "rw_cnt_800m": 7,
+        "rw_unann_cnt_800m": 7,
+        "rw_lta_cnt_800m": 0,
+        "rw_max_days_800m": 1890,
+        "rw_roads": [
+          "GHIM MOH ROAD",
+          "GHIM MOH LINK",
+          "MOONBEAM VIEW",
+          "MOUNT SINAI VIEW",
+          "HOLLAND ROAD"
+        ],
+        "rw_details": [
+          {
+            "road": "GHIM MOH ROAD",
+            "max_days": 1890,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 386
+          },
+          {
+            "road": "GHIM MOH LINK",
+            "max_days": 1797,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 678
+          },
+          {
+            "road": "MOONBEAM VIEW",
+            "max_days": 798,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 681
+          },
+          {
+            "road": "MOUNT SINAI VIEW",
+            "max_days": 798,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 694
+          },
+          {
+            "road": "HOLLAND ROAD",
+            "max_days": 790,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 446
+          }
+        ],
+        "gebiz_tender_count": 0,
+        "gebiz_tenders": [],
+        "town_4r_median_sgd": 1016888,
+        "prior_confidence": 0.3661,
+        "posterior_confidence": 0.889,
+        "evidence": [
+          "MOT/LTA study corridor (+)",
+          "LTA RoadWorks: TAN BOON CHONG AVENUE (397d)",
+          "Employment Hub (31.4ha GFA, 22k AM tap-out)"
+        ],
+        "graph_centrality": 0.5336,
+        "corridor_neighbors_4_5km": 6,
+        "signals": {
+          "ura": 0.062,
+          "bus": 0.48,
+          "pop": 0.985,
+          "gap": 0.163,
+          "gebiz": 0.5,
+          "emp": 0.469,
+          "health": 0.065,
+          "edu": 0.102
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8185,
+          1.461
+        ]
+      },
+      "properties": {
+        "id": "SL-02",
+        "name": "Sembawang North / Shipyard",
+        "corridor": "Seletar Line (Study Corridor)",
+        "lat": 1.461,
+        "lng": 103.8185,
+        "corridor_mention": true,
+        "gebiz_hint": false,
+        "is_new_v2": false,
+        "planning_area": "SEMBAWANG",
+        "subzone": "SEMBAWANG NORTH",
+        "region": "NORTH REGION",
+        "subzone_pop": 25530,
+        "subzone_pop_density_km2": 18314.2,
+        "subzone_senior_pct": 13.7,
+        "subzone_youth_pct": 20.7,
+        "nearest_official_mrt": "SEMBAWANG",
+        "nearest_official_mrt_status": "Operational",
+        "d_mrt_m": 1354,
+        "d_lrt_m": 9522,
+        "hdb_units_650m": 841,
+        "condo_cnt_650m": 0,
+        "landed_cnt_650m": 0,
+        "reserve_ha_750m": 82.6,
+        "white_ha_750m": 1.4,
+        "amend_cnt_750m": 0,
+        "bus_stops_500m": 6,
+        "bus_monthly_pax_500m": 47811,
+        "bus_peak_pax_500m": 23422,
+        "am_tap_in_600m": 9835,
+        "am_tap_out_600m": 16584,
+        "emp_gfa_ha_1km": 31.76,
+        "healthcare_nodes_1km": 0,
+        "nearest_health_name": "",
+        "nearest_health_dist_m": null,
+        "health_names": [],
+        "health_ha_1km": 1.11,
+        "ihl_campuses_1km": 0,
+        "ihl_names": [],
+        "schools_800m": 1,
+        "edu_ha_1km": 10.04,
+        "top_bus_stop_code": "58141",
+        "top_bus_stop_pax": 18095,
+        "rw_cnt_800m": 4,
+        "rw_unann_cnt_800m": 4,
+        "rw_lta_cnt_800m": 0,
+        "rw_max_days_800m": 1896,
+        "rw_roads": [
+          "ADMIRALTY LANE",
+          "SEMBAWANG DRIVE",
+          "ADMIRALTY STREET",
+          "ADMIRALTY LINK"
+        ],
+        "rw_details": [
+          {
+            "road": "ADMIRALTY LANE",
+            "max_days": 1896,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 374
+          },
+          {
+            "road": "SEMBAWANG DRIVE",
+            "max_days": 1361,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 461
+          },
+          {
+            "road": "ADMIRALTY STREET",
+            "max_days": 1358,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 500
+          },
+          {
+            "road": "ADMIRALTY LINK",
+            "max_days": 1031,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 648
+          }
+        ],
+        "gebiz_tender_count": 0,
+        "gebiz_tenders": [],
+        "town_4r_median_sgd": 615000,
+        "prior_confidence": 0.4108,
+        "posterior_confidence": 0.9518,
+        "evidence": [
+          "MOT/LTA study corridor (+)",
+          "MP2025 Reserve/Amendment (82.6ha)",
+          "LTA RoadWorks: ADMIRALTY LANE (1896d)",
+          "Employment Hub (31.8ha GFA, 17k AM tap-out)"
+        ],
+        "graph_centrality": 0.5333,
+        "corridor_neighbors_4_5km": 3,
+        "signals": {
+          "ura": 0.633,
+          "bus": 0.139,
+          "pop": 0.724,
+          "gap": 0.409,
+          "gebiz": 0.5,
+          "emp": 0.46,
+          "health": 0.049,
+          "edu": 0.17
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.79375,
+          1.29225
+        ]
+      },
+      "properties": {
+        "id": "TL-04",
+        "name": "Queensway / Portsdown (One-North South)",
+        "corridor": "Tengah Line (Study Corridor)",
+        "lat": 1.29225,
+        "lng": 103.79375,
+        "corridor_mention": true,
+        "gebiz_hint": false,
+        "is_new_v2": false,
+        "planning_area": "QUEENSTOWN",
+        "subzone": "ONE NORTH",
+        "region": "CENTRAL REGION",
+        "subzone_pop": 1310,
+        "subzone_pop_density_km2": 654.0,
+        "subzone_senior_pct": 5.3,
+        "subzone_youth_pct": 26.7,
+        "nearest_official_mrt": "KENT RIDGE",
+        "nearest_official_mrt_status": "Operational",
+        "d_mrt_m": 1029,
+        "d_lrt_m": 9672,
+        "hdb_units_650m": 0,
+        "condo_cnt_650m": 9,
+        "landed_cnt_650m": 22,
+        "reserve_ha_750m": 0.0,
+        "white_ha_750m": 28.66,
+        "amend_cnt_750m": 1,
+        "bus_stops_500m": 7,
+        "bus_monthly_pax_500m": 120587,
+        "bus_peak_pax_500m": 43254,
+        "am_tap_in_600m": 7821,
+        "am_tap_out_600m": 24713,
+        "emp_gfa_ha_1km": 169.04,
+        "healthcare_nodes_1km": 0,
+        "nearest_health_name": "",
+        "nearest_health_dist_m": null,
+        "health_names": [],
+        "health_ha_1km": 0.0,
+        "ihl_campuses_1km": 0,
+        "ihl_names": [],
+        "schools_800m": 0,
+        "edu_ha_1km": 6.38,
+        "top_bus_stop_code": "18049",
+        "top_bus_stop_pax": 41925,
+        "rw_cnt_800m": 7,
+        "rw_unann_cnt_800m": 7,
+        "rw_lta_cnt_800m": 0,
+        "rw_max_days_800m": 1691,
+        "rw_roads": [
+          "AYER RAJAH CRESCENT",
+          "WARWICK ROAD",
+          "MEDIA CIRCLE",
+          "PORTSDOWN ROAD",
+          "MEDIA WALK"
+        ],
+        "rw_details": [
+          {
+            "road": "AYER RAJAH CRESCENT",
+            "max_days": 1691,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 469
+          },
+          {
+            "road": "WARWICK ROAD",
+            "max_days": 1521,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 795
+          },
+          {
+            "road": "MEDIA CIRCLE",
+            "max_days": 1156,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 243
+          },
+          {
+            "road": "PORTSDOWN ROAD",
+            "max_days": 1156,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 711
+          },
+          {
+            "road": "MEDIA WALK",
+            "max_days": 1091,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 186
+          }
+        ],
+        "gebiz_tender_count": 0,
+        "gebiz_tenders": [],
+        "town_4r_median_sgd": 1016888,
+        "prior_confidence": 0.3651,
+        "posterior_confidence": 0.8923,
+        "evidence": [
+          "MOT/LTA study corridor (+)",
+          "LTA RoadWorks: MEDIA WALK (1091d)",
+          "Employment Hub (169.0ha GFA, 25k AM tap-out)"
+        ],
+        "graph_centrality": 0.5288,
+        "corridor_neighbors_4_5km": 6,
+        "signals": {
+          "ura": 0.663,
+          "bus": 0.222,
+          "pop": 0.511,
+          "gap": 0.206,
+          "gebiz": 0.5,
+          "emp": 0.655,
+          "health": 0.0,
+          "edu": 0.071
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.76675,
+          1.39125
+        ]
+      },
+      "properties": {
+        "id": "IND-03",
+        "name": "Gali Batu / Pang Sua (Sungei Kadut South)",
+        "corridor": "Independent Rail-Gap Discovery",
+        "lat": 1.39125,
+        "lng": 103.76675,
+        "corridor_mention": false,
+        "gebiz_hint": false,
+        "is_new_v2": false,
+        "planning_area": "SUNGEI KADUT",
+        "subzone": "GALI BATU",
+        "region": "NORTH REGION",
+        "subzone_pop": 40,
+        "subzone_pop_density_km2": 7.7,
+        "subzone_senior_pct": 0.0,
+        "subzone_youth_pct": 0.0,
+        "nearest_official_mrt": "BUKIT PANJANG",
+        "nearest_official_mrt_status": "Operational",
+        "d_mrt_m": 1465,
+        "d_lrt_m": 483,
+        "hdb_units_650m": 6547,
+        "condo_cnt_650m": 5,
+        "landed_cnt_650m": 0,
+        "reserve_ha_750m": 150.89,
+        "white_ha_750m": 1.22,
+        "amend_cnt_750m": 0,
+        "bus_stops_500m": 6,
+        "bus_monthly_pax_500m": 173299,
+        "bus_peak_pax_500m": 37378,
+        "am_tap_in_600m": 27851,
+        "am_tap_out_600m": 12505,
+        "emp_gfa_ha_1km": 4.88,
+        "healthcare_nodes_1km": 0,
+        "nearest_health_name": "",
+        "nearest_health_dist_m": null,
+        "health_names": [],
+        "health_ha_1km": 0.96,
+        "ihl_campuses_1km": 0,
+        "ihl_names": [],
+        "schools_800m": 3,
+        "edu_ha_1km": 8.48,
+        "top_bus_stop_code": "44611",
+        "top_bus_stop_pax": 48020,
+        "rw_cnt_800m": 5,
+        "rw_unann_cnt_800m": 5,
+        "rw_lta_cnt_800m": 0,
+        "rw_max_days_800m": 1786,
+        "rw_roads": [
+          "WOODLANDS ROAD",
+          "BUKIT PANJANG RING ROAD",
+          "BUKIT TIMAH EXPRESSWAY",
+          "JELAPANG ROAD",
+          "SENJA CLOSE"
+        ],
+        "rw_details": [
+          {
+            "road": "WOODLANDS ROAD",
+            "max_days": 1786,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 327
+          },
+          {
+            "road": "BUKIT PANJANG RING ROAD",
+            "max_days": 1254,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 589
+          },
+          {
+            "road": "BUKIT TIMAH EXPRESSWAY",
+            "max_days": 1142,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 26
+          },
+          {
+            "road": "JELAPANG ROAD",
+            "max_days": 888,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 583
+          },
+          {
+            "road": "SENJA CLOSE",
+            "max_days": 711,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 631
+          }
+        ],
+        "gebiz_tender_count": 1,
+        "gebiz_tenders": [
+          {
+            "tender_no": "LTA000ETT25000007",
+            "award_date": "12/1/2026",
+            "desc": "Design and Construction of Tunnels for Downtown Line 2 Extension and Associated Additions & Alterations Works to Gali Batu Depot",
+            "amt_sgd": "326072629.9"
+          }
+        ],
+        "town_4r_median_sgd": 650000,
+        "prior_confidence": 0.3566,
+        "posterior_confidence": 0.8776,
+        "evidence": [
+          "MP2025 Reserve/Amendment (150.9ha)",
+          "LTA RoadWorks: BUKIT TIMAH EXPRESSWAY (1142d)",
+          "GeBIZ LTA000ETT25000007 (Design and Construction of Tunnels for Downt...)"
+        ],
+        "graph_centrality": 0.528,
+        "corridor_neighbors_4_5km": 3,
+        "signals": {
+          "ura": 0.628,
+          "bus": 0.256,
+          "pop": 0.5,
+          "gap": 0.478,
+          "gebiz": 0.6,
+          "emp": 0.093,
+          "health": 0.042,
+          "edu": 0.269
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7735,
+          1.31925
+        ]
+      },
+      "properties": {
+        "id": "TL-02",
+        "name": "Ulu Pandan / Holland Plain West",
+        "corridor": "Tengah Line (Study Corridor)",
+        "lat": 1.31925,
+        "lng": 103.7735,
+        "corridor_mention": true,
+        "gebiz_hint": false,
+        "is_new_v2": false,
+        "planning_area": "BUKIT TIMAH",
+        "subzone": "ULU PANDAN",
+        "region": "CENTRAL REGION",
+        "subzone_pop": 11290,
+        "subzone_pop_density_km2": 9201.3,
+        "subzone_senior_pct": 21.5,
+        "subzone_youth_pct": 21.4,
+        "nearest_official_mrt": "DOVER",
+        "nearest_official_mrt_status": "Operational",
+        "d_mrt_m": 1014,
+        "d_lrt_m": 6348,
+        "hdb_units_650m": 3743,
+        "condo_cnt_650m": 17,
+        "landed_cnt_650m": 0,
+        "reserve_ha_750m": 4.74,
+        "white_ha_750m": 5.34,
+        "amend_cnt_750m": 0,
+        "bus_stops_500m": 13,
+        "bus_monthly_pax_500m": 318736,
+        "bus_peak_pax_500m": 79591,
+        "am_tap_in_600m": 46171,
+        "am_tap_out_600m": 25065,
+        "emp_gfa_ha_1km": 8.19,
+        "healthcare_nodes_1km": 0,
+        "nearest_health_name": "",
+        "nearest_health_dist_m": null,
+        "health_names": [],
+        "health_ha_1km": 0.61,
+        "ihl_campuses_1km": 0,
+        "ihl_names": [],
+        "schools_800m": 2,
+        "edu_ha_1km": 4.33,
+        "top_bus_stop_code": "12061",
+        "top_bus_stop_pax": 58918,
+        "rw_cnt_800m": 5,
+        "rw_unann_cnt_800m": 5,
+        "rw_lta_cnt_800m": 0,
+        "rw_max_days_800m": 1853,
+        "rw_roads": [
+          "COMMONWEALTH AVENUE WEST",
+          "CLEMENTI ROAD",
+          "ULU PANDAN ROAD",
+          "PINE GROVE",
+          "CLEMENTI AVENUE 5"
+        ],
+        "rw_details": [
+          {
+            "road": "COMMONWEALTH AVENUE WEST",
+            "max_days": 1853,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 769
+          },
+          {
+            "road": "CLEMENTI ROAD",
+            "max_days": 1853,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 596
+          },
+          {
+            "road": "ULU PANDAN ROAD",
+            "max_days": 1461,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 354
+          },
+          {
+            "road": "PINE GROVE",
+            "max_days": 1125,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 135
+          },
+          {
+            "road": "CLEMENTI AVENUE 5",
+            "max_days": 386,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 667
+          }
+        ],
+        "gebiz_tender_count": 0,
+        "gebiz_tenders": [],
+        "town_4r_median_sgd": 920342,
+        "prior_confidence": 0.2948,
+        "posterior_confidence": 0.7694,
+        "evidence": [
+          "MOT/LTA study corridor (+)",
+          "LTA RoadWorks: PINE GROVE (1125d)"
+        ],
+        "graph_centrality": 0.5085,
+        "corridor_neighbors_4_5km": 6,
+        "signals": {
+          "ura": 0.16,
+          "bus": 0.502,
+          "pop": 0.674,
+          "gap": 0.196,
+          "gebiz": 0.5,
+          "emp": 0.165,
+          "health": 0.027,
+          "edu": 0.165
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.77575,
+          1.29
+        ]
+      },
+      "properties": {
+        "id": "WCE-03",
+        "name": "Pasir Panjang / Kent Ridge South",
+        "corridor": "JRL West Coast Ext (Unfixed Intermediate)",
+        "lat": 1.29,
+        "lng": 103.77575,
+        "corridor_mention": true,
+        "gebiz_hint": true,
+        "is_new_v2": false,
+        "planning_area": "QUEENSTOWN",
+        "subzone": "PASIR PANJANG 1",
+        "region": "CENTRAL REGION",
+        "subzone_pop": 4690,
+        "subzone_pop_density_km2": 4322.6,
+        "subzone_senior_pct": 16.0,
+        "subzone_youth_pct": 19.0,
+        "nearest_official_mrt": "HAW PAR VILLA",
+        "nearest_official_mrt_status": "Operational",
+        "d_mrt_m": 1039,
+        "d_lrt_m": 9608,
+        "hdb_units_650m": 0,
+        "condo_cnt_650m": 23,
+        "landed_cnt_650m": 7,
+        "reserve_ha_750m": 0.0,
+        "white_ha_750m": 13.15,
+        "amend_cnt_750m": 0,
+        "bus_stops_500m": 12,
+        "bus_monthly_pax_500m": 281587,
+        "bus_peak_pax_500m": 95943,
+        "am_tap_in_600m": 15873,
+        "am_tap_out_600m": 47259,
+        "emp_gfa_ha_1km": 53.39,
+        "healthcare_nodes_1km": 0,
+        "nearest_health_name": "",
+        "nearest_health_dist_m": null,
+        "health_names": [],
+        "health_ha_1km": 41.42,
+        "ihl_campuses_1km": 1,
+        "ihl_names": [
+          "NUS Kent Ridge Campus (900m)"
+        ],
+        "schools_800m": 0,
+        "edu_ha_1km": 141.27,
+        "top_bus_stop_code": "16069",
+        "top_bus_stop_pax": 59968,
+        "rw_cnt_800m": 0,
+        "rw_unann_cnt_800m": 0,
+        "rw_lta_cnt_800m": 0,
+        "rw_max_days_800m": 0,
+        "rw_roads": [],
+        "rw_details": [],
+        "gebiz_tender_count": 4,
+        "gebiz_tenders": [
+          {
+            "tender_no": "LTA000ETT23000136",
+            "award_date": "27/9/2024",
+            "desc": "Advance Engineering Study for Proposed Road Network at Jurong Lake District",
+            "amt_sgd": "14988888"
+          },
+          {
+            "tender_no": "LTA000ETT23000088",
+            "award_date": "30/7/2024",
+            "desc": "Design and Construction of Jurong Lake District Station and Tunnels for Cross Island Line",
+            "amt_sgd": "592000000"
+          },
+          {
+            "tender_no": "LTA000ETT23000080",
+            "award_date": "19/6/2024",
+            "desc": "Design and Construction of Tunnels Between Jurong Lake District Station & West Coast Station and Associated Works for Cross Island Line",
+            "amt_sgd": "242358590"
+          },
+          {
+            "tender_no": "LTA000ETT22000125",
+            "award_date": "6/12/2023",
+            "desc": "Design and Construction of West Coast Station and Tunnels for Cross Island Line",
+            "amt_sgd": "509568000"
+          }
+        ],
+        "town_4r_median_sgd": 1016888,
+        "prior_confidence": 0.3966,
+        "posterior_confidence": 0.967,
+        "evidence": [
+          "MOT/LTA study corridor (+)",
+          "GeBIZ LTA000ETT23000136 (Advance Engineering Study for Proposed Road...)",
+          "Employment Hub (53.4ha GFA, 47k AM tap-out)",
+          "Healthcare Anchor: URA Health Zone (41.4ha) (400m)",
+          "Education Hub: NUS Kent Ridge Campus"
+        ],
+        "graph_centrality": 0.4527,
+        "corridor_neighbors_4_5km": 5,
+        "signals": {
+          "ura": 0.307,
+          "bus": 0.451,
+          "pop": 0.264,
+          "gap": 0.212,
+          "gebiz": 1.0,
+          "emp": 0.705,
+          "health": 0.35,
+          "edu": 0.65
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.87475,
+          1.4115
+        ]
+      },
+      "properties": {
+        "id": "ANC-04",
+        "name": "Seletar / Old Birdcage Walk",
+        "corridor": "Multi-Anchor Discovery (Emp / Health / Edu)",
+        "lat": 1.4115,
+        "lng": 103.87475,
+        "corridor_mention": false,
+        "gebiz_hint": false,
+        "is_new_v3": true,
+        "planning_area": "SELETAR",
+        "subzone": "SELETAR",
+        "region": "NORTH-EAST REGION",
+        "subzone_pop": 280,
+        "subzone_pop_density_km2": 71.5,
+        "subzone_senior_pct": 7.1,
+        "subzone_youth_pct": 17.9,
+        "nearest_official_mrt": "PUNGGOL",
+        "nearest_official_mrt_status": "Operational",
+        "d_mrt_m": 3157,
+        "d_lrt_m": 1594,
+        "hdb_units_650m": 0,
+        "condo_cnt_650m": 0,
+        "landed_cnt_650m": 3,
+        "reserve_ha_750m": 141.35,
+        "white_ha_750m": 0.0,
+        "amend_cnt_750m": 0,
+        "bus_stops_500m": 4,
+        "bus_monthly_pax_500m": 24470,
+        "bus_peak_pax_500m": 9427,
+        "am_tap_in_600m": 1043,
+        "am_tap_out_600m": 8055,
+        "emp_gfa_ha_1km": 160.04,
+        "healthcare_nodes_1km": 0,
+        "nearest_health_name": "",
+        "nearest_health_dist_m": null,
+        "health_names": [],
+        "health_ha_1km": 0.0,
+        "ihl_campuses_1km": 0,
+        "ihl_names": [],
+        "schools_800m": 0,
+        "edu_ha_1km": 0,
+        "top_bus_stop_code": "68091",
+        "top_bus_stop_pax": 9808,
+        "rw_cnt_800m": 3,
+        "rw_unann_cnt_800m": 3,
+        "rw_lta_cnt_800m": 0,
+        "rw_max_days_800m": 1082,
+        "rw_roads": [
+          "SELETAR ROAD",
+          "SELETAR AEROSPACE ROAD 2",
+          "SELETAR AEROSPACE ROAD 1"
+        ],
+        "rw_details": [
+          {
+            "road": "SELETAR ROAD",
+            "max_days": 1082,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 279
+          },
+          {
+            "road": "SELETAR AEROSPACE ROAD 2",
+            "max_days": 729,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 500
+          },
+          {
+            "road": "SELETAR AEROSPACE ROAD 1",
+            "max_days": 657,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 279
+          }
+        ],
+        "gebiz_tender_count": 0,
+        "gebiz_tenders": [],
+        "town_4r_median_sgd": 650000,
+        "prior_confidence": 0.3755,
+        "posterior_confidence": 0.8257,
+        "evidence": [
+          "MP2025 Reserve/Amendment (141.3ha)",
+          "LTA RoadWorks: SELETAR ROAD (1082d)",
+          "Employment Hub (160.0ha GFA, 8k AM tap-out)"
+        ],
+        "graph_centrality": 0.3609,
+        "corridor_neighbors_4_5km": 6,
+        "signals": {
+          "ura": 0.6,
+          "bus": 0.085,
+          "pop": 0.006,
+          "gap": 1.0,
+          "gebiz": 0.35,
+          "emp": 0.618,
+          "health": 0.0,
+          "edu": 0.0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.73525,
+          1.31925
+        ]
+      },
+      "properties": {
+        "id": "WCE-01",
+        "name": "Teban Gardens / Jurong River",
+        "corridor": "JRL West Coast Ext (Unfixed Intermediate)",
+        "lat": 1.31925,
+        "lng": 103.73525,
+        "corridor_mention": true,
+        "gebiz_hint": true,
+        "is_new_v2": false,
+        "planning_area": "JURONG EAST",
+        "subzone": "JURONG RIVER",
+        "region": "WEST REGION",
+        "subzone_pop": 10,
+        "subzone_pop_density_km2": 3.9,
+        "subzone_senior_pct": 0.0,
+        "subzone_youth_pct": 0.0,
+        "nearest_official_mrt": "JURONG LAKE DISTRICT",
+        "nearest_official_mrt_status": "Announced / Under Construction",
+        "d_mrt_m": 1000,
+        "d_lrt_m": 6699,
+        "hdb_units_650m": 3357,
+        "condo_cnt_650m": 3,
+        "landed_cnt_650m": 0,
+        "reserve_ha_750m": 2.88,
+        "white_ha_750m": 1.09,
+        "amend_cnt_750m": 0,
+        "bus_stops_500m": 7,
+        "bus_monthly_pax_500m": 160201,
+        "bus_peak_pax_500m": 33398,
+        "am_tap_in_600m": 46141,
+        "am_tap_out_600m": 11461,
+        "emp_gfa_ha_1km": 50.4,
+        "healthcare_nodes_1km": 0,
+        "nearest_health_name": "",
+        "nearest_health_dist_m": null,
+        "health_names": [],
+        "health_ha_1km": 0.0,
+        "ihl_campuses_1km": 0,
+        "ihl_names": [],
+        "schools_800m": 0,
+        "edu_ha_1km": 1.79,
+        "top_bus_stop_code": "29031",
+        "top_bus_stop_pax": 53245,
+        "rw_cnt_800m": 2,
+        "rw_unann_cnt_800m": 1,
+        "rw_lta_cnt_800m": 0,
+        "rw_max_days_800m": 1577,
+        "rw_roads": [
+          "TEBAN GARDENS ROAD",
+          "PENJURU ROAD"
+        ],
+        "rw_details": [
+          {
+            "road": "TEBAN GARDENS ROAD",
+            "max_days": 1577,
+            "is_lta_dept": false,
+            "near_ann": true,
+            "dist_m": 787
+          },
+          {
+            "road": "PENJURU ROAD",
+            "max_days": 1285,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 578
+          }
+        ],
+        "gebiz_tender_count": 4,
+        "gebiz_tenders": [
+          {
+            "tender_no": "LTA000ETT23000136",
+            "award_date": "27/9/2024",
+            "desc": "Advance Engineering Study for Proposed Road Network at Jurong Lake District",
+            "amt_sgd": "14988888"
+          },
+          {
+            "tender_no": "LTA000ETT23000088",
+            "award_date": "30/7/2024",
+            "desc": "Design and Construction of Jurong Lake District Station and Tunnels for Cross Island Line",
+            "amt_sgd": "592000000"
+          },
+          {
+            "tender_no": "LTA000ETT23000080",
+            "award_date": "19/6/2024",
+            "desc": "Design and Construction of Tunnels Between Jurong Lake District Station & West Coast Station and Associated Works for Cross Island Line",
+            "amt_sgd": "242358590"
+          },
+          {
+            "tender_no": "LTA000ETT22000125",
+            "award_date": "6/12/2023",
+            "desc": "Design and Construction of West Coast Station and Tunnels for Cross Island Line",
+            "amt_sgd": "509568000"
+          }
+        ],
+        "town_4r_median_sgd": 548888,
+        "prior_confidence": 0.2572,
+        "posterior_confidence": 0.9181,
+        "evidence": [
+          "MOT/LTA study corridor (+)",
+          "LTA RoadWorks: PENJURU ROAD (1285d)",
+          "GeBIZ LTA000ETT23000136 (Advance Engineering Study for Proposed Road...)",
+          "Employment Hub (50.4ha GFA, 11k AM tap-out)"
+        ],
+        "graph_centrality": 0.3551,
+        "corridor_neighbors_4_5km": 4,
+        "signals": {
+          "ura": 0.047,
+          "bus": 0.26,
+          "pop": 0.5,
+          "gap": 0.188,
+          "gebiz": 1.0,
+          "emp": 0.625,
+          "health": 0.0,
+          "edu": 0.02
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.69475,
+          1.32375
+        ]
+      },
+      "properties": {
+        "id": "CR3-02",
+        "name": "Jurong Innovation / Joo Koon South",
+        "corridor": "CRL Phase 3 (Unfixed Stations)",
+        "lat": 1.32375,
+        "lng": 103.69475,
+        "corridor_mention": true,
+        "gebiz_hint": true,
+        "is_new_v2": false,
+        "planning_area": "PIONEER",
+        "subzone": "JOO KOON",
+        "region": "WEST REGION",
+        "subzone_pop": 20,
+        "subzone_pop_density_km2": 8.5,
+        "subzone_senior_pct": 0.0,
+        "subzone_youth_pct": 0.0,
+        "nearest_official_mrt": "PIONEER",
+        "nearest_official_mrt_status": "Operational",
+        "d_mrt_m": 1562,
+        "d_lrt_m": 8420,
+        "hdb_units_650m": 0,
+        "condo_cnt_650m": 0,
+        "landed_cnt_650m": 0,
+        "reserve_ha_750m": 0.0,
+        "white_ha_750m": 0.0,
+        "amend_cnt_750m": 0,
+        "bus_stops_500m": 16,
+        "bus_monthly_pax_500m": 92765,
+        "bus_peak_pax_500m": 38488,
+        "am_tap_in_600m": 4145,
+        "am_tap_out_600m": 20561,
+        "emp_gfa_ha_1km": 142.72,
+        "healthcare_nodes_1km": 0,
+        "nearest_health_name": "",
+        "nearest_health_dist_m": null,
+        "health_names": [],
+        "health_ha_1km": 0.0,
+        "ihl_campuses_1km": 0,
+        "ihl_names": [],
+        "schools_800m": 0,
+        "edu_ha_1km": 0,
+        "top_bus_stop_code": "23189",
+        "top_bus_stop_pax": 17581,
+        "rw_cnt_800m": 3,
+        "rw_unann_cnt_800m": 3,
+        "rw_lta_cnt_800m": 1,
+        "rw_max_days_800m": 747,
+        "rw_roads": [
+          "JALAN AHMAD IBRAHIM",
+          "SUNVIEW WAY",
+          "LOK YANG WAY"
+        ],
+        "rw_details": [
+          {
+            "road": "JALAN AHMAD IBRAHIM",
+            "max_days": 365,
+            "is_lta_dept": true,
+            "near_ann": false,
+            "dist_m": 320
+          },
+          {
+            "road": "SUNVIEW WAY",
+            "max_days": 747,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 741
+          },
+          {
+            "road": "LOK YANG WAY",
+            "max_days": 598,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 503
+          }
+        ],
+        "gebiz_tender_count": 4,
+        "gebiz_tenders": [
+          {
+            "tender_no": "LTA000ETT22000005",
+            "award_date": "22/9/2022",
+            "desc": "Mechanical & Electrical Engineering Services for the Cross Island Line Phase 3 (CRL3) Mainline",
+            "amt_sgd": "8880000"
+          },
+          {
+            "tender_no": "LTA000ETT22000007",
+            "award_date": "22/9/2022",
+            "desc": "Mechanical and Electrical Engineering Services for the Cross Island Line Phase 3 (CRL3) Depot",
+            "amt_sgd": "8383000"
+          },
+          {
+            "tender_no": "LTA000ETT21000100",
+            "award_date": "12/7/2022",
+            "desc": "Advance Engineering Study for the Cross Island Line Phase 3 (CRL3) - Depot",
+            "amt_sgd": "9197375.75"
+          },
+          {
+            "tender_no": "LTA000ETT21000102",
+            "award_date": "12/7/2022",
+            "desc": "Advance Engineering Study for the Cross Island Line Phase 3 (CRL3)-Mainline",
+            "amt_sgd": "13088800"
+          }
+        ],
+        "town_4r_median_sgd": 650000,
+        "prior_confidence": 0.2346,
+        "posterior_confidence": 0.9269,
+        "evidence": [
+          "MOT/LTA study corridor (+)",
+          "LTA Civil Work: JALAN AHMAD IBRAHIM (365d)",
+          "GeBIZ LTA000ETT22000005 (Mechanical & Electrical Engineering Services...)",
+          "Employment Hub (142.7ha GFA, 21k AM tap-out)"
+        ],
+        "graph_centrality": 0.268,
+        "corridor_neighbors_4_5km": 3,
+        "signals": {
+          "ura": 0.0,
+          "bus": 0.337,
+          "pop": 0.0,
+          "gap": 0.539,
+          "gebiz": 1.0,
+          "emp": 0.646,
+          "health": 0.0,
+          "edu": 0.0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.67225,
+          1.3125
+        ]
+      },
+      "properties": {
+        "id": "CR3-03",
+        "name": "Pioneer Sector / Gul Circle East",
+        "corridor": "CRL Phase 3 (Unfixed Stations)",
+        "lat": 1.3125,
+        "lng": 103.67225,
+        "corridor_mention": true,
+        "gebiz_hint": true,
+        "is_new_v2": false,
+        "planning_area": "PIONEER",
+        "subzone": "GUL CIRCLE",
+        "region": "WEST REGION",
+        "subzone_pop": 20,
+        "subzone_pop_density_km2": 6.1,
+        "subzone_senior_pct": 0.0,
+        "subzone_youth_pct": 0.0,
+        "nearest_official_mrt": "GUL CIRCLE",
+        "nearest_official_mrt_status": "Operational",
+        "d_mrt_m": 1544,
+        "d_lrt_m": 11066,
+        "hdb_units_650m": 0,
+        "condo_cnt_650m": 0,
+        "landed_cnt_650m": 0,
+        "reserve_ha_750m": 0.0,
+        "white_ha_750m": 0.0,
+        "amend_cnt_750m": 0,
+        "bus_stops_500m": 8,
+        "bus_monthly_pax_500m": 60129,
+        "bus_peak_pax_500m": 29164,
+        "am_tap_in_600m": 1496,
+        "am_tap_out_600m": 16047,
+        "emp_gfa_ha_1km": 92.65,
+        "healthcare_nodes_1km": 0,
+        "nearest_health_name": "",
+        "nearest_health_dist_m": null,
+        "health_names": [],
+        "health_ha_1km": 0.0,
+        "ihl_campuses_1km": 0,
+        "ihl_names": [],
+        "schools_800m": 0,
+        "edu_ha_1km": 0,
+        "top_bus_stop_code": "23239",
+        "top_bus_stop_pax": 11004,
+        "rw_cnt_800m": 3,
+        "rw_unann_cnt_800m": 3,
+        "rw_lta_cnt_800m": 1,
+        "rw_max_days_800m": 1356,
+        "rw_roads": [
+          "PIONEER ROAD",
+          "BENOI ROAD",
+          "GUL DRIVE"
+        ],
+        "rw_details": [
+          {
+            "road": "PIONEER ROAD",
+            "max_days": 606,
+            "is_lta_dept": true,
+            "near_ann": false,
+            "dist_m": 571
+          },
+          {
+            "road": "BENOI ROAD",
+            "max_days": 1356,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 797
+          },
+          {
+            "road": "GUL DRIVE",
+            "max_days": 759,
+            "is_lta_dept": false,
+            "near_ann": false,
+            "dist_m": 584
+          }
+        ],
+        "gebiz_tender_count": 6,
+        "gebiz_tenders": [
+          {
+            "tender_no": "LTA000ETT24000096",
+            "award_date": "7/7/2025",
+            "desc": "Infrastructure Enhancement Works in Tuas and Pioneer Area",
+            "amt_sgd": "175011748"
+          },
+          {
+            "tender_no": "LTA000ETT23000001",
+            "award_date": "8/8/2023",
+            "desc": "Engineering Investigation Study at Tuas",
+            "amt_sgd": "4075000"
+          },
+          {
+            "tender_no": "LTA000ETT22000005",
+            "award_date": "22/9/2022",
+            "desc": "Mechanical & Electrical Engineering Services for the Cross Island Line Phase 3 (CRL3) Mainline",
+            "amt_sgd": "8880000"
+          },
+          {
+            "tender_no": "LTA000ETT22000007",
+            "award_date": "22/9/2022",
+            "desc": "Mechanical and Electrical Engineering Services for the Cross Island Line Phase 3 (CRL3) Depot",
+            "amt_sgd": "8383000"
+          },
+          {
+            "tender_no": "LTA000ETT21000100",
+            "award_date": "12/7/2022",
+            "desc": "Advance Engineering Study for the Cross Island Line Phase 3 (CRL3) - Depot",
+            "amt_sgd": "9197375.75"
+          },
+          {
+            "tender_no": "LTA000ETT21000102",
+            "award_date": "12/7/2022",
+            "desc": "Advance Engineering Study for the Cross Island Line Phase 3 (CRL3)-Mainline",
+            "amt_sgd": "13088800"
+          }
+        ],
+        "town_4r_median_sgd": 650000,
+        "prior_confidence": 0.2093,
+        "posterior_confidence": 0.9077,
+        "evidence": [
+          "MOT/LTA study corridor (+)",
+          "LTA Civil Work: PIONEER ROAD (606d)",
+          "GeBIZ LTA000ETT24000096 (Infrastructure Enhancement Works in Tuas and...)",
+          "Employment Hub (92.7ha GFA, 16k AM tap-out)"
+        ],
+        "graph_centrality": 0.1633,
+        "corridor_neighbors_4_5km": 2,
+        "signals": {
+          "ura": 0.0,
+          "bus": 0.181,
+          "pop": 0.0,
+          "gap": 0.527,
+          "gebiz": 1.0,
+          "emp": 0.636,
+          "health": 0.0,
+          "edu": 0.0
+        }
+      }
+    }
+  ]
+}
