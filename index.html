@@ -143,9 +143,12 @@ function fmtPax(n) {
 
 const map = L.map('map', { zoomControl: true, preferCanvas: true }).setView([1.356, 103.819], 12);
 
+const osmTiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  attribution: '&copy; OpenStreetMap contributors', maxZoom: 19
+}).addTo(map);
 const darkTiles = L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
   attribution: '&copy; OpenStreetMap &copy; CARTO', maxZoom: 19
-}).addTo(map);
+});
 const lightTiles = L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
   attribution: '&copy; OpenStreetMap &copy; CARTO', maxZoom: 19
 });
@@ -174,9 +177,9 @@ const lyrFocus = L.layerGroup().addTo(map);
 DATA.lines.forEach(seg => {
   const isLrt = seg.t === 'LRT';
   L.polyline(seg.c, {
-    color: isLrt ? '#475569' : '#3b82f6',
-    weight: isLrt ? 1.2 : 2.2,
-    opacity: isLrt ? 0.35 : 0.45,
+    color: isLrt ? '#475569' : '#2563eb',
+    weight: isLrt ? 1.4 : 2.5,
+    opacity: isLrt ? 0.50 : 0.65,
     interactive: false
   }).addTo(lyrLines);
 });
@@ -336,8 +339,8 @@ function renderTriangulated(weights) {
     ) / wSum;
     t.dynamic_score = Math.round(dynScore * 1000) / 10;
 
-    L.circle([t.lat, t.lng], { radius: 400, color: '#22d3ee', weight: 1.4, dashArray: '4,4', fillColor: '#22d3ee', fillOpacity: 0.08, interactive: false }).addTo(lyrRings);
-    L.circle([t.lat, t.lng], { radius: 800, color: '#0ea5e9', weight: 0.9, dashArray: '2,5', fillOpacity: 0.0, interactive: false }).addTo(lyrRings);
+    L.circle([t.lat, t.lng], { radius: 400, color: '#0284c7', weight: 1.6, dashArray: '4,4', fillColor: '#0284c7', fillOpacity: 0.10, interactive: false }).addTo(lyrRings);
+    L.circle([t.lat, t.lng], { radius: 800, color: '#0369a1', weight: 1.2, dashArray: '2,5', fillOpacity: 0.0, interactive: false }).addTo(lyrRings);
 
     const isMulti = t.corridor.includes('Multi-Anchor');
     const isInd = t.corridor.includes('Independent');
@@ -422,7 +425,7 @@ DATA.fut.forEach(f => {
 
 // Layer Controls
 L.control.layers(
-  { 'Dark Matter': darkTiles, 'Light Map': lightTiles, 'Satellite Imagery': satTiles },
+  { 'OpenStreetMap': osmTiles, 'Dark Matter': darkTiles, 'Light Map': lightTiles, 'Satellite Imagery': satTiles },
   {
     'Triangulated Future Stations (34)': lyrTri,
     '400m & 800m Catchment Rings': lyrRings,
