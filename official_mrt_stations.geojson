@@ -4154,9 +4154,9 @@
         "name": "JURONG PIER",
         "type": "MRT",
         "status": "Announced / Under Construction",
-        "line": "JRL",
-        "target": "2027-2029",
-        "code": "JS12",
+        "line": "JRL / CRL3 Interchange",
+        "target": "2027-2029 (JRL) / Late 2030s (CRL3)",
+        "code": "JS12/CR21",
         "lat": 1.313253,
         "lng": 103.710417
       }
@@ -4679,6 +4679,66 @@
         "code": "JS2A",
         "lat": 1.3728,
         "lng": 103.735
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7262,
+          1.3208
+        ]
+      },
+      "properties": {
+        "name": "CR20 (TAMAN JURONG / JALAN TERUSAN)",
+        "type": "MRT",
+        "status": "Announced / Under Construction",
+        "line": "CRL3",
+        "target": "Late 2030s",
+        "code": "CR20",
+        "lat": 1.3208,
+        "lng": 103.7262
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.67049,
+          1.31499
+        ]
+      },
+      "properties": {
+        "name": "CR22 (GUL WAY / BENOI INDUSTRIAL)",
+        "type": "MRT",
+        "status": "Announced / Under Construction",
+        "line": "CRL3",
+        "target": "Late 2030s",
+        "code": "CR22",
+        "lat": 1.31499,
+        "lng": 103.67049
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.65994,
+          1.318935
+        ]
+      },
+      "properties": {
+        "name": "GUL CIRCLE (CRL3 INTERCHANGE)",
+        "type": "MRT",
+        "status": "Announced / Under Construction",
+        "line": "CRL3 / EWL Interchange",
+        "target": "Late 2030s",
+        "code": "CR23/EW30",
+        "lat": 1.318935,
+        "lng": 103.65994
       }
     }
   ]
